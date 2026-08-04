@@ -1,0 +1,10 @@
+{
+  "id": "security_research_3_548a8b50",
+  "category": "security_research",
+  "level": 3,
+  "language": "general",
+  "insight": "Memory forensics, or memory analysis, is the process of examining a computer's volatile memory (RAM) to extract information about processes running on the system, network connections, and other runtime data that may not be available in non-volatile storage like hard drives. Volatility is an open-sou",
+  "tags": [
+    "performance"
+  ]
+}

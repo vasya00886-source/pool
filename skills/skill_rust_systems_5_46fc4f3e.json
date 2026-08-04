@@ -1,0 +1,10 @@
+{
+  "id": "rust_systems_5_46fc4f3e",
+  "category": "rust_systems",
+  "level": 5,
+  "language": "rust",
+  "insight": "Концепция оптимизации производительности в Rust, связанная с SIMD (Single Instruction, Multiple Data) и zero-copy, представляет собой подходы к ускорению выполнения программ за счет более эффективного использования аппаратных ресурсов.\n\n### SIMD (Single Instruction, Multiple Data)\nSIMD позволяет одн",
+  "tags": [
+    "rust"
+  ]
+}

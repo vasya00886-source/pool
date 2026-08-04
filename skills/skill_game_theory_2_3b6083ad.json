@@ -1,0 +1,8 @@
+{
+  "id": "game_theory_2_3b6083ad",
+  "category": "game_theory",
+  "level": 2,
+  "language": "general",
+  "insight": "### Объяснение концепции Monte Carlo Tree Search (MCTS)\n\nMonte Carlo Tree Search (MCTS) — это метод поиска, использующийся в искусственном интеллекте для решения задачи выбора действия в условиях неопределенности и стохастичности. MCTS состоит из четырех основных этапов:\n\n1. **Selection**: Выбор узл",
+  "tags": []
+}

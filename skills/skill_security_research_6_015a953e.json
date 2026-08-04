@@ -1,0 +1,8 @@
+{
+  "id": "security_research_6_015a953e",
+  "category": "security_research",
+  "level": 6,
+  "language": "general",
+  "insight": "Концепция 'Exploit development (ROP, heap)' относится к области безопасности и реверс-инжиниринга, где цель — создание эксплуатов для взлома программного обеспечения или систем. ROP (Return-Oriented Programming) и heap являются двумя ключевыми аспектами этого процесса.\n\n### ROP (Return-Oriented Prog",
+  "tags": []
+}

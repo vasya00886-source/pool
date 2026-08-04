@@ -1,0 +1,8 @@
+{
+  "id": "python_ai_5_dfcd716c",
+  "category": "python_ai",
+  "level": 5,
+  "language": "python",
+  "insight": "Концепция **Hugging Face (transformers, datasets)** представляет собой мощный и открытый набор инструментов для работы с моделями машинного обучения, особенно в области обработки естественного языка (NLP). Hugging Face предоставляет библиотеку `transformers`, которая содержит предобученные модели и ",
+  "tags": []
+}

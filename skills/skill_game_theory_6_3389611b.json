@@ -1,0 +1,8 @@
+{
+  "id": "game_theory_6_3389611b",
+  "category": "game_theory",
+  "level": 6,
+  "language": "general",
+  "insight": "### Объяснение концепции Multi-agent reinforcement learning (MARL)\n\n**Multi-Agent Reinforcement Learning (MARL)** — это подраздел машинного обучения, который исследует стратегии и поведения нескольких агентов, взаимодействующих в среде. Основная цель MARL — обучение каждого агента принимать оптималь",
+  "tags": []
+}

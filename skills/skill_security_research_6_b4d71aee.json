@@ -1,0 +1,10 @@
+{
+  "id": "security_research_6_b4d71aee",
+  "category": "security_research",
+  "level": 6,
+  "language": "general",
+  "insight": "### Exploit Development (ROP, Heap)\n\nExploit development is a critical aspect of cybersecurity and reverse engineering. It involves creating malicious code that can exploit vulnerabilities in software to gain unauthorized access or control over the system. Two common techniques used in exploit devel",
+  "tags": [
+    "security"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "security_research_5_244ed0c6",
+  "category": "security_research",
+  "level": 5,
+  "language": "general",
+  "insight": "Концепция Fuzzing (AFL, libFuzzer) включает в себя автоматизированные методы тестирования программного обеспечения на наличие уязвимостей путем отправки случайных или специально сгенерированных входных данных в программу. AFL (American Fuzzy Lop) и libFuzzer — это два популярных инструмента для фазз",
+  "tags": []
+}
