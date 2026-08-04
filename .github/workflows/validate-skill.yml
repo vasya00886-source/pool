@@ -1,0 +1,72 @@
+name: Validate Skill
+
+on:
+  pull_request:
+    paths:
+      - 'skills/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON structure
+        run: |
+          for file in $(find skills/ -name "*.json" 2>/dev/null); do
+            python3 -c "
+          import json, sys
+          with open('$file') as f:
+              skill = json.load(f)
+          required = ['id', 'category', 'level', 'language', 'insight', 'tags']
+          for field in required:
+              assert field in skill, f'Missing field: {field}'
+          assert isinstance(skill['insight'], str), 'insight must be string'
+          assert len(skill['insight']) <= 500, 'insight too long (max 500)'
+          assert isinstance(skill['level'], int), 'level must be int'
+          assert 1 <= skill['level'] <= 10, 'level must be 1-10'
+          assert isinstance(skill['tags'], list), 'tags must be list'
+          assert len(skill['tags']) <= 5, 'max 5 tags'
+          allowed = set(required)
+          for key in skill:
+              assert key in allowed, f'Unexpected field: {key}'
+          print(f'OK: {skill[\"id\"]}')
+          "
+          done
+
+      - name: Check for hidden code
+        run: |
+          for file in $(find skills/ -name "*.json" 2>/dev/null); do
+            if grep -qiE "(rm |del |exec|eval|system|subprocess|os\.system|curl |wget )" "$file"; then
+              echo "ERROR: Potential code injection in $file"
+              exit 1
+            fi
+            if grep -qiE "[A-Za-z0-9+/]{100,}={0,2}" "$file"; then
+              echo "ERROR: Potential base64 payload in $file"
+              exit 1
+            fi
+            if grep -qiE "https?://" "$file"; then
+              echo "ERROR: URL in skill (not allowed)"
+              exit 1
+            fi
+          done
+
+      - name: Check file size
+        run: |
+          for file in $(find skills/ -name "*.json" 2>/dev/null); do
+            SIZE=$(wc -c < "$file")
+            if [ "$SIZE" -gt 2048 ]; then
+              echo "ERROR: $file too large: ${SIZE} bytes (max 2048)"
+              exit 1
+            fi
+          done
+
+      - name: Reject non-JSON files
+        run: |
+          CHANGED=$(git diff --name-only origin/main...HEAD)
+          NON_JSON=$(echo "$CHANGED" | grep -v "\.json$" | grep -v "\.md$" | grep -v "\.git" | grep -v "\.github")
+          if [ -n "$NON_JSON" ]; then
+            echo "ERROR: Non-JSON files detected (only .json and .md allowed):"
+            echo "$NON_JSON"
+            exit 1
+          fi
