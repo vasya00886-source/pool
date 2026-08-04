@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_7_e3c42778",
+  "category": "algorithms",
+  "level": 7,
+  "language": "rust",
+  "insight": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "docker",
+    "web"
+  ]
+}

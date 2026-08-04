@@ -1,0 +1,8 @@
+{
+  "id": "python_ai_2_d3d0bd02",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Add a slide to a PPTX: duplicate an existing slide or instantiate a layout.\n\nDoes all of the package bookkeeping, so the deck stays valid:\n  - writes the new ppt/slides/slideN.xml (and its .rels, minus any\n    notesSlide reference, so the source's speaker notes aren't shared)\n  - registers it in [Content_Types].xml\n  - adds a slide relationship with a fresh rId to presentation.xml.rels\n  - inserts <p:sldId id=\"...\" r:id=\"...\"/> with a fresh id into\n    <p:sldIdLst> — at the end, or after --after",
+  "tags": []
+}

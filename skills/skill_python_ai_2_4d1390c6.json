@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_2_4d1390c6",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Generate an HTML report from run_loop.py output.\n\nTakes the JSON output from run_loop.py and generates a visual HTML report\nshowing each description attempt with check/x for each test case.\nDistinguishes between train and test queries.",
+  "tags": [
+    "automation",
+    "testing",
+    "web",
+    "data"
+  ]
+}

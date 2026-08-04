@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_2_92d0974b",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "Base validator with common validation logic for document files.",
+  "tags": [
+    "performance",
+    "data"
+  ]
+}

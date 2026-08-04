@@ -1,0 +1,8 @@
+{
+  "id": "python_ai_2_f9c9cb78",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Easing Functions - Timing functions for smooth animations.\n\nProvides various easing functions for natural motion and timing.\nAll functions take a value t (0.0 to 1.0) and return eased value (0.0 to 1.0).",
+  "tags": []
+}

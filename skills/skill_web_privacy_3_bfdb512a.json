@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_3_bfdb512a",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Validator for Word document XML files against XSD schemas.",
+  "tags": []
+}

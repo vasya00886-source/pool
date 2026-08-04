@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_b4682557",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "java",
+  "insight": "# Claude API — Java\n\n> **Note:** The Java SDK supports the Claude API and beta tool use with annotated classes. Agent SDK is not yet available for Java.\n\n## Package Reference\n\nTypes are organized by package. If a class you need isn't shown in an example below, locate it via this table first — don't block on fetching SDK source over the network.\n\n| `import` prefix | Contains |\n|---|---|\n| `com.anthropic.client` / `com.anthropic.client.okhttp` | `AnthropicClient`, `AnthropicOkHttpClient` |\n| `com.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "testing",
+    "docker"
+  ]
+}

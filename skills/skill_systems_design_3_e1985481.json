@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_3_e1985481",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "Excel Formula Recalculation Script\nRecalculates all formulas in an Excel file using LibreOffice",
+  "tags": [
+    "automation"
+  ]
+}

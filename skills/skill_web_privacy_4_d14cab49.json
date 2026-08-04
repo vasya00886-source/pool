@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_d14cab49",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Managed Agents — Go\n\n> **Bindings not shown here:** This README covers the most common managed-agents flows for Go. If you need a class, method, namespace, field, or behavior that isn't shown, WebFetch the Go SDK repo **or the relevant docs page** from `shared/live-sources.md` rather than guess. Do not extrapolate from cURL shapes or another language's SDK.\n\n> **Agents are persistent — create once, reference by ID.** Store the agent ID returned by `agents.New` and pass it to every subsequent `",
+  "tags": [
+    "api",
+    "testing",
+    "data"
+  ]
+}

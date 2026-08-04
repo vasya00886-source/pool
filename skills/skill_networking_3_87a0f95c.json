@@ -1,0 +1,10 @@
+{
+  "id": "networking_3_87a0f95c",
+  "category": "networking",
+  "level": 3,
+  "language": "general",
+  "insight": "Helper for running LibreOffice (soffice) in environments where AF_UNIX\nsockets may be blocked (e.g., sandboxed VMs).  Detects the restriction\nat runtime and applies an LD_PRELOAD shim if needed.\n\nUsage:\n    from office.soffice import run_soffice\n\n    result = run_soffice([\"--headless\", \"--convert-to\", \"pdf\", \"input.docx\"])\n\nCall soffice through run_soffice, not through subprocess with get_soffice_env():\nthe env dict carries the shim but names no user profile, and a non-root sandbox\ncannot bootst",
+  "tags": [
+    "api"
+  ]
+}

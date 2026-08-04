@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_3_ec7c8016",
+  "category": "python_ai",
+  "level": 3,
+  "language": "python",
+  "insight": "Improve a skill description based on eval results.\n\nTakes eval results (from run_eval.py) and generates an improved description\nby calling `claude -p` as a subprocess (same auth pattern as run_eval.py —\nuses the session's Claude Code auth, no separate ANTHROPIC_API_KEY needed).",
+  "tags": [
+    "api",
+    "automation",
+    "data"
+  ]
+}

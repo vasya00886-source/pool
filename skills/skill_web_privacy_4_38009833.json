@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_38009833",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Claude API — PHP\n\n> **Note:** The PHP SDK is the official Anthropic SDK for PHP. A beta tool runner is available via `$client->beta->messages->toolRunner()`. Structured output helpers are supported via `StructuredOutputModel` classes. Agent SDK is not available. Bedrock, Vertex AI, and Foundry clients are supported.\n\n## Installation\n\nbash\ncomposer require \"anthropic-ai/sdk\"\n\n\n## Client Initialization\n\nphp\nuse Anthropic\\Client;\n\n// Using API key from environment variable\n$client = new",
+  "tags": [
+    "api",
+    "performance"
+  ]
+}

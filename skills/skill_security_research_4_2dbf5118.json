@@ -1,0 +1,11 @@
+{
+  "id": "security_research_4_2dbf5118",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Claude API — Ruby\n\n> **Note:** The Ruby SDK supports the Claude API. A tool runner is available in beta via `client.beta.messages.tool_runner()`. Agent SDK is not yet available for Ruby.\n\n## Installation\n\nbash\ngem install anthropic\n\n\n## Client Initialization\n\nruby\nrequire \"anthropic\"\n\n# Default (uses ANTHROPIC_API_KEY env var)\nclient = Anthropic::Client.new\n\n# Explicit API key\nclient = Anthropic::Client.new(api_key: \"your-api-key\")\n\n\n---\n\n## Basic Message Request\n\nruby\nmessage =",
+  "tags": [
+    "api",
+    "performance"
+  ]
+}

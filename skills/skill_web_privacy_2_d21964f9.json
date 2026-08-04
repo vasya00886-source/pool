@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_2_d21964f9",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "# Claude API — Go\n\n> **Note:** The Go SDK supports the Claude API and beta tool use with `BetaToolRunner`. Agent SDK is not yet available for Go.\n\n## Installation\n\nbash\ngo get github.com/anthropics/anthropic-sdk-go\n\n\n## Client Initialization\n\ngo\nimport (\n    \"github.com/anthropics/anthropic-sdk-go\"\n    \"github.com/anthropics/anthropic-sdk-go/option\"\n)\n\n// Default (uses ANTHROPIC_API_KEY env var)\nclient := anthropic.NewClient()\n\n// Explicit API key\nclient := anthropic.NewClient(\n    opti",
+  "tags": [
+    "api",
+    "performance",
+    "data"
+  ]
+}

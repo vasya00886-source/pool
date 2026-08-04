@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_7_b4873ca7",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "python",
+  "insight": "# Claude API — TypeScript\n\n| Feature | Namespace | Key types / call |\n|---|---|---|\n| User profiles | beta | `client.beta.userProfiles.create(...)` / `.retrieve(id)` / `.list()`. Pass the returned profile id on `client.beta.messages.create`. Requires a beta header — check the SDK's beta-headers reference for the current flag. |\n\n## Installation\n\nbash\nnpm install @anthropic-ai/sdk\n\n\n> **Reading local files (ESM):** `__dirname` and `__filename` are **undefined** in ES modules — using either",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data"
+  ]
+}

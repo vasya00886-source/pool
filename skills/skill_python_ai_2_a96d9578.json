@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_2_a96d9578",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Extract form structure from a non-fillable PDF.\n\nThis script analyzes the PDF to find:\n- Text labels with their exact coordinates\n- Horizontal lines (row boundaries)\n- Checkboxes (small rectangles)\n\nOutput: A JSON file with the form structure that can be used to generate\naccurate field coordinates for filling.\n\nUsage: python extract_form_structure.py <input.pdf> <output.json>",
+  "tags": [
+    "automation"
+  ]
+}

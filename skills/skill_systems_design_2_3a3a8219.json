@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_2_3a3a8219",
+  "category": "systems_design",
+  "level": 2,
+  "language": "general",
+  "insight": "MCP Server Evaluation Harness\n\nThis script evaluates MCP servers by running test questions against them using Claude.",
+  "tags": [
+    "automation",
+    "testing",
+    "data"
+  ]
+}

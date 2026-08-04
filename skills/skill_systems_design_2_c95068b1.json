@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_2_c95068b1",
+  "category": "systems_design",
+  "level": 2,
+  "language": "general",
+  "insight": "Find chart XML that PowerPoint refuses but the schema accepts.\n\nDetection only: for either fault more than one repair is valid, and only the\nauthor knows which was meant.",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_2_bd83f265",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Skill Packager - Creates a distributable .skill file of a skill folder\n\nUsage:\n    python utils/package_skill.py <path/to/skill-folder> [output-directory]\n\nExample:\n    python utils/package_skill.py skills/public/my-skill\n    python utils/package_skill.py skills/public/my-skill ./dist",
+  "tags": [
+    "automation"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "python_ai_2_d4f96952",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Create thumbnail grids from PowerPoint presentation slides.\n\nCreates a grid layout of slide thumbnails for quick visual analysis.\nLabels each thumbnail with its XML filename (e.g., slide1.xml).\nHidden slides are shown with a placeholder pattern.\n\nUsage:\n    python thumbnail.py input.pptx [output_prefix] [--cols N]\n\nExamples:\n    python thumbnail.py presentation.pptx\n    # Creates: thumbnails.jpg\n\n    python thumbnail.py template.pptx grid --cols 4\n    # Creates: grid.jpg (or grid-1.jpg, grid-2.j",
+  "tags": []
+}

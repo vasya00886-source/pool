@@ -1,0 +1,8 @@
+{
+  "id": "python_ai_3_3f73a75a",
+  "category": "python_ai",
+  "level": 3,
+  "language": "python",
+  "insight": "Merge adjacent identically-formatted runs in a DOCX.\n\nWord fragments paragraph text across many <w:r> elements (revision ids,\nspell-check markers, editing history), which makes find-and-replace on\nword/document.xml unreliable — the string you're looking for is split\nacross runs. This coalesces adjacent runs whose formatting (<w:rPr>) is\nidentical, strips rsid attributes and proofErr markers, and consolidates the\ntext elements — <w:t>, and <w:delText> for text inside a tracked deletion.\n\nRenderin",
+  "tags": []
+}

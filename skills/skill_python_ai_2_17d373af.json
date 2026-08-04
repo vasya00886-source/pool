@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_2_17d373af",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Aggregate individual run results into benchmark summary statistics.\n\nReads grading.json files from run directories and produces:\n- run_summary with mean, stddev, min, max for each metric\n- delta between with_skill and without_skill configurations\n\nUsage:\n    python aggregate_benchmark.py <benchmark_dir>\n\nExample:\n    python aggregate_benchmark.py benchmarks/2026-01-15T10-30-00/\n\nThe script supports two directory layouts:\n\n    Workspace layout (from skill-creator iterations):\n    <benchmark_dir>/",
+  "tags": [
+    "automation"
+  ]
+}

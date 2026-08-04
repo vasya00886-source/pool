@@ -2,13 +2,13 @@
   "id": "web_privacy_7_685c9f3b",
   "category": "web_privacy",
   "level": 7,
-  "language": "rust",
-  "insight": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP), Node/TypeScript (MCP SDK), or C#/.NET (Microsoft MCP SDK).",
+  "language": "python",
+  "insight": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
   "tags": [
     "api",
     "performance",
     "automation",
-    "security",
+    "testing",
     "data"
   ]
 }

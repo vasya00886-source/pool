@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_2_6e1fdbac",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "Find masters sharing a theme part in the way PowerPoint refuses to open.\n\nReports only; the fix is to move <p:notesMasterIdLst> back to directly after\n<p:sldIdLst> in ppt/presentation.xml.",
+  "tags": []
+}

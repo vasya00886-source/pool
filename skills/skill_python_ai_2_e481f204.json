@@ -1,0 +1,8 @@
+{
+  "id": "python_ai_2_e481f204",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Command line tool to validate Office document XML files against XSD schemas and tracked changes.\n\nUsage:\n    python validate.py <path> [--original <original_file>] [--auto-repair] [--author NAME]\n\nThe first argument can be either:\n- An unpacked directory containing the Office document XML files\n- A packed Office file (.docx/.pptx/.xlsx or .dotx/.potx/.xltx template) which will be unpacked to a temp directory\n\nAuto-repair fixes:\n- paraId/durableId values that exceed OOXML limits\n- Missing xml:spa",
+  "tags": []
+}

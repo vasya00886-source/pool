@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_4_2f74cae6",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "Pick the slide-XML schema errors PowerPoint refuses the file over.\n\nA denylist over lxml's messages, so an unrecognised error class is a miss rather\nthan a false alarm.",
+  "tags": []
+}

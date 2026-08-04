@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_2_ca207036",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Remove unreferenced files from an unpacked PPTX directory.\n\nUsage: python clean.py <unpacked_dir>\n\nExample:\n    python clean.py unpacked/\n\nThis script removes:\n- Orphaned slides (not in sldIdLst) and their relationships\n- [trash] directory (unreferenced files)\n- Orphaned .rels files for deleted resources\n- Unreferenced media, embeddings, charts, diagrams, drawings, ink files\n- Unreferenced theme files\n- Unreferenced notes slides\n- Content-Type overrides for deleted files",
+  "tags": [
+    "automation"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_5d47671b",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "python",
+  "insight": "# Claude API — Python\n\n## Installation\n\nbash\npip install anthropic\n\n\n## Client Initialization\n\npython\nimport anthropic\n\n# Default — resolves credentials from the environment:\n# ANTHROPIC_API_KEY, or ANTHROPIC_AUTH_TOKEN, or an `ant auth login` profile.\n# Prefer this for local dev; don't hardcode a key.\nclient = anthropic.Anthropic()\n\n# Explicit API key (only when you must inject a specific key)\nclient = anthropic.Anthropic(api_key=\"your-api-key\")\n\n# Async client\nasync_client = anthropic",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "testing",
+    "data"
+  ]
+}

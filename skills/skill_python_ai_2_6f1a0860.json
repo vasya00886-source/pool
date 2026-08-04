@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_2_6f1a0860",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Start one or more servers, wait for them to be ready, run a command, then clean up.\n\nUsage:\n    # Single server\n    python scripts/with_server.py --server \"npm run dev\" --port 5173 -- python automation.py\n    python scripts/with_server.py --server \"npm start\" --port 3000 -- python test.py\n\n    # Multiple servers\n    python scripts/with_server.py \\\n      --server \"cd backend && python server.py\" --port 3000 \\\n      --server \"cd frontend && npm run dev\" --port 5173 \\\n      -- python test.py",
+  "tags": [
+    "automation",
+    "testing"
+  ]
+}

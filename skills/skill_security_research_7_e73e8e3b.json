@@ -1,0 +1,14 @@
+{
+  "id": "security_research_7_e73e8e3b",
+  "category": "security_research",
+  "level": 7,
+  "language": "rust",
+  "insight": "This skill helps you build LLM-powered applications with Claude. Choose the right surface based on your needs, detect the project language, then read the relevant language-specific documentation.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "testing",
+    "docker"
+  ]
+}

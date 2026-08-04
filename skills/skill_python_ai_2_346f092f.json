@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_2_346f092f",
+  "category": "python_ai",
+  "level": 2,
+  "language": "python",
+  "insight": "Add comments to a DOCX document.\n\nAccepts either an unpacked directory OR a .docx/.dotx file directly.\n\nUsage:\n    # Against an unpacked directory (writes satellite files in place)\n    python comment.py unpacked/ \"Comment text\"\n    python comment.py unpacked/ \"Reply text\" --parent 0\n\n    # Against a .docx directly (extracts, writes satellite files, rezips)\n    python comment.py contract.docx \"This cap is too low\" -o annotated.docx\n    python comment.py contract.docx \"Comment\" --id 5      # expli",
+  "tags": [
+    "api"
+  ]
+}

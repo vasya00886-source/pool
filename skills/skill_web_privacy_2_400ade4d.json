@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_2_400ade4d",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "python",
+  "insight": "Generate and serve a review page for eval results.\n\nReads the workspace directory, discovers runs (directories with outputs/),\nembeds all output data into a self-contained HTML page, and serves it via\na tiny HTTP server. Feedback auto-saves to feedback.json in the workspace.\n\nUsage:\n    python generate_review.py <workspace-path> [--port PORT] [--skill-name NAME]\n    python generate_review.py <workspace-path> --previous-feedback /path/to/old/feedback.json\n\nNo dependencies beyond the Python stdlib",
+  "tags": [
+    "web",
+    "data"
+  ]
+}
