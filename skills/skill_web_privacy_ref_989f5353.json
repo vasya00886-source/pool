@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_989f5353",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Inspektor Gadget (IG) Reference\n\nUse Inspektor Gadget for real-time, low-level node/pod diagnostics when `kubectl` is insufficient.\n\n## IG Version\n\n`<ig-version>` = `v0.51.0` — substitute this exact tag (with `v` prefix) wherever `<ig-version>` appears. Bump this line only.\n\n## Base Command Pattern\n\nbash\nkubectl debug --profile=sysadmin node/<node-name> --attach --quiet \\\n  --image=mcr.microsoft.com/oss/v2/inspektor-gadget/ig:<ig-version> \\\n  -- ig run <gadget>:<ig-version> -o json --timeou",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

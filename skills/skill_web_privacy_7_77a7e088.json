@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_77a7e088",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Detects timing side-channel vulnerabilities in cryptographic code. Use when implementing or reviewing crypto code, encountering division on secrets, secret-dependent branches, or constant-time programming questions in C, C++, Go, Rust, Swift, Java, Kotlin, C#, PHP, JavaScript, TypeScript, Python, or Ruby.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

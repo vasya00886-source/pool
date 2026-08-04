@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_7e303c68",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Generates four audience-tailored onboarding guides in an onboarding/ folder — Contributor, Staff Engineer, Executive, and Product Manager. Use when the user wants onboarding documentation for a codebase.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

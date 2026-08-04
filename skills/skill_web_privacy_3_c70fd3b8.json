@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_c70fd3b8",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "rust",
+  "insight": "Simple, cost-effective message queuing for asynchronous communication.\npip install azure-storage-queue azure-identity\nAZURE_STORAGE_ACCOUNT_URL=https://<account>.queue.core.windows.net  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a3a404fe",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Automation Playbooks\n\nPlatform-specific workflow recipes for HubSpot, Salesforce, scheduling tools, and cross-tool automation.\n\n## HubSpot Workflow Recipes\n\n### 1. MQL Alert and Assignment\n\n**Name:** MQL Notification and Task Creation\n**Trigger:** Contact property \"Lifecycle Stage\" is changed to \"Marketing Qualified Lead\"\n**Actions:**\n1. Rotate contact owner among sales team (round-robin)\n2. Send internal email notification to contact owner with lead context\n3. Create task: \"Follow up with [Co",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

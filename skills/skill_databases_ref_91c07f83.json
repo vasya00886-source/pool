@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_91c07f83",
+  "category": "databases",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Throughput Configuration\n\nPatterns for configuring and managing throughput (RU/s) for Cosmos DB resources.\n\n## Throughput Concepts\n\n| Type | Description | Min RU/s | Use Case |\n|------|-------------|----------|----------|\n| **Manual** | Fixed provisioned throughput | 400 | Predictable workloads |\n| **Autoscale** | Scales between 10% and max | 1000 (max) | Variable workloads |\n| **Serverless** | Pay per request | N/A | Dev/test, sporadic traffic |\n\n## Database-Level Throughput (Shared)\n\nThrough",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

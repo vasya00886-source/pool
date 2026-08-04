@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f470f9f6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Personalization at Scale\n\nPersonalization drives **50–250% more replies** (Lavender). The key insight: **if your personalization has nothing to do with the problem you solve, it's just an attention hack** (Clay).\n\n## Four Levels of Personalization\n\n### Level 1 — Basic (merge tags)\n\nFirst name, company name, job title. Table stakes, no longer differentiating. ~5% lift.\n\n### Level 2 — Industry/segment\n\nIndustry-specific pain points, trends, regulatory challenges. Scalable via micro-segmentation.",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "file"
+  ]
+}

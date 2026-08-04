@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7e424067",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Agent Metadata Contract\n\nUse this contract for Microsoft Foundry agent folders. In azd projects, `.foundry/agent-metadata*.yaml` is an overlay/cache, not the source of truth for azd-owned deployment context.\n\n## Local Layout\n\ntext\n<agent-root>/\n  .foundry/\n    agent-metadata.yaml\n    agent-metadata.<env>.yaml\n    suites/\n    datasets/\n    evaluators/\n    results/\n\n\n- `agent-metadata.yaml` is the preferred local/dev overlay.\n- Optional `agent-metadata.<env>.yaml` files can hold a single p",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_abf1b3da",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# GenAI Agent Traces — OpenTelemetry Semantic Conventions (distilled)\n\nReference for the `gen_ai.*` attributes the App Insights JavaScript SDK emits as Dependency telemetry so browser-side AI agent calls correlate with backend OpenTelemetry spans.\n\n> **Stability opt-in.** Set `OTEL_SEMCONV_STABILITY_OPT_IN=gen_ai_latest_experimental` in any backend that emits or reads these attributes. Without it, instrumentations may emit older/different attribute names.\n\n## Operation names (`gen_ai.operation.n",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

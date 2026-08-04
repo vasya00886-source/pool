@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_e83b4409",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Scaffold Healing Rules\n\nSelf-healing loop for scaffold validation failures. Contains error classification (FIXABLE vs BLOCKING) and scaffold-specific escalation and plan-change rules.\n\n## Error Classification\n\n| Error Type | Class | Auto-Fix Strategy |\n|------------|-------|-------------------|\n| Invalid property name | FIXABLE | Fix from schema |\n| Syntax error (HCL/Bicep) | FIXABLE | Regenerate from references |\n| Missing required property | FIXABLE | Call `mcp_bicep_build_bicep` for structu",
+  "tags": [
+    "api",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_7_9d022098",
+  "category": "algorithms",
+  "level": 7,
+  "language": "general",
+  "insight": "Provides guidance for property-based testing across multiple languages and smart contracts. Use when writing tests, reviewing code with serialization/validation/parsing patterns, designing features, or when property-based testing would provide stronger coverage than example-based tests.",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

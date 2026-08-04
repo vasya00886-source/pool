@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_6c02171e",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "rust",
+  "insight": "Client library for managing Azure ML resources: workspaces, jobs, models, data, and compute.\npip install azure-ai-ml\nAZURE_SUBSCRIPTION_ID=<your-subscription-id>  # Required for all auth methods\nAZURE_RESOURCE_GROUP=<your-resource-group>  # Required for all auth methods\nAZURE_ML_WORKSPACE_NAME=<your-workspace-name>  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_c3b1beb8",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "<overview>\n\nSecondary traits (EU, L, I) supplement the primary traits. L and I are unique: they use **absolute values** and CAN be compared directly between people.\n\n</overview>\n\n<trait name=\"EU\" label=\"Energy Units\">\n\nMeasures **mental stamina** - how long a person can work before needing a short 5-10 minute mental break to recharge. If they don't take that break, they operate in a mentally fatigued state (frustrated, lacking clarity, missing things).\n\n<important_note>\nEU is NOT:\n- Physical ene",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1886804b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Anomaly Detector Java SDK - Examples\n\nComprehensive code examples for the Azure AI Anomaly Detector SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Univariate Detection](#univariate-detection)\n- [Univariate Streaming Detection](#univariate-streaming-detection)\n- [Change Point Detection](#change-point-detection)\n- [Multivariate Model Training](#multivariate-model-training)\n- [Multivariate Batch Inference](#multivaria",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

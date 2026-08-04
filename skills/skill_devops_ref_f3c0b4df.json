@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_f3c0b4df",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Intent Gathering\n\n## Scope Triage (Step 2 — before prereq)\n\n> ⛔ **Scope triage — BEFORE prereq.** Check for azd template markers (`azure.yaml` + IaC in `infra/`).\n>\n> **Skip triage when:**\n> - User explicitly asks for cost estimates, service recommendations, or code analysis\n> - Empty workspace (prereq’s zero-code-path handles it)\n> - Code exists but no infra files (no `.bicep`, `.tf`, `azure.yaml`, or `infra/` dir) — full pipeline is the only sensible path\n> - Intentionally vulnerable app sig",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

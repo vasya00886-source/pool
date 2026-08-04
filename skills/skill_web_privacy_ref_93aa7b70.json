@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_93aa7b70",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# SQL API Resources\n\nPatterns for managing SQL (Core) API databases, containers, and programmability objects.\n\n## SQL Database Operations\n\n### Create Database\n\ncsharp\nusing Azure.ResourceManager.CosmosDB;\nusing Azure.ResourceManager.CosmosDB.Models;\n\nvar databaseData = new CosmosDBSqlDatabaseCreateOrUpdateContent(\n    new CosmosDBSqlDatabaseResourceInfo(\"my-database\"));\n\nvar databaseCollection = account.GetCosmosDBSqlDatabases();\nvar operation = await databaseCollection.CreateOrUpdateAsync(",
+  "tags": [
+    "api",
+    "data",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_a40de68e",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Projects findings from external tools (SARIF) and human auditors (weAudit)\nonto Trailmark code graphs as annotations and subgraphs. Trailmark 0.4.0+ can\nalso import an external binary-analysis graph JSON export via\nengine.augment_binary().\n- Importing Semgrep, CodeQL, or other SARIF-producing tool results into a graph\n- Importing weAudit audit annotations into a graph\n- Importing binary-analysis graph data into a source graph (Trailmark 0.4.0+)\n- Cross-referencing static analysis findings with .",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

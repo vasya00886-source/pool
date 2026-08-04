@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_4f31eb22",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Trail of Bits Profile\n\nApply this guidance **in addition to** the generic workflow when\n`scripts/detect_org.sh` prints `trailofbits`. Everything in this file is\npublic information; internal process details (credentials, announcement\nworkflow, release sign-off) live in Trail of Bits' internal documentation,\nwhich the maintainer should consult directly.\n\n## License policy\n\n- **Default to [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)**\n  for nearly all projects.\n- **Use [AGPLv3](https",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "file"
+  ]
+}

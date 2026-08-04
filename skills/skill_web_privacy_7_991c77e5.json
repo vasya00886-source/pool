@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_991c77e5",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "java",
+  "insight": "Build table storage applications with Azure Tables SDK for Java. Use when working with Azure Table Storage or Cosmos DB Table API for NoSQL key-value data, schemaless storage, or structured data at scale.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

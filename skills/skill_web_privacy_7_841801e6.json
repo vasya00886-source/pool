@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_841801e6",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Review UI implementations against design quality standards and your design system **OR** create distinctive, production-grade frontend interfaces from scratch.\n---\nBefore coding, commit to an aesthetic direction:\n- **Purpose**: What problem does this solve? Who uses it?\n- **Tone**: minimal, maximalist, retro-futuristic, organic, luxury, playful, editorial, brutalist, art deco, soft/pastel, industrial, etc.\n- **Constraints**: Framework, performance, accessibility requirements.\n- **Differentiation",
+  "tags": [
+    "api",
+    "performance",
+    "web",
+    "cli",
+    "file"
+  ]
+}

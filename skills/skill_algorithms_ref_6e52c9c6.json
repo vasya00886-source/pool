@@ -1,0 +1,12 @@
+{
+  "id": "algorithms_ref_6e52c9c6",
+  "category": "algorithms",
+  "level": 4,
+  "language": "general",
+  "insight": "# Fault Simulation via Limb-Width Reimplementation\n\nGenerate test vectors that catch carry propagation, modular\nreduction, and overflow bugs by reimplementing the target\nalgorithm at non-standard limb widths and deliberately injecting\narchitectural faults.\n\n## Why Mutation Testing Misses These\n\nMutation testing frameworks apply local operator swaps (`+` → `-`,\n`&` → `|`, `<` → `<=`). They cannot:\n\n- Change the number of limbs in a multi-precision integer\n- Alter carry propagation logic across li",
+  "tags": [
+    "api",
+    "data",
+    "testing"
+  ]
+}

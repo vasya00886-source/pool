@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_31aae725",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Graph Analysis for Mutant Triage\n\nHow to use trailmark's code graph data to contextualize survived mutants\nand assign them to the correct triage bucket.\n\n## Contents\n\n- Mapping mutants to graph nodes\n- Reachability analysis\n- Blast radius calculation\n- Complexity correlation\n- Annotation-driven triage\n- Batch triage workflow\n- Mapping necessist removals to graph nodes\n- Merging mutation and necessist results\n\n---\n\n## Mapping Mutants to Graph Nodes\n\nEach survived mutant has a `file_path` and `l",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

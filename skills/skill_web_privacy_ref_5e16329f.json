@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_5e16329f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Projects Java SDK - Examples\n\nComprehensive code examples for the Azure AI Projects SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Working with Connections](#working-with-connections)\n- [Working with Deployments](#working-with-deployments)\n- [Working with Datasets](#working-with-datasets)\n- [Async Clients](#async-clients)\n\n---\n\n## Maven Dependency\n\nxml\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactI",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

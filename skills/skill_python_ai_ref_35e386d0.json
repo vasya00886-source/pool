@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_35e386d0",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-containerregistry-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Tag Operations\n\n### Get Tag Properties\n\npython\ntag = client.get_tag_properties(\"my-image\", \"latest\")\nprint(f\"Digest: {tag.digest}\")\nprint(f\"Created: {tag.created_on}\")\n\n\n### Delete Tag\n\npython\nclient.delete_tag(\"my-image\", \"old-tag\")\n\n\n## Upload and Download Ar",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

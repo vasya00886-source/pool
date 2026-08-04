@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_45201f56",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Inline Skill Layout\n\nUse this layout when one coherent policy, checklist, or procedure fits directly in `SKILL.md`.\n\n## Choose this layout when\n\n- the skill has one dominant path\n- every invocation needs roughly the same instructions\n- deep optional knowledge is not the main problem\n\n## File layout\n\ntext\nmy-skill/\n└── SKILL.md\n\n\n## Required contract\n\n1. Keep the body small enough to scan in one read.\n2. Put all universal steps in `SKILL.md`.\n3. Add references only if a real branch or loo",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_69122601",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Connect to Azure Database for PostgreSQL Flexible Server using the pg (node-postgres) package with support for password and Microsoft Entra ID (passwordless) authentication.\nnpm install pg @azure/identity\nnpm install -D @types/pg\n# Required\nAZURE_POSTGRESQL_HOST=<server>.postgres.database.azure.com\nAZURE_POSTGRESQL_DATABASE=<database>\nAZURE_POSTGRESQL_PORT=5432",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

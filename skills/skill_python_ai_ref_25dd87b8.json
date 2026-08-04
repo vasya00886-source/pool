@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_25dd87b8",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Django ORM - Context for Investigation\n\nHow data access works in Django. Use this to understand query patterns you encounter.\n\n## Where Scoping Can Happen\n\n### Custom Managers\n\nProjects may have managers that auto-filter:\n\npython\nclass TenantManager(models.Manager):\n    def get_queryset(self):\n        return super().get_queryset().filter(tenant=get_current_tenant())\n\nclass Document(models.Model):\n    objects = TenantManager()  # All queries auto-scoped\n    unscoped = models.Manager()  # Esc",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

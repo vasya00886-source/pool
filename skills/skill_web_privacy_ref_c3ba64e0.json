@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c3ba64e0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Remote MCP server, agent identity / project MI (`type: mcp`)\n\nAttach a remote MCP server that accepts an **Entra ID token minted for a Foundry-managed identity** — no user in the loop, no stored secret. Foundry acquires the token and presents it to the server; you authorize the identity on the target server before the agent invokes it. Needs a **connection** (`--kind remote-tool --auth-type agentic-identity` or `project-managed-identity`) scoped to the upstream resource via `--audience`",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

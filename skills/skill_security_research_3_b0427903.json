@@ -1,0 +1,14 @@
+{
+  "id": "security_research_3_b0427903",
+  "category": "security_research",
+  "level": 3,
+  "language": "general",
+  "insight": "Security-focused code review for PRs, commits, and diffs.\n1. **Risk-First**: Focus on auth, crypto, value transfer, external calls\n2. **Evidence-Based**: Every finding backed by git history, line numbers, attack scenarios\n3. **Adaptive**: Scale to codebase size (SMALL/MEDIUM/LARGE)\n4. **Honest**: Explicitly state coverage limits and confidence level\n5. **Output-Driven**: Always generate comprehensive markdown report file\n---",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

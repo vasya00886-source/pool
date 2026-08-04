@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_2cd2a70d",
+  "category": "systems_design",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Design Principles\n\nTen principles for building reliable, scalable, and manageable applications on Azure.\n\n| # | Principle | Focus |\n|---|-----------|-------|\n| 1 | [Design for self-healing](#1-design-for-self-healing) | Resilience & automatic recovery |\n| 2 | [Make all things redundant](#2-make-all-things-redundant) | Eliminate single points of failure |\n| 3 | [Minimize coordination](#3-minimize-coordination) | Scalability through decoupling |\n| 4 | [Design to scale out](#4-design-to-sca",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

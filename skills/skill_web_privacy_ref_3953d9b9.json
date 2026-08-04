@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3953d9b9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Artifact Generation\n\nGenerate infrastructure and configuration files based on selected recipe.\n\n## ⛔ CRITICAL: Check for .NET Aspire Projects FIRST\n\n**MANDATORY: Before generating any files, detect .NET Aspire projects:**\n\nbash\n# Method 1: Find AppHost project files\nfind . -name \"*.AppHost.csproj\" -o -name \"*AppHost.csproj\"\n\n# Method 2: Search for Aspire packages\ngrep -r \"Aspire\\.Hosting\\|Aspire\\.AppHost\\.Sdk\" . --include=\"*.csproj\"\n\n\n**If Aspire is detected:**\n1. ⛔ **STOP** - Do NOT man",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3481032b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Aspire + Azure Functions: Secret Storage Validation\n\n> ⚠️ **Pre-provisioning check** — Run this BEFORE `azd provision`.\n\n## When This Applies\n\nThis check is required when **all** of these are true:\n\n| Condition | How to detect |\n|-----------|--------------|\n| .NET Aspire project | `*.AppHost.csproj` exists or `Aspire.Hosting` package reference |\n| Azure Functions component | `AddAzureFunctionsProject` call in `AppHost.cs` or `Program.cs` |\n| Identity-based storage | `WithHostStorage` call (Asp",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

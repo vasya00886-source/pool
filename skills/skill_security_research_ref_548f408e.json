@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_548f408e",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# ProVerif Syntax Reference\n\nProVerif models cryptographic protocols in the applied pi-calculus. This\nreference covers the constructs needed to translate a Mermaid sequence diagram\ninto a verifiable `.pv` file.\n\n---\n\n## File Structure\n\nA `.pv` file must follow this order:\n\n\n1. Channel declarations (free c: channel. / free ch: channel [private].)\n2. noselect directives (if needed for termination)\n3. Type declarations\n4. Constants\n5. Function declarations\n6. Equations / Reduction rules\n7. Table",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

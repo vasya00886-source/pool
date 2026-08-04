@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_73454c81",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Case Study: Workflow/Process Skill Synthesis\n\n## Scenario\n\nGoal: create a skill for repeatable operational workflows (for example PR prep, CI triage, branching, settings audit).\n\n## Input collection approach\n\nThis case collected process truth from all authoritative locations:\n\n1. Official tool docs and syntax references.\n2. Repository workflow conventions and policy docs.\n3. Existing local skills with adjacent process logic.\n4. CI logs, failure patterns, and known operational pitfalls.\n5. Posi",
+  "tags": [
+    "automation",
+    "security",
+    "file"
+  ]
+}

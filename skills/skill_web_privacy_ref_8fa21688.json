@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_8fa21688",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# JSON Development Workflow\n\nThis document provides step-by-step instructions for developing M365 Copilot agents using JSON manifest files.\n\n## Prerequisites\n\n- Project must be scaffolded first (use scaffolding workflow if needed)\n- Project contains `m365agents.yml` at the root\n- Project uses JSON manifest files (`.json`)\n\n---\n\n## ✅ APP NAME & DESCRIPTION REQUIREMENT ✅\n\nWhen developing an agent, you MUST ALWAYS update the app name and description in `manifest.json` to something **meaningful and",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

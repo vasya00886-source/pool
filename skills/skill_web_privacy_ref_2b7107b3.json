@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2b7107b3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# @azure/storage-blob - SAS Token Patterns\n\nReference documentation for generating Shared Access Signatures (SAS) in the Azure Blob Storage TypeScript SDK.\n\n**Source**: [Azure SDK for JS - storage-blob](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/storage/storage-blob)\n\n---\n\n## Installation\n\nbash\nnpm install @azure/storage-blob @azure/identity\n\n\n---\n\n## SAS Types Overview\n\n| SAS Type | Scope | Use Case |\n|----------|-------|----------|\n| **Service SAS** | Single blob or containe",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

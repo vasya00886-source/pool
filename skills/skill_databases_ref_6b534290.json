@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_6b534290",
+  "category": "databases",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Troubleshooting\n\n## Quick diagnosis flow\n\n\nDeploy failed?\n  ├─ Check `az webapp log tail` first\n  ├─ Then `az webapp log deployment list` for build-time errors\n  ├─ Then `az webapp config show` to verify runtime + startup\n  └─ For `Connection reset` / `429` / `502-504` on create commands,\n      see [transient-retry.md](transient-retry.md)\n\n\n## Symptom → Cause → Fix\n\n| Symptom | Likely cause | Fix |\n|---|---|---|\n| `Container ... didn't respond to HTTP pings on port: 8000` | Wrong/missing",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

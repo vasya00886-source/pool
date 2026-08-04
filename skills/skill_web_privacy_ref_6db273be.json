@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6db273be",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# MCP Server Plugin Integration\n\nThis guide explains how to integrate Model Context Protocol (MCP) servers as actions in your Microsoft 365 Copilot agent using JSON manifests. It covers both unauthenticated and OAuth-authenticated MCP servers.\n\n> **⛔ SINGLE FILE ONLY:** MCP plugins require exactly **ONE file** — the plugin manifest (`{name}-plugin.json`). Tool descriptions are inlined directly in the manifest's `mcp_tool_description.tools` array. **Do NOT create a separate `{name}-mcp-tools.json",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

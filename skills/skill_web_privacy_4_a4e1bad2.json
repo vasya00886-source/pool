@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_a4e1bad2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Azure Cosmos DB resources via Azure Resource Manager.\n> **⚠️ Management vs Data Plane**\n> - **This SDK (Azure.ResourceManager.CosmosDB)**: Create accounts, databases, containers, configure throughput, manage RBAC\n> - **Data Plane SDK (Microsoft.Azure.Cosmos)**: CRUD operations on documents, queries, stored procedures execution\ndotnet add package Azure.ResourceManager.CosmosDB\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

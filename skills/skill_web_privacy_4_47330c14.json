@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_47330c14",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Enterprise messaging for reliable cloud communication with queues and pub/sub topics.\npip install azure-servicebus azure-identity\nSERVICEBUS_FULLY_QUALIFIED_NAMESPACE=<namespace>.servicebus.windows.net  # Required for all auth methods\nSERVICEBUS_QUEUE_NAME=myqueue  # Required for queue operations\nSERVICEBUS_TOPIC_NAME=mytopic  # Required for topic operations\nSERVICEBUS_SUBSCRIPTION_NAME=mysubscription  # Required for subscription operations\nAZURE_TOKEN_CREDENTIALS=prod # Requir...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

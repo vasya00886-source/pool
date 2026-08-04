@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_9fed3e2c",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Media Outlets — Where to Pitch\n\nA curated, opinionated list of *where* to pitch for software/SaaS PR. This is the media-outlet slice of resources like submit.co — the journalist-driven half. For startup/SaaS/AI directories (Product Hunt, BetaList, Futurepedia, etc.), use the separate `directory-submissions` skill — different intent, different audience.\n\n## How to use this list\n\n- **Don't pitch a publication. Pitch a journalist at that publication.** See [journalist-pitching.md](journalist-pitc",
+  "tags": [
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

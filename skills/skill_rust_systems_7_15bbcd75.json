@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_15bbcd75",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Runs external LLM code reviews (OpenAI Codex or Google Gemini CLI) on uncommitted changes, branch diffs, or specific commits. Use when the user asks for a second opinion, external review, codex review, gemini review, or mentions /second-opinion.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

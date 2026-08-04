@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_d5abc653",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# CLI Reference for AKS\n\nbash\n# List AKS clusters\naz aks list --output table\n\n# Show cluster details\naz aks show --name <cluster-name> --resource-group <resource-group>\n\n# Get available Kubernetes versions\naz aks get-versions --location <location> --output table\n\n# Create AKS Automatic cluster\naz aks create --name <cluster-name> --resource-group <resource-group> --sku automatic \\\n  --network-plugin azure --network-plugin-mode overlay \\\n  --enable-oidc-issuer --enable-workload-identity\n\n# Crea",
+  "tags": [
+    "cli"
+  ]
+}

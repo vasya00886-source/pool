@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_f4944028",
+  "category": "systems_design",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Architecture Styles Reference\n\n## Comparison Table\n\n| Style | Dependency Management | Domain Type |\n|---|---|---|\n| N-tier | Horizontal tiers divided by subnet | Traditional business, low update frequency |\n| Web-Queue-Worker | Front/back-end decoupled by async messaging | Simple domain, resource-intensive tasks |\n| Microservices | Vertically decomposed services via APIs | Complex domain, frequent updates |\n| Event-driven | Producer/consumer, independent views | IoT, real-time systems |",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_521f753b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "SDK for Azure File Share operations — SMB file shares, directories, and file operations.\nnpm install @azure/storage-file-share @azure/identity\n**Current Version**: 12.x  \n**Node.js**: >= 18.0.0",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

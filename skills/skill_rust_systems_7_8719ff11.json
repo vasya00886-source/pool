@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_8719ff11",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "A fuzzing harness is the entrypoint function that receives random data from the fuzzer and routes it to your system under test (SUT). The quality of your harness directly determines which code paths get exercised and whether critical bugs are found. A poorly written harness can miss entire subsystems or produce non-reproducible crashes.\nThe harness is the bridge between the fuzzer's random byte generation and your application's API. It must parse raw bytes into meaningful inputs, call target fun",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ce26a441",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Invocations Protocol Guide\n\nThe `invocations` protocol is **bytes in, bytes out**. The platform is pure pass-through — the raw HTTP request body is forwarded to the container and the raw response is returned. The agent developer defines what the container accepts and returns. Unlike `responses` (OpenAI-compatible with platform-managed history), `invocations` gives full control to the container code.\n\n## Input/Output Contract\n\n| Aspect | `responses` | `invocations` |\n|--------|------------|----",
+  "tags": [
+    "api",
+    "data",
+    "docker",
+    "web",
+    "file"
+  ]
+}

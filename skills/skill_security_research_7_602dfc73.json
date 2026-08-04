@@ -1,0 +1,14 @@
+{
+  "id": "security_research_7_602dfc73",
+  "category": "security_research",
+  "level": 7,
+  "language": "rust",
+  "insight": "Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications.",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

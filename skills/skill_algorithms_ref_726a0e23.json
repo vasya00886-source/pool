@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_726a0e23",
+  "category": "algorithms",
+  "level": 4,
+  "language": "python",
+  "insight": "# Authentication Security Reference\n\n## Password Requirements\n\n### Strength Requirements\n\n| Context | Minimum Length | Maximum Length |\n|---------|---------------|----------------|\n| With MFA | 8 characters | At least 64 characters |\n| Without MFA | 15 characters | At least 64 characters |\n\n**Composition Rules:**\n- Allow all printable characters including spaces and Unicode\n- No mandatory complexity rules (uppercase, numbers, symbols)\n- No periodic forced password changes\n- Check against breache",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "web",
+    "cli"
+  ]
+}

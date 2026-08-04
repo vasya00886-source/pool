@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_c0dec61e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Semantic Search Patterns\n\nDetailed patterns for semantic ranking, captions, and answers with Azure.Search.Documents.\n\n## Index Configuration for Semantic Search\n\ncsharp\nusing Azure.Search.Documents.Indexes.Models;\n\nvar index = new SearchIndex(\"articles\")\n{\n    Fields =\n    {\n        new SimpleField(\"id\", SearchFieldDataType.String) { IsKey = true },\n        new SearchableField(\"title\"),\n        new SearchableField(\"content\"),\n        new SearchableField(\"summary\"),\n        new SimpleField(\"",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

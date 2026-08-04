@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ebbe9976",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Constant-Time Analysis: VM-Compiled Languages\n\nAnalysis guidance for Java and C#. These languages compile to bytecode (JVM bytecode / CIL) that runs on a virtual machine with Just-In-Time (JIT) compilation to native code.\n\n## Understanding VM-Compiled Languages\n\nUnlike native-compiled languages (C, Rust, Go), Java and C# add an intermediate layer:\n\ntext\nSource Code (.java/.cs)\n        |\n        v\n    Compiler (javac/csc)\n        |\n        v\nBytecode (.class/.dll)\n        |\n        v\n    JIT",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "testing",
+    "docker"
+  ]
+}

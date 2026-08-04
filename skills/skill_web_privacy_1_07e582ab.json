@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_1_07e582ab",
+  "category": "web_privacy",
+  "level": 1,
+  "language": "rust",
+  "insight": "Client library for Azure AI Translator text translation service for real-time text translation, transliteration, and language operations.\npip install azure-ai-translation-text\nAZURE_TRANSLATOR_ENDPOINT=https://<resource>.cognitiveservices.azure.com  # Required for Entra ID auth (must be a custom subdomain endpoint)\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production\n# Only required for the legacy API-key auth path below:\nAZURE_TRANSLATOR...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "web"
+  ]
+}

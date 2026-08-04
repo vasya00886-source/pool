@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_c1aff0d7",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "javascript",
+  "insight": "Document and type a Sentry API endpoint. Write or fix @extend_schema decorators, specify response TypedDicts, type request parameters, correct type drift between the declared schema and the runtime response, and validate the generated spec. Use when asked to \"document an endpoint\", \"add OpenAPI docs\", \"add/fix @extend_schema\", \"type an endpoint response\", \"fix the response type\", \"fix type drift\", \"reuse a response type\", \"split an overloaded endpoint\", \"specify the response schema\", \"add a Type",
+  "tags": [
+    "api",
+    "testing",
+    "file"
+  ]
+}

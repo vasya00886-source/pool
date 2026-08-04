@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_857e7a28",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Validation Loops\n\nUse this workflow when a validator can reliably catch mistakes before the skill should claim completion.\n\n## Choose this workflow when\n\n- a script, schema, test, or parser can catch important failures\n- the agent should fix issues immediately after each change\n- the main risk is silent drift or invalid output\n\n## Required contract\n\n1. The validator or check to run.\n2. When it runs in the workflow.\n3. What to fix before retrying.\n4. What counts as a passing state.\n\n## Example",
+  "tags": [
+    "automation",
+    "data",
+    "testing"
+  ]
+}

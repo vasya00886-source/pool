@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_351951ba",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Keys Reference\n\nCryptographic key management and operations using @azure/keyvault-keys SDK.\n\n## Overview\n\nThe Key Vault Keys SDK provides two main clients:\n- **KeyClient** - CRUD operations for keys (create, get, list, rotate, delete)\n- **CryptographyClient** - Cryptographic operations using keys (encrypt, decrypt, sign, verify, wrap, unwrap)\n\n## Core Types\n\ntypescript\nimport {\n  KeyClient,\n  CryptographyClient,\n  KeyVaultKey,\n  KeyProperties,\n  DeletedKey,\n  KeyRotationPolicy,\n  KeyRotatio",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

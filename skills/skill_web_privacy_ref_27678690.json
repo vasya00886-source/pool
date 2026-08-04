@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_27678690",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# web_fetch policy\n\nSteps 2 and 3 of the recommender rely on `web_fetch` against `learn.microsoft.com` to verify that a recommendation reflects current capabilities (especially VMSS features, family availability, and Spot eligibility).\n\n## When `web_fetch` succeeds\n\nUse the live documentation as the source of truth. Cite the URL in the recommendation so the user can verify.\n\n## When `web_fetch` fails (timeout, 404, blocked, offline)\n\nProceed using the reference files in `../../references/` — but",
+  "tags": [
+    "testing",
+    "web",
+    "file"
+  ]
+}

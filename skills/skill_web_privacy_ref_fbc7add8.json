@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_fbc7add8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Firewall Blocking Connectivity\n\nUse when NSG/platform rules allow traffic but the guest OS firewall blocks RDP/SSH.\n\n## Symptoms -> Solutions\n\n| Symptom | OS | Action | Docs |\n| --- | --- | --- | --- |\n| Windows Firewall blocks RDP | Windows | Enable Remote Desktop firewall group | [Guest firewall] |\n| BlockInboundAlways or bad policy | Windows | Reset to `blockinbound,allowoutbound` | [Firewall rule] |\n| third-party AV/firewall | Windows | Stop for test, then reconfigure | [Guest firewall] |",
+  "tags": [
+    "automation",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

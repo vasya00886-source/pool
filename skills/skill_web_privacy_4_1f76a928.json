@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_1f76a928",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for publishing events to Azure Event Grid topics, domains, and namespaces.\n# For topics and domains (push delivery)\ndotnet add package Azure.Messaging.EventGrid\n**Current Version**: 4.28.0 (stable)",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

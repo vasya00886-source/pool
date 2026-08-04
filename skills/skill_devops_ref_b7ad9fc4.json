@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_b7ad9fc4",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# M365 Agent Developer Best Practices\n\nFollow these best practices for successful M365 Copilot agent development.\n\n## Security\n\n- **Principle of Least Privilege:** Always scope capabilities to the minimum necessary resources\n- **Credential Management:** Use secure credential storage for production environments\n- **Input Validation:** Validate all user inputs and API responses\n- **PII Handling:** Follow data protection regulations when handling personal information\n- **Audit Logging:** Implement",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

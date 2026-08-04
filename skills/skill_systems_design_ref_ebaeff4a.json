@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_ebaeff4a",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Day in the Life: [Product Area] Users\n\n## Overview\n\n**Objective**: Understand how external users interact with [product area] — what they're trying to do, how they navigate, and where they hit friction.\n\n**Scope**: [N] replays from external users, [time range], prod environment\n**Date**: [today's date]\n**Method**: Analyzed session replay metadata (page views, navigation breadcrumbs, engagement signals) from Sentry's dogfooding org. Replays are from non-employee users only. See [Methodology & D",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

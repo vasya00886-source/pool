@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d6ae1b38",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Error Handling Security Reference\n\n## Overview\n\nImproper error handling can lead to information disclosure, denial of service, or security bypasses. This includes verbose error messages exposing internals, fail-open patterns that skip security checks on errors, and unhandled exceptions that crash services or leave systems in insecure states.\n\n---\n\n## Information Disclosure\n\n### Stack Traces in Responses\n\npython\n# VULNERABLE: Stack trace exposed to users\n@app.errorhandler(Exception)\ndef hand",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_6a7d5d28",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-storage-file-datalake-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## List Contents\n\npython\n# List paths (files and directories)\nfor path in file_system_client.get_paths():\n    print(f\"{'DIR' if path.is_directory else 'FILE'}: {path.name}\")\n\n# List paths in directory\nfor path in file_system_client.get_paths(path=\"mydir\"):\n    print(pa",
+  "tags": [
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

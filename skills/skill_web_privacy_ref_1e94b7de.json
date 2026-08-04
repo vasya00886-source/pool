@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1e94b7de",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# C/C++ Release Practices\n\n## Build system\n\nUse modern CMake. For new projects,\n[cmake-init](https://github.com/friendlyanon/cmake-init) generates a\nwell-structured project with presets, warnings, and packaging support:\n\nsh\ngit init && cmake-init <project-name>\n\n\nPlain GNU Make is acceptable for small projects; anything intended for\ndownstream packaging (vcpkg, distro packages) should use CMake.\n\n## Language standard and portability\n\n- Use **C++17 as the minimum** for new code; prefer C++2",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "file"
+  ]
+}

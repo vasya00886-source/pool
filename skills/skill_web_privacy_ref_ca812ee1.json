@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_ca812ee1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Self-Healing Loop — Error Classification & Auto-Fix\n\nStep 11 runs validation against the generated IaC via CLI commands (`az bicep build` + `az deployment sub what-if`). On failure, classify each error and apply the strategy below. Max 3 attempts before pausing to present a diagnosis (explain pattern → propose fix → ask user). After user approves, 5 more attempts before asking again — then every 5 thereafter. See scaffold SKILL.md § Self-Healing Loop for the full escalation protocol.\n\n| Error",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

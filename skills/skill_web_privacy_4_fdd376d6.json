@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_fdd376d6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build real-time messaging applications using Azure Web PubSub SDKs for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client). Use when implementing WebSocket-based real-time features, pub/sub messaging, group chat, or live notifications.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

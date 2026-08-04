@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_f140efbd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "> **Rebranding:** Azure AI Form Recognizer is now **Azure AI Document Intelligence**.\n> New projects should use com.azure:azure-ai-documentintelligence. The legacy azure-ai-formrecognizer package targets API version 2023-07-31 only.\n> See [Migration Guide](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/documentintelligence/azure-ai-documentintelligence/MIGRATION_GUIDE.md).\nSearch microsoft-docs MCP for current API patterns:\n- Query: \"azure-ai-documentintelligence Java SDK\"\n- Ve...",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

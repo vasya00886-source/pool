@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_25280b19",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Cosmos DB Java SDK - Examples\n\nComprehensive code examples for the Azure Cosmos DB SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Database Operations](#database-operations)\n- [Container Operations](#container-operations)\n- [CRUD Operations (Sync)](#crud-operations-sync)\n- [CRUD Operations (Async)](#crud-operations-async)\n- [SQL Queries](#sql-queries)\n\n---\n\n## Maven Dependency\n\nxml\n<dependencyManagement>\n    <depend",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

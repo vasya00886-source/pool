@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_d7488e68",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Rust Zeroization Patterns Reference\n\nThis reference documents vulnerability pattern detected by the zeroize-audit tooling for Rust code.\nEach entry includes: what the flaw is, which tool detects it, severity, category, a minimal Rust snippet showing the bug, and a recommended fix.\n\n---\n\n## Section A — Semantic Patterns (`semantic_audit.py`, rustdoc JSON-based)\n\nThese patterns are detectable from rustdoc JSON without executing the compiler. `semantic_audit.py` processes trait impls, derives, an",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "docker"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_7824226c",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Mermaid Sequence Diagram Syntax Reference\n\n## Basic Structure\n\n\nsequenceDiagram\n    participant A as Alice\n    participant B as Bob\n    A->>B: Hello\n    B-->>A: Hi\n\n\nEvery sequence diagram starts with `sequenceDiagram` on its own line (no\nindentation). Participants are declared with `participant` before they appear\nin messages; if undeclared, Mermaid auto-creates them in order of first\nappearance — but always declare explicitly for crypto protocols to control\nordering.\n\n---\n\n## Participa",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

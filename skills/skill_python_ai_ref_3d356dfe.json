@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_3d356dfe",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Prospecting Data Sources\n\nTool selection guide for prospecting across all three branches.\n\n---\n\n## Tool selection by goal\n\n| Goal | Primary tools | Notes |\n|------|--------------|-------|\n| **Build initial firmographic list (B2B / SaaS)** | Apollo, ZoomInfo, Clay | Apollo for breadth, ZoomInfo for enterprise + intent, Clay for custom workflows |\n| **Decision-maker mapping** | LinkedIn Sales Navigator (manual), Apollo, ZoomInfo | Sales Nav is the gold standard. Never bulk scrape it. |\n| **Tech",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "web",
+    "cli"
+  ]
+}

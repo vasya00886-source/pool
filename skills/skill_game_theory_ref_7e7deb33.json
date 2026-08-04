@@ -1,0 +1,14 @@
+{
+  "id": "game_theory_ref_7e7deb33",
+  "category": "game_theory",
+  "level": 4,
+  "language": "general",
+  "insight": "# Move Entry Point Detection (Sui)\n\n## Entry Point Identification (State-Changing Only)\n\nIn Move, `public` functions can be invoked from programmable transaction blocks (Sui) or transaction scripts (Aptos) and typically modify state. In addition, private `entry` functions are entrypoints. Package-protected (`public(package) fun`) and private (`fun`) functions should be excluded.\n\nmove\n// Public functions\npublic fun compute(obj: &mut Object): u64 { }\n\n// Entry functions in Sui\npublic entry fun",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "file"
+  ]
+}

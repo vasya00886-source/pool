@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_673b6410",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Conversion Tracking Setup\n\nHow to set up conversion tracking pixels across ad platforms. This guide covers installation, event configuration, and validation — everything a marketer needs to ensure ad spend is properly attributed.\n\n---\n\n## Why This Matters\n\nWithout conversion tracking:\n- Ad platforms can't optimize for your actual goals\n- You're flying blind on ROAS and CPA\n- Retargeting audiences can't be built\n- You'll waste budget on impressions that don't convert\n\nGet tracking right before",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

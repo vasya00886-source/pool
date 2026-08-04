@@ -1,0 +1,10 @@
+{
+  "id": "algorithms_ref_541da758",
+  "category": "algorithms",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Review Integration\n\nUse the review gate packet as supporting evidence for a human branch review.\nIt should be attached to, pasted into, or summarized alongside line-level\nreview notes.\n\n## With Differential Review\n\nUse `differential-review` for line-level analysis and this skill for structural\nsignals. Recommended order:\n\n1. Run `differential-review` to identify risky changed files and functions.\n2. Run `graph-evolution` and `trailmark-review-gate` on the same before/after\n   range.\n3. Cross-r",
+  "tags": [
+    "file"
+  ]
+}

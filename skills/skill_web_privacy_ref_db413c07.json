@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_db413c07",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Agent Tools Reference\n\n## Tool Import Patterns\n\npython\n# From azure.ai.agents.models (low-level tools)\nfrom azure.ai.agents.models import (\n    CodeInterpreterTool,\n    FileSearchTool,\n    FunctionTool,\n    BingGroundingTool,\n    OpenApiTool,\n    OpenApiAnonymousAuthDetails,\n    FilePurpose,\n    MessageAttachment,\n    ToolSet,\n    SharepointTool,\n    FabricTool,\n    ConnectedAgentTool,\n    McpTool,\n)\n\n# From azure.ai.projects.models (project-level tools)\nfrom azure.ai.projects.models import",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

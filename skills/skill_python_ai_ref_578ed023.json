@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_578ed023",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Dataset Organization — Metadata, Splits, and Filtered Evaluation\n\nOrganize datasets using metadata fields, create train/validation/test splits, and run targeted evaluations on dataset subsets. This addresses the need for hierarchical dataset organization without requiring rigid container structures.\n\n## Metadata Schema\n\nAdd metadata to each JSONL example to enable filtering and organization:\n\n| Field | Values | Purpose |\n|-------|--------|---------|\n| `category` | `edge-case`, `regression`, `h",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

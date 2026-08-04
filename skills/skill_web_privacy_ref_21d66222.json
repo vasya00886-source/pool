@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_21d66222",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Resource Limits and Quotas\n\nCheck Azure resource availability during azure-prepare workflow. Validate after customer selects region.\n\n## Types\n\n1. **Hard Limits** - Fixed constraints that cannot be changed\n2. **Quotas** - Subscription limits that can be increased via support request\n\n**CLI First:** Always use `az quota` CLI for quota checks. Provides better error handling and consistent output. \"No Limit\" in REST/Portal doesn't mean unlimited - verify with service docs.\n\n## Hard Limits",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

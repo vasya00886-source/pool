@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_de27dd87",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# Interpretation Guide\n\nHow to read the 12 Houses of the Zodiac Tarot spread and map it to technical\ndecisions.\n\n## The Spread Positions\n\nEach house contains 3 cards:\n\n- The first card is always Major Arcana and sets the house's archetypal theme.\n- The second and third cards are Minor Arcana and supply practical details.\n- The house file under `houses/` explains how that house maps to technical\n  contexts such as building, vulnerability discovery, and correctness work.\n- `TECHNICAL_CONTEXT_LENSE",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

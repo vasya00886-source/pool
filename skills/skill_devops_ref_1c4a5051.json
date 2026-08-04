@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_1c4a5051",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Plan Card\n\nThe Plan Card is the single source of truth for the create-flow. It renders **every decision** — explicit user answers and silent defaults — as a markdown table the user can read top-to-bottom and either approve or edit.\n\n## Rendering rules\n\n1. **Cost + quota on the top half.** The user must see both without scrolling.\n2. **Source column is mandatory.** Each row says where the value came from: `user`, `default`, `inferred`, or the MCP tool that produced it.\n3. **Flag risky defaults",
+  "tags": [
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

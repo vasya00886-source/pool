@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0d666834",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Directory List — Full Reference\n\nCanonical list of directories organized by tier. DR values are approximate and drift over time — verify via Ahrefs or Moz before building a plan around them.\n\n**Column legend:**\n- **DR** — Domain Rating (Ahrefs). Higher = more link equity passed.\n- **Dofollow** — Whether the backlink passes SEO value. Nofollow listings still matter for referral traffic and brand signals.\n- **Cost** — Free unless noted.\n\n---\n\n## Tier 1 — Flagship Launch Platforms\n\nSubmit only du",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

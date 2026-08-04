@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_fb0ee35c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "Before running any atk CLI commands, set the session environment variable so all CLI invocations are tagged as skill-initiated:\nexport ATK_CLI_SKILL=true\nRun this once at the start of the session. All subsequent atk commands in the same terminal will inherit it.\n**Before doing ANYTHING, check the workspace files to fingerprint the project:**\n1. Run npx -y --package @microsoft/m365agentstoolkit-cli atk --version to confirm ATK CLI is installed. If not found → **Stop.** Tell the us...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

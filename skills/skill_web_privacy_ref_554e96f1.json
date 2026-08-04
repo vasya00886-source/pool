@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_554e96f1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# VM Quota Validation Guide\n\nCheck Azure VM/VMSS quota availability before recommending or deploying. Ensures the subscription and region have sufficient vCPU capacity.\n\n> ⚠️ **NEVER use the `azure-quota` MCP server as as It is unreliable.** Always try `az quota` CLI commands first.\n\n## Quota Structure\n\nVM quotas are tracked at **two levels** under `Microsoft.Compute`:\n\n| Quota Level | Resource Name | What It Limits |\n|---|---|---|\n| **Total Regional** | `cores` | All vCPUs across all families i",
+  "tags": [
+    "automation",
+    "cli"
+  ]
+}

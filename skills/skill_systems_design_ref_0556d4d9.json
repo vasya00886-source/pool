@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_0556d4d9",
+  "category": "systems_design",
+  "level": 4,
+  "language": "rust",
+  "insight": "# SDK Sidecar — Code Patterns, Deployment, and Security\n\nCompanion to [sdk-sidecar.md](sdk-sidecar.md). This file covers calling-side code patterns in Python and TypeScript, container deployment manifests, security hardening, and troubleshooting.\n\n## Code Patterns\n\n### Autonomous 3P Agent (Python)\n\npython\nimport os\nimport requests\n\nSIDECAR_URL = os.environ.get(\"SIDECAR_URL\", \"http://localhost:5000\")\nAGENT_APP_ID = os.environ[\"AGENT_CLIENT_ID\"]\n\ndef get_agent_token(downstream_api: str = \"Graph",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_c2d07b09",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# SARIF Processing\n\njq commands for processing CodeQL SARIF output. Used in the run-analysis workflow Step 5.\n\n> **SARIF structure note:** `security-severity` and `level` are stored on rule definitions (`.runs[].tool.driver.rules[]`), NOT on individual result objects. Results reference rules by `ruleIndex`. The jq commands below join results with their rule metadata.\n>\n> **Portability note:** These jq patterns assume CodeQL SARIF output where `ruleIndex` is populated. For SARIF from other tools",
+  "tags": [
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

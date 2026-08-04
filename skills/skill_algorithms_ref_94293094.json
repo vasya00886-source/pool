@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_94293094",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Trailmark Query Patterns for Security Analysis\n\nCommon patterns for using Trailmark in security reviews.\n\n## Version-Gated Queries\n\nUse v0.2-safe APIs unless the installed build is Trailmark 0.4.0 or newer, or\nthe method exists when probed with `hasattr()`.\n\npython\nfrom trailmark.query.api import QueryEngine\n\nengine = QueryEngine.from_directory(\"{targetDir}\", language=\"auto\")\n\nif hasattr(engine, \"subgraph_edges\"):\n    edges = engine.subgraph_edges(\"tainted\")  # v0.4+\nelse:\n    # v0.2 fallba",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

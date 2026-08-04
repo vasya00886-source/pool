@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_442d55a7",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Case Study: Hook-Backed Skill Synthesis\n\n## Scenario\n\nGoal: create a skill that enforces a deterministic check at a specific lifecycle or tool boundary.\n\n## Input collection approach\n\nThis case collected:\n\n1. official hook lifecycle and schema docs\n2. security guidance for shell-executed hooks\n3. examples of narrow matchers vs over-broad hooks\n4. fallback behavior for environments without hooks\n\n## Coverage matrix used\n\nRequired dimensions tracked during synthesis:\n\n1. event and matcher scope",
+  "tags": [
+    "security",
+    "cli",
+    "file"
+  ]
+}

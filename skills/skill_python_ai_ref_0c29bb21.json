@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_0c29bb21",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# RFT Grader Design Guide\n\n## Grader Type Selection\n\n| Grader Type | Best For | Tradeoffs |\n|------------|---------|-----------|\n| **Python grader** (default) | Most tasks incl. tool-calling. Accesses `output_text` and `output_tools`. | Can't call external APIs or execute code. |\n| **Multi grader** | Combining multiple scoring dimensions. | `score_model` component adds LLM cost per rollout. |\n| **Endpoint grader** | Tasks requiring external API calls (test suites, DB queries). | HTTP latency, sc",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

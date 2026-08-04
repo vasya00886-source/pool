@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_a81e7b2a",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Create a git branch following Sentry naming conventions. Use when asked to \"create a branch\", \"new branch\", \"start a branch\", \"make a branch\", \"switch to a new branch\", or when starting new work on the default branch.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

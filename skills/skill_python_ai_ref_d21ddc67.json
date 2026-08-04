@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_d21ddc67",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Ruff Configuration Reference\n\nRuff is an extremely fast Python linter and formatter written in Rust. It replaces flake8, black, isort, pyupgrade, pydocstyle, and many other tools.\n\n## Basic Setup\n\nAdd to `pyproject.toml`:\n\ntoml\n[tool.ruff]\nline-length = 100\ntarget-version = \"py311\"\nsrc = [\"src\"]\n\n[tool.ruff.lint]\nselect = [\"ALL\"]\nignore = [\n    \"D\",        # pydocstyle\n    \"COM812\",   # trailing comma (formatter conflict)\n    \"ISC001\",   # string concat (formatter conflict)\n]\n\n[tool.ruff.fo",
+  "tags": [
+    "automation",
+    "security",
+    "testing",
+    "file"
+  ]
+}

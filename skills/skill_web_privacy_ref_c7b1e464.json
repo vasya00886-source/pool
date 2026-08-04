@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c7b1e464",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# AKS Command Flows\n\n## Cluster Baseline Flow\n\ntext\nResolve subscription -> resolve resource group -> resolve cluster -> inspect cluster state -> inspect node pools -> inspect resource health -> inspect recent operations\n\n\nCLI fallback when AKS-MCP cannot perform the cluster baseline read:\n\nbash\naz aks show -g <resource-group> -n <cluster-name>\naz aks nodepool list -g <resource-group> --cluster-name <cluster-name>\naz monitor activity-log list -g <resource-group> --max-events 20\n\n\n##",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "cli",
+    "file"
+  ]
+}

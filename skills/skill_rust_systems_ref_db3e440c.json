@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_db3e440c",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Semgrep Rule Creation Workflow\n\nDetailed workflow for creating production-quality Semgrep rules.\n\n## Step 1: Analyze the Problem\n\nBefore writing any code:\n\n1. **Fetch external documentation**: See [Documentation](../SKILL.md#documentation) for required reading\n2. **Understand the exact bug pattern and explain the bug for a junior developer**: What vulnerability, issue or pattern should be detected?\n3. **Identify the target language**: What is specific about the bug and that language?\n4. **Dete",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

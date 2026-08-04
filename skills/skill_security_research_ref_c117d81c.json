@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_c117d81c",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Resource Verification\n\nRun these checks immediately after writing each resource to `plan.resources[]`. Fix issues in-place before moving to the next resource. Load the relevant category file from [resources/](resources/README.md) for naming constraints, valid SKUs, and pairing rules.\n\n## 1. Name Checks\n\n| # | Check | Fix |\n|---|-------|-----|\n| 1 | Follows CAF pattern from resource file Identity/Naming section | Rewrite using correct abbreviation |\n| 2 | Length within min/max for type | Trunca",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

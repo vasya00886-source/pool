@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_e29f3bda",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# IaC Generation Rules — Steps 5–8\n\nRules for generating infrastructure code, Dockerfiles, security verification, and telemetry wiring.\n\n## Step 5 — Generate IaC\n\nFor each service in `services[]`:\n\n> **Sub-agent delegation:** Use [subagent-iac-gen.md](subagent-iac-gen.md) template verbatim. Include full `prepare-plan.json`, `ScaffoldManifest` interface, and compute-target patterns. Self-review (Step 9) remains mandatory after sub-agent returns.\n\n> **PostgreSQL wiring:** Include firewall rule + e",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

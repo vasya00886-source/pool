@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_d56c5029",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure SDK Patterns by Language\n\nReference for creating skills that teach agents to write code following official Azure SDK guidelines.\n\n**Official Documentation:** <https://azure.github.io/azure-sdk/>\n\n---\n\n## Table of Contents\n\n1. [Core Principles (All Languages)](#core-principles-all-languages)\n2. [Skill Reference Directory Pattern](#skill-reference-directory-pattern)\n3. [Standard Naming Conventions](#standard-naming-conventions)\n4. [Python Patterns](#python-patterns)\n5. [.NET (C#) Patterns]",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

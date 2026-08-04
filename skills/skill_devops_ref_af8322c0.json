@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_af8322c0",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Deployment Execution\n\nExecute infrastructure deployment after plan approval and IaC generation.\n\n## Status Gate\n\nBefore executing any deployment command, verify:\n\ntxt\nmeta.status === \"approved\"\n\n\nIf status is not `approved`, stop and inform the user. Do not manually change the status.\n\n## Pre-Deployment Checklist\n\n1. Plan approved — `meta.status` is `approved`\n2. IaC generated — Bicep or Terraform files exist in `<project-root>/infra/`\n3. Azure context confirmed — subscription and resour",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

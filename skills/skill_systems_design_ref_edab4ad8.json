@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_edab4ad8",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Analyze Failures — Find and Cluster Failing Traces\n\nIdentify failing agent traces, group them by root cause, and produce a prioritized action table.\n\n## Step 1 — Find Failing Traces\n\n> ⚠️ **Hosted agents:** `gen_ai.agent.name` on `dependencies` holds the **code-level class name** (e.g., `BingSearchAgent`), NOT the Foundry agent name. To filter by Foundry name, use the [Hosted Agent Variant](#hosted-agent-variant--failures) below.\n\nkql\ndependencies\n| where timestamp > ago(24h)\n| where succes",
+  "tags": [
+    "docker"
+  ]
+}

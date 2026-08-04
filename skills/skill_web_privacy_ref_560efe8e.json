@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_560efe8e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# API Plugin Architecture for M365 JSON Agents\n\n> **Note:** This guide is for JSON-based agents. API plugins are defined using JSON manifest files that reference OpenAPI specifications.\n\n## Overview\n\nAPI plugins (also called \"actions\") allow your M365 Copilot agent to interact with external REST APIs. They consist of:\n\n1. **OpenAPI Specification** - Describes the REST API endpoints, parameters, and responses\n2. **API Plugin Manifest** (JSON) - Configures how M365 Copilot interacts with the API\n3",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

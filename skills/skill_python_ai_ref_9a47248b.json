@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_9a47248b",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-language-conversations-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Operational hardening\n\n### Retry Policy\n\nConfigure retries for transient service errors:\n\npython\nimport os\nfrom azure.identity import DefaultAzureCredential\nfrom azure.ai.language.conversations import ConversationAnalysisClient\nfrom azure.core.pipeline.policies",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

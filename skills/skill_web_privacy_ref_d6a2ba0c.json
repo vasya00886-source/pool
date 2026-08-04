@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_d6a2ba0c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Email Sequence Templates\n\nDetailed templates for common email sequences.\n\n## Contents\n- Welcome Sequence (Post-Signup)\n- Lead Nurture Sequence (Pre-Sale)\n- Re-Engagement Sequence\n- Onboarding Sequence (Product Users)\n\n## Welcome Sequence (Post-Signup)\n\n**Email 1: Welcome (Immediate)**\n- Subject: Welcome to [Product] — here's your first step\n- Deliver what was promised (lead magnet, access, etc.)\n- Single next action\n- Set expectations for future emails\n\n**Email 2: Quick Win (Day 1-2)**\n- Subje",
+  "tags": [
+    "testing",
+    "cli",
+    "file"
+  ]
+}

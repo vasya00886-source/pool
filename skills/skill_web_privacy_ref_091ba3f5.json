@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_091ba3f5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Paywall Experiment Ideas\n\nComprehensive list of A/B tests and experiments for paywall optimization.\n\n## Contents\n- Trigger & Timing Experiments (When to Show, Trigger Type)\n- Paywall Design Experiments (Layout & Format, Value Presentation, Visual Elements)\n- Pricing Presentation Experiments (Price Display, Plan Options, Discounts & Offers)\n- Copy & Messaging Experiments (Headlines, CTAs, Objection Handling)\n- Trial & Conversion Experiments (Trial Structure, Trial Expiration, Upgrade Path)\n- Pe",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

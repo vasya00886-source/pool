@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c60d078c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Spec Parsing Patterns Reference\n\nExtraction rules for turning protocol specifications into sequence diagram\ncontent. Covers four spec formats. Read the section matching your input.\n\n---\n\n## RFC Format\n\nRFCs follow a predictable structure. Use it to locate the right content fast.\n\n### Locating the protocol description\n\n1. **Find the handshake section**: search for \"handshake\", \"key exchange\",\n   \"authentication\", \"message flow\", or \"overview\" in section titles\n2. **Find message definitions**: s",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

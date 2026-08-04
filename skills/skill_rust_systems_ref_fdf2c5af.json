@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_fdf2c5af",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# iOS-Native Reveal Video Ads (iMessage, ChatGPT, Apple Notes, AirDrop)\n\nA family of 9:16 social-native video formats that recreate a familiar iOS surface in real time and let the brand emerge inside it. The flagship is the **iMessage chat reveal** — someone sends a screenshot of a result or product, a friend reacts and asks what it is, and the conversation reveals the brand, usually with a promo code. Message bubbles pop in over ~15–22 seconds with authentic send/receive sounds, then a static b",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

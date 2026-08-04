@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c05f8dee",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# DevTunnels Setup for MCP Servers\n\n## Table of Contents\n- [Prerequisites](#prerequisites)\n- [Environment Configuration](#environment-configuration)\n  - [`.env.local` File Structure](#envlocal-file-structure)\n- [Automated Setup Script (Named Tunnel)](#automated-setup-script-named-tunnel)\n  - [`scripts/setup-devtunnel.sh`](#scriptssetup-devtunnelsh)\n  - [`scripts/setup-devtunnel.ps1` (Windows)](#scriptssetup-devtunnelps1-windows)\n- [package.json Scripts](#packagejson-scripts)\n  - [Root package.js",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

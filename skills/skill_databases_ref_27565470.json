@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_27565470",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# Error Classification\n\nThree error categories for deploy-time failures.\n\n## Multi-Error Triage\n\n> ⛔ When 3+ errors, classify ALL before fixing ANY. Group by root cause. Present: \"Deploy failed with {N} errors from {M} root causes.\"\n\n## Categories\n\n### `IAC_ERROR` — Route Back to Scaffold\n\n| Example | Fix |\n|---------|-----|\n| Invalid property name | Call `mcp_bicep_build_bicep` with `{ filePath: \"infra/main.bicep\" }` for structured error details, then fix. Fallback: `az bicep build` |\n| Wrong S",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "docker"
+  ]
+}

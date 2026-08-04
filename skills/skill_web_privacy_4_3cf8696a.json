@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_3cf8696a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Azure API Management resources via Azure Resource Manager.\n> **⚠️ Management vs Data Plane**\n> - **This SDK (Azure.ResourceManager.ApiManagement)**: Create services, APIs, products, subscriptions, policies, users, groups\n> - **Data Plane**: Direct API calls to your APIM gateway endpoints\ndotnet add package Azure.ResourceManager.ApiManagement\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

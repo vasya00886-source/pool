@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_955af4e1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reference-Backed Skill Layout\n\nUse this layout when the skill needs deep knowledge, but most runs only need one branch or subset of that knowledge.\n\n## Choose this layout when\n\n- `SKILL.md` can act as a router\n- bundled references can stay focused by lookup need\n- the complexity is optional knowledge, not heavy automation\n\n## File layout\n\ntext\nmy-skill/\n├── SKILL.md\n└── references/\n    ├── focused-topic-a.md\n    ├── focused-topic-b.md\n    └── troubleshooting.md\n\n\nKeep reference files as",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

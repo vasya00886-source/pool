@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9c6bb283",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Communication SMS Java SDK - Examples\n\nComprehensive code examples for the Azure Communication Services SMS SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Send Single SMS](#send-single-sms)\n- [Send Bulk SMS](#send-bulk-sms)\n- [Delivery Reports](#delivery-reports)\n- [Async Operations](#async-operations)\n- [Error Handling](#error-handling)\n- [Complete Application Example](#complete-application-example)\n\n## Maven Dependen",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

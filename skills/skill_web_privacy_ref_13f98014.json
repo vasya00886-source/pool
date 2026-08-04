@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_13f98014",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Troubleshooting Microsoft Entra App Registration\n\nThis guide helps you diagnose and fix common issues with app registrations and authentication.\n\n## Table of Contents\n\n- [Authentication Errors](#authentication-errors)\n- [Token Issues](#token-issues)\n- [Permission Problems](#permission-problems)\n- [Redirect URI Issues](#redirect-uri-issues)\n- [Application Configuration](#application-configuration)\n- [Debugging Tools](#debugging-tools)\n\n## Authentication Errors\n\n### Redirect URI Mismatch\n\n**Erro",
+  "tags": [
+    "api",
+    "testing",
+    "web",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_c23872ef",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Customize Guides — Selection Guides & Advanced Topics\n\n> Reference for: `models/deploy-model/customize/SKILL.md`\n\n**Table of Contents:** [Selection Guides](#selection-guides) · [Advanced Topics](#advanced-topics)\n\n## Selection Guides\n\n### How to Choose SKU\n\n| SKU | Best For | Cost | Availability |\n|-----|----------|------|--------------|\n| **GlobalStandard** | Production, high availability | Medium | Multi-region |\n| **Standard** | Development, testing | Low | Single region |\n| **ProvisionedMa",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

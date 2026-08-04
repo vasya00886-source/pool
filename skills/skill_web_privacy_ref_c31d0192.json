@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c31d0192",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subagent Template — Cost Estimation (Step 6)\n\nEstimate monthly costs for planned Azure services using Azure Retail Prices API.\n\n## References to Read Internally\n\nRead BOTH before making any pricing calls:\n- [pricing-guide.md](pricing-guide.md) — methodology, free-tier shortcut, API patterns, troubleshooting\n- [pricing-guide-services.md](pricing-guide-services.md) — per-service filter strings, meter names, formulas\n\n## Input (provided by caller)\n\n| Field | Required |\n|-------|----------|\n| `ser",
+  "tags": [
+    "api",
+    "performance",
+    "testing",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_c5593db1",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# YARA-X String Selection\n\nChoosing the right strings is the most critical decision in YARA rule writing.\n\n> **YARA-X Note:** YARA-X enforces stricter validation on strings. Base64 modifier requires 3+ character strings, and regex patterns must have properly escaped metacharacters.\n\n## String Quality Judgment\n\nBefore using any string, run through this mental checklist:\n\n\nIs this string good enough?\n├─ At least 4 bytes? (minimum for useful atoms)\n├─ Contains 4 consecutive unique bytes? (not 00",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_fffadbb0",
+  "category": "algorithms",
+  "level": 4,
+  "language": "general",
+  "insight": "# Audience Targeting Reference\n\nDetailed targeting strategies for each major ad platform.\n\n## Contents\n- Google Ads Audiences (Search Campaign Targeting, Display/YouTube Targeting)\n- Meta Audiences (Core Audiences, Custom Audiences, Lookalike Audiences)\n- LinkedIn Audiences (Job-Based Targeting, Company-Based Targeting, High-Performing Combinations)\n- Twitter/X Audiences\n- TikTok Audiences\n- Audience Size Guidelines\n- Exclusion Strategy\n\n## Google Ads Audiences\n\n### Search Campaign Targeting\n\n**",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "web"
+  ]
+}

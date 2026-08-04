@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_9f3ca49e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AKS MCP Reference\n\nUse this reference when AKS-aware MCP tools are available in the client.\n\n## Preference Order\n\n1. `mcp_azure_mcp_aks`\n2. The AKS-MCP tools that surface after discovery in the client\n3. Supporting Azure tools such as `mcp_azure_mcp_applens`, `mcp_azure_mcp_monitor`, and `mcp_azure_mcp_resourcehealth`\n4. Raw `az aks` and `kubectl` only when required functionality is missing from MCP\n\n## Happy Path\n\nAfter selecting `mcp_azure_mcp_aks`, let the client enumerate the exact AKS-MCP",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

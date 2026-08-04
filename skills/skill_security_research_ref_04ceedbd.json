@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_04ceedbd",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reward Hacking Prevention in RFT\n\n## What Is Reward Hacking?\n\nThe model optimizes for the grader's scoring function rather than the actual task. The training grader becomes a proxy reward that diverges from true quality — the model games the proxy instead of improving.\n\n**Core rule: Your training grader MUST produce the same ranking as your evaluation methodology.**\n\n| If you evaluate with… | Then train with… | NOT with… |\n|------------------------|------------------|-----------|\n| LLM judge (",
+  "tags": [
+    "api",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

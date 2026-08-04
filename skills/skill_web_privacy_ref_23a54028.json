@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_23a54028",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Preset Deployment Workflow - Detailed Implementation\n\nThis file contains the full step-by-step bash/PowerShell scripts for preset (optimal region) model deployment. Referenced from the main [SKILL.md](../SKILL.md).\n\n---\n\n## Phase 1: Verify Authentication\n\nCheck if user is logged into Azure CLI:\n\nbash\naz account show --query \"{Subscription:name, User:user.name}\" -o table\n\n\n**If not logged in:**\nbash\naz login\n\n\n**Verify subscription is correct:**\nbash\n# List all subscriptions\naz a",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

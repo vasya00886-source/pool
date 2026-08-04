@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_e9bfe70b",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Report Format Reference\n\nOutput format for graph-evolution reports. The report is a markdown file\nsummarizing structural changes between two code graph snapshots.\n\n## Contents\n\n- Report filename convention\n- Section-by-section template\n- Severity classification\n- Example snippets\n\n---\n\n## Filename Convention\n\n\nGRAPH_EVOLUTION_<project>_<before-ref>_<after-ref>.md\n\n\nExample: `GRAPH_EVOLUTION_myapp_v1.2.0_v1.3.0.md`\n\n---\n\n## Report Template\n\nmarkdown\n# Graph Evolution Report\n\n**Project:",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

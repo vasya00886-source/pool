@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_57468217",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Skill Evals\n\nUse this when authoring evals for a skill's behavior or generated outputs.\n\nDo not confuse this with `EVAL.md` for `skill-writer` itself. Runtime skills should not route to their own eval files unless the user explicitly asks to run or maintain evals.\n\n## Placement\n\n| Artifact | Use |\n|----------|-----|\n| `EVAL.md` | maintainer playbook for running the skill's evals |\n| `evals/axis.config.json` or `evals/axis.config.ts` | AXIS configuration for repeatable agent runs |\n| `evals/sce",
+  "tags": [
+    "automation",
+    "security",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

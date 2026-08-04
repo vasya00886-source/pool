@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_7c3e6d71",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Worked Examples — Before/After Offers\n\nAnonymized examples drawn from real engagements. Each shows the weak version, the diagnostic, and the strong version.\n\n---\n\n## Example 1: Fractional CMO service\n\n### Before\n\n**The offer (as it was):**\n> Fractional CMO services. $15K/month. We'll help you grow.\n\n**Diagnostic:**\n- Dream outcome: 4 (vague — \"grow\")\n- Perceived likelihood: 3 (no methodology, no case studies)\n- Time delay: 4 (no timeline, indefinite engagement)\n- Effort & sacrifice: 5 (unclear",
+  "tags": [
+    "performance",
+    "security",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

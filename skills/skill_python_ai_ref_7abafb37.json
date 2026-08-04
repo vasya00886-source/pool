@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_7abafb37",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Service Layer Pattern\n\n## Table of Contents\n\n1. [Service Class Structure](#service-class-structure)\n2. [Document Conversion Methods](#document-conversion-methods)\n3. [CRUD Operations](#crud-operations)\n4. [Query Patterns](#query-patterns)\n5. [Graceful Degradation](#graceful-degradation)\n6. [Complete Example](#complete-example)\n\n---\n\n## Service Class Structure\n\nEvery service follows this pattern:\n\npython\nfrom typing import Optional\nfrom app.db.cosmos import get_container, upsert_document, ge",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

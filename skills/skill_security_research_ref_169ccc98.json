@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_169ccc98",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# Diagnostic Query Templates\n\nLanguage-specific QL queries for enumerating sources and sinks recognized by CodeQL. Used during the data extensions creation process.\n\n## Source Enumeration Query\n\nAll languages use the class `RemoteFlowSource`. The import differs per language.\n\n### Import Reference\n\n| Language | Imports | Class |\n|----------|---------|-------|\n| Python | `import python` + `import semmle.python.dataflow.new.RemoteFlowSources` | `RemoteFlowSource` |\n| JavaScript | `import javascript",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

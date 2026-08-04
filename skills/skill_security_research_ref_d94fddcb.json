@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_d94fddcb",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Input Normalization\n\nNormalize every request into one candidate record before graph analysis.\n\n## Accepted Inputs\n\n| Input | Required fields | Notes |\n|---|---|---|\n| File/line | `file`, `line` | Best starting point for direct graph binding |\n| Function name | `function`, optional `file` | Ambiguous across files; ask for file if many nodes match |\n| SARIF result | `artifactLocation.uri`, `region` | Prefer `audit-augmentation` matching when SARIF is available |\n| weAudit annotation | file, line",
+  "tags": [
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

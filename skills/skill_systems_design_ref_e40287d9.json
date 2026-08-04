@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_e40287d9",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Patterns: Create Foundry Resource\n\n**Table of Contents:** [Pattern A: Quick Setup](#pattern-a-quick-setup) · [Pattern B: Multi-Region Setup](#pattern-b-multi-region-setup) · [Quick Commands Reference](#quick-commands-reference)\n\n## Pattern A: Quick Setup\n\nComplete setup in one go:\n\nbash\n# Ask user: \"Use existing resource group or create new?\"\n\n# ==== If user chooses \"Use existing\" ====\n# Count and list existing resource groups\nTOTAL_RG_COUNT=$(az group list --query \"length([])\" -o ts",
+  "tags": [
+    "api",
+    "cli"
+  ]
+}

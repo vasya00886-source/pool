@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_246f8929",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Output Format\n\nUse Markdown unless the user asks for JSON.\n\nmarkdown\n# Trailmark Review Gate\n\n## Verdict\n\nGate: PASS | WARN | FAIL | UNKNOWN\nConfidence: High | Medium | Low\n\n## Triggered Rules\n\n| Rule | Verdict | Evidence |\n|---|---|---|\n\n## Structural Changes\n\n| Change | Before | After | Review target |\n|---|---|---|---|\n\n## Entrypoint And Reachability Changes\n\n## Privilege And Taint Changes\n\n## Blast Radius And Complexity Changes\n\n## Limitations\n\n## Recommended Reviewer Actions\n\n\n## Ev",
+  "tags": [
+    "security",
+    "data",
+    "file"
+  ]
+}

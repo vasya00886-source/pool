@@ -1,0 +1,11 @@
+{
+  "id": "rust_systems_ref_11458823",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Ranking\n\nRank candidates by review value, not by confirmed severity.\n\n## Positive Signals\n\n| Signal | Effect |\n|---|---|\n| Entrypoint-reachable | Strong priority increase |\n| Untrusted or semi-trusted entrypoint path | Strong priority increase |\n| Tainted | Strong priority increase |\n| Privilege-boundary adjacent | Strong priority increase |\n| High blast radius | Priority increase |\n| Shares vulnerable sink | Priority increase |\n| Same interface, override, trait, hook, or adapter family | Prio",
+  "tags": [
+    "testing",
+    "file"
+  ]
+}

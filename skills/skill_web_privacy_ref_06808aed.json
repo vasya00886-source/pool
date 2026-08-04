@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_06808aed",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# BYO OAuth2 — Azure-hosted MCP starter (build your own MCP on Functions)\n\nCompanion to [tool-mcp-custom-oauth.md](tool-mcp-custom-oauth.md). Use this when you want to **build** the MCP server yourself on Azure Functions (rather than register an OAuth app against a third-party MCP). Deploying the sample template creates the Function App **and** its Entra app registration, so four of the five BYO OAuth2 connection inputs come straight from its outputs — you only add a client secret.\n\nRun the step",
+  "tags": [
+    "api",
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

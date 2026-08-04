@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_d81c4384",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "c",
+  "insight": "libFuzzer is an in-process, coverage-guided fuzzer that is part of the LLVM project. It's the recommended starting point for fuzzing C/C++ projects due to its simplicity and integration with the LLVM toolchain. While libFuzzer has been in maintenance-only mode since late 2022, it is easier to install and use than its alternatives, has wide support, and will be maintained for the foreseeable future.\n| Fuzzer | Best For | Complexity |\n|--------|----------|------------|\n| libFuzzer | Quick setup, s",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "systems_design_4_3d306f3a",
+  "category": "systems_design",
+  "level": 4,
+  "language": "javascript",
+  "insight": "Install or update the M365 Agents Toolkit (ATK) CLI and/or VS Code extension.\nBefore running any atk CLI commands, set the session environment variable so all CLI invocations are tagged as skill-initiated:\nexport ATK_CLI_SKILL=true\nRun this once at the start of the session. All subsequent atk commands in the same terminal will inherit it.\nThis skill activates when the user asks to:\n- Install or update ATK / Agents Toolkit / the toolkit\n- Install or update the ATK CLI\n- Install or u...",
+  "tags": [
+    "performance",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_86f66931",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Validation Gates\n\nStep 4 of the create-flow runs four read-only checks before the Plan Card is shown. Required path: Azure MCP. Fallback: CLI patterns in [mcp-tools.md](mcp-tools.md). Do **not** substitute generic guidance tools (`get_azure_bestpractices`, `pricing`) — they don't validate quota, SKU availability, or region support.\n\n## Checks\n\n| Check | MCP tool | What to verify |\n|---|---|---|\n| SKU exists in region | `compute_vm_list-skus` (`location`, `minVCpus`, `minMemoryGb`, optional `fa",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

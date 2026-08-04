@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_0057cd29",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "rust",
+  "insight": "Low-level exporter for sending OpenTelemetry traces, metrics, and logs to Application Insights.\npip install azure-monitor-opentelemetry-exporter\nAPPLICATIONINSIGHTS_CONNECTION_STRING=InstrumentationKey=xxx;IngestionEndpoint=https://xxx.in.applicationinsights.azure.com/  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

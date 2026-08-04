@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6591e850",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Local SMB Prospecting Reference\n\nFor when the user sells to local small businesses — shops, gyms, restaurants, salons, clinics, professional services, contractors, real estate, fitness studios, dental practices.\n\nAdapted from and generalized beyond the local-client-prospector pattern (browser-assisted discovery + website status classification + proximity scoring).\n\n---\n\n## ICP Signals That Matter (Local SMB branch)\n\n### Operational signals\n\n- **Active business** — Google Business Profile updat",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

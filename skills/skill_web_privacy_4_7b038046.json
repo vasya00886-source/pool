@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_7b038046",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document). Use when implementing text translation, transliteration, language detection, or batch document translation.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

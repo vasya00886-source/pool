@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_76e815f2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Analyze Latency — Find and Diagnose Slow Traces\n\nIdentify slow agent traces, find bottleneck spans, and correlate with token usage.\n\n## Step 1 — Find Slow Conversations\n\n> ⚠️ **Hosted agents:** `gen_ai.agent.name` on `dependencies` holds the **code-level class name** (e.g., `BingSearchAgent`), NOT the Foundry agent name. To scope by Foundry name, use the [Hosted Agent Variant](#hosted-agent-variant--latency) below.\n\nkql\ndependencies\n| where timestamp > ago(24h)\n| where customDimensions[\"gen",
+  "tags": []
+}

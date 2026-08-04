@@ -1,0 +1,13 @@
+{
+  "id": "systems_design_ref_a521ce78",
+  "category": "systems_design",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Products and Subscriptions\n\nPatterns for managing products, subscriptions, and access control.\n\n## Create Product\n\ncsharp\nvar productData = new ApiManagementProductData\n{\n    DisplayName = \"Premium\",\n    Description = \"Premium tier with full access\",\n    IsSubscriptionRequired = true,\n    IsApprovalRequired = true,  // Requires admin approval\n    SubscriptionsLimit = 5,\n    State = ApiManagementProductState.Published,\n    Terms = \"Terms and conditions for premium tier...\"\n};\n\nvar product =",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

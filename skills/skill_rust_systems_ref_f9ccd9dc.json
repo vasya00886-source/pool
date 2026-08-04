@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_f9ccd9dc",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Guarantee Design\n\nA guarantee directly raises *perceived likelihood of achievement* (the buyer thinks: \"they'll only offer this if they're confident\") and lowers *effort & sacrifice* (less emotional risk). It's one of the highest-leverage levers in offer design.\n\nThe wrong guarantee hurts more than no guarantee. Pick the type that matches your business model.\n\n## The eight guarantee types\n\n| Type | What it promises | When it works | When it backfires |\n|------|------------------|--------------",
+  "tags": [
+    "performance",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

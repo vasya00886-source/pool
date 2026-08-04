@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_7cd9923f",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Action Security Profiles\n\nSecurity-relevant configuration fields, default behaviors, dangerous configuration patterns, and remediation guidance for each supported AI action. Referenced by SKILL.md Step 5 for action-specific remediation.\n\n## Claude Code Action\n\n### Default Security Posture\n\n- Bash tool disabled by default; commands must be explicitly allowed via `--allowedTools` in `claude_args`\n- Only users with repository write access can trigger (default when `allowed_non_write_users` is omi",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

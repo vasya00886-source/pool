@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_fe5c3306",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-translation-text-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Transliteration\n\nConvert text from one script to another:\n\npython\nfrom azure.ai.translation.text.models import InputTextItem\n\nresult = client.transliterate(\n    body=[InputTextItem(text=\"konnichiwa\")],\n    language=\"ja\",\n    from_script=\"Latn\",  # From Latin script",
+  "tags": [
+    "api",
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

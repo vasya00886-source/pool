@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_e024a002",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Codebases often contain anti-fuzzing patterns that prevent effective coverage. Checksums, global state (like time-seeded PRNGs), and validation checks can block the fuzzer from exploring deeper code paths. This technique shows how to patch your System Under Test (SUT) to bypass these obstacles during fuzzing while preserving production behavior.\nMany real-world programs were not designed with fuzzing in mind. They may:\n- Verify checksums or cryptographic hashes before processing input\n- Rely on ",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

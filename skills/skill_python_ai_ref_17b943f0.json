@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_17b943f0",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-contentunderstanding-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Analyze Image\n\npython\nfrom azure.ai.contentunderstanding.models import AnalyzeInput\n\npoller = client.begin_analyze(\n    analyzer_id=\"prebuilt-imageSearch\",\n    inputs=[AnalyzeInput(url=\"https://example.com/image.jpg\")]\n)\nresult = poller.result()\ncontent = result.c",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

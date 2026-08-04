@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_26cc1993",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-ml-py capability coverage\n\n**SDK/package**: `azure-ai-ml`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Workspace Management`\n- `Data Assets`\n- `Model Registry`\n- `Compute`\n\n## Non-hero scenarios\n\n- `Jobs`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#jobs`](non-hero-scenarios.md#jobs)\n- `Pipelines`: Dedicated example and implementation notes",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

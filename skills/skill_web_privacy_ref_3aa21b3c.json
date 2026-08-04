@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3aa21b3c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Known Limitations (Preview)\n\nSource: [Microsoft Entra Agent ID preview: Known issues and gaps](https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/preview-known-issues)\n\n## API & Object Model\n\n1. **Preview API only** — all endpoints are under `/beta`, not `/v1.0`\n2. **Sponsors must be Users** — ServicePrincipals and Groups are not accepted as sponsors\n3. **BlueprintPrincipal not auto-created** — requires explicit `POST /servicePrincipals` after Blueprint creation\n4. **Agent Iden",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "web"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_a9bae508",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Microsoft Fabric capacity resources via Azure Resource Manager.\n> **Management Plane Only**\n> This SDK manages Fabric *capacities* (compute resources). For working with Fabric workspaces, lakehouses, warehouses, and data items, use the Microsoft Fabric REST API or data plane SDKs.\ndotnet add package Azure.ResourceManager.Fabric\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

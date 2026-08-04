@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_2106a04a",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# RBAC — Common Roles Reference\n\nShared reference for role assignment GUIDs used in both Bicep and Terraform. Loaded by both pattern files.\n\n## Deterministic Role Assignments\n\nUse `guid()` (Bicep) or deterministic naming (Terraform) for reproducible assignment names. Always set `principalType` to `'ServicePrincipal'` — prevents AAD graph lookup delays.\n\nIf the required role is NOT in the table below, call `azure__documentation` with the target resource type to look up the correct built-in role d",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "file"
+  ]
+}

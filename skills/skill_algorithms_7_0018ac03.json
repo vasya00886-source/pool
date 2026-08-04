@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_7_0018ac03",
+  "category": "algorithms",
+  "level": 7,
+  "language": "javascript",
+  "insight": "Generates rich technical documentation pages with dark-mode Mermaid diagrams, source code citations, and first-principles depth. Use when writing documentation, generating wiki pages, creating technical deep-dives, or documenting specific components or systems.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

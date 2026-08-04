@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_5cf0f915",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-vision-imageanalysis-py capability coverage\n\n**SDK/package**: `azure-ai-vision-imageanalysis`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Analyze Image from URL`\n- `Analyze Image from File`\n- `Image Caption`\n- `Dense Captions (Multiple Regions)`\n\n## Non-hero scenarios\n\n- `Tags`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#tags`](non-hero-s",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

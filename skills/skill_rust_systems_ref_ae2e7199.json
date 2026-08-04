@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_ae2e7199",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Pricing Page Teardown\n\nA structured way to score a live pricing page and return prioritized fixes. It grades **two axes**: the classic **human buyer experience**, and — the newer, higher-leverage lens — **AI-agent readiness**: whether the LLMs and agents that increasingly shortlist and compare tools can actually read, quote, and recommend your pricing.\n\n> **Framework credit:** the two-axis structure and especially the AI-agent-readiness lens are adapted from **Kyle Poyar's** (Growth Unhinged)",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

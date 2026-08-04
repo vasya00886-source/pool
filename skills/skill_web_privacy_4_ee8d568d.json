@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_ee8d568d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Real-time voice AI SDK for building bidirectional voice assistants with Azure AI.\ndotnet add package Azure.AI.VoiceLive\ndotnet add package Azure.Identity\ndotnet add package NAudio                    # For audio capture/playback\n**Current Versions**: Stable v1.0.0, Preview v1.1.0-beta.1",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

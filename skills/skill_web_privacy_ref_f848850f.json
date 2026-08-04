@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f848850f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Network Connectivity Problems\n\nUse when the VM is running but unreachable due to Azure network configuration: NSG, routing, NIC, public IP, or DNS.\n\n## Symptoms -> Solutions\n\n| Symptom | OS | Action | Docs |\n| --- | --- | --- | --- |\n| no NSG allow for RDP/SSH | Any | Add inbound TCP 3389/22 from approved source | [RDP NSG] |\n| NIC and subnet NSGs conflict | Any | Traffic must pass both; inspect effective rules | [Traffic filter] |\n| UDR sends traffic to NVA | Any | Check effective routes and",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

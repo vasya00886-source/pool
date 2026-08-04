@@ -1,0 +1,13 @@
+{
+  "id": "security_research_7_8d05539f",
+  "category": "security_research",
+  "level": 7,
+  "language": "python",
+  "insight": "Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements.",
+  "tags": [
+    "security",
+    "data",
+    "web",
+    "file"
+  ]
+}

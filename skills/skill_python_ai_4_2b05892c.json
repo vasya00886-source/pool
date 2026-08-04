@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_4_2b05892c",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "Runs a Trailmark summary analysis on a codebase. Returns auto-detected languages, entry point count, and dependency list. Use when vivisect or galvanize needs a quick structural overview. Triggers: trailmark summary, code summary, structural overview.",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

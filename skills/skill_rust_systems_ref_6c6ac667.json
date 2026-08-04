@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_6c6ac667",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Vector D: pull_request_target + PR Head Checkout\n\nAn attacker opens a fork pull request against a repository that uses `pull_request_target` to trigger an AI agent workflow. Because `pull_request_target` runs the workflow definition from the **base branch** (not the fork), the workflow has access to repository secrets. If the workflow then checks out the PR head commit, the AI agent reads attacker-modified files from disk while running with those secrets. This combines trusted execution contex",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

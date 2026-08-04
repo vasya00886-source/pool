@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_f8d1a87a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Manage Azure API Management services, APIs, products, and policies.\npip install azure-mgmt-apimanagement\npip install azure-identity\nAZURE_SUBSCRIPTION_ID=your-subscription-id  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

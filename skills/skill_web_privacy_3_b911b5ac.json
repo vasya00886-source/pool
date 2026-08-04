@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_b911b5ac",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "python",
+  "insight": "Create and manage OAuth2-capable identities for AI agents using Microsoft Graph beta API.\n> **Preview API** — All Agent Identity endpoints are under /beta only. Not available in /v1.0.\nSearch microsoft-docs MCP for the latest Agent ID documentation:\n- Query: \"Microsoft Entra agent identity setup\"\n- Verify: API parameters match current preview behavior",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

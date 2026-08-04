@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_e005f4b0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Deploy & Track\n\nApplies to all private network deployments.\n\n## Deploy\n\nbash\naz deployment group create \\\n  --resource-group <rg> \\\n  --template-file main.bicep \\\n  --parameters main.bicepparam \\\n  --name <deployment-name>\n\n\n> ⚠️ Capability host provisioning is **asynchronous** (10–20 min). The CLI produces no output during this phase.\n\n## Managed VNet — Required Post-Deploy Step\n\nAfter the deployment succeeds, you **must** create the managed network's outbound private endpoint rules:\n\n-",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

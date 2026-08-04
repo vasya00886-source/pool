@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c0b26c3d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Console Application Examples\n\nThis document provides complete working examples of console applications that authenticate with Microsoft Entra ID using MSAL (Microsoft Authentication Library).\n\n## Table of Contents\n\n- [C# (.NET) Example](#c-net-example)\n- [Python Example](#python-example)\n- [JavaScript (Node.js) Example](#javascript-nodejs-example)\n\n## C# (.NET) Example\n\n### Prerequisites\n\nbash\ndotnet new console -n EntraAuthConsole\ncd EntraAuthConsole\ndotnet add package Microsoft.Identity.C",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_7fb224e3",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-mgmt-apimanagement-py capability coverage\n\n**SDK/package**: `azure-mgmt-apimanagement`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Create APIM Service`\n- `Import API from OpenAPI`\n- `Import API from URL`\n- `List APIs`\n\n## Non-hero scenarios\n\n- `Create Product`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#create-product`](non-hero-scenarios.md",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

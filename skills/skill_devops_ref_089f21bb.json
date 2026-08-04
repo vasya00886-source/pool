@@ -1,0 +1,10 @@
+{
+  "id": "devops_ref_089f21bb",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Error Handling — Scaffold Sub-Skill\n\n| Error | Remediation |\n|-------|-------------|\n| `prepare-plan.json` missing | Trigger prepare backfill via `azure-app-onboard` orchestrator. Do not generate IaC without a plan. |\n| Existing Azure IaC (`.bicep`, `azure.yaml`, or `.tf` with `azurerm` provider) | ⛔ Never delete/overwrite; move to `.copilot-azure/sessions/<id>/replaced-files/` (mirror path), tell the user their original was preserved at that backup location, then scaffold. |\n| Existing non-Az",
+  "tags": [
+    "file"
+  ]
+}

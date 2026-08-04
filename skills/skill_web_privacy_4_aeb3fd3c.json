@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_aeb3fd3c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for managing cryptographic keys in Azure Key Vault and Managed HSM.\ndotnet add package Azure.Security.KeyVault.Keys\ndotnet add package Azure.Identity\n**Current Version**: 4.7.0 (stable)",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

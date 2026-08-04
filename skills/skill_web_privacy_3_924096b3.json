@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_924096b3",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Take a list of projects and their related documentation, and organize them into the SRED format for submission.",
+  "tags": [
+    "automation",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "databases_ref_c630790d",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subagent Template — Quota Validation (Step 5)\n\nValidate SKU quota and offer restrictions across candidate regions before presenting region choices.\n\n## Critical Rules\n\n- ⛔ **Do NOT invoke ANY skills** — no `{\"skill\": \"azure-validate\"}`, `{\"skill\": \"azure-prepare\"}`, or any other skill call. You are a quota-check subagent only.\n- **Read [`sku-quota-validation.md`](sku-quota-validation.md) before executing ANY quota or offer restriction check.** It contains the per-provider API patterns, anti-pa",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

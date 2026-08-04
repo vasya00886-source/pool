@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_4e1883a6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# MCP tools used by vm-creator\n\nThe Azure MCP server exposes the `compute` area as a single namespace proxy: `mcp__azure__compute({intent, command, parameters})`. The commands below are what the workflow dispatches against it.\n\n## Read-only validation (Step 4)\n\n| Command | Purpose | Key parameters |\n|---|---|---|\n| `compute_vm_list-skus` | Confirm SKU availability + filter by vCPU/memory/family | `subscription`, `location`, `minVCpus`, `minMemoryGb`, `familyPrefix`, `top` |\n| `compute_vm_list-im",
+  "tags": [
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

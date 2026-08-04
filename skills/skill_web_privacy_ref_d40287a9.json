@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_d40287a9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AI Gateway Policies\n\nComplete reference for Azure API Management AI governance policies.\n\n---\n\n## Policy Placement Order\n\nRecommended order in `<inbound>` section:\n\n\n1. Authentication (managed identity)\n2. Semantic Cache Lookup\n3. Token Rate Limiting\n4. Content Safety\n5. Backend Selection / Load Balancing\n6. Token Metrics\n\n\n---\n\n## Model Policies\n\n### Token Rate Limiting\n\nControl costs by limiting token consumption per minute.\n\nxml\n<azure-openai-token-limit\n    tokens-per-minute=\"5000",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security"
+  ]
+}

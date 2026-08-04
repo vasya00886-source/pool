@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_bd72da4c",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# The Creative Strategy Loop\n\nGeneration (Modes 1–3) answers \"make me ads.\" This reference answers the question that comes first: **which ads are worth making, in what order, at what production cost** — and the retro that turns each month's results into next month's plan. It's the standing operating loop of a creative strategist, run by an agent with a human deciding.\n\n\nSignals → Concepts (evidence-ranked) → Roadmap (tiered, capacity-checked) → Briefs → [Modes 1–3 produce] → Monthly retro → b",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

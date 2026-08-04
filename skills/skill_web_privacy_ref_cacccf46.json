@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_cacccf46",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-monitor-ingestion-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Async Client\n\npython\nimport asyncio\nfrom azure.monitor.ingestion.aio import LogsIngestionClient\nfrom azure.identity.aio import DefaultAzureCredential\n\nasync def upload_logs():\n    async with DefaultAzureCredential() as credential:\n        async with LogsIngestionClient(",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

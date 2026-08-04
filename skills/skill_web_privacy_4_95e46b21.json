@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_95e46b21",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Big data streaming platform for high-throughput event ingestion.\npip install azure-eventhub azure-identity\n# For checkpointing with blob storage\npip install azure-eventhub-checkpointstoreblob-aio\nEVENT_HUB_FULLY_QUALIFIED_NAMESPACE=<namespace>.servicebus.windows.net  # Required for all auth methods\nEVENT_HUB_NAME=my-eventhub  # Required for all auth methods\nSTORAGE_ACCOUNT_URL=https://<account>.blob.core.windows.net  # Required for checkpoint storage\nCHECKPOINT_CONTAINER=checkp...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

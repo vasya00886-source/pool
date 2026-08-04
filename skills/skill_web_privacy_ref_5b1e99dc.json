@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_5b1e99dc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Case Study: Documentation Skill Synthesis\n\n## Scenario\n\nGoal: create a skill that helps an agent answer and author code for a library without repeatedly re-reading upstream docs.\n\n## Input collection approach\n\nThis case used breadth-first source collection and only stopped when new retrieval yielded mostly duplicates:\n\n1. Official docs landing pages and navigation trees.\n2. All API/class/module reference pages.\n3. Configuration and environment reference pages.\n4. Official examples/tutorials.\n5",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

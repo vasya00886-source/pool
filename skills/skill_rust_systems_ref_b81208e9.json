@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_b81208e9",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Storage SDK Usage\n\nSDK packages and quick start examples for Azure Storage services.\n\n## Storage SDKs by Language\n\n| Language | Blob | Queue | File Share | Data Lake |\n|----------|------|-------|------------|----------|\n| .NET | `Azure.Storage.Blobs` | `Azure.Storage.Queues` | `Azure.Storage.Files.Shares` | `Azure.Storage.Files.DataLake` |\n| Java | `azure-storage-blob` | `azure-storage-queue` | `azure-storage-file-share` | `azure-storage-file-datalake` |\n| JavaScript | `@azure/storage-bl",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

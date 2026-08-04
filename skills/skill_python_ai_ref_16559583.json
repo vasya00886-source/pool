@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_16559583",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-contentsafety-py capability coverage\n\n**SDK/package**: `azure-ai-contentsafety`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Analyze Text`\n- `Analyze Image`\n- `Text Blocklist Management`\n- `Severity Levels`\n\n## Non-hero scenarios\n\n- `Harm Categories`: | Category | Description |  \n  See: [`non-hero-scenarios.md#harm-categories`](non-hero-scenarios.md#harm-categories)\n- `Sev",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "docker",
+    "cli"
+  ]
+}

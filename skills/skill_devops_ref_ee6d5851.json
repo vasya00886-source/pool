@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_ee6d5851",
+  "category": "devops",
+  "level": 4,
+  "language": "go",
+  "insight": "# Analyze Workspace\n\n## ⛔ MANDATORY FIRST — Specialized Technology Delegation\n\n**STOP. Before choosing a mode, check the user's prompt for specialized technology keywords.**\nIf matched, invoke the corresponding skill **immediately** — it has tested templates and correct SDK usage.\n\n> ⚠️ **Re-entry guard**: If azure-prepare was invoked as a **resume** from a specialized skill, **skip this check** and go directly to Step 4.\n\n| User prompt mentions | Action |\n|---------------------|--------|\n| Azur",
+  "tags": [
+    "security",
+    "testing",
+    "docker",
+    "web",
+    "file"
+  ]
+}

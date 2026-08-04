@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_ref_14e9f777",
+  "category": "algorithms",
+  "level": 4,
+  "language": "general",
+  "insight": "# Platform Limits Reference\n\nQuick reference for hashtag limits, character counts, and visible text thresholds on each major social platform.\n\n---\n\n## Instagram\n\n| Element | Limit |\n|---------|-------|\n| Max hashtags | 5 (official limit) |\n| Recommended hashtags | 3 – 5 |\n| Max caption chars | 2,200 |\n| Visible before \"more\" | ~125 chars |\n\n---\n\n## Facebook\n\n| Element | Limit |\n|---------|-------|\n| Max hashtags | No official limit |\n| Recommended hashtags | 1 – 2 |\n| Max post chars | 63,206 |\n|",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

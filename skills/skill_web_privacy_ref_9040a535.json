@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9040a535",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Constant-Time Analysis: PHP\n\nAnalysis guidance for PHP scripts. Uses the VLD extension or OPcache debug output to analyze Zend opcodes.\n\n## Prerequisites\n\n### Installing VLD Extension\n\nThe VLD (Vulcan Logic Dumper) extension is required for detailed opcode analysis. OPcache fallback is available but provides less detail.\n\n**Option 1: PECL Install (Recommended)**\n\nbash\n# Query latest version from PECL\nVLD_VERSION=$(curl -s https://pecl.php.net/package/vld | grep -oP 'vld-\\K[0-9.]+(?=\\.tgz)'",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

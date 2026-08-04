@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_3_77b50732",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Enforces authenticated gh CLI workflows over unauthenticated curl/WebFetch patterns. Use when working with GitHub URLs, API access, pull requests, or issues.",
+  "tags": [
+    "api",
+    "web",
+    "cli",
+    "file"
+  ]
+}

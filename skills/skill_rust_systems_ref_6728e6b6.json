@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_6728e6b6",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Python Release Practices\n\nFor project scaffolding, dependency management (uv), formatting/linting\n(ruff), and type checking (ty), use the **modern-python skill** from this\nmarketplace — do not duplicate its guidance. If that skill is not installed,\napply the toolchain directly with standard configurations: uv for\ndependencies and builds, `ruff format`/`ruff check` for style, ty for type\nchecking (note: ty is pre-1.0 with breaking changes between releases — pin\na version rather than an open flo",
+  "tags": [
+    "api",
+    "security",
+    "testing",
+    "web",
+    "file"
+  ]
+}

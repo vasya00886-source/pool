@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_06eec03f",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Recipe Selection\n\nChoose the deployment recipe based on project needs and existing tooling.\n\n## ⛔ Special Cases: Detect First\n\n**Before selecting a recipe, check for these special project types:**\n\n| Project Type | Detection | Recipe Selection |\n|--------------|-----------|------------------|\n| **.NET Aspire** | `*.AppHost.csproj` or `Aspire.Hosting` package | **AZD (auto via `azd init --from-code`)** → [aspire.md](aspire.md) |\n\n> 💡 **Tip:** .NET Aspire projects always use AZD recipe with auto",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_f7dc5b37",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Before running any atk CLI commands, set the session environment variable so all CLI invocations are tagged as skill-initiated:\nexport ATK_CLI_SKILL=true\nRun this once at the start of the session. All subsequent atk commands in the same terminal will inherit it.\n**Before proceeding, ask the user which path they want to take using AskUserQuestion.** Both are supported for M365 Copilot widget rendering. Present the tradeoffs and let them choose:",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

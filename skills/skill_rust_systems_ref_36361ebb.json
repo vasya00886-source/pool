@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_36361ebb",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Rust Release Practices\n\nUse `cargo` for everything: building, testing (`cargo test`), formatting\n(`cargo fmt`), linting (`cargo clippy`), and documentation (`cargo doc`).\n\n## Toolchain and edition\n\n- Prefer the latest stable compiler and the latest edition for new code.\n- If older-compiler support matters, declare it explicitly with\n  `package.rust-version` in `Cargo.toml` and test that version in CI.\n\n## Crate-level lints\n\nAdd these to `lib.rs`/`main.rs` before release:\n\nrust\n#![forbid(uns",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

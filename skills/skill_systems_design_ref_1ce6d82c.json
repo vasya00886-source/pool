@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_1ce6d82c",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Output Contracts\n\nUse this guide when the skill needs a predictable response shape.\n\n## Choose The Contract\n\n| Need | Use |\n|------|-----|\n| exact sections or headings | strict template |\n| default structure with adaptation | flexible template |\n| style is easier to imitate than describe | input/output examples |\n| format depends on task type | decision table |\n| scripts or tools parse the output | structured schema |\n\n## Strict Template\n\nmarkdown\n# [Title]\n\n## Summary\n[Required summary]\n\n#",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

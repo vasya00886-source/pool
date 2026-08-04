@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_fd48a41a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Skill Design Principles\n\nUse this guide to keep skill instructions dense, scannable, and worth their token cost.\n\n## Core Rule\n\n- Every line should help the agent decide, do, or verify something.\n- Prefer tables, checklists, templates, and input/output examples over explanatory prose.\n- Keep rationale to one short sentence unless the agent is likely to make the wrong choice without it.\n\n## Precision Before Addition\n\nBefore adding instructions, choose one:\n\n| Action | Use when |\n|--------|-----",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_58047f86",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build enterprise agents for Microsoft 365, Teams, and Copilot Studio using the Microsoft Agents SDK with aiohttp hosting, AgentApplication routing, streaming responses, and MSAL-based authentication.\n- Use the microsoft-docs MCP to verify the latest API signatures for AgentApplication, start_agent_process, and authentication options.\n- Confirm package versions on PyPI for the microsoft-agents-\\* packages you plan to use.\n> **⚠️ Breaking Change**: Recent updates have changed the Python import str",
+  "tags": [
+    "api",
+    "performance",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

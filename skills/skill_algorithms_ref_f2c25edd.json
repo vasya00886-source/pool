@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_ref_f2c25edd",
+  "category": "algorithms",
+  "level": 4,
+  "language": "java",
+  "insight": "# Design Tokens\n\nComplete design token reference for the frontend-ui-dark-ts theme system.\n\n## CSS Custom Properties\n\nDefine these in your `globals.css` or a dedicated `tokens.css` file:\n\ncss\n:root {\n  /* ========================================\n   * BRAND COLORS\n   * ======================================== */\n  --color-brand: #8251EE;\n  --color-brand-hover: #9366F5;\n  --color-brand-light: #A37EF5;\n  --color-brand-subtle: rgba(130, 81, 238, 0.15);\n  --color-brand-muted: rgba(130, 81, 238, 0.",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "file"
+  ]
+}

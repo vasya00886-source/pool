@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_0b95d794",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# VM Agent Not Responding\n\nRun Command and password reset depend on the VM agent. If the agent is unhealthy, alternative methods are needed.\n\n> ⚠️ **OS Note:** Serial Console, Boot Diagnostics, and repair VM commands are available for both Windows and Linux but use separate doc pages and tools. Match the correct OS below.\n\n## Symptoms → Solutions\n\n| Symptom                                                          | OS      | Solution                                                 | Documentatio",
+  "tags": [
+    "api",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_90df2664",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "general",
+  "insight": "| Property | Value |\n|----------|-------|\n| Best for | Executing validated IaC against Azure, health-checking deployed resources |\n| Inputs | prepare-plan.json + scaffold-manifest.json from .copilot-azure/sessions/{id}/ |\n| Outputs | deploy-result.json written to session directory |\n| Parent | [azure-app-onboard](../SKILL.md) |\nInvoked by the azure-app-onboard orchestrator at Phase 4 when scaffold-manifest.json exists with files[] and validationResult. Not directly user-routable.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

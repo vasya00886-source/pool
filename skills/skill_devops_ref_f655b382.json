@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_f655b382",
+  "category": "devops",
+  "level": 4,
+  "language": "go",
+  "insight": "# Terraform Generation\n\nGenerate Terraform IaC files from the approved infrastructure plan.\n\n## File Structure\n\nGenerate files under `<project-root>/infra/`:\n\n\ninfra/\n├── main.tf                 # Root module — calls child modules\n├── variables.tf            # Input variable declarations\n├── outputs.tf              # Output values\n├── terraform.tfvars        # Default variable values\n├── providers.tf            # Provider configuration\n├── backend.tf              # State backend configuration",
+  "tags": [
+    "automation",
+    "testing",
+    "file"
+  ]
+}

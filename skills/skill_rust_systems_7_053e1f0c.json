@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_053e1f0c",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure Cosmos DB NoSQL API — document CRUD, containers, and globally distributed data.\nUse this skill when:\n- An app needs to store or query documents in Cosmos DB from Rust\n- You need CRUD operations on items with partition keys\n- You need key-based auth as an alternative to Entra ID",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

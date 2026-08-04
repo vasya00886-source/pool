@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_4_8513dda4",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "One-line setup for Application Insights with OpenTelemetry auto-instrumentation.\npip install azure-monitor-opentelemetry\nAPPLICATIONINSIGHTS_CONNECTION_STRING=InstrumentationKey=xxx;IngestionEndpoint=https://xxx.in.applicationinsights.azure.com/  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "cli",
+    "file"
+  ]
+}

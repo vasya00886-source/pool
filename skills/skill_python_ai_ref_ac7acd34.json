@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_ac7acd34",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# m365-agents-py capability coverage\n\n**SDK/package**: `microsoft-agents-hosting-core, microsoft-agents-hosting-aiohttp, microsoft-agents-activity, microsoft-agents-authentication-msal, microsoft-agents-copilotstudio-client`\n\nThis reference mirrors the actual capability sections in `SKILL.md` and provides concrete non-hero examples for implementation guidance.\n\n## Hero scenarios covered in SKILL.md\n\n- `Core Workflow: aiohttp-hosted AgentApplication`\n- `AgentApplication Routing`\n- `Streaming Resp",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

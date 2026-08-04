@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_9befa5f1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when moderating user-generated content, detecting hate speech, violence, sexual content, or self-harm, or managing custom blocklists.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "docker"
+  ]
+}

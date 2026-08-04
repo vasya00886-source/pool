@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_dbcc9f82",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Gate Reviews and Verdicts\n\nBefore reporting ANY bug as a vulnerability, all six gate reviews must pass. Evaluate these during the GATE REVIEW task after all phases are complete:\n\n| Gate | Criterion | Pass | Fail |\n|------|-----------|------|------|\n| **1. Process** | All phases completed with documented evidence | Evidence exists for every phase | Phases lack concrete evidence |\n| **2. Reachability** | Attacker can reach and control data at the vulnerability | Clear evidence of attacker-contro",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

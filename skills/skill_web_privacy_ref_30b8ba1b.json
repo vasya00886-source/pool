@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_30b8ba1b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Remote MCP server, user Entra token (`type: mcp`, auth `UserEntraToken`)\n\nAttach a remote MCP server that authenticates with the **caller's own Entra identity** — the platform forwards the signed-in user's Entra token to the MCP server (auth type `UserEntraToken`), so the server sees the **end user**, not a shared credential. No BYO app registration, client secret, or OAuth consent flow. Needs a **connection** (`--kind remote-tool --auth-type user-entra-token`) scoped to the upstream re",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

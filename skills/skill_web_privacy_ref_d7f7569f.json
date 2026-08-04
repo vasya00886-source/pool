@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d7f7569f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Scaffolding Workflow\n\nStep-by-step instructions for scaffolding a new M365 Copilot agent project.\n\n## ⛔ STOP — READ THIS FIRST\n\n### ATK CLI Setup\n\nCheck if ATK CLI is available by running `npx -y --package @microsoft/m365agentstoolkit-cli atk --version`. If the command is not found, **STOP and tell the user** that the ATK CLI is required but not installed. Do NOT attempt to install it yourself — the user must install ATK separately before you can proceed.\n\n### The Only Valid Command\n\nCopy this",
+  "tags": [
+    "api",
+    "testing",
+    "web",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_aac3d97d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# MCP Integration Reference\n\nModel Context Protocol (MCP) integration patterns for Azure AI agents.\n\n## Overview\n\nThe Agent Framework supports two MCP tool types:\n\n| Tool | Management | Use Case |\n|------|------------|----------|\n| `HostedMCPTool` | Service-managed | MCP servers the Azure AI service connects to |\n| `MCPStreamableHTTPTool` | Client-managed | MCP servers your code connects to |\n\n---\n\n## HostedMCPTool (Service-Managed)\n\nThe Azure AI service manages the MCP connection lifecycle.\n\n##",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

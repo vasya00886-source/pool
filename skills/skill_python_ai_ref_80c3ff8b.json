@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_80c3ff8b",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Agentic Retrieval with Knowledge Bases\n\nAgentic retrieval integrates an LLM to process queries, retrieve content, and generate grounded answers.\n\n## Architecture\n\n\nKnowledge Base (wraps LLM + sources)\n    ├── Knowledge Source 1 → Search Index A\n    ├── Knowledge Source 2 → Search Index B\n    └── Azure OpenAI Model (query planning + answer synthesis)\n\n\n## Setup Workflow\n\n### 1. Create Index with Semantic Configuration\n\npython\nfrom azure.search.documents.indexes import SearchIndexClient",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

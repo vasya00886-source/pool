@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_1d909aae",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Interpreting Property-Based Test Failures\n\nHow to analyze failures and determine if they represent genuine bugs.\n\n## The Self-Reflection Problem\n\nProperty-based testing generates many failing examples. Not all failures are bugs:\n- **Test bugs**: Property is wrong, strategy generates invalid inputs\n- **Ambiguous specs**: Behavior undefined for edge cases\n- **Genuine bugs**: Code violates documented guarantees\n\nBefore reporting a bug, **validate the failure** through systematic analysis.\n\n## Fai",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing"
+  ]
+}

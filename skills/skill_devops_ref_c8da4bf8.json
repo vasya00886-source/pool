@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_c8da4bf8",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Steps 8–10 — Re-Evaluate, Compare Versions, Iterate\n\n## Step 8 — Re-Evaluate\n\nUse **`evaluation_agent_batch_eval_create`** for re-evaluation, even when the selected evaluation suite has `suiteName`. The generated suite preserves the reviewed dataset/evaluator bundle for selection and lineage, but the run should target the agent directly. Reuse the **same `evaluationId`** as the baseline run when the evaluator set and thresholds are unchanged. Use the same local or registered test dataset (from",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

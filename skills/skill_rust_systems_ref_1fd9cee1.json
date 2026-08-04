@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_1fd9cee1",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# LLVM IR Analysis for Zeroization Auditing\n\nThis reference covers multi-level IR analysis for detecting compiler-optimized zeroization (dead-store elimination of wipes) and interpreting results. Read this during Step 7 (IR comparison) and Step 9 (semantic IR analysis) in `task.md`. For flag extraction and pipeline setup, refer to the compile-commands reference (loaded separately from SKILL.md).\n\n---\n\n## Optimization Level Semantics\n\n| Level | What changes | Relevance to zeroization |\n|---|---|-",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

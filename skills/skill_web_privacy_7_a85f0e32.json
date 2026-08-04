@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_a85f0e32",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Manage container images, artifacts, and repositories in Azure Container Registry.\npip install azure-containerregistry\nAZURE_CONTAINERREGISTRY_ENDPOINT=https://<registry-name>.azurecr.io  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_d14d2f8e",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# Service Mapping Tables\n\nComponent→Azure service selection. Apply `context.json.intent` as modifiers, `context.json.overrides[]` as hard constraints, and policy constraints as filters.\n\n## Hosting\n\n> ⛔ **Implicit dependencies:** When selecting Container Apps and the component has a Dockerfile (or `hasDockerfile: true` in prereq), **ALWAYS include Container Registry (Basic)** in `services[]`. Container Apps requires ACR to host custom images — omitting it forces an imperative add during deploy,",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

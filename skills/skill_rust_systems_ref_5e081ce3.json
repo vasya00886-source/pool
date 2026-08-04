@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_5e081ce3",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Review Output Format\n\n\n## Frontend Design Review: [Component/Feature Name]\n\n### Context\n- **Purpose**: What problem does this solve? Who uses it?\n- **Aesthetic Direction**: [If new design: describe the bold conceptual direction]\n- **User Task**: What is the user trying to accomplish?\n\n### Summary\n[Pass/Needs Work/Blocked] - [One-line assessment]\n\n### Design System Compliance (if applicable)\n- [ ] Component exists in [Your Figma Design System]\n- [ ] Component usage verified in [Your Componen",
+  "tags": [
+    "api",
+    "automation",
+    "web"
+  ]
+}

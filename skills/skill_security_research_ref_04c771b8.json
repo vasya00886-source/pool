@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_04c771b8",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Gate Rules\n\nStart with deterministic, conservative rules. A triggered rule creates a\nreview obligation; it does not prove a vulnerability.\n\n| Rule | Verdict | Why it matters |\n|---|---|---|\n| New untrusted entrypoint | `FAIL` | Expands external attack surface |\n| New path from untrusted entrypoint to sensitive sink | `FAIL` | Creates a candidate exploit path |\n| Removed auth, validation, or sanitization call on reachable path | `FAIL` | Common regression in fixes and feature PRs |\n| Newly tain",
+  "tags": [
+    "security",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_06b4d7ac",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Local Run Reference\n\nUse this when iterating on a hosted agent before deploying.\n\n> **Prerequisite:** Local run does NOT require `azd provision` or any deployed Azure infrastructure. The agent runs on your machine and calls the Foundry model endpoint directly using your local credentials (`DefaultAzureCredential` — falls back to `az login` / VS Code identity). You only need a `.env` file in the agent directory with:\n> env\n> FOUNDRY_PROJECT_ENDPOINT=https://<account>.services.ai.azure.com/ap",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

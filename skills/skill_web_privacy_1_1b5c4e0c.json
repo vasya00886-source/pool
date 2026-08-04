@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_1_1b5c4e0c",
+  "category": "web_privacy",
+  "level": 1,
+  "language": "rust",
+  "insight": "Manage Microsoft Fabric capacities and resources programmatically.\npip install azure-mgmt-fabric\npip install azure-identity\nAZURE_SUBSCRIPTION_ID=<your-subscription-id>  # Required for all auth methods\nAZURE_RESOURCE_GROUP=<your-resource-group>  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

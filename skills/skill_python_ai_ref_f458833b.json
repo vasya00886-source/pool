@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_f458833b",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# azure-ai-ml-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Jobs\n\n### Command Job\n\npython\nfrom azure.ai.ml import command, Input\n\njob = command(\n    code=\"./src\",\n    command=\"python train.py --data ${{inputs.data}} --lr ${{inputs.learning_rate}}\",\n    inputs={\n        \"data\": Input(type=\"uri_folder\", path=\"azureml:my-dataset:1\"),\n        \"",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

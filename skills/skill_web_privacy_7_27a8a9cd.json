@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_27a8a9cd",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Prepares codebases for security review using Trail of Bits' checklist. Helps set review goals, runs static analysis tools, increases test coverage, removes dead code, ensures accessibility, and generates documentation (flowcharts, user stories, inline comments).",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

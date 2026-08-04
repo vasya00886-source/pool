@@ -1,0 +1,13 @@
+{
+  "id": "systems_design_ref_0efcd2c0",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Claude Frontmatter And Invocation\n\nLoad this when the skill needs Claude Code-specific frontmatter or invocation control.\n\n## Use this file for\n\n- extra trigger metadata\n- invocation visibility rules\n- skill-scoped model or effort overrides\n- path or shell activation controls\n\n## Relevant fields\n\n| Field | Purpose | Notes |\n|-------|---------|-------|\n| `when_to_use` | extra trigger context for Claude | additive only; keep trigger-rich language in `description` |\n| `disable-model-invocation` |",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

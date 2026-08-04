@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_6fd50c67",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Script-Backed Skill Layout\n\nUse this layout when parsing, validation, APIs, or repeatable transformations are fragile in plain shell or prose alone.\n\n## Choose this layout when\n\n- the skill benefits from deterministic automation\n- repeated shell snippets would be brittle\n- validation or data extraction should be reusable\n\n## File layout\n\ntext\nmy-skill/\n├── SKILL.md\n└── scripts/\n    ├── fetch.py\n    └── validate.py\n\n\n## Required contract\n\n1. Every script is named in `SKILL.md` with argume",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

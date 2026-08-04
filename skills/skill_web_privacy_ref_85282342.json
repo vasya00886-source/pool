@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_85282342",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Positioning Variations Library\n\nDirectory audiences respond to different framings. Never copy-paste the same description everywhere — AI engines penalize duplicate content, and each directory type rewards a different opener.\n\nUse this library to generate per-tier variants. Swap `[product]`, `[category]`, `[competitors]`, `[use-case]`, and `[audience]` with the real values.\n\n---\n\n## Framework: Lead Sentence Varies by Tier\n\n| Tier | Lead sentence pattern | Why |\n|---|---|---|\n| Startup / launch",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "web"
+  ]
+}

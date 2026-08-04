@@ -1,0 +1,14 @@
+{
+  "id": "databases_7_2e33a5e6",
+  "category": "databases",
+  "level": 7,
+  "language": "rust",
+  "insight": "Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry). Use when adding distributed tracing, metrics, and logs to Node.js applications with Application Insights.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

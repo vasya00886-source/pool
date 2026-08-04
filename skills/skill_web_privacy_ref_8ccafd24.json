@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_8ccafd24",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Region Availability Reference\n\n> **AUTHORITATIVE SOURCE** — Consult this file BEFORE recommending any region.\n>\n> Official reference: https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table\n\n## How to Use\n\n1. Check if your architecture includes any **limited availability** services below\n2. If yes → refer to the table or use the MCP tool to list supported regions with sufficient quota for that service, and only offer regions that support ALL services\n3. I",
+  "tags": [
+    "data",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

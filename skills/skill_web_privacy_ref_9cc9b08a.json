@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9cc9b08a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Step 2 - Run Evaluation\n\n## Prerequisites\n\n- Agent deployed and running in the selected environment\n- Selected `.foundry/agent-metadata*.yaml` file loaded for the active agent root\n- Evaluation suite selected from the environment's `evaluationSuites[]`\n- For generated suites: `suiteName` present and verified with `evaluation_suite_get`\n- For legacy suites: local dataset and evaluator metadata available in `.foundry/`\n\n## Definition of Done — Evaluation Run\n\nA Step 2 evaluation run is complete",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

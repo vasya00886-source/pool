@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_c11293a8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Microsoft Playwright Testing workspaces via Azure Resource Manager.\n> **⚠️ Management vs Test Execution**\n> - **This SDK (Azure.ResourceManager.Playwright)**: Create workspaces, manage quotas, check name availability\n> - **Test Execution SDK (Azure.Developer.MicrosoftPlaywrightTesting.NUnit)**: Run Playwright tests at scale on cloud browsers\ndotnet add package Azure.ResourceManager.Playwright\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

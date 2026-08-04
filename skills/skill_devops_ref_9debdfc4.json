@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_9debdfc4",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# GPU Compatibility Reference\n\nThis reference is used by the `airunway-aks-setup` skill during **Step 3 — GPU Assessment** to match detected GPU hardware to known compatibility profiles and surface constraints before model deployment.\n\n## GPU Profiles\n\n| GPU Model | VRAM (GB) | bfloat16 | float16 | Attention Backends | Compute Capability | Notes |\n|-----------|-----------|----------|---------|-------------------|-------------------|-------|\n| T4 | 16 | No | Yes | XFORMERS | 7.5 | No bfloat16 — m",
+  "tags": [
+    "performance",
+    "automation",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6256624f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Localization Workflow\n\n## Quick Reference — Complete Localization Checklist\n\n**For adding localization to an agent (Workflow A):**\n\n1. ⛔ Tokenize `declarativeAgent.json` → replace `name`, `description`, all `conversation_starters[].title` and `.text` with `[[token]]` syntax\n2. ⛔ Create language files → `en.json` (default) + one per additional language, each with `name.short`, `name.full`, `description.short`, `description.full`, and `localizationKeys` mapping EVERY token\n3. ⛔ Update `manifest.",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

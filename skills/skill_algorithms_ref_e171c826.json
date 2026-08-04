@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_ref_e171c826",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Quick Checklist\n\nBefore approving any UI work:\n\n## Design System Compliance\n- [ ] Component verified in your Figma Design System\n- [ ] Component implementation checked in your Component Library\n- [ ] Figma Dev Mode specs followed (spacing, tokens, typography)\n- [ ] Design tokens used (no hardcoded hex colors or pixel values)\n- [ ] Token imports verified in code\n- [ ] All variants/states implemented as designed in Figma\n- [ ] Spacing measurements match Figma Dev Mode exactly\n- [ ] Deviations do",
+  "tags": [
+    "api",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

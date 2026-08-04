@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_356714da",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Measurement Framework — KPIs, North Stars, Cadence\n\nEvery plan needs a measurement section that tells the team how to know if the plan is working. This doc is the source for Section 13's measurement subsection.\n\n**Related docs:**\n- `growth-patterns.md` — the 3-3-2-2-2 VC growth path (3× in years 1–2, 2× in years 3–7 from $1M ARR) and which phase of SaaS growth the company is in ($0–10K / $10K–100K / $100K–1M+)\n- `budget-planning.md` — CAC calculation (blended, not paid-only) and the forecastin",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

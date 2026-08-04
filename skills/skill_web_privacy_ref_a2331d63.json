@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a2331d63",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI VoiceLive Java SDK - Examples\n\nComprehensive code examples for the Azure AI VoiceLive SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Session Management](#session-management)\n- [Session Configuration](#session-configuration)\n- [Audio Streaming](#audio-streaming)\n- [Event Handling](#event-handling)\n- [Voice Configuration](#voice-configuration)\n- [Function Calling](#function-calling)\n- [Error Handling](#error-handling",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

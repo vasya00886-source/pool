@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_01613ad9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Email Copy Guidelines\n\n## Contents\n- Structure\n- Formatting\n- Tone\n- Length\n- CTA Buttons vs. Links\n- Personalization (merge fields, dynamic content, triggered emails)\n- Segmentation Strategies (by behavior, by stage, by profile)\n- Testing and Optimization (what to test, how to test, metrics to track)\n\n## Structure\n\n1. **Hook**: First line grabs attention\n2. **Context**: Why this matters to them\n3. **Value**: The useful content\n4. **CTA**: What to do next\n5. **Sign-off**: Human, warm close\n\n##",
+  "tags": [
+    "performance",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

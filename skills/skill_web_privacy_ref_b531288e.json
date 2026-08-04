@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_b531288e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Workflow Details\n\n## Status Tracking\n\nMaintain a `migration-status.md` file in the output directory (`<workspace-root-basename>-azure/`):\n\nmarkdown\n# Migration Status\n| Phase | Status | Notes |\n|-------|--------|-------|\n| Assessment | ⬜ Not Started | |\n| Code Migration | ⬜ Not Started | |\n\n\nUpdate status: ⬜ Not Started → 🔄 In Progress → ✅ Complete → ❌ Failed\n\n## User Progress Updates\n\nDuring long-running operations (Azure deployments, image pushes, environment provisioning), **proactive",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

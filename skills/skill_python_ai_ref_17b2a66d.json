@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_17b2a66d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Testing with pytest\n\nConfiguration and best practices for pytest with coverage enforcement.\n\n## Setup\n\nAdd test dependencies:\n\nbash\nuv add --group test pytest pytest-cov hypothesis\n\n\n## pyproject.toml Configuration\n\ntoml\n[tool.pytest]\ntestpaths = [\"tests\"]\npythonpath = [\"src\"]\naddopts = [\n    \"-ra\",                      # Show summary of all test outcomes\n    \"--strict-markers\",         # Error on unknown markers\n    \"--strict-config\",          # Error on config issues\n    \"--cov=mypr",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

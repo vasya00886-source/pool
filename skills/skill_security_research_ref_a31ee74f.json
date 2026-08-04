@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_a31ee74f",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Key Vault Expiration Audit & Compliance\n\nAutomated auditing of Azure Key Vault resources to identify expired or expiring keys, secrets, and certificates before they cause service disruptions.\n\n## Overview\n\nThis skill monitors Azure Key Vault resources (keys, secrets, certificates) for expiration issues. It helps prevent service disruptions by identifying:\n- **Expired resources** causing active problems\n- **Expiring soon** (within customizable days threshold)\n- **Missing expiration dates** (sec",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

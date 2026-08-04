@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_33d2ceb0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Performance Antipatterns\n\nTen common performance antipatterns in cloud applications and how to resolve them.\n\n---\n\n## 1. Busy Database\n\n**Description:** Offloading too much processing to a data store. Using stored procedures for formatting, string manipulation, or complex calculations that belong in the application tier.\n\n**Why it happens:**\n- Database viewed as a service rather than a repository\n- Developers write queries that format data for direct display\n- Attempts to correct Extraneous Fe",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

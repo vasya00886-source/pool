@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_295a73ae",
+  "category": "networking",
+  "level": 4,
+  "language": "general",
+  "insight": "# VMSS Guide\n\nDetermine when to recommend a Virtual Machine Scale Set (VMSS) over a single VM, and which VMSS configuration to suggest.\n\n> **Note:** This reference provides quick guidance but may become stale. Always verify VMSS features, limitations, and orchestration mode capabilities by fetching the latest documentation from:\n> - https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview\n> - https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-sc",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

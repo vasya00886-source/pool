@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_0363dd24",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "java",
+  "insight": "# Azure Monitor OpenTelemetry Exporter Java - Migration Guide\n\n> **⚠️ DEPRECATION NOTICE**: This package (`azure-monitor-opentelemetry-exporter`) is deprecated.\n>\n> **Migrate to `azure-monitor-opentelemetry-autoconfigure`** for automatic instrumentation and simplified configuration.\n\n## Migration Overview\n\n| Old Package | New Package |\n|-------------|-------------|\n| `azure-monitor-opentelemetry-exporter` | `azure-monitor-opentelemetry-autoconfigure` |\n\n## Maven Dependency\n\n### Remove (Deprecate",
+  "tags": [
+    "api",
+    "automation",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_352e817c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "java",
+  "insight": "High-level SDK for Azure AI Foundry project management with access to connections, datasets, indexes, and evaluations.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-ai-projects</artifactId>\n    <version>1.0.0-beta.1</version>\n</dependency>\nPROJECT_ENDPOINT=https://<resource>.services.ai.azure.com/api/projects/<project> # Required for project configuration\nAZURE_TOKEN_CREDENTIALS=prod  # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

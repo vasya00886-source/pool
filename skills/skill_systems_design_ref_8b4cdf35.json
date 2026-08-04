@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_8b4cdf35",
+  "category": "systems_design",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Microsoft Entra SDK for AgentID: Polyglot Agent Authentication\n\nContainerized companion service that handles token management for AI agents via HTTP — any language, any framework.\n\n> **Preview** — Image: `mcr.microsoft.com/entra-sdk/auth-sidecar:<tag>`. Check [GitHub releases](https://github.com/AzureAD/microsoft-identity-web/releases) for tags.\n\n## Architecture\n\n\nClient App → Your Agent (Python/Node/Go/Java) → Microsoft Entra SDK for AgentID (localhost:5000) → Microsoft Entra ID",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

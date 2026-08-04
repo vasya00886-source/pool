@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_039e136a",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Dataset Curation — Human-in-the-Loop Review\n\nReview, annotate, and approve harvested trace candidates before including them in evaluation datasets. This ensures dataset quality by adding a human review gate between raw trace extraction and finalized test cases.\n\n## Workflow Overview\n\n\nRaw Traces (from KQL harvest)\n    │\n    ▼\n[1] Candidate File (unreviewed)\n    │\n    ▼\n[2] Human Review (approve/edit/reject each)\n    │\n    ▼\n[3] Approved Dataset (versioned, ready for eval)\n\n\n## Step 1 — G",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

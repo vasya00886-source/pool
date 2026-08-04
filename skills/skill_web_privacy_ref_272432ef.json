@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_272432ef",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Event Hubs Java SDK - Examples\n\nComprehensive code examples for the Azure Event Hubs SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [EventHubProducerClient](#eventhubproducerclient)\n- [EventHubConsumerClient](#eventhubconsumerclient)\n- [EventProcessorClient](#eventprocessorclient)\n- [Checkpointing Patterns](#checkpointing-patterns)\n- [Partition Handling](#partition-handling)\n\n---\n\n## Maven Dependency\n\nxml\n<dependency>\n    <groupId>com.azure</groupId>",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

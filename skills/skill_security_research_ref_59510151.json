@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_59510151",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Global Rules\n\nThese rules apply to ALL phases of the azure-upgrade skill.\n\n## Destructive Action Policy\n\n⛔ **NEVER** perform destructive actions without explicit user confirmation via `ask_user`:\n- Deleting apps, services, or resource groups\n- Stopping or disabling the original app/service\n- Overwriting app settings or configuration in the new app\n- Removing the original hosting plan or service tier\n- Modifying DNS or custom domain bindings\n\n## User Confirmation Required\n\nAlways use `ask_user`",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

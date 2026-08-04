@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_88c566ac",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for Azure Queue Storage — send, receive, and manage queue messages.\nUse this skill when:\n- An app needs to send or receive messages from Azure Queue Storage in Rust\n- You need to create or manage queues\n- You need to peek, receive, or delete queue messages\n- You need RBAC-based auth for queue operations",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

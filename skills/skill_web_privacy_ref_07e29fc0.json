@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_07e29fc0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Data Tables SDK for Java - Examples\n\nComprehensive code examples for the Azure Data Tables SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Creating Tables](#creating-tables)\n- [CRUD Operations on Entities](#crud-operations-on-entities)\n- [Querying Entities](#querying-entities)\n- [Batch/Transactional Operations](#batchtransactional-operations)\n- [Async Client Patterns](#async-client-patterns)\n- [Error Handling](#error-ha",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

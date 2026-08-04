@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c706cd7a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Sentry Presentation Design System\n\n## Color Palette\n\n### Color Philosophy\n\nUse two distinct color sets:\n\n1. **Semantic colors** — Only when the color itself carries meaning (good/bad, success/failure, warning). Do not use these for arbitrary data grouping.\n2. **Categorical colors** — For distinguishing data series, groups, or categories where color has no inherent meaning. Inspired by Tableau's palette for maximum distinguishability.\n\n### CSS Variables\n\ncss\n:root {\n  /* ── UI chrome ── */",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

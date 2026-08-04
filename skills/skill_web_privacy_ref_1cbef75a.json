@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1cbef75a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# CLI CRUD and Operations\n\nUse `azd ai routine` for imperative routine CRUD and operations. Every verb accepts `--output json` or `--output table` (default), and `-p <endpoint>` to override the resolved project endpoint.\n\n## Vocabulary: CLI aliases vs. manifest values\n\nA routine is a **trigger** (when it fires) plus an **action** (what it does). There are two spellings for each type: the CLI flags accept a short **alias**, while a `--file` manifest (and `azure.yaml`) use the raw **wire `type:` v",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_70468464",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Scaffold Workflow\n\nUse this workflow to make a Python agent optimizable before running Agent Optimizer in Foundry.\n\n## Step 1: Resolve Target and Goal\n\nStay inside the selected agent root. Confirm the project is Python using `requirements.txt`, `pyproject.toml`, `setup.py`, or Python entrypoints.\n\nIdentify the optimization goal from user input, selected `evaluationSuites[]`, `.foundry/evaluators/*`, recent result summaries, datasets, or code/test comments. If the goal is unclear, proceed conse",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_4176a52f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Checkpointing Reference\n\nPersistent checkpointing with BlobCheckpointStore for Azure Event Hubs consumer applications.\n\n## Overview\n\nCheckpointing tracks the last successfully processed event position per partition. This enables:\n- **Resumption** — Continue from where you left off after restart\n- **Load balancing** — Distribute partitions across multiple consumers\n- **Exactly-once processing** — When combined with idempotent downstream operations\n\n## Installation\n\nbash\nnpm install @azure/ev",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

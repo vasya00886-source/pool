@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_e2499d05",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-storage-queue-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Update Message\n\npython\n# Extend visibility or update content\nmessages = queue_client.receive_messages()\nfor message in messages:\n    # Extend timeout (need more time)\n    queue_client.update_message(\n        message,\n        visibility_timeout=60\n    )\n    \n    # Update con",
+  "tags": [
+    "data",
+    "cli",
+    "file"
+  ]
+}

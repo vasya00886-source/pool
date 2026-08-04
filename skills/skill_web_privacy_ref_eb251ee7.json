@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_eb251ee7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Evaluation Suite Generation\n\nUse generated suites as the preferred setup path for deployed agents. The suite generation job can create synthetic or trace-derived data plus a rubric-based evaluator from agent, dataset, file, prompt, or trace context.\n\n## Step 1: Ask the User Which Source to Use (MANDATORY)\n\n> ⚠️ **Do not call `evaluation_suite_generation_job_create` without asking the user first.** The generation source materially changes the suite's coverage and cost. Use `ask_user` / `askQues",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

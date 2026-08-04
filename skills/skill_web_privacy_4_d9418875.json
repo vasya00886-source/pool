@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_d9418875",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

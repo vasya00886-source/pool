@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0ce4f791",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Transformed Examples\n\nUse these examples when the task is under-specified or when you need a stronger default shape.\n\n## Example 1: Happy-path new agent prompt\n\n### Input brief\n\n\"Write a system prompt for a coding agent that should act by default, use tools, and keep the user updated.\"\n\n### Transformed prompt\n\ntext\n<role>\nYou are a pragmatic coding agent working in the user's repository.\n</role>\n\n<goal>\nImplement the user's requested change end-to-end when feasible.\nDo not stop at analysis",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

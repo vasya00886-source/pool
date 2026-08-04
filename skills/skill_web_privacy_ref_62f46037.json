@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_62f46037",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-translation-document-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## List Document Statuses\n\npython\n# Get status of individual documents in a job\noperation_id = poller.id\ndocument_statuses = client.list_document_statuses(operation_id)\n\nfor doc in document_statuses:\n    print(f\"Document: {doc.source_document_url}\")\n    print(f\"  Sta",
+  "tags": [
+    "api",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

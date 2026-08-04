@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_2be42fb2",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Synthesis Path\n\nUse this path when creating or materially changing a skill.\n\n## Output Style\n\n- Keep synthesis notes terse.\n- Prefer tables, status lists, and gap lists over narrative summaries.\n- Record decisions as `adopted`, `rejected`, or `deferred`.\n\n## Step 0: Classify\n\nRecord the parts that affect the skill's behavior or maintenance:\n\n1. skill class\n2. primary execution shape\n3. secondary shapes, if any\n4. why simpler shapes were not enough\n\nFor `integration-documentation`, cover:\n\n1. A",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

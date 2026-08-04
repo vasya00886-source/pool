@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_66036314",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Credential and Authentication Errors\n\nUse when the VM is reachable but sign-in fails.\n\n## Symptoms -> Solutions\n\n| Symptom | OS | Action | Docs |\n| --- | --- | --- | --- |\n| credentials failed, must change password, account expired | Windows | Reset password; extend account if needed | [Reset RDP] |\n| trust relationship failed | Windows | Reset machine account or rejoin domain | [RDP overview] |\n| access denied, connection denied, wrong local/domain format | Windows | Add Remote Desktop Users;",
+  "tags": [
+    "automation",
+    "security",
+    "cli"
+  ]
+}

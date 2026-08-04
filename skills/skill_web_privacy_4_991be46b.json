@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_991be46b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "A fuzzing dictionary provides domain-specific tokens to guide the fuzzer toward interesting inputs. Instead of purely random mutations, the fuzzer incorporates known keywords, magic numbers, protocol commands, and format-specific strings that are more likely to reach deeper code paths in parsers, protocol handlers, and file format processors.\nDictionaries are text files containing quoted strings that represent meaningful tokens for your target. They help fuzzers bypass early validation checks an",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_5de3b9a1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AI Gateway Troubleshooting\n\nCommon issues when using Azure API Management as an AI Gateway.\n\n---\n\n## Authentication Issues\n\n### 401 Unauthorized from Backend\n\n**Symptom**: APIM returns `401` when calling Azure OpenAI.\n\n**Causes & Solutions**:\n\n| Cause | Fix |\n|-------|-----|\n| Managed identity not enabled on APIM | `az apim update --name <apim> --resource-group <rg> --set identity.type=SystemAssigned` |\n| Missing RBAC role | `az role assignment create --assignee <apim-principal-id> --role \"Cog",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

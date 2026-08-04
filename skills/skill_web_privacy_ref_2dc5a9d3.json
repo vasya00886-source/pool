@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_2dc5a9d3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Solidity Entry Point Detection\n\n## Entry Point Identification (State-Changing Only)\n\n### Include: State-Changing Functions\nsolidity\nfunction name() external { }           // State-changing entry point\nfunction name() external payable { }   // State-changing, receives ETH\nfunction name() public { }             // State-changing entry point\n\n\n### Exclude: Read-Only Functions\nsolidity\nfunction name() external view { }      // EXCLUDE - cannot modify state\nfunction name() external pure {",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

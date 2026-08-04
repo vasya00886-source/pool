@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_9965504f",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-messaging-webpubsubservice-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Operational hardening\n\n### Retry Policy\n\nConfigure retries for transient failures via `azure-core` retry policy:\n\npython\nimport os\nfrom azure.messaging.webpubsubservice import WebPubSubServiceClient\nfrom azure.identity import DefaultAzureCredential\nfrom azure.c",
+  "tags": [
+    "api",
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

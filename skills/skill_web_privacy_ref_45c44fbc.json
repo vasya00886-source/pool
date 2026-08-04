@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_45c44fbc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# macOS arm64e Workaround\n\nMethods for building CodeQL databases on macOS Apple Silicon when the `arm64e`/`arm64` architecture mismatch causes SIGKILL (exit code 137) during build tracing.\n\n**Use when `IS_MACOS_ARM64E=true`** (detected in build-database workflow Step 2a). These replace Methods 1 and 2 on affected systems.\n\nThe strategy is to use Homebrew-installed tools (plain `arm64`, not `arm64e`) so `libtrace.dylib` can be injected successfully. Try sub-methods in order:\n\n## Sub-method 2m-a:",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

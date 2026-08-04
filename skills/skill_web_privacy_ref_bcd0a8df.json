@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_bcd0a8df",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# A/B Test Templates Reference\n\nTemplates for planning, documenting, and analyzing experiments.\n\n## Contents\n- Test Plan Template\n- Results Documentation Template\n- Test Repository Entry Template\n- Quick Test Brief Template\n- Stakeholder Update Template\n- Experiment Prioritization Scorecard\n- Hypothesis Bank Template\n\n## Test Plan Template\n\nmarkdown\n# A/B Test: [Name]\n\n## Overview\n- **Owner**: [Name]\n- **Test ID**: [ID in testing tool]\n- **Page/Feature**: [What's being tested]\n- **Planned dat",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

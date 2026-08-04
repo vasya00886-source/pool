@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_12a49120",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# RDP Service and Configuration Issues\n\nVM is reachable but the RDP service itself is broken or misconfigured.\n\n## Symptoms → Solutions\n\n| Symptom                                | Solution                                                               | Documentation                                                                                                                                    |\n| -------------------------------------- | ---------------------------------------------------------",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

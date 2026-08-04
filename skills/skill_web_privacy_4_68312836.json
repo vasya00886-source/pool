@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_68312836",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

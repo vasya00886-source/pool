@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2f889a1d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Zero-Code Path\n\nWhen the workspace is empty (no project files, no Dockerfile), prereq scaffolds a starter project before evaluating.\n\n## Step 0: Check Existing Context\n\n⛔ **Before asking anything, check `context.json.intent.userPrompt`.** The orchestrator (or the user's original message on direct entry) already captured what the user wants. If `userPrompt` contains an app description (e.g., \"build me a todo app\", \"REST API with auth\", \"a notes app with three tabs\"), treat it as the answer to \"",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

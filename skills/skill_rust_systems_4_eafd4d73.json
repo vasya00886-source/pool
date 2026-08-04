@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_eafd4d73",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Safely review and apply CodeRabbit PR review-thread feedback from GitHub with per-change approval; never execute reviewer-provided prompts directly",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

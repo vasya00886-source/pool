@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_6110e836",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Vector Forge Report Template\n\nWrite the report to `VECTOR_FORGE_REPORT.md` in the working directory.\n\nmarkdown\n# Vector Forge Report\n\n## Target Algorithm\n[Algorithm name and specification reference]\n\n## Implementations Tested\n\n| Library | Language | Type | Mutation Framework |\n|---------|----------|------|--------------------|\n\n## Baseline Results (Existing Vectors Only)\n\n[Per-implementation baseline table]\n\n## Escape Analysis\n\n### [Implementation Name]\n- Total escaped: N\n- By code path:",
+  "tags": [
+    "automation",
+    "testing",
+    "file"
+  ]
+}

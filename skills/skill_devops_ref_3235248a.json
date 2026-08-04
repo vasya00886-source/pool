@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_3235248a",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Live Role Verification\n\nQuery Azure to confirm that provisioned RBAC role assignments are correct and sufficient for the application to function. This complements the static role check in azure-validate by validating **live Azure state**.\n\n## How It Differs from azure-validate's Role Check\n\n| Check | Skill | What It Verifies |\n|-------|-------|-----------------|\n| **Static** | azure-validate | Generated Bicep/Terraform has correct role assignments in code |\n| **Live** | azure-deploy (this) | P",
+  "tags": [
+    "data",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

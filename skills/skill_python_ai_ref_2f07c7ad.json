@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_2f07c7ad",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Azure AI Voice Live SDK - Models Reference\n\n## Table of Contents\n- [Enums](#enums)\n- [Client Events](#client-events)\n- [Server Events](#server-events)\n- [Session Models](#session-models)\n- [Conversation Items](#conversation-items)\n- [Content Parts](#content-parts)\n- [Tools](#tools)\n- [Voice Models](#voice-models)\n- [Turn Detection](#turn-detection)\n- [Response Models](#response-models)\n- [Avatar Models](#avatar-models)\n\n---\n\n## Enums\n\n### Modality\npython\nclass Modality(str, Enum):\n    TEXT",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

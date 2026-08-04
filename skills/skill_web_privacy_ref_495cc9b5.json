@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_495cc9b5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Communication Chat SDK for Java - Examples\n\nComprehensive code examples for the Azure Communication Chat SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Creating Chat Threads](#creating-chat-threads)\n- [Sending Messages](#sending-messages)\n- [Listing Messages](#listing-messages)\n- [Adding and Removing Participants](#adding-and-removing-participants)\n- [Updating Thread Topic](#updating-thread-topic)\n- [Typing Notificatio",
+  "tags": [
+    "api",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1313c803",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Platform Setup Checklists\n\nComplete setup checklists for major ad platforms.\n\n## Contents\n- Google Ads Setup (Account Foundation, Conversion Tracking, Analytics Integration, Audience Setup, Campaign Readiness, Ad Extensions, Brand Protection)\n- Meta Ads Setup (Business Manager Foundation, Pixel & Tracking, Domain & Aggregated Events, Audience Setup, Catalog, Creative Assets, Compliance)\n- LinkedIn Ads Setup (Campaign Manager Foundation, Insight Tag & Tracking, Audience Setup, Lead Gen Forms, D",
+  "tags": [
+    "api",
+    "testing",
+    "docker",
+    "web",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_8dd111a5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Extract text, tables, and structured data from documents using prebuilt and custom models.\ndotnet add package Azure.AI.DocumentIntelligence\ndotnet add package Azure.Identity\n**Current Version**: v1.0.0 (GA)",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

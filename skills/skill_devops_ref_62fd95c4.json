@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_62fd95c4",
+  "category": "devops",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# PowerShell Command Variants\n\nThis reference provides PowerShell equivalents for commands in steps 1, 4, 5, and 6 that use Bash-specific syntax.\n\n## Prerequisite Check (Step 1)\n\npowershell\n@('kubectl', 'make', 'curl') | ForEach-Object {\n  if (Get-Command $_ -ErrorAction SilentlyContinue) {\n    Write-Host \"✓ $_ found\"\n  } else {\n    Write-Host \"✗ $_ NOT FOUND — install before continuing\"\n  }\n}\n\n\n## GPU Detection (Step 1)\n\npowershell\n# Extract GPU count and model per node (requires NVIDI",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

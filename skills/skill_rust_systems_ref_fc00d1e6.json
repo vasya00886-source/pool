@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_fc00d1e6",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Attribution by Business Type\n\nAttribution defaults differ sharply by business model. The same \"which channel drives revenue?\" question wants a different source of truth, model, and paradigm depending on how long your cycle is, how many people are involved, and where your budget goes. Two playbooks: B2B SaaS and Ecommerce/DTC. Match the user's product to one (or blend, for PLG-with-sales).\n\n---\n\n## B2B SaaS (long cycle, sales-assisted)\n\n**Shape of the problem:** journeys run weeks to months, sp",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

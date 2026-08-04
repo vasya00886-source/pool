@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_e7dac215",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# MCP-Assisted Semantic Analysis\n\nThis reference covers how to configure, query, and interpret Serena MCP evidence during the zeroize-audit semantic pass. For compile DB generation and flag extraction, refer to the compile-commands reference (loaded separately from SKILL.md).\n\n---\n\n## Preconditions\n\nBefore running any MCP queries, the following must hold. These are verified during Step 1 (Preflight) in `task.md` — do not re-run preflight here, just confirm the relevant outputs:\n\n| Precondition |",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

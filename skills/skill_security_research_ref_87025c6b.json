@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_87025c6b",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Infrastructure Plan Schema\n\nts\n{\n  meta: {\n    planId: string // Unique identifier (e.g., \"plan-1\")\n    generatedAt: string // ISO 8601 timestamp\n    version: string // Schema version (e.g., \"0.1-draft\")\n    status: \"draft\" | \"approved\" | \"deployed\" // Lifecycle state\n  }\n  inputs: {\n    userGoal: string // User's stated objective or workload description, matches user query exactly\n    subGoals?: string[] // Inferred architectural constraints and priorities derived from the user's request a",
+  "tags": [
+    "automation",
+    "security",
+    "data"
+  ]
+}

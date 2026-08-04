@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_5dd936ef",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Agent-to-Agent (A2A) connection\n\nCreate the `remote-a2a` connection that lets your agent call another A2A-compatible agent as a tool. The peer can be another Foundry agent or any external service that implements the A2A protocol.\n\n## Create the connection\n\nbash\nazd ai connection create <conn-name> \\\n  --kind remote-a2a \\\n  --target <A2A_BASE_URL> \\\n  --auth-type <auth-type> \\\n  [--audience <token-audience>] \\\n  [--key <api-key>] \\\n  [--metadata KEY=VALUE ...]\n\n\n### Foundry peer\n\n`",
+  "tags": [
+    "api",
+    "data",
+    "file"
+  ]
+}

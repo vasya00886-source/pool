@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_9b0ea8ce",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "python",
+  "insight": "# Meta Decision System (B2B)\n\nA quantified kill/keep/scale engine for Meta ads. Every threshold derives from one anchor number, so decisions become arithmetic instead of vibes. Pairs with the strategy-level Meta playbook in SKILL.md (creative-as-targeting, creative volume) — this file is the *operating* layer.\n\n## Contents\n\n- TCPL: the anchor variable\n- The ad-count ceiling\n- Two-campaign structure (Scaling / Testing)\n- Stage 1: delivery check (day 7)\n- Stage 2: quality evaluation (weekly)\n- Gra",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

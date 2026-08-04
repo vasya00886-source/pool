@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_61a2d924",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Go Release Practices\n\nUse the standard `go` toolchain for everything.\n\n## Module setup\n\n- Initialize with the canonical repository path:\n  `go mod init github.com/<org>/<project>`. The module path is the import\n  path, so set it correctly before anyone depends on the project.\n- Set the `go` directive in `go.mod` to the latest stable release for\n  greenfield code.\n\n## Project layout\n\n- `cmd/<appname>/main.go` for each binary entry point.\n- `internal/` for packages that must not be imported by o",
+  "tags": [
+    "api",
+    "security",
+    "testing",
+    "file"
+  ]
+}

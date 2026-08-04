@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_88c3dbbc",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# Hosted Session File Operations with azd\n\nUse `azd ai agent files` to manage files in a Hosted Agent session.\n\n## Resolve the Session\n\nFile commands use the last session saved by `azd ai agent invoke` or `azd ai agent sessions create`. Use `--session-id <id>` to select another session. Use `--agent-name <service-name>` when the project has multiple agent services.\n\nRun a successful invoke first unless files must be uploaded before the first request. In that case, create a session explicitly and",
+  "tags": [
+    "data",
+    "cli",
+    "file"
+  ]
+}

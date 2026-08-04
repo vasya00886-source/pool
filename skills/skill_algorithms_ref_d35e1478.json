@@ -1,0 +1,11 @@
+{
+  "id": "algorithms_ref_d35e1478",
+  "category": "algorithms",
+  "level": 4,
+  "language": "general",
+  "insight": "# Review Type Modifiers\n\nAdjust focus based on review context:\n\n## PR Review\n- **Focus**: Code implementation, design system component usage, design token usage, accessibility in code\n- **Check**: Proper imports, design tokens used (not hardcoded), ARIA attributes present\n- **Verify**: Component matches Figma specs using Dev Mode\n\n## Creative Frontend Review\n- **Focus**: Aesthetic direction, typography choices, visual distinctiveness, motion design\n- **Check**: Clear conceptual intent, avoiding",
+  "tags": [
+    "testing",
+    "file"
+  ]
+}

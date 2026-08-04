@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_0350dd41",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# fastapi-router-py capability coverage\n\n**SDK/package**: `fastapi`\n\nThis reference captures additional non-hero capabilities and API breadth so the main `SKILL.md` can stay focused on copy/paste hero flows.\n\n## Hero scenarios covered in SKILL.md\n\n- `Quick Start`\n- `Authentication Patterns`\n- `Response Models`\n- `HTTP Status Codes`\n\n## Important non-hero scenarios to include when needed\n\n- `Integration Steps`\n- `Best Practices`\n\n## API breadth checklist\n\n- Verify dependency lifetimes (`Depends`",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

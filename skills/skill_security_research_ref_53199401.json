@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_53199401",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# Dependabot: Automated Dependency Updates\n\n[Dependabot](https://docs.github.com/en/code-security/dependabot) automatically creates pull requests to keep your dependencies up to date. GitHub hosts it natively—no external service required.\n\n## Why Use Dependabot?\n\n- **Security**: Automatically patches known vulnerabilities\n- **Freshness**: Keeps dependencies current without manual tracking\n- **Visibility**: PRs show changelogs and compatibility notes\n\n## Configuration\n\nCopy [templates/dependabot.",
+  "tags": [
+    "automation",
+    "security",
+    "file"
+  ]
+}

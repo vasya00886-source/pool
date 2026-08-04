@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_e67cd9cb",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# KQL Schema Discovery Queries\n\nReference for schema exploration commands. Use these to understand a database's structure before writing queries.\n\n---\n\n## Table and Column Discovery\n\n### Table Discovery\n\nkql\n// List all tables with row counts and sizes\n.show tables details\n| project TableName, TotalRowCount, TotalOriginalSize, TotalExtentSize, HotOriginalSize\n\n// List tables (names only)\n.show tables\n| project TableName\n\n// Table schema (column names, types, folder)\n.show table StormEvents sc",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

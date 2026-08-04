@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_2_514ee949",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "Use for every request to commit changes or draft a commit message. Creates Sentry-style conventional commits with issue references.",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_4c3f1dd0",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Output Patterns\n\nPatterns for producing consistent, high-quality output in skills.\n\n## Template Pattern\n\nProvide templates for output format. Match strictness to requirements.\n\n**For strict requirements (API responses, data formats):**\n\nmarkdown\n## Report structure\n\nALWAYS use this exact template structure:\n\n# [Analysis Title]\n\n## Executive summary\n[One-paragraph overview of key findings]\n\n## Key findings\n- Finding 1 with supporting data\n- Finding 2 with supporting data\n- Finding 3 with sup",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_1ee18c61",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# pydantic-models-py capability coverage\n\n**SDK/package**: `pydantic`\n\nThis reference captures additional non-hero capabilities and API breadth so the main `SKILL.md` can stay focused on copy/paste hero flows.\n\n## Hero scenarios covered in SKILL.md\n\n- `Quick Start`\n- `Multi-Model Pattern`\n- `camelCase Aliases`\n- `Optional Update Fields`\n\n## Important non-hero scenarios to include when needed\n\n- `Database Document`\n- `Integration Steps`\n\n## API breadth checklist\n\n- Verify field validators (`@fiel",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "file"
+  ]
+}

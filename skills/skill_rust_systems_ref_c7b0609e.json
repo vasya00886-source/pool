@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_c7b0609e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# CosmWasm Entry Point Detection\n\n## Entry Point Identification (State-Changing Only)\n\n### Include: State-Changing Entry Points\nrust\n// Instantiate - called once on deployment\n#[cfg_attr(not(feature = \"library\"), entry_point)]\npub fn instantiate(\n    deps: DepsMut,\n    env: Env,\n    info: MessageInfo,\n    msg: InstantiateMsg,\n) -> Result<Response, ContractError> { }\n\n// Execute - main entry point for state changes\n#[cfg_attr(not(feature = \"library\"), entry_point)]\npub fn execute(\n    deps: De",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "file"
+  ]
+}

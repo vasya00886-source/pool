@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_5c1fe89d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "Execute Azure deployments for ALREADY-PREPARED applications that have existing .azure/deployment-plan.md and infrastructure files. DO NOT use this skill when the user asks to CREATE a new application — use azure-prepare instead. This skill runs azd up, azd deploy, terraform apply, and az deployment commands with built-in error recovery. Requires .azure/deployment-plan.md from azure-prepare and validated status from azure-validate. WHEN: \\\"run azd up\\\", \\\"run azd deploy\\\", \\\"execute deployment\\\",",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_c1b2f32a",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Example — Quietude Marketing Plan v1\n\n**This is the canonical reference example for the `/marketing-plan` skill.** It's based on a real fCMO engagement for a hybrid hardware-and-software wellness platform. **Names, domains, and identifying details have been changed** — the client is called \"Quietude\" here, and the team members have been renamed (Alex / Sam / Casey / Devon). The funnel numbers, budget, and structural lessons preserve the shape of the original engagement so the example retains i",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

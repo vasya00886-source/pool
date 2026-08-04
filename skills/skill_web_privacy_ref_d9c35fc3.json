@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d9c35fc3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Archive Criteria Taxonomy\n\nCategories of non-actionable noise in the `sentry/javascript` queue, with recognition heuristics. An issue must match **at least one** category to be archived. Categories are listed in roughly decreasing order of frequency observed in the queue.\n\nFor each category: `Pattern`, `Signals`, `Examples`, `Reason text`.\n\n---\n\n## 1. Single-event fluke\n\nIssues with exactly one occurrence, one or zero users, that never recurred.\n\n- **Signals:** `events ≤ 2`, `users ≤ 1`, `firs",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_bc3ed45b",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Completeness Check\n\n> ⛔ **No build/install/test commands during this check.** Use static analysis only.\n\nVerify repository has required components for a deployable app.\n\n### 1. Entry Point\n\nVerify main/index file exists for each component.\n\n| Stack | Expected Entry Point |\n|-------|---------------------|\n| Node.js | `main` or `start` script in `package.json` |\n| Python | `app.py`, `main.py`, `manage.py`, or entry in `pyproject.toml` |\n| .NET | `Program.cs` or `Startup.cs` with `<OutputType>Exe",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

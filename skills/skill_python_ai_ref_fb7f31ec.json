@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_fb7f31ec",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Dataset Formats\n\n## SFT Format (Supervised Fine-Tuning)\n\nStandard chat-completion JSONL. Each line: JSON object with `messages` array.\n\njsonl\n{\"messages\": [{\"role\": \"system\", \"content\": \"You are a helpful assistant.\"}, {\"role\": \"user\", \"content\": \"What is 2+2?\"}, {\"role\": \"assistant\", \"content\": \"4\"}]}\n\n\n**Rules:**\n- Each line must be valid JSON\n- `messages` must contain at least one `user` and one `assistant` message\n- `system` message is optional but recommended\n- Multi-turn supported:",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "file"
+  ]
+}

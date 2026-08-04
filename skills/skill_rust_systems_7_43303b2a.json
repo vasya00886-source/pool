@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_43303b2a",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "[OSS-Fuzz](https://google.github.io/oss-fuzz/) is an open-source project developed by Google that provides free distributed infrastructure for continuous fuzz testing. It streamlines the fuzzing process and facilitates simpler modifications. While only select projects are accepted into OSS-Fuzz, the project's core is open-source, allowing anyone to host their own instance for private projects.\nOSS-Fuzz provides a simple CLI framework for building and starting harnesses or calculating their cover",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

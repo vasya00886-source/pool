@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_8c95cf3c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Claude Subagent-Fork Skills\n\nLoad this when the skill should run in isolated context with `context: fork`.\n\n## Use this file for\n\n- self-contained delegated investigations\n- isolated context for focus or permission boundaries\n- model or tool specialization where the main thread only needs a summary\n\n## Required contract\n\n1. An actionable task in the skill body.\n2. Expected return or summary contract.\n3. Explicit reason isolation is useful.\n4. Portability note because this is Claude Code-specif",
+  "tags": [
+    "file"
+  ]
+}

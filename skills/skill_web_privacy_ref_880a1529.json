@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_880a1529",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Self-Review Checklist\n\n4-layer adversarial review of generated IaC. Run after scaffold generates all files, before `scaffold-manifest.json`.\n\n## Rating System\n\n- **VERIFIED** — confirmed correct by inspecting the generated code\n- **PLAUSIBLE** — likely correct but cannot fully verify (e.g., API version exists but not checked against registry)\n- **FLAGGED** — incorrect, missing, or contradicts the plan/patterns\n\n**Consume results:** If any finding is FLAGGED → fix the IaC, then re-run validatio",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

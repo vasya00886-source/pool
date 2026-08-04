@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_1968697e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# The Value Equation\n\nThe single most useful frame for offer design. Originated in Alex Hormozi's *$100M Offers*; the underlying idea (multiply benefits, divide costs) is much older — direct-response copywriters have been doing it for a century.\n\n## The formula\n\n\n              Dream Outcome  ×  Perceived Likelihood of Achievement\n  Value  =  ─────────────────────────────────────────────────────────\n              Time Delay     ×   Effort & Sacrifice\n\n\nThe customer compares the *Value* scor",
+  "tags": [
+    "api",
+    "testing",
+    "web",
+    "cli",
+    "file"
+  ]
+}

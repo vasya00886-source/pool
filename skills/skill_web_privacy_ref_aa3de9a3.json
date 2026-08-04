@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_aa3de9a3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Toolbox MCP protocol, tool naming & testing\n\n## Endpoint URL details\n- **Consumer** — `{project_endpoint}/toolboxes/{toolbox_name}/mcp?api-version=v1`. Always serves the `default_version`. Connect agents here so promoting a version needs no redeploy.\n- **Developer** — `{project_endpoint}/toolboxes/{toolbox_name}/versions/{version}/mcp?api-version=v1`. Test a specific version before promoting.\n- `?api-version=v1` is **required** — requests without it return HTTP 400.\n- Auth: bearer token with s",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli"
+  ]
+}

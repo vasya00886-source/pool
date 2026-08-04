@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_7300ad78",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-transcription-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Operational hardening\n\n### Retry Policy\n\nConfigure retries for transient failures via `azure-core` retry policy:\n\npython\nimport os\nfrom azure.core.credentials import AzureKeyCredential\nfrom azure.ai.transcription import TranscriptionClient\nfrom azure.core.pipeline.polici",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

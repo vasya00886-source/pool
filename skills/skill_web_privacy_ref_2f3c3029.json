@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2f3c3029",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Document Intelligence - Java Code Examples\n\n## 1. Client Setup\n\n### Sync Client with DefaultAzureCredential\n\njava\nimport com.azure.ai.documentintelligence.DocumentIntelligenceClient;\nimport com.azure.ai.documentintelligence.DocumentIntelligenceClientBuilder;\nimport com.azure.identity.DefaultAzureCredentialBuilder;\n\nDocumentIntelligenceClient client = new DocumentIntelligenceClientBuilder()\n    .endpoint(System.getenv(\"DOCUMENT_INTELLIGENCE_ENDPOINT\"))\n    .credential(new DefaultAzu",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

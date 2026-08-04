@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_da2f113f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Common Fix Patterns for AKS Automatic Compatibility\n\nLoaded on demand when generating YAML fixes during assessment.\nMaps to constraint IDs in `constraint-spec-v1.yaml`.\n\n---\n\n## `safeguard-container-resource-requests` — Add resource requests/limits\n\n**Before:**\nyaml\ncontainers:\n  - name: web\n    image: myapp:v1.0.0\n\n\n**After:**\nyaml\ncontainers:\n  - name: web\n    image: myapp:v1.0.0\n    resources:\n      requests:\n        cpu: \"250m\"\n        memory: \"256Mi\"\n      limits:\n        cpu: \"5",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_606304f9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# ASCII Sequence Diagram Reference\n\nRules for drawing ASCII sequence diagrams inline in responses.\n\n## Column Layout\n\nLay out participants as column headers, each above a vertical `|` lifeline.\nSpace columns ~28–32 characters apart so labels fit without wrapping:\n\n\nInitiator                 Responder\n   |                         |\n   |                         |\n\n\nFor three or more participants, extend the layout rightward:\n\n\nClient          Server          CA\n   |               |",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

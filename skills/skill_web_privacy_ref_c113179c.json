@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c113179c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Lifecycle Stage Definitions\n\nComplete templates for lead lifecycle stages, MQL criteria by business type, SLAs, and rejection/recycling workflows.\n\n## Stage Templates\n\n### Subscriber\n\n**Entry criteria:**\n- Opted in to blog, newsletter, or content updates\n- No company information required\n\n**Exit criteria:**\n- Provides company information via form or enrichment\n- Visits 3+ pages in a session\n- Downloads gated content\n\n**Owner:** Marketing (automated)\n\n**Actions on entry:**\n- Add to newsletter n",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

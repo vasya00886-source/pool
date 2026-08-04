@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_44bf4b4d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# OAuth Authentication for M365 Agent Plugins\n\nThis guide explains how to configure OAuth authentication for MCP server plugins and API plugins in your M365 Copilot agent. It covers endpoint discovery, credential acquisition, PKCE, and the `oauth/register` lifecycle step in `m365agents.yml`.\n\n> **When to use this guide:**\n> - Your MCP server requires OAuth authentication (most third-party MCP servers do)\n> - Your API plugin requires OAuth (not just API key auth)\n> - You need to register OAuth cr",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

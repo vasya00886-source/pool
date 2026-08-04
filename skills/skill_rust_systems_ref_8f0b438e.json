@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_8f0b438e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# TON Entry Point Detection (FunC/Tact)\n\n## Entry Point Identification (State-Changing Only)\n\nFocus on message handlers that modify state. **Exclude** read-only patterns:\n- `get` methods in FunC (pure getters)\n- Receivers that only return data without state changes\n\n### FunC Entry Points\nfunc\n;; Main entry point - receives all external messages\n() recv_internal(int my_balance, int msg_value, cell in_msg_full, slice in_msg_body) impure {\n    ;; Dispatch based on op code\n    int op = in_msg_bod",
+  "tags": [
+    "api",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_27ee8a53",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Authenticate to Azure services using Azure Identity library for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or interactive browser login.",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

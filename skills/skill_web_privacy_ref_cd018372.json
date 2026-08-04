@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_cd018372",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Prospecting Compliance Reference\n\nThe legal and platform-ToS constraints that apply to prospect list building. Read first, every engagement.\n\n> Operational guidance, not legal advice. For high-volume programs or programs touching EU/UK residents, run your setup past a privacy attorney.\n\n---\n\n## United States — CAN-SPAM (downstream)\n\nCAN-SPAM regulates the cold email **send**, not the list build. But the list build matters because:\n\n- You must be able to identify the source of every email addre",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_c5aae795",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Quality Assessment\n\nHow to assess and improve CodeQL database quality after a successful build.\n\n## Collect Metrics\n\nbash\nlog_step \"Assessing database quality\"\n\n# 1. Baseline lines of code and file list (most reliable metric)\ncodeql database print-baseline -- \"$DB_NAME\"\nBASELINE_LOC=$(python3 -c \"\nimport json\nwith open('$DB_NAME/baseline-info.json') as f:\n    d = json.load(f)\nfor lang, info in d['languages'].items():\n    print(f'{lang}: {info[\\\"linesOfCode\\\"]} LoC, {len(info[\\\"files\\\"])} fi",
+  "tags": [
+    "performance",
+    "data",
+    "file"
+  ]
+}

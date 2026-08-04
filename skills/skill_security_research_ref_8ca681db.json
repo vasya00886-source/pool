@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_8ca681db",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Brocards for Vulnerability Triage -- Detailed Reference\n\nExpanded explanations, concrete examples, and edge cases for each of the\n7 brocards. Consult this file when a brocard evaluation is ambiguous or\nwhen documenting a dismissal that requires detailed justification.\n\nSource: William Woodruff, \"Brocards for vulnerability triage\" (2026).\n\n---\n\n## Brocard 1: No Vulnerability Without a Threat Model\n\n### Principle\n\nA vulnerability report that does not articulate a coherent threat model --\nwho the",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

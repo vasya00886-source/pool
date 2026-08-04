@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_2ae326b8",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Messaging Patterns Reference\n\nAdvanced messaging patterns for Azure Service Bus.\n\n## Competing Consumers\n\nMultiple receivers processing messages from the same queue in parallel:\n\npython\nimport asyncio\nfrom azure.servicebus.aio import ServiceBusClient\nfrom azure.identity.aio import DefaultAzureCredential\n\nasync def worker(worker_id: int, namespace: str, queue_name: str):\n    \"\"\"Worker that processes messages from a shared queue.\"\"\"\n    credential = DefaultAzureCredential()\n    \n    async wit",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_0585c9f8",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Architecture Reference\n\n## Full-Stack Flow\n\n\n┌─────────────────────────────────────────────────────────────────┐\n│                       FRONTEND (React)                          │\n│  AudioNarrative.jsx / PodcastOverview.jsx                       │\n│    ↓ POST /api/v1/ai/audio                                     │\n│  api.js → aiAPI.generateAudio(sourceType, sourceId, ...)       │\n└────────────────────────────┬────────────────────────────────────┘\n                             │\n┌────────────",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "file"
+  ]
+}

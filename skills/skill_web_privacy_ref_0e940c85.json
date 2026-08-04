@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_0e940c85",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Event Library Reference\n\nComprehensive list of events to track by business type and context.\n\n## Contents\n- Marketing Site Events (navigation & engagement, CTA & form interactions, conversion events)\n- Product/App Events (onboarding, core usage, errors & support)\n- Monetization Events (pricing & checkout, subscription management)\n- E-commerce Events (browsing, cart, checkout, post-purchase)\n- B2B / SaaS Specific Events (team & collaboration, integration events, account events)\n- Event Properti",
+  "tags": [
+    "automation",
+    "cli"
+  ]
+}

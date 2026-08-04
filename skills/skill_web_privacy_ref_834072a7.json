@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_834072a7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reverse-Engineering an Edit (The Beat Sheet)\n\nA viral short-form video usually isn't winning on the footage — it's winning on the *edit*: the cut rhythm, the caption style, the punch-ins, the on-screen text landing on the exact word, the b-roll cutaways, the sound design. This reference turns a reference edit you admire into a **reusable edit spec** — a beat sheet you (or an editing tool) can execute against your own footage — without copying a single frame of theirs.\n\nThis is the tool-agnosti",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

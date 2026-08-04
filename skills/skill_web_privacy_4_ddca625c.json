@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_ddca625c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

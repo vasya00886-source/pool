@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_d1fffbb0",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Manage X.509 certificates for TLS/SSL, code signing, and authentication.\nUse this skill when:\n- An app needs to create or manage X.509 certificates in Key Vault from Rust\n- You need self-signed or CA-issued certificates\n- You need long-running operations (LRO) for certificate issuance\n- You need to sign data using a certificate's key",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_f2f972a5",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure Event Hubs — send and receive events for streaming data ingestion.\nUse this skill when:\n- An app needs to send events to Azure Event Hubs from Rust\n- You need to receive and process events from partitions\n- You need batch sending for throughput optimization\n- You need to control consumer start position",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

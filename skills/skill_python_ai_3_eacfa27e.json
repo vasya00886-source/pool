@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_3_eacfa27e",
+  "category": "python_ai",
+  "level": 3,
+  "language": "rust",
+  "insight": "Multimodal AI service that extracts semantic content from documents, video, audio, and image files for RAG and automated workflows.\npip install azure-ai-contentunderstanding\nCONTENTUNDERSTANDING_ENDPOINT=https://<resource>.cognitiveservices.azure.com/  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

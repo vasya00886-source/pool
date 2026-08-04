@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_d046694b",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Property-Driven Development\n\nDesign features by defining properties upfront as executable specifications, before implementation.\n\n## When to Use\n\n- Designing a new feature from scratch\n- Building something with clear algebraic properties (serialization, validation, transformations)\n- Complex domain where edge cases are likely\n- User wants to think through requirements rigorously before coding\n\n## Process\n\n### Phase 1: Understand the Feature\n\nGather information:\n- **Purpose**: What problem does",
+  "tags": [
+    "data",
+    "testing",
+    "file"
+  ]
+}

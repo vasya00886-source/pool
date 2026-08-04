@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_36ccbcd3",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-keyvault-py capability coverage\n\n**SDK/package**: `azure-keyvault-secrets, azure-keyvault-keys, azure-keyvault-certificates`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Secrets`\n- `Keys`\n- `Certificates`\n- `Client Types Table`\n\n## Non-hero scenarios\n\n- `Async Clients`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#async-clients`](non-hero-scena",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

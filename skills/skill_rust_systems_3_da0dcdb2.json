@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_3_da0dcdb2",
+  "category": "rust_systems",
+  "level": 3,
+  "language": "rust",
+  "insight": "Scans Solana programs for 6 critical vulnerabilities including arbitrary CPI, improper PDA validation, missing signer/ownership checks, and sysvar spoofing. Use when auditing Solana/Anchor programs.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

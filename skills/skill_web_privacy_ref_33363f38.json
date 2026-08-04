@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_33363f38",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Intake\n\nCollect all inputs in one pass, tiered by priority. Extract implicit answers from the user’s message before asking. Use `AskUserQuestion` for unanswered items — batch related questions.\n\n---\n\n## Tier 1 — Core\n\n### 1.0 Verify Subscription\n\nRun:\n\nbash\naz account show --query \"{Name:name, Id:id, State:state}\" -o table\n\n\nConfirm with user. Switch if needed:\n\nbash\naz account set --subscription \"<name-or-id>\"\n\n\n### 1.1 Extract Known Answers\n\nScan the user's message before asking:",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

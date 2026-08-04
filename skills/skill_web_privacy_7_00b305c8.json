@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_00b305c8",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "python",
+  "insight": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" \"tracking plan,\" \"how do I measure this,\" \"track conversions,\" \"Mixpanel,\" \"Segment,\" \"are my events firing,\" or \"analytics isn't working.\" Use this whenever someone asks how to know if something is working or wants to measure m",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

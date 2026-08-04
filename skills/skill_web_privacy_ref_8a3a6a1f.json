@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_8a3a6a1f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — File Search (`type: file_search`)\n\nVector-store-backed retrieval over uploaded files — a **connectionless built-in** (the vector store is referenced by the toolbox tool). Use the **flat** tool shape: `vector_store_ids` is a sibling of `type`, not nested under `file_search`. For the toolbox concept, versions, and endpoint, see [toolbox.md](../toolbox.md).\n\n> 🚦 Before creating a toolbox/connection either way, read [create-hosted.md → Toolbox creation boundary](../../create/create-hosted.m",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

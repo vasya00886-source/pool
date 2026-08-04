@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_3671ecc2",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "Systematically evaluate incoming vulnerability reports against 7 principled\ncriteria before committing resources to deeper analysis. Each brocard is a\nfalsifiable test: if a report fails any brocard, document the reason and\ndismiss or request clarification. If a report survives all 7, escalate it.\nThe 7 brocards are adapted from William Woodruff's\n[\"Brocards for vulnerability triage\"](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)\n(2026).",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

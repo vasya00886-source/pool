@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_8a75ac29",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Listening Sources — Template\n\nCopy this file to `.agents/listening-sources.md` in your project (or `.claude/listening-sources.md`) and fill in the brackets. Claude reads it when running the [listening workflow](listening.md).\n\nDelete sections you don't use. Keep this short and current — stale sources are worse than no sources.\n\n---\n\n## What We're Listening For\n\n**Brand / product:** [Your product name]\n**Category:** [e.g., \"AI writing assistant\", \"Postgres GUI\"]\n**Goal:** [e.g., \"find people sw",
+  "tags": [
+    "api",
+    "web",
+    "file"
+  ]
+}

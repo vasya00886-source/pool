@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_9e0f96a9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Elastic Pools\n\nElastic pool management for Azure SQL.\n\n## Create DTU-Based Elastic Pool\n\ncsharp\nusing Azure.ResourceManager.Sql;\nusing Azure.ResourceManager.Sql.Models;\n\nvar poolData = new ElasticPoolData(AzureLocation.EastUS)\n{\n    Sku = new SqlSku(\"StandardPool\")\n    {\n        Tier = \"Standard\",\n        Capacity = 100 // 100 eDTUs\n    },\n    PerDatabaseSettings = new ElasticPoolPerDatabaseSettings\n    {\n        MinCapacity = 0,   // Min eDTUs per database\n        MaxCapacity = 100  // Max",
+  "tags": [
+    "api",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_93de0452",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "go",
+  "insight": "Creates language variants of existing Semgrep rules. Use when porting a Semgrep rule to specified target languages. Takes an existing rule and target languages as input, produces independent rule+test directories for each language.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

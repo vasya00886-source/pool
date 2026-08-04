@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_a9b66d0f",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "Component-to-Azure mapping and existing infrastructure detection. Part of the [deployability check](deployability-check.md).\n\n## Step 1: Component Mapping Feasibility\n\nDetermine if each detected component maps to a known Azure service.\n\n| Component Type | Mappable Azure Services |\n|----------------|------------------------|\n| SPA / Static Site | Static Web Apps, Blob + CDN |\n| SSR Web App | Container Apps, App Service |\n| REST / GraphQL API | Container Apps, App Service, Functions |\n| Background",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

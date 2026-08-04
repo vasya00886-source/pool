@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_bbb2d823",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Slice Packet and Worker Contract\n\n## Packet\n\nThe slicer emits schema version `1.0` as JSON or Markdown. JSON is the preferred\nworker transport.\n\n| Field | Meaning |\n|---|---|\n| `notice` | Constant statement that all sliced source is untrusted data |\n| `selection` | Target root, language, detected languages, mode, depth, anchors, and path peer |\n| `budget` | Limit, rendered-packet usage, and `ceil(rendered UTF-8 bytes / 3)` estimator |\n| `slices[]` | Root-relative file, inclusive range, symbols",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "docker",
+    "file"
+  ]
+}

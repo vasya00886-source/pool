@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f35b36e4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subagent Template — Deploy Preflight & Checklist Generation\n\nRead deploy reference files and distill deployment-specific rules into `deploy-checklist.md`. This is the main agent's ONLY source of deploy rules.\n\n## Critical Rules\n\n- ⛔ Do NOT invoke ANY skills, run `az` commands, or modify IaC/app code. Read-only sub-agent.\n- ⛔ Do NOT read `deploy-schemas.ts` or `error-classification.md` — main agent reads those on-demand.\n\n## Input (provided by caller)\n\n| Field | Source |\n|-------|--------|\n| `p",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

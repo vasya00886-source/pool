@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6c3c82ee",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Vector I: Wildcard User Allowlists\n\nUser allowlist fields are set to wildcard values (`\"*\"`) that permit ANY GitHub user -- including external contributors, anonymous users, and potential attackers -- to trigger the AI agent. This removes the last line of defense (user-based gating) that might prevent an external attacker from triggering the AI agent via issues or comments.\n\n## Applicable Actions\n\n| Action | Applicable | Notes |\n|--------|-----------|-------|\n| Claude Code Action | Yes | `allo",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

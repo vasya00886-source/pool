@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_4929f5a8",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Step 6 — CI/CD Evals & Continuous Production Monitoring\n\nAfter confirming the final agent version through the observe loop, present two complementary monitoring options. The user may choose one, both, or neither.\n\n## Option 1 — CI/CD Pipeline Evaluations (Pre-Deploy Gate)\n\n*\"Would you like to add automated evaluations to your CI/CD pipeline so every deployment is evaluated before going live?\"*\n\nCI/CD evals run batch evaluations as part of your deployment pipeline, catching regressions **before",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

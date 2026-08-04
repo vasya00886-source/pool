@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_d622f9c6",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "High-throughput event streaming SDK for sending and receiving events via Azure Event Hubs.\n# Core package (sending and simple receiving)\ndotnet add package Azure.Messaging.EventHubs\n**Current Versions**: Azure.Messaging.EventHubs v5.12.2, Azure.Messaging.EventHubs.Processor v5.12.2",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

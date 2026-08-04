@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_4b093e94",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Azure VM/VMSS router. WHEN: create / provision / deploy / spin-up VM, recommend VM size, compare VM pricing, VMSS, scale set, autoscale, burstable, lightweight server, website, backend, GPU, machine learning, HPC simulation, dev/test, workload, family, load balancer, Flexible orchestration, Uniform orchestration, cost estimate, capacity reservation (CRG), reserve, guarantee capacity, pre-provision, CRG association, CRG disassociation, machine enrollment (EMM), Essential Machine Management, monit",
+  "tags": [
+    "api",
+    "testing",
+    "docker",
+    "web",
+    "file"
+  ]
+}

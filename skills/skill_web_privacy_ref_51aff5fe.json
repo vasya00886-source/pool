@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_51aff5fe",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Eval Correlation — Find Evaluation Results by Response or Conversation ID\n\nLook up evaluation scores for a specific agent response using App Insights.\n\n> **IMPORTANT:** The Foundry evaluation API does NOT support querying by response ID or conversation ID. App Insights `customEvents` is the ONLY way to correlate eval scores to specific responses. Always use this KQL approach when the user asks for eval results for a specific response or conversation.\n\n## Prerequisites\n\n- App Insights resource",
+  "tags": [
+    "api"
+  ]
+}

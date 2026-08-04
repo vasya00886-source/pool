@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_62e2f9e1",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Attribution Models — The Math, Worked\n\nSix standard models, one journey scored six ways, and data-driven attribution explained without the black box. Use this when the user wants to understand *why* two models disagree, or needs to pick one defensibly.\n\n## The worked journey\n\nA single B2B buyer's path to a $12,000 annual deal, five touches over 38 days:\n\n| # | Day | Touch | Role in the story |\n|---|---|---|---|\n| T1 | 0 | LinkedIn ad (paid social) | First discovered you — created awareness |\n|",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

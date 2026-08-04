@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_4ba01623",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Deploy via `azd`\n\nUse this path when the workspace already has an `azure.yaml` whose service host is `appservice`.\n\n## When to use\n\n| Condition | Use azd? |\n|---|---|\n| `azure.yaml` exists AND `services.<name>.host: appservice` | ✅ Yes |\n| `azure.yaml` exists but targets Container Apps / Functions / etc. | ❌ Hand off to `azure-prepare` |\n| No `azure.yaml` | ❌ Use [deploy-azcli.md](deploy-azcli.md) |\n\n## Confirm host target\n\nbash\n# Look for `host: appservice` under services in azure.yaml\ngre",
+  "tags": [
+    "api",
+    "security",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_32c52583",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "NoSQL key-value store for structured data (Azure Storage Tables or Cosmos DB Table API).\npip install azure-data-tables azure-identity\n# Azure Storage Tables\nAZURE_STORAGE_ACCOUNT_URL=https://<account>.table.core.windows.net  # Required for Azure Storage Tables",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

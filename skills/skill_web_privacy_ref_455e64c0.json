@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_455e64c0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Headless CMS Guide\n\nReference for choosing, modeling, and implementing a headless CMS for marketing content.\n\n## When to Use This Reference\n\nUse this when selecting a CMS for a new project, designing content models for marketing sites, setting up editorial workflows, or connecting CMS content to programmatic pages.\n\n---\n\n## Headless vs Traditional CMS\n\nA headless CMS separates content management from presentation. Content is stored in a structured backend and delivered via API to any frontend.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

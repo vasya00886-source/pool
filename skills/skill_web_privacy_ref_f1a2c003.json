@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_f1a2c003",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ASO Audit Report Template\n\nUse this structure for all ASO audit reports.\n\n---\n\n## Header\n\n\n# ASO Audit: {App Name}\n**Store:** {Apple App Store / Google Play}\n**URL:** {listing URL}\n**Audit date:** {date}\n**Brand tier:** {Dominant / Established / Challenger} — {one-line justification}\n**Overall Score:** {score}/100 (Grade: {A/B/C/D/F})\n\n\n---\n\n## Score Card\n\n\n| Dimension | Score | Grade | Key Issue |\n|-----------|-------|-------|-----------|\n| Title & Subtitle | X/10 | {grade} | {one-li",
+  "tags": [
+    "automation",
+    "data",
+    "testing"
+  ]
+}

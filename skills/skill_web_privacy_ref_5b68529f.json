@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_5b68529f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# OAuth 2.0 Flows\n\nThis document provides an illustration of OAuth 2.0 authentication flows supported by Microsoft Entra ID.\n\n**Note:** All the following implementation steps are for illustration purposes. It's always recommended to use a library to handle the authentication flow.\n\n## Authorization Code Flow\n\n### Flow Steps\n\n\n1. User → App: Navigate to app's web UI\n2. App → User: Redirect to Microsoft login\n3. User → Entra ID: Authenticate & consent\n4. Entra ID → App: Authorization code (via",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

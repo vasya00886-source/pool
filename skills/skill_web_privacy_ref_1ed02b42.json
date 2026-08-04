@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_1ed02b42",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# JSON Schema Reference for M365 Copilot Agents\n\nThis document provides schema version information, compatibility rules, and links to the official documentation for M365 Copilot declarative agent and API plugin manifests.\n\nFor full property details, examples, and JSON structures, refer to the linked GitHub documentation below.\n\n## Schema Resources\n\n### Declarative Agent Manifest Versions\n\n| Version | JSON Schema | Documentation |\n|---------|-------------|---------------|\n| **v1.6** | [schema.jso",
+  "tags": [
+    "api",
+    "automation",
+    "web"
+  ]
+}

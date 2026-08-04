@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_8d686d56",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Profile Templates\n\nReady-to-use templates for competitor profile sections and the summary document.\n\n## Contents\n- Quick Scan Template\n- Summary Comparison Table\n- Positioning Map\n- Competitive SWOT\n- Profile Update Changelog\n\n---\n\n## Quick Scan Template\n\nAbbreviated profile for when speed matters more than depth.\n\nmarkdown\n# [Competitor Name] — Quick Profile\n\n**URL**: [website]\n**Generated**: [date]\n\n## At a Glance\n\n| Metric | Value |\n|--------|-------|\n| Tagline | [from homepage] |\n| Targ",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "web",
+    "file"
+  ]
+}

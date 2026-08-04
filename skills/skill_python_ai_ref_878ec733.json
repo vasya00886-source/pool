@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_878ec733",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Functional Verification\n\nVerify that the application works correctly — both UI and backend — before proceeding to validation and deployment. This step prevents deploying broken or incomplete functionality to Azure.\n\n## When to Verify\n\nAfter generating all artifacts (code, infrastructure, configuration) and applying security hardening — but **before** marking the plan as `Ready for Validation`.\n\n## Verification Checklist\n\nUse `ask_user` to confirm functional testing with the user:\n\n\n\"Before",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_991a52b4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Low-level SDK for creating and managing persistent AI agents with threads, messages, runs, and tools.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-ai-agents-persistent</artifactId>\n    <version>1.0.0-beta.1</version>\n</dependency>\nPROJECT_ENDPOINT=https://<resource>.services.ai.azure.com/api/projects/<project> # Required for project configuration\nMODEL_DEPLOYMENT_NAME=gpt-4o-mini # Required for agent model selection\nAZURE_TOKEN_CREDENTIALS=prod  # Required...",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

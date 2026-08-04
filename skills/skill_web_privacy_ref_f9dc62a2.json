@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f9dc62a2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Capacity Planning Guide\n\nComprehensive guide for planning Azure AI Foundry capacity, including cost analysis, model selection, and workload calculations.\n\n**Table of Contents:** [Cost Comparison: TPM vs PTU](#cost-comparison-tpm-vs-ptu) · [Production Workload Examples](#production-workload-examples) · [Model Selection and Deployment Type Guidance](#model-selection-and-deployment-type-guidance)\n\n## Cost Comparison: TPM vs PTU\n\n> **Official Pricing Sources:**\n> - [Azure OpenAI Service Pricing](h",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

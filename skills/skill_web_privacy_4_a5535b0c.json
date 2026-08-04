@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_a5535b0c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Azure Maps SDK for .NET providing location-based services: geocoding, routing, rendering, geolocation, and weather.\n# Search (geocoding, reverse geocoding)\ndotnet add package Azure.Maps.Search --prerelease\n**Current Versions**:\n- Azure.Maps.Search: v2.0.0-beta.5\n- Azure.Maps.Routing: v1.0.0-beta.4\n- Azure.Maps.Rendering: v2.0.0-beta.1\n- Azure.Maps.Geolocation: v1.0.0-beta.3\n- Azure.ResourceManager.Maps: v1.1.0-beta.2",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

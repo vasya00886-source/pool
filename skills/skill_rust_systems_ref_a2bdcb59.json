@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_a2bdcb59",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Triage Methodology\n\nDetailed criteria for classifying survived mutants into actionable buckets.\n\n## Contents\n\n- False positive detection\n- Missing test coverage identification\n- Fuzzing target selection\n- Edge cases and ambiguous mutants\n- Worked examples\n- Necessist removal triage\n\n---\n\n## False Positive Detection\n\nA mutant is a false positive when killing it would not improve code\nquality or catch real bugs. Classify as false positive when ANY of\nthese conditions hold:\n\n### Dead Code\n\nThe mu",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

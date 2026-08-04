@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_55d91357",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Create RG + App Service Plan + Web App (Linux, P0v3)\n\nCreates resources only when missing — every step is `show || create` (idempotent against existing user-supplied names).\n\n> 💡 **Shell note**: Bash blocks below use `\\` line continuation, `||`, `2>/dev/null`, `$(…)`. PowerShell equivalents are shown alongside where the bash form doesn't round-trip — substitute `` ` `` for `\\`, `2>$null` for `2>/dev/null`, and `$LASTEXITCODE` checks for `||`.\n\n## 1. Resolve Azure context — minimize prompts\n\n**",
+  "tags": [
+    "automation",
+    "security",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

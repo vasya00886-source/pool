@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_2bc0fdcb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# MCP Tool Reference — Shared Index\n\nShared tools used across multiple AppOnboard phases, plus the cross-cutting Phase→Tool Map. For phase-specific tools with full parameter tables, see the per-phase references linked below.\n\n> **Troubleshooting:** If a tool call fails with unknown parameter or missing command errors, consult the official docs for current parameter names and allowed values: <https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/tools/>\n\n## Per-Phase Tool References",
+  "tags": [
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_3a843cc0",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# EMM Overview\n\nEssential Machine Management (EMM) simplifies onboarding and configuration of management for Azure VMs and Arc-enabled servers at the subscription level.\n\n## What is EMM?\n\nWhen you enable a subscription for EMM, all VMs and Arc-enabled servers in that subscription are automatically enrolled and configured with a curated set of management features. Any new VMs added to the subscription are also automatically enrolled.\n\n## Features Included\n\n### Essentials Tier (Always Enabled)\n\n|",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "file"
+  ]
+}

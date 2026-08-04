@@ -1,0 +1,10 @@
+{
+  "id": "devops_ref_48477d36",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Scaffold & Parameterize\n\nUse this reference to fetch the confirmed template and wire up parameters.\n\n## Path A — OFFICIAL / ADAPT\n\nIf the user has no GitHub access, the template must already be present in the workspace. Do NOT attempt to fetch from GitHub.\n\nFetch the template from the GitHub URL in [template-index.md](template-index.md). Choose **Bicep or Terraform** based on the user's preference or existing workspace files. Fetch the **entire template folder** including subdirectories. Creat",
+  "tags": [
+    "file"
+  ]
+}

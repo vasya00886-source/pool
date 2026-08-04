@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_7_9af0d7cf",
+  "category": "python_ai",
+  "level": 7,
+  "language": "rust",
+  "insight": "Run a Semgrep scan with automatic language detection, parallel execution via Task subagents, and merged SARIF output.\n1. **Always use --metrics=off** — Semgrep sends telemetry by default; --config auto also phones home. Every semgrep command must include --metrics=off to prevent data leakage during security audits.\n2. **User must approve the scan plan (Step 3 is a hard gate)** — The original \"scan this codebase\" request is NOT approval. Present exact rulesets, target, engine, and mode; wa...",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

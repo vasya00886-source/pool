@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9c9e9a2d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Multi-Region & Failover Checks\n\n## Overview\n\nMulti-region deployment protects against entire region outages. This requires deploying compute in multiple regions and using a global load balancer (Azure Front Door or Traffic Manager) to route traffic.\n\n## Resource Graph Queries\n\n> **⚠️ Output format:** Use `--query \"data[]\" -o json` (not `-o table`). `az graph query -o table` only renders summary columns and does not show projected fields.\n\n### Check if App is Deployed in Multiple Regions\n\nba",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "docker",
+    "web"
+  ]
+}

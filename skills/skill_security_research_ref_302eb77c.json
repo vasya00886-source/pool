@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_302eb77c",
+  "category": "security_research",
+  "level": 4,
+  "language": "java",
+  "insight": "# YARA-X DEX Module Reference\n\nThe `dex` module enables analysis of Android Dalvik Executable (DEX) files. Use it to detect Android malware based on class structure, method signatures, string content, and obfuscation patterns.\n\n**Version requirements:** YARA-X v1.11.0+\n\n**Important:** The YARA-X `dex` module is **not compatible** with legacy YARA's `dex` module. The API is completely different. Rules must be rewritten.\n\n## Module Import\n\nyara\nimport \"dex\"\n\n\n## API Reference\n\n### File Type",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

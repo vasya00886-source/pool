@@ -1,0 +1,11 @@
+{
+  "id": "security_research_ref_02a78eac",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Output Format\n\nUse Markdown unless the user asks for JSON.\n\nmarkdown\n# Trailmark Variant Neighborhood\n\n## Seed\n\n- Finding:\n- Bound node:\n- Root cause:\n\n## Candidate Summary\n\n| Rank | Candidate | Reason | Reachability | Confidence |\n|---|---|---|---|---|\n\n## Graph Neighborhoods\n\n### Shared Callers\n### Shared Callees / Sinks\n### Entrypoint Path Neighbors\n### Interface Or Implementation Siblings\n### Type / State Neighbors\n\n## Variant-Analysis Handoff\n\n- Root cause:\n- Keep specific:\n- Abstract:",
+  "tags": [
+    "security",
+    "file"
+  ]
+}

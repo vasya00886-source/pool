@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_63bfac50",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Swift Sharp Edges\n\n## Force Unwrapping\n\nswift\n// DANGEROUS: Crashes on nil\nlet value = optionalValue!  // Runtime crash if nil\n\n// Common in:\nlet cell = tableView.dequeueReusableCell(...)!\nlet url = URL(string: userInput)!\nlet data = try! JSONDecoder().decode(...)\n\n// DANGEROUS: Implicitly Unwrapped Optionals\nvar name: String!  // IUO - crashes if accessed while nil\n\nclass ViewController: UIViewController {\n    @IBOutlet weak var label: UILabel!  // Nil before viewDidLoad\n}\n\n\n**Fix**: Us",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

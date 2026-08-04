@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_ref_7280ba83",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Deployments Operations Reference\n\n## Overview\n\nDeployments represent AI model deployments in your Azure AI Foundry project.\n\n## List Deployments\n\n### List All Deployments\n\npython\ndeployments = project_client.deployments.list()\nfor deployment in deployments:\n    print(f\"Name: {deployment.name}\")\n    print(f\"Model: {deployment.model_name}\")\n    print(f\"Publisher: {deployment.model_publisher}\")\n    print(\"---\")\n\n\n### Filter by Publisher\n\npython\n# List only OpenAI model deployments\nfor de",
+  "tags": [
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_8c2a9707",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# OBO Blueprint Setup\n\nTo use **OBO (on-behalf-of)** mode — where an agent acts on behalf of a user — the Blueprint must be configured as an OAuth2 API so the user's token can target it as audience.\n\n## Configure the Blueprint as an API\n\nApply once via `PATCH /applications/{blueprint_obj_id}`:\n\npython\nimport uuid\n\nscope_id = str(uuid.uuid4())\npatch = {\n    \"identifierUris\": [f\"api://{blueprint_app_id}\"],\n    \"api\": {\n        \"requestedAccessTokenVersion\": 2,\n        \"oauth2PermissionScopes\":",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

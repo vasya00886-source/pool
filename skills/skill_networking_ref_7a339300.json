@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_7a339300",
+  "category": "networking",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Service Management\n\nDetailed patterns for managing API Management service instances.\n\n## Get Existing Service\n\ncsharp\n// By resource group\nvar service = await resourceGroup.Value\n    .GetApiManagementServiceAsync(\"my-apim-service\");\n\n// By resource ID\nvar serviceId = ApiManagementServiceResource.CreateResourceIdentifier(\n    subscriptionId, \"my-resource-group\", \"my-apim-service\");\nvar service = armClient.GetApiManagementServiceResource(serviceId);\nservice = await service.GetAsync();\n\n\n##",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

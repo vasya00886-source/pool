@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_addbf9d8",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Cross-Site Request Forgery (CSRF) Prevention Reference\n\n## Overview\n\nCSRF attacks trick authenticated users into performing unintended actions by exploiting the browser's automatic credential transmission. The attack works because browsers automatically include cookies with requests to a domain, regardless of the request's origin.\n\n## Attack Scenario\n\nhtml\n<!-- Attacker's page -->\n<img src=\"https://bank.com/transfer?to=attacker&amount=10000\">\n\n<!-- Or form submission -->\n<form action=\"https",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_c8dfce8f",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Microsoft Entra ID authentication for Azure SDK clients.\nUse this skill when:\n- An app needs to authenticate to Azure services from Rust\n- You need DeveloperToolsCredential for local development\n- You need ManagedIdentityCredential for Azure-hosted workloads\n- You need service principal auth with secret or certificate",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

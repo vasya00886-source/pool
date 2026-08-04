@@ -1,0 +1,14 @@
+{
+  "id": "game_theory_ref_2c950be0",
+  "category": "game_theory",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Idea Cross-Reference — 139 Marketing Ideas Mapped to AARRR\n\nThe `marketing-ideas` skill catalogs 139 proven marketing tactics. This doc is the source-of-truth mapping: every idea assigned to a primary AARRR stage, with notes for when it's typically active and what category constraints apply.\n\nThe plan's Section 12 (\"Tactical idea bank\") uses this mapping as the base, then layers client-specific filters: brand voice rules might skip some ideas; funding stage might shift Q-status; client categor",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

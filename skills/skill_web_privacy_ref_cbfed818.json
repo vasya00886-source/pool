@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_cbfed818",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Sentry Product Area URL Patterns\n\nMap product areas to URL path patterns for replay filtering. URLs follow the format `https://<org>.sentry.io/<path>`.\n\nThis list may not cover newer product areas — the skill should infer patterns from the area name and confirm with the user if unclear.\n\n## Area Mapping\n\n| Product Area  | Primary Pattern          | Notes                                                       |\n| ------------- | ------------------------ | ----------------------------------------",
+  "tags": [
+    "performance",
+    "file"
+  ]
+}

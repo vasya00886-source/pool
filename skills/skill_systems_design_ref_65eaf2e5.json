@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_65eaf2e5",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Description Optimization\n\nUse this path to improve skill triggering quality and reduce false matches.\n\n## Trigger quality loop\n\n1. Draft a description with realistic user language and concrete trigger phrases.\n2. Build two query sets:\n- should-trigger queries\n- should-not-trigger queries\n3. Check the current description against both sets.\n4. Edit description wording to improve precision/recall.\n5. Repeat until false positives and false negatives are reduced to acceptable levels.\n\n## Authoring",
+  "tags": [
+    "performance",
+    "automation",
+    "file"
+  ]
+}

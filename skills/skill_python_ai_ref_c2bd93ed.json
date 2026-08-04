@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_c2bd93ed",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-storage-queue-py capability coverage\n\n**SDK/package**: `azure-storage-queue`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Queue Operations`\n- `Send Messages`\n- `Receive Messages`\n- `Peek Messages`\n\n## Non-hero scenarios\n\n- `Update Message`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#update-message`](non-hero-scenarios.md#update-message)\n- `De",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

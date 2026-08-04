@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2c768593",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Dataset Versioning — Version Management & Tagging\n\nManage dataset versions with naming conventions, tagging, and version pinning for reproducible evaluations. This workflow formalizes dataset lifecycle management using existing MCP tools and local conventions.\n\n## Naming Convention\n\nUse the pattern `<agent-name>-<source>-v<N>`:\n\n| Component | Values | Example |\n|-----------|--------|---------|\n| `<agent-name>` | Selected environment's `agentName` from the selected metadata file | `support-bot-",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7d563f4e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Server-Side Request Forgery (SSRF) Prevention Reference\n\n## Overview\n\nSSRF vulnerabilities allow attackers to induce the server-side application to make HTTP requests to an arbitrary domain of the attacker's choosing. This can be used to:\n\n- Access internal services not exposed to the internet\n- Read cloud metadata (AWS, GCP, Azure credentials)\n- Scan internal networks\n- Bypass firewalls and access controls\n- Exploit internal services with known vulnerabilities\n\n## Attack Scenarios\n\n### Cloud",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

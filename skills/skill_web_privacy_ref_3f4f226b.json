@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3f4f226b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# MCP Server Pattern (TypeScript)\n\n> **This is the TypeScript reference implementation.** It demonstrates all Copilot widget protocol\n> requirements using Node.js and `@modelcontextprotocol/sdk`. For a language-agnostic description\n> of what your MCP server must implement, see [copilot-widget-protocol.md](copilot-widget-protocol.md).\n\n## Table of Contents\n- [Dependencies](#dependencies)\n- [Server Implementation](#server-implementation)\n- [tsconfig.json](#tsconfigjson)\n- [package.json scripts](#p",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

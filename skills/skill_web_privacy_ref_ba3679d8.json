@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ba3679d8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Environment and Azure setup\n\nUse this reference when the user needs prerequisites, env files, admin consent, authentication, or Azure OpenAI configuration for `@microsoft/m365-copilot-eval`.\n\n## Prerequisites\n\n| Requirement | Notes |\n|---|---|\n| Node.js | Node.js 24.12.0 or newer. |\n| Operating system | Public docs describe authentication as Windows-first. If another OS fails during auth, validate on Windows before diagnosing the agent. |\n| Microsoft 365 Copilot | The signed-in user needs a Mi",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

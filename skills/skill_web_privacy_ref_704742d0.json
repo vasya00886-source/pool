@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_704742d0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Remote MCP server, OAuth (Foundry-managed connector) (`type: mcp`)\n\nAttach a remote MCP server whose OAuth is **brokered by Foundry** — you do **not** supply `client_id` / `client_secret`. Use when the MCP server appears as a **catalog tile** (\"Custom · Preview\" / a connector-namespace connector) and you accept Microsoft's managed OAuth app. Foundry owns the app registration, token storage, and refresh; the first `tools/list` triggers a one-time per-user consent.\n\nFor the variant where",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

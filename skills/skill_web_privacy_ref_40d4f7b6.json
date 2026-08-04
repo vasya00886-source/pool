@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_40d4f7b6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Deployability Check\n\n> ⛔ **No build/install/test commands — `npm install`, `npm test`, `dotnet build`, `dotnet restore`, `dotnet test`, `pip install`, `pytest`, `go mod download`, `cargo build`. Use static analysis only during this check.**\n\nAssess whether the repository can feasibly be deployed to Azure and whether a preparation plan can be created.\n\n> ⛔ **You MUST read the following in order. Skip items marked conditional if the condition is not met:**\n>\n> 1. [component-mapping.md](component",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

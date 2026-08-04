@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_4013bad2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Ruby Release Practices\n\n## Supported versions\n\nRuby releases a minor version yearly and the community supports roughly the\nlast three. Support those three; going lower buys little and costs CI matrix\ntime. Declare the floor with `required_ruby_version` in the gemspec.\n\n## Dependencies\n\nUse [Bundler](https://bundler.io/). Configure it to install into a vendor\ndirectory rather than the user's global gem store, and keep that directory\nout of git:\n\nsh\nbundle config set --local path vendor/bundl",
+  "tags": [
+    "api",
+    "data",
+    "file"
+  ]
+}

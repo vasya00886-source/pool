@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_7_6b13dcae",
+  "category": "python_ai",
+  "level": 7,
+  "language": "python",
+  "insight": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. WHEN: create architecture diagram, visualize Azure resources, show resource relationships, generate Mermaid diagram, analyze resource group, diagram my resources, architecture visualization, resource topology, map Azure infrastructure.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

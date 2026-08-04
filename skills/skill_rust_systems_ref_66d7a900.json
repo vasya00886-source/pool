@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_66d7a900",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "<overview>\n\nCommon mistakes when interpreting Culture Index profiles. Avoiding these errors is as important as understanding the methodology itself.\n\n</overview>\n\n<interpretation_mistakes>\n\n<mistake name=\"comparing-absolutes\">\n\n**Comparing absolute trait values between people**\n\n**Wrong:** \"Dan has higher autonomy than Jim because his A is 8 vs 5\"\n\n**Right:** \"Dan is +3 centiles from his arrow; Jim is +1 from his arrow\"\n\n**Why it's wrong:** The arrow position varies between surveys based on EU.",
+  "tags": [
+    "performance",
+    "data",
+    "file"
+  ]
+}

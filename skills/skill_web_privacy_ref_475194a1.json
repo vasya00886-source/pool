@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_475194a1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Connections Reference\n\nWorking with Azure AI Foundry project connections to access linked Azure resources.\n\n## Overview\n\nConnections represent linked Azure resources (Azure OpenAI, AI Search, Storage, etc.) configured in your Foundry project. The SDK provides methods to list, retrieve, and access credentials for these connections.\n\n## Connection Types\n\n| Type | Description | Use Case |\n|------|-------------|----------|\n| `AzureOpenAI` | Azure OpenAI Service | Chat completions, embeddings |\n| `",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

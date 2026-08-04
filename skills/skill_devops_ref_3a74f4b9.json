@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_3a74f4b9",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# AKS Vertical Pod Autoscaler (VPA)\n\nUse VPA to get data-driven resource recommendations for rightsizing pods. Always start in recommendation-only mode before considering auto-apply.\n\n## Enable VPA (Recommendation Mode)\n\nbash\n# Enable VPA addon on AKS cluster (if not already enabled)\naz aks update --enable-vpa --resource-group <RESOURCE_GROUP> --name <CLUSTER_NAME>\n\n# Create a VPA object in recommendation mode for a deployment\nkubectl apply -f - <<EOF\napiVersion: autoscaling.k8s.io/v1\nkind: V",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "file"
+  ]
+}

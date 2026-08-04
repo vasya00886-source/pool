@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_2b7514b1",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Model Sizing & Starter Recommendations\n\n## VRAM Sizing Guide\n\nEstimate how much VRAM a model requires. Values are **weights only** — add 20–30% overhead for KV cache and activations during inference.\n\n| Parameters | float16 / bfloat16 | int8 | int4 / GGUF Q4 |\n|-----------|-------------------|------|----------------|\n| 1B | ~2 GB | ~1 GB | ~0.5 GB |\n| 3B | ~6 GB | ~3 GB | ~1.5 GB |\n| 7–8B | ~14–16 GB | ~7–8 GB | ~3.5–4 GB |\n| 13B | ~26 GB | ~13 GB | ~6.5 GB |\n| 34B | ~68 GB | ~34 GB | ~17 GB |",
+  "tags": [
+    "performance"
+  ]
+}

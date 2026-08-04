@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_949309e9",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Performance Tuning\n\n## Memory Configuration\n\n### CODEQL_RAM Environment Variable\n\nControl maximum heap memory (in MB):\n\nbash\n# 48GB for large codebases\nCODEQL_RAM=48000 codeql database analyze codeql.db ...\n\n# 16GB for medium codebases\nCODEQL_RAM=16000 codeql database analyze codeql.db ...\n\n\n**Guidelines:**\n| Codebase Size | Recommended RAM |\n|---------------|-----------------|\n| Small (<100K LOC) | 4-8 GB |\n| Medium (100K-1M LOC) | 8-16 GB |\n| Large (1M+ LOC) | 32-64 GB |\n\n## Thread Con",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

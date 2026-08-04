@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_eb00979c",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Requirements Gathering\n\nCollect project requirements through conversation before making architecture decisions.\n\n## Categories\n\n### 1. Classification\n\n| Type | Description | Implications |\n|------|-------------|--------------|\n| POC | Proof of concept | Minimal infra, cost-optimized |\n| Development | Internal tooling | Balanced, team-focused |\n| Production | Customer-facing | Full reliability, monitoring |\n\n### 2. Scale\n\n| Scale | Users | Considerations |\n|-------|-------|----------------|\n| S",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

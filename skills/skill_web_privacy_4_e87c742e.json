@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_e87c742e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "> **DEPRECATION NOTICE**: This package is deprecated in favor of:\n> - azure-monitor-query-logs — For Log Analytics queries\n> - azure-monitor-query-metrics — For metrics queries\n>\n> See migration guides: [Logs Migration](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/monitor/azure-monitor-query-logs/migration-guide.md) | [Metrics Migration](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/monitor/azure-monitor-query-metrics/migration-guide.md)",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

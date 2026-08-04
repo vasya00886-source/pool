@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_1945c6b5",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Claude Dynamic Context Injection\n\nLoad this when the skill uses Claude Code shell preprocessing with ``!`command` `` or fenced `!` blocks.\n\n## Use this file for\n\n- stable, high-signal preprocessing\n- small dynamic snippets that are cheaper than adding a full script\n\n## Use sparingly\n\n1. Only inject output that is stable, high-signal, and cheap.\n2. Never inject large or noisy output.\n3. Prefer a normal script or tool call when that is easier to reason about.\n\nTreat this as preprocessing, not",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

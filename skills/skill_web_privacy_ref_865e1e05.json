@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_865e1e05",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subagent Template — Security + Adversarial Review (Steps 6–9)\n\nReview generated IaC for security compliance and correctness. Follow the workflow below — each step specifies which reference to read and what to check.\n\n## Critical Rules\n\n- ⛔ **Do NOT invoke ANY skills** — no `{\"skill\": \"azure-validate\"}`, `{\"skill\": \"azure-deploy\"}`, `{\"skill\": \"azure-prepare\"}`, or any other skill call. Use the procedures in THIS file only.\n- ⛔ **Do NOT run `az deployment` commands** — review is read-only analy",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

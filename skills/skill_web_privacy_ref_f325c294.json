@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f325c294",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AI Gateway Configuration Patterns\n\nStep-by-step patterns for configuring Azure API Management as an AI Gateway.\n\n---\n\n## Pattern 1: Add AI Model Backend\n\nConnect Azure OpenAI or AI Foundry models to your APIM instance.\n\n### Prerequisites\n\n- APIM instance deployed (use **azure-prepare** skill to deploy APIM — see [APIM deployment guide](https://learn.microsoft.com/azure/api-management/get-started-create-service-instance))\n- Azure OpenAI or AI Foundry resource provisioned\n- System-assigned or us",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

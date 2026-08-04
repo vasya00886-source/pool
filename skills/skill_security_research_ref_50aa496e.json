@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_50aa496e",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Credential Escalation\n\n## Overview\n\nGitHub Actions workflows have access to credentials (GITHUB_TOKEN, PATs, deploy keys, cloud credentials) that vary in scope and blast radius. When untrusted code can access these credentials — via pwn requests, expression injection, or missing permission boundaries — attackers can escalate from \"open a PR\" to \"own the repository.\"\n\n---\n\n## Credential Types and Blast Radius\n\n| Credential | Default Scope | Blast Radius if Stolen |\n|------------|---------------",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

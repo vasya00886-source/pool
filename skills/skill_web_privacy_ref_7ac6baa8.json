@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7ac6baa8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Evaluations Reference\n\nRunning AI evaluations and metrics analysis using Azure AI Foundry project SDK.\n\n## Overview\n\nEvaluations allow you to assess the quality of AI model outputs using various metrics like groundedness, relevance, coherence, and custom evaluators.\n\n## Evaluator Types\n\n| Evaluator | Measures | Use Case |\n|-----------|----------|----------|\n| `groundedness` | Response factual accuracy vs context | RAG applications |\n| `relevance` | Response relevance to query | Search, Q&A |\n|",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

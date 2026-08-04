@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f60af09d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Error Handling Patterns\n\n## Table of Contents\n\n1. [Cosmos Exception Types](#cosmos-exception-types)\n2. [Client-Level Error Handling](#client-level-error-handling)\n3. [Service-Level Error Handling](#service-level-error-handling)\n4. [Router-Level Error Mapping](#router-level-error-mapping)\n5. [Logging Patterns](#logging-patterns)\n6. [Retry Strategies](#retry-strategies)\n\n---\n\n## Cosmos Exception Types\n\n### Common Exceptions\n\npython\nfrom azure.cosmos.exceptions import (\n    CosmosResourceNotFo",
+  "tags": [
+    "api",
+    "data",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

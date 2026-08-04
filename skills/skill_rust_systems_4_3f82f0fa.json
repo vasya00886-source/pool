@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_3f82f0fa",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for Azure AI Vision 4.0 image analysis including captions, tags, objects, OCR, and more.\npip install azure-ai-vision-imageanalysis\nVISION_ENDPOINT=https://<resource>.cognitiveservices.azure.com  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production\nVISION_KEY=<your-api-key>  # Only required for the legacy API-key auth path below",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9ac31399",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Agents Persistent Java SDK - Examples\n\nComprehensive code examples for the Azure AI Agents Persistent SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Agent Operations](#agent-operations)\n- [Thread Operations](#thread-operations)\n- [Message Operations](#message-operations)\n- [Run Operations](#run-operations)\n- [Streaming Responses](#streaming-responses)\n- [Tools Integration](#tools-integration)\n- [File Operations](#f",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

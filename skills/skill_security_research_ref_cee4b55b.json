@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_cee4b55b",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Continuous Evaluation\n\nEnable, configure, disable, or remove continuous evaluation for a Foundry agent. Continuous evaluation automatically assesses agent responses on an ongoing basis using configured evaluators (e.g., groundedness, coherence, violence detection). This is typically the final step in the [observe loop](../observe.md) after deploying and batch-evaluating an agent — it keeps production quality visible without manual intervention.\n\n## When to Use This Skill\n\nUSE FOR: enable conti",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

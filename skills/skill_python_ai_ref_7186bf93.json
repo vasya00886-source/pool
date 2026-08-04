@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_7186bf93",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "﻿Dependency compatibility checks for Azure. Part of the [deployability check](deployability-check.md).\n\n## EOL / Unsupported Runtimes\n\n| Verdict | Condition |\n|---------|----------|\n| 🔶 Major Migration | .NET Framework 4.x, ASP.NET Core 2.1, Python 2.x |\n| ❌ FAIL or 🔶 | Node.js < 18, Java < 11 — config-only upgrade → ❌ FAIL (fixable), API changes needed → 🔶 |\n\n> **Quick test:** ONE config value change, no import changes? → ❌ FAIL. Otherwise → 🔶.\n\n**Ecosystem-era check (Python):** ALL pinned deps",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

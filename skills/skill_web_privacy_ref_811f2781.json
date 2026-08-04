@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_811f2781",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Motion-Style Video Ads (Faceless, Fully Generated)\n\n> Format popularized by Borja ([@borjafat](https://x.com/borjafat)) and the open `super-video-maker` motion-collage recipe by [Bomx](https://github.com/Bomx/super-video-maker-skill); this guide is an original re-expression of the method, extended with a multi-style library and production lessons from building and shipping it end-to-end.\n\nProduce a 15–45s faceless video ad or explainer from nothing but a concept: a styled\nposter still (image m",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

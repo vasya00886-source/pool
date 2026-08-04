@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a65bdcfd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Vector Search Patterns\n\nDetailed patterns for vector and hybrid search with Azure.Search.Documents.\n\n## Index Configuration for Vector Search\n\ncsharp\nusing Azure.Search.Documents.Indexes.Models;\n\nvar index = new SearchIndex(\"products\")\n{\n    Fields =\n    {\n        new SimpleField(\"id\", SearchFieldDataType.String) { IsKey = true },\n        new SearchableField(\"name\"),\n        new SearchableField(\"description\"),\n        new SearchField(\"descriptionVector\", SearchFieldDataType.Collection(Searc",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

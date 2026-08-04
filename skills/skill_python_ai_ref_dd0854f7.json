@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_dd0854f7",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Generating Property-Based Tests\n\nHow to create complete, runnable property-based tests.\n\n## Process\n\n### 1. Analyze Target Function\n\n- Read function signature, types, and docstrings\n- Understand input types and constraints\n- Identify output type and expected behavior\n- Note preconditions or invariants\n- Check existing example-based tests as hints\n\n### 2. Design Input Strategies\n\nCreate appropriate generator strategies for each input parameter.\n\n**Principles**:\n- Build constraints INTO the stra",
+  "tags": [
+    "data",
+    "testing",
+    "file"
+  ]
+}

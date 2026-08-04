@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_bcd09cd4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Azure Resource Manager SDK for managing Application Insights resources for application performance monitoring.\ndotnet add package Azure.ResourceManager.ApplicationInsights\ndotnet add package Azure.Identity\n**Current Version**: v1.0.0 (GA)  \n**API Version**: 2022-06-15",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

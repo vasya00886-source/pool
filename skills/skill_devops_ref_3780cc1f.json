@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_3780cc1f",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# azd Template Routing\n\nWhen prereq detects an existing azd template, AppOnboard routes to `azure-prepare` instead of continuing the greenfield pipeline. AppOnboard is a greenfield deployment skill — repos with existing Azure IaC belong to the prepare → validate → deploy pipeline.\n\n## Detection\n\nBefore the scope triage question (Step 2), do a quick file-system check (workspace root + `infra/` only — never scan `.copilot-azure/`). Route if ALL of these are true:\n\n| Condition | Where to check |\n|-",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

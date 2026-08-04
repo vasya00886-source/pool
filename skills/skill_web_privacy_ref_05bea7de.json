@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_05bea7de",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# OAuth2 Token Flow\n\nSource: [Agent ID Setup Instructions](https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/agent-id-setup-instructions)\n\nAgent Identities authenticate at runtime using credentials configured on the **Blueprint** (not the Agent Identity itself). Two options are available:\n\n| Option | Use case | Credential type |\n|--------|----------|-----------------|\n| **Managed Identity + WIF** | Production (Azure-hosted) | Federated Identity Credential |\n| **Client secret** |",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_b5bf6647",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Lead Magnet Benchmarks\n\nReference data for planning and evaluating lead magnet performance.\n\n---\n\n## Conversion Rate Benchmarks\n\n### By Format Type\n\n| Format | Landing Page Conversion | Notes |\n|--------|------------------------|-------|\n| Checklist | 30-50% | High because low commitment |\n| Cheat sheet | 25-40% | Quick reference appeal |\n| Template | 25-45% | Immediate utility drives conversion |\n| Ebook/guide | 20-35% | Higher commitment, lower rate |\n| Quiz | 30-50% | Engagement drives comp",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

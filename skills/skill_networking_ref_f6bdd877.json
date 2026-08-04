@@ -1,0 +1,12 @@
+{
+  "id": "networking_ref_f6bdd877",
+  "category": "networking",
+  "level": 4,
+  "language": "general",
+  "insight": "# Advanced Azure Quota Commands\n\nReference for less commonly used Azure quota CLI commands for tracking quota requests and operations.\n\n## az quota request status list\n\nGet current quota requests for a one-year period. Use oData filter to select requests.\n\n**Syntax**:\nbash\naz quota request status list --scope SCOPE [--filter FILTER] [--max-items N] [--next-token TOKEN] [--skip-token TOKEN] [--top N]\n\n\n**Required**:\n- `--scope` - Target Azure resource URI\n\n**Optional**:\n- `--filter` - Filte",
+  "tags": [
+    "automation",
+    "data",
+    "cli"
+  ]
+}

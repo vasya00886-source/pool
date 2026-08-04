@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_24db4738",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# PRA scenario framework\n\nUse PRA to design a balanced evaluation suite. PRA is a test-design taxonomy, not a set of evaluator names.\n\n## Perceive\n\nPerceive scenarios test whether the agent finds, uses, and cites the right information.\n\nGood prompts:\n\ntext\nSummarize the latest status for the Contoso renewal and cite the source.\nWhat risks were identified in the most recent planning discussion?\nList the open action items with owners, using only available source data.\n\n\nUseful evaluators:\n\n|",
+  "tags": [
+    "data",
+    "testing",
+    "file"
+  ]
+}

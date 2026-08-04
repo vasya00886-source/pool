@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_4_08634fed",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "Triage new issues in the Sentry javascript project by archiving non-actionable noise. Use when asked to \"triage issues\", \"triage the javascript project\", \"archive non-actionable issues\", \"triage new frontend issues\", or \"clean up the sentry/javascript queue\". Operates only on the sentry/javascript project, only archives (never resolves), and always archives with untilEscalating.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "web"
+  ]
+}

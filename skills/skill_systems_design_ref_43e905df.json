@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_43e905df",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Conversation Detail — Reconstruct Full Span Tree\n\nReconstruct the complete span tree for a single conversation to see exactly what happened: every LLM call, tool execution, and agent invocation with timing, tokens, and errors.\n\n## Step 1 — Fetch All Spans for a Conversation\n\nUse `operation_Id` (trace ID) to get all spans in a single request:\n\nkql\ndependencies\n| where operation_Id == \"<operation_id>\"\n| project timestamp, name, duration, resultCode, success,\n    spanId = id,\n    parentSpanId",
+  "tags": [
+    "api",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_fcbb7370",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Azure Retail Prices API Guide\n\nThe [Azure Retail Prices API](https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices) is **unauthenticated** — no Azure account or subscription needed.\n\n## Endpoint\n\ntext\nhttps://prices.azure.com/api/retail/prices\n\n\nPreview version (includes savings plan rates):\ntext\nhttps://prices.azure.com/api/retail/prices?api-version=2023-01-01-preview\n\n\n## Querying VM Prices\n\n> **No Azure CLI command exists** for the Retail P",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_2ca2f547",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# PEP 723: Inline Script Metadata\n\nPEP 723 allows embedding dependency metadata directly in Python scripts, eliminating the need for separate `requirements.txt` or `pyproject.toml` files for simple scripts.\n\n## When to Use PEP 723\n\n**Use for:**\n- Single-file scripts with external dependencies\n- Quick automation scripts\n- Utility scripts shared between projects\n- Scripts that need to be self-contained\n\n**Don't use for:**\n- Multi-file projects (use `pyproject.toml`)\n- Reusable packages/libraries\n-",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

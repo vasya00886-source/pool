@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_883a2f29",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Iteration Path\n\nUse this path when improving a skill based on outcomes and examples.\n\n## Example intake\n\nRead `references/iteration-evidence.md` when examples should be persisted across future skill revisions.\n\nCapture example records with:\n\n- label (`positive` or `negative`)\n- example kind (`true-positive`, `false-positive`, `fix`, `regression`, `edge-case`)\n- evidence origin (`human-verified`, `mixed`, `synthetic`)\n- anonymized content\n- source provenance pointer (where the example came from",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

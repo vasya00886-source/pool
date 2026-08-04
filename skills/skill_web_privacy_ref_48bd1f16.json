@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_48bd1f16",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Cloud Design Patterns\n\nA comprehensive reference of all 44 cloud design patterns from the Azure Architecture Center, organized by concern area and detailed with problem context, usage scenarios, WAF pillar alignment, and related patterns.\n\n---\n\n## Patterns by Concern\n\n### Availability / Reliability\n\nCircuit Breaker · Compensating Transaction · Health Endpoint Monitoring · Leader Election · Queue-Based Load Leveling · Retry · Saga · Scheduler Agent Supervisor · Sequential Convoy · Bulkhead · Ra",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

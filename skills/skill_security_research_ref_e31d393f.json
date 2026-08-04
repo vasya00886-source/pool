@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_e31d393f",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reviewing open pull requests\n\nRubric for the PR-review subagents the `github-triage` skill spawns in Phase 2 for\nPRs that have never been reviewed by anyone but their author. The skill orchestrates;\nthis file defines what each subagent does and the review file format. Reviews are\nsaved locally and **never posted to GitHub**.\n\n## Spawning\n\nSpawn one `Agent` (`subagent_type: general-purpose`) per never-reviewed PR, all in a\nsingle assistant message so they run in parallel. Each subagent gets the",
+  "tags": [
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

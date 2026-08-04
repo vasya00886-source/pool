@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_ccd59f42",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# eval.yaml Guidance\n\nCreate `eval.yaml` directly when the conversation or `.foundry/agent-metadata*.yaml` already selected the dataset/evaluators. Otherwise ask whether to run `azd ai agent eval generate` or let optimize use built-in defaults.\n\n## Include\n\nyaml\nname: <suite-or-optimization-name>\nagent:\n  name: <agent-name>\n  kind: hosted\n  version: \"<agent-version>\"\n  model: <baseline-model-deployment-name>\n  config: .agent_configs/baseline/metadata.yaml\ndataset:\n  local_uri: <path-to-jsonl>",
+  "tags": [
+    "performance",
+    "data",
+    "file"
+  ]
+}

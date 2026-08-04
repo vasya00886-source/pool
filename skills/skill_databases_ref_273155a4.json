@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_273155a4",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# SKU Quota Validation Procedure\n\nPre-deploy quota and offer restriction checks. Read during prepare Step 5 before deploying.\n\nFor SKU selection (budget tiers, modifier rules, defaults), see [sku-matrix.md](sku-matrix.md).\n\n## Quota Validation Procedure\n\n> ⛔ **Use `az rest`, NOT `az quota list`.** The `az quota list` CLI extension triggers a full extension metadata scan on startup. If ANY installed extension has a permission error (common: `azure-devops` WinError 5 on Windows), the entire comman",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

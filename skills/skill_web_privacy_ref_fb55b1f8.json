@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_fb55b1f8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Evaluation Operations Reference\n\nEvaluate AI agents and models using Microsoft Foundry's cloud evaluation service.\n\n## Setup\n\npython\nimport os\nfrom azure.ai.projects import AIProjectClient\nfrom azure.identity import DefaultAzureCredential\n\nendpoint = os.environ[\"AZURE_AI_PROJECT_ENDPOINT\"]\ndeployment = os.environ.get(\"AZURE_AI_MODEL_DEPLOYMENT_NAME\", \"gpt-4o-mini\")\n\nwith (\n    DefaultAzureCredential() as credential,\n    AIProjectClient(endpoint=endpoint, credential=credential) as project_cl",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

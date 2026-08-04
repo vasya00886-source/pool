@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_d24492af",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# IaC Patching — Terraform\n\n## When to Use\n\nUse this reference when the user chooses **\"Patch my IaC\"** instead of \"Fix now\" (CLI).\nThis patches Terraform files in the project's `infra/` folder so reliability settings persist across `terraform apply` / `azd up`.\n\n## Detection\n\n1. Look for `infra/` folder in the project root\n2. Check for `*.tf` files (especially `main.tf`, `variables.tf`)\n3. Confirm with user: \"I found Terraform files in `infra/`. Want me to patch them for reliability?\"\n\n## File",
+  "tags": [
+    "security",
+    "data",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

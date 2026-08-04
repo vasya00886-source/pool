@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_5609234f",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when hunting bug variants, building CodeQL/Semgrep queries, analyzing security vulnerabilities, or performing systematic code audits after finding an initial issue.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

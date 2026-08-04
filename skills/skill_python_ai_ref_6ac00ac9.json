@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_6ac00ac9",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Partition Management with Azure Event Hubs\n\nPatterns for working with partitions, load balancing, and event ordering.\n\n## Understanding Partitions\n\nPartitions enable:\n- **Parallel processing** — Multiple consumers process different partitions\n- **Ordered delivery** — Events within a partition maintain order\n- **Scalability** — More partitions = higher throughput\n\n## Get Partition Information\n\npython\nfrom azure.eventhub import EventHubProducerClient\nfrom azure.identity import DefaultAzureCre",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

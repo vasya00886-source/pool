@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_be506e4d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Evaluation dataset templates\n\nUse these templates when creating or editing `@microsoft/m365-copilot-eval` datasets. The current public schema uses `schemaVersion: \"1.2.0\"` and a root `items` array.\n\nUse `references\\prompts-schema.json` as the local schema source.\n\n## Minimal single-turn dataset\n\njson\n{\n  \"schemaVersion\": \"1.2.0\",\n  \"metadata\": {\n    \"name\": \"Agent starter evaluation\",\n    \"description\": \"Smoke tests for core agent behavior.\",\n    \"tags\": [\"starter\", \"single-turn\"]\n  },\n  \"d",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

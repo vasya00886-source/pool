@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_22757d0b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Naming Patterns\n\nPer-resource naming rules for AppOnboard-generated Azure resources. Apply in Step 7 (Generate naming).\n\n> **Reference:** [Azure naming conventions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming) — link, don't duplicate. Check docs for updates.\n\n## Default Pattern\n\n\n{abbreviation}-{resourcePrefix}\n\n\nWhere `resourcePrefix` = `{project}-{env}-{suffix}` (generated once in prepare Step 7, stored in `prepare-plan.js",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

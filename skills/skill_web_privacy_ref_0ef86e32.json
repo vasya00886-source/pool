@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0ef86e32",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Remote MCP server, no auth (`type: mcp`)\n\nAttach a **public** remote MCP server (no credentials) to a toolbox. A no-auth server still needs a **connection** (`--kind remote-tool --auth-type none`) — the toolbox references it by name and the created toolbox tool carries a populated `project_connection_id`.\n\n> 🚦 Before creating a toolbox/connection either way, read [create-hosted.md → Toolbox creation boundary](../../create/create-hosted.md#toolbox-creation-boundary).\n\n---\n\n# A. Imperativ",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

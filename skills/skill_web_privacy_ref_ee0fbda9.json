@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ee0fbda9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# JavaScript/TypeScript Release Practices\n\n## Supported versions\n\nSupport the active and maintenance Node.js LTS lines, and declare the floor\nin `engines.node`. Dropping an EOL Node version is routine maintenance.\n\n## Package metadata\n\n- Set `license` (SPDX identifier), `repository`, and `engines` in\n  `package.json`; registries and tooling surface these directly.\n- Commit the lockfile (`package-lock.json`, `pnpm-lock.yaml`, or\n  `yarn.lock`) so fresh clones build reproducibly.\n- Publish under a",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

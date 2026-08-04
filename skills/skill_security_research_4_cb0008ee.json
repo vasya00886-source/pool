@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_cb0008ee",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "Scans Algorand smart contracts for 11 common vulnerabilities including rekeying attacks, unchecked transaction fees, missing field validations, and access control issues. Use when auditing Algorand projects (TEAL/PyTeal).",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

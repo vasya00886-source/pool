@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_01037b91",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Template Index — Foundry Private Network\n\nOfficial templates for deploying Microsoft Foundry. Each template may be available in Bicep, Terraform, or both — use one, not both. Choose based on the user's preference or existing workspace files. Use tools to fetch Bicep and Terraform templates to understand available templates and recognize if any matches user's requirements:\n\n**Bicep templates:** https://github.com/microsoft-foundry/foundry-samples/tree/main/infrastructure/infrastructure-setup-bi",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

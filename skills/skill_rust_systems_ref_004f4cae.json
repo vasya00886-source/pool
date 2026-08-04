@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_004f4cae",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Build Check\n\n> ⛔ **No build/install/test commands during this check.** Use static analysis only.\n\nDetect the project's language/framework stack and assess build health. Static detection (manifest reading) is **default**. Build execution is optional, requires user confirmation.\n\n> **Dynamic detection:** Agent determines build commands from the project manifest (e.g., `package.json` `scripts` for the project-specific build script name). Table below is guidance, not a fixed lookup.\n\n## Step 1: De",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

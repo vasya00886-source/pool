@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_8a28dc4a",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Modern Threats Reference\n\n## Overview\n\nThis reference covers emerging security threats that may not fit traditional categories: prototype pollution, DOM clobbering, WebSocket security, and LLM prompt injection.\n\n---\n\n## Prototype Pollution (JavaScript)\n\n### The Vulnerability\n\nPrototype pollution allows attackers to modify JavaScript object prototypes, affecting all objects in the application.\n\njavascript\n// VULNERABLE: Merge without protection\nfunction merge(target, source) {\n    for (let k",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

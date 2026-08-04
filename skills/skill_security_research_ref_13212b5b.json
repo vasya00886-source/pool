@@ -1,0 +1,11 @@
+{
+  "id": "security_research_ref_13212b5b",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# One-Pager Templates\n\nTemplates for different one-pager use cases, with layout guidance and copy prompts.\n\n## Product Overview One-Pager\n\nThe default one-pager. Introduces your product to someone who knows nothing about you.\n\n### Structure\n\n\n[Logo]                                              [Tagline]\n\nHEADLINE: One sentence describing what you do and who it's for.\n\nTHE PROBLEM\n2-3 sentences describing the pain your buyer faces.\n\nTHE SOLUTION\n2-3 sentences describing how your product solves",
+  "tags": [
+    "security",
+    "file"
+  ]
+}

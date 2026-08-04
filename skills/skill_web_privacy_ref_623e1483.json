@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_623e1483",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Threat Models Reference\n\nControl which source categories are active during CodeQL analysis. By default, only `remote` sources are tracked.\n\n## Available Models\n\n| Model | Sources Included | When to Enable | False Positive Impact |\n|-------|------------------|----------------|----------------------|\n| `remote` | HTTP requests, network input | Always (default). Covers web services, APIs, network-facing code. | Low — these are the most common attack vectors. |\n| `local` | Command line args, local",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

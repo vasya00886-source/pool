@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_604bc348",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoices, receipts, IDs, forms, or building custom document models.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

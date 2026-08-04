@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_690618b0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Detailed Workflows: Quota Management\n\n**Table of Contents:** [Workflow 1: View Current Quota Usage](#workflow-1-view-current-quota-usage---detailed-steps) · [Workflow 2: Find Best Region for Model Deployment](#workflow-2-find-best-region-for-model-deployment---detailed-steps) · [Workflow 3: Check Quota Before Deployment](#workflow-3-check-quota-before-deployment---detailed-steps) · [Workflow 4: Monitor Quota Across Deployments](#workflow-4-monitor-quota-across-deployments---detailed-steps) · [",
+  "tags": [
+    "api",
+    "automation",
+    "cli"
+  ]
+}

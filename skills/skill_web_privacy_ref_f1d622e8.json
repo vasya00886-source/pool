@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f1d622e8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure App Configuration Java SDK - Examples\n\nComprehensive code examples for the Azure App Configuration SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Configuration Settings CRUD](#configuration-settings-crud)\n- [List and Filter Settings](#list-and-filter-settings)\n- [Feature Flags](#feature-flags)\n- [Secret References](#secret-references)\n- [Read-Only Settings](#read-only-settings)\n- [Snapshots](#snapshots)\n- [Labels](#la",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_f7c0ec10",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "java",
+  "insight": "# Constant-Time Analysis: Kotlin\n\nAnalysis guidance for Kotlin targeting Android and JVM platforms. Kotlin compiles to JVM bytecode, sharing the same runtime characteristics as Java.\n\n## Understanding Kotlin Compilation\n\nKotlin compiles to JVM bytecode that runs on the same virtual machine as Java:\n\ntext\nSource Code (.kt/.kts)\n        |\n        v\n    kotlinc (Kotlin Compiler)\n        |\n        v\nBytecode (.class files)\n        |\n        v\n    JIT Compiler (HotSpot/ART)\n        |\n        v",
+  "tags": [
+    "performance",
+    "security",
+    "web",
+    "file"
+  ]
+}

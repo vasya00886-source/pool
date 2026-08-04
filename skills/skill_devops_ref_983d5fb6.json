@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_983d5fb6",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subagent Template — Validation & Manifest (Steps 10–12)\n\nValidate IaC syntax, write `scaffold-manifest.json`, and generate deploy checklist. Follow the workflow below.\n\n## Critical Rules\n\n- ⛔ **Do NOT invoke ANY skills** — no `{\"skill\": \"azure-validate\"}`, `{\"skill\": \"azure-deploy\"}`, `{\"skill\": \"azure-prepare\"}`, or any other skill call. Use the procedures in THIS file only.\n- ⛔ **Do NOT create or modify Azure resources** — validation is syntax-only (`bicep build` / `terraform validate`), nev",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "docker",
+    "cli"
+  ]
+}

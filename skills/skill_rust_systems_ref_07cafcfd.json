@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_07cafcfd",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-vision-imageanalysis-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Tags\n\npython\nresult = client.analyze_from_url(\n    image_url=image_url,\n    visual_features=[VisualFeatures.TAGS]\n)\n\nif result.tags:\n    for tag in result.tags.list:\n        print(f\"Tag: {tag.name} (confidence: {tag.confidence:.2f})\")\n\n\n## Object Detection",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

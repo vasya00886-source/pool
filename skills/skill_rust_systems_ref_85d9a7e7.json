@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_85d9a7e7",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Client Types — Variations by Business Model\n\nThe 13-section plan structure stays consistent across client types. What changes is the **content emphasis** within each section. This doc names the dominant patterns by client archetype.\n\n## Archetype 1 — B2B SaaS\n\n### Core characteristics\n- Subscription revenue\n- Often higher ACV ($1K–$100K+ per year)\n- Sales-assisted or self-serve depending on tier\n- Buyer often different from user (champion vs. end-user)\n\n### AARRR emphasis\n\n**Acquisition heavy:",
+  "tags": [
+    "performance",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

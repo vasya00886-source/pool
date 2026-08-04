@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_4ba114d1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Cancel Flow Patterns\n\nDetailed cancel flow patterns by business type, billing provider, and industry.\n\n---\n\n## Cancel Flow by Business Type\n\n### B2C / Self-Serve SaaS\n\nHigh volume, low touch. The flow must work without human intervention.\n\n**Flow structure:**\n\nCancel button → Exit survey (1 question) → Dynamic offer → Confirm → Post-cancel\n\n\n**Characteristics:**\n- Fully automated, no human in the loop\n- Quick — 2-3 screens maximum\n- One offer + one fallback, not a menu of options\n- Mobil",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

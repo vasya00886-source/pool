@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_75a9e28a",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Technical Context Lenses\n\nThese lenses apply across a wide range of technical workflows, but they cluster\ninto a small set of recurring patterns. Use them to translate a house or card\ninto the kind of work currently being done.\n\n## Audit Pipeline Stage\n\nUse this lens when the task is part of a security review or codebase critique.\nMap the spread to the current phase:\n\n- Scoping and setup: what is in scope, what is excluded, and what must be\n  understood first.\n- Attack-surface mapping: entry p",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_f2646aca",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# False Positive Patterns — Lessons Learned\n\nApply ALL items in this checklist to EACH potential bug during verification.\n\nContents:\n\n- [Checklist](#checklist) — 13 items to apply to every bug (trace validation, confirm data paths, bounds logic, TOCTOU, trust boundaries, real vs theoretical impact, defense-in-depth)\n- [Red Flags for False Positives](#red-flags-for-false-positives) — recurring failure patterns: pattern-based, context-blind, math/bounds, API-contract\n\n## Checklist\n\n### 1. Trace Fu",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

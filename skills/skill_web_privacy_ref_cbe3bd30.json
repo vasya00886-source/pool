@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_cbe3bd30",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Resource Graph Queries for Resource Discovery\n\nAzure Resource Graph (ARG) enables fast, cross-subscription resource querying using KQL via `az graph query`. Use it for bulk resource discovery and relationship mapping.\n\n## How to Query\n\nUse the `extension_cli_generate` MCP tool to generate `az graph query` commands:\n\nyaml\nmcp_azure_mcp_extension_cli_generate\n  intent: \"query Azure Resource Graph to <describe what you want to find>\"\n  cli-type: \"az\"\n\n\nOr construct directly:\n\nbash",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

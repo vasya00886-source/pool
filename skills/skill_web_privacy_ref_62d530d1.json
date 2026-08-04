@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_62d530d1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# AI Image Prompting Guide\n\nHow to write effective prompts for AI image generation models (Gemini/Nano Banana, Flux, Ideogram, DALL-E, Midjourney).\n\n---\n\n## Prompt Structure\n\nA strong image prompt follows this formula:\n\n\n[Subject] + [Setting/context] + [Visual style] + [Lighting] + [Composition] + [Technical specs]\n\n\n### Example Prompts by Use Case\n\n**Blog hero — SaaS product:**\n\nA clean workspace with a laptop displaying a colorful analytics dashboard,\nminimalist desk with a coffee cup",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

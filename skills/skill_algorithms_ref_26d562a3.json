@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_ref_26d562a3",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Pre-Analysis Passes\n\nFour passes that enrich the code graph before downstream skills (genotoxic,\ndiagramming-code) consume it. Run via `engine.preanalysis()`.\n\n## Contents\n\n- Blast radius estimation\n- Entry point enumeration\n- Privilege boundary detection\n- Taint propagation\n- Subgraph reference\n- Annotation reference\n\n---\n\n## 1. Blast Radius Estimation\n\nCounts how many nodes are reachable downstream (descendants) and upstream\n(ancestors) from each function. High blast radius means a bug in th",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

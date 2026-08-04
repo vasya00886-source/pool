@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_7_60bafb97",
+  "category": "systems_design",
+  "level": 7,
+  "language": "rust",
+  "insight": "Assess whether source code is ready to deploy to Azure — the check BEFORE infrastructure work. Evaluates build health, app completeness, dependencies and local services, stack compatibility, and deployment feasibility. Answers questions about what your app needs before it can be deployed — frameworks, dependencies, and configuration. Checks whether dependencies are compatible and identifies deployment blockers and unsupported frameworks. WHEN: \\\"evaluate my repo\\\", \\\"is my app ready to deploy\\\",",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_102ab405",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# Pipeline Rules — Reference\n\nCross-cutting rules enforced across all workflow steps. Referenced from [SKILL.md](../SKILL.md) `## Pipeline Rules`.\n\n## Approval gates\n\n⛔ **Two separate approval gates are required — never merge them.**\n\n1. **Scaffold gate (Step 6):** \"✅ Ready to proceed with scaffolding? (Yes / Edit plan / Cancel)\" — approves IaC generation only. ⛔ When the plan includes PostgreSQL/MySQL, add `Private access` as a selectable choice — see approval-gates.md for the exact variant.\n2.",
+  "tags": [
+    "automation",
+    "security",
+    "web",
+    "cli",
+    "file"
+  ]
+}

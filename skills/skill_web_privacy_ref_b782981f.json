@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_b782981f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Configuration Reference\n\nComplete reference for `IConfiguration` / `IConfig` passed to `new ApplicationInsights({ config })`.\n\n## Identity & Endpoints\n\n| Key | Type | Default | Notes |\n| --- | --- | --- | --- |\n| `connectionString` | string | — | **Required.** Includes ingestion + live-metrics endpoints. Public — never reuse with backend secrets. |\n| `instrumentationKey` | string | — | Legacy. Prefer `connectionString`. |\n| `endpointUrl` | string | regional | Override ingestion endpoint (sover",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "web",
+    "cli"
+  ]
+}

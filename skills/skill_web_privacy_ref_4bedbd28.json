@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_4bedbd28",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Sample Size Guide\n\nReference for calculating sample sizes and test duration.\n\n## Contents\n- Sample Size Fundamentals (required inputs, what these mean)\n- Sample Size Quick Reference Tables\n- Duration Calculator (formula, examples, minimum duration rules, maximum duration guidelines)\n- Online Calculators\n- Adjusting for Multiple Variants\n- Common Sample Size Mistakes\n- When Sample Size Requirements Are Too High\n- Sequential Testing\n- Quick Decision Framework\n\n## Sample Size Fundamentals\n\n### Re",
+  "tags": [
+    "data",
+    "testing",
+    "web",
+    "file"
+  ]
+}

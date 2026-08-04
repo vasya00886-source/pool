@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_542a2fcb",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Bug-Class-Specific Verification\n\nDifferent bug classes require different verification approaches. After classifying the bug in Step 0, apply the class-specific requirements below **in addition to** the generic verification phases.\n\nJump to the relevant class:\n\n- [Memory Corruption](#memory-corruption) — overflows, UAF, double-free, type confusion\n- [Logic Bugs](#logic-bugs) — auth bypass, access control, state transitions, privilege escalation\n- [Race Conditions](#race-conditions) — TOCTOU, da",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

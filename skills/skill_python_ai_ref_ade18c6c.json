@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_ade18c6c",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-appconfiguration-py capability coverage\n\n**SDK/package**: `azure-appconfiguration`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Configuration Settings`\n- `List Settings`\n- `Feature Flags`\n- `Read-Only Settings`\n\n## Non-hero scenarios\n\n- `Snapshots`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#snapshots`](non-hero-scenarios.md#snapshots)\n- `Asy",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2edf2805",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Key Vault Secrets SDK for Java - Examples\n\nComprehensive code examples for the Azure Key Vault Secrets SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Setting Secrets](#setting-secrets)\n- [Getting Secrets](#getting-secrets)\n- [Listing Secrets](#listing-secrets)\n- [Updating Secret Properties](#updating-secret-properties)\n- [Deleting and Recovering Secrets](#deleting-and-recovering-secrets)\n- [Purging Deleted Secrets](#pu",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

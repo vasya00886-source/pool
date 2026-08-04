@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_e291db0c",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Sales Deck Frameworks\n\nDetailed slide-by-slide guidance for building sales decks that tell a story and close deals.\n\n## The Storytelling Arc\n\nEvery great deck follows a narrative structure: **Situation → Complication → Resolution.**\n\n- **Situation** (Slides 1-3): The world your buyer lives in. Establish shared understanding.\n- **Complication** (Slides 2-3): Why the status quo is no longer sustainable. Create urgency.\n- **Resolution** (Slides 4-11): Your approach, proof, and path forward.\n\nThe",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

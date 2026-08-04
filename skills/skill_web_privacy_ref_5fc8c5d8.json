@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_5fc8c5d8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Result analysis\n\nUse this reference after an evaluation run has produced JSON, CSV, or HTML output.\n\n## Current output shape\n\nJSON output is an eval-document-style object:\n\njson\n{\n  \"schemaVersion\": \"1.2.0\",\n  \"metadata\": {\n    \"evaluatedAt\": \"2025-01-01T00:00:00Z\",\n    \"agentId\": \"<agent-id>\",\n    \"agentName\": \"<agent-name>\",\n    \"cliVersion\": \"<version>\"\n  },\n  \"default_evaluators\": {},\n  \"items\": [\n    {\n      \"prompt\": \"What can this agent help me with?\",\n      \"response\": \"The agent re",
+  "tags": [
+    "data",
+    "web",
+    "cli"
+  ]
+}

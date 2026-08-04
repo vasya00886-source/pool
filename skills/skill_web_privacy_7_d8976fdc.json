@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_d8976fdc",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "java",
+  "insight": "Build call automation workflows with Azure Communication Services Call Automation Java SDK. Use when implementing IVR systems, call routing, call recording, DTMF recognition, text-to-speech, or AI-powered call flows.",
+  "tags": [
+    "api",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

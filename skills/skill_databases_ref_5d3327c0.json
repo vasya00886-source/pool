@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_5d3327c0",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Quick Review Compliance Assessment\n\nThis skill enables comprehensive Azure compliance assessments using Azure Quick Review (azqr), analyzing findings against Azure best practices, and providing actionable remediation guidance.\n\n## Prerequisites\n\n- **Azure authentication** - Logged in via Azure CLI (`az login`) or using Service Principal/Managed Identity\n- **Reader permissions** - Minimum Reader role on target subscription or management group\n\n## Assessment Workflow\n\n### Step 1: Determine",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

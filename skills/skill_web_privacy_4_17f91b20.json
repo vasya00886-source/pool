@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_17f91b20",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Azure Resource Manager SDK for deploying and managing Weights & Biases ML experiment tracking instances via Azure Marketplace.\ndotnet add package Azure.ResourceManager.WeightsAndBiases --prerelease\ndotnet add package Azure.Identity\n**Current Version**: v1.0.0-beta.1 (preview)  \n**API Version**: 2024-09-18-preview",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

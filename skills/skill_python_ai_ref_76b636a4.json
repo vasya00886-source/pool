@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_76b636a4",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Tool — OpenAPI (`type: openapi`)\n\nExpose a REST API to the agent from its **OpenAPI 3.x spec**. The spec is embedded **inline** in the toolbox `tools:` block (under an `openapi` object) — this is a connectionless built-in, **not** a connection-backed tool. API-key auth is the one mode that also needs a `custom-keys` connection. For the toolbox concept, versions, and endpoint, see [toolbox.md](../toolbox.md).\n\nEach operation becomes one tool named `{name}___{operationId}`, so every operation in",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

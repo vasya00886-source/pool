@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_7d40266c",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# AEO and GEO Content Patterns\n\nReusable content block patterns optimized for answer engines and AI citation.\n\n---\n\n## Contents\n- Answer Engine Optimization (AEO) Patterns (Definition Block, Step-by-Step Block, Comparison Table Block, Pros and Cons Block, FAQ Block, Listicle Block)\n- Generative Engine Optimization (GEO) Patterns (Statistic Citation Block, Expert Quote Block, Authoritative Claim Block, Self-Contained Answer Block, Evidence Sandwich Block)\n- Domain-Specific GEO Tactics (Technology",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c039e453",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# AKS Spot Node Pools\n\nRecommend and create Spot VM node pools for batch, dev/test, or fault-tolerant workloads (60-90% cost reduction vs regular nodes).\n\n## Check Existing Node Pools\n\nbash\naz aks nodepool list \\\n  --cluster-name \"<CLUSTER_NAME>\" --resource-group \"<RESOURCE_GROUP>\" \\\n  --query \"[].{name:name, vmSize:vmSize, priority:scaleSetPriority, count:count, mode:mode}\" \\\n  -o table\n\n\n## Identify Spot-Suitable Workloads\n\nBefore creating a Spot pool, identify which workloads can tolera",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_ref_2eb40bef",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Parallel Workflows\n\nUse this workflow when independent subtasks can run side-by-side, or when multiple judgments improve confidence.\n\n## Choose this workflow when\n\n- work units are independent\n- latency or coverage improves with parallel execution\n- aggregation can be described clearly\n\n## Common forms\n\n1. `sectioning`: split a task into independent work units.\n2. `voting`: run multiple judgments and aggregate them.\n\n## Required contract\n\n1. Unit of parallel work.\n2. Merge or vote rule.\n3. Con",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_1386224e",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

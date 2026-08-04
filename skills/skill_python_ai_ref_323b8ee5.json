@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_323b8ee5",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-appconfiguration-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Snapshots\n\n### Create Snapshot\n\npython\nfrom azure.appconfiguration import ConfigurationSnapshot, ConfigurationSettingsFilter\n\nsnapshot = ConfigurationSnapshot(\n    filters=[\n        ConfigurationSettingsFilter(key=\"app:*\", label=\"production\")\n    ]\n)\n\ncreated = client.be",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

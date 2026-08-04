@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_9d03ab16",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Evaluation Methodology\n\n## Principles\n\n1. **Always establish a baseline**: Evaluate the base (un-tuned) model first. Without a baseline, you can't measure improvement.\n2. **Use a held-out test set**: Never evaluate on training or validation data. The model has seen those.\n3. **Use the same test set for every model**: This is the only way to compare results fairly.\n4. **Use task-specific graders**: Built-in generic evaluators (Coherence, Fluency) measure general quality and won't detect fine-tu",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rust_systems_ref_a5cdde0f",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# Custom Advisor Template\n\nCopy this structure to add an advisor to the bench. Save custom advisors to `.agents/advisors/<kebab-name>.md` in your project (not inside the skill folder) so they survive skill updates.\n\nTwo kinds of custom advisors, two grounding standards:\n\n- **Public figures** (a famous marketer not on the bench): every framework and position must trace to something they published or said — research before writing, cite sources, follow the same grounding rules as the built-in doss",
+  "tags": [
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_f5d1614a",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Mutation Testing Frameworks\n\nLanguage-specific setup, execution, and output parsing for mutation testing.\n\n## Contents\n\n- Language detection\n- Framework reference table\n- Per-language setup and commands\n- Parsing survived mutants\n- Necessist (test statement removal)\n\n---\n\n## Installation Policy\n\n**Every mutation testing framework listed below MUST be installed before\nproceeding.** If a framework command is not found or fails to install:\n\n1. Try the primary install method for the platform\n2. Tr",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

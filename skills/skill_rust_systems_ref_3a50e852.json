@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_3a50e852",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Static Ad Template Library\n\nFifteen structural templates for static (image) ad creative. Each is a layout framework with slots for brand-specific copy — the structure is proven; the inputs make it yours.\n\nUse these when generating static ad concepts at volume (Meta, Instagram, LinkedIn, display). Cycle through **all** templates rather than clustering on 2-3 favorites: template diversity is angle diversity, and the winner is usually not the one you'd have picked by hand.\n\n## How to Use This Lib",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

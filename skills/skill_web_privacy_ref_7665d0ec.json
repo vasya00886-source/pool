@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7665d0ec",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Cloud Application Best Practices\n\nTwelve best practices from the Azure Architecture Center for designing, building, and operating cloud applications.\n\n---\n\n## 1. API Design\n\nDesign RESTful web APIs that promote platform independence and loose coupling between clients and services.\n\n### Key Recommendations\n\n- Organize APIs around resources using nouns, not verbs, in URIs\n- Use standard HTTP methods (GET, POST, PUT, PATCH, DELETE) with correct semantics\n- Use plural nouns for collection endpoint",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

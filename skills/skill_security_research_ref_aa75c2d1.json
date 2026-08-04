@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_aa75c2d1",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Permissions and Secrets\n\n## Overview\n\nGitHub Actions workflows have access to `GITHUB_TOKEN` (automatic) and repository secrets (configured). Overly broad permissions amplify the impact of any vulnerability. Proper permission scoping is the single most effective mitigation for GitHub Actions attacks.\n\n---\n\n## GITHUB_TOKEN Permissions\n\n### Default Permissions\n\nGitHub offers two default permission modes (configured in repo Settings > Actions > General):\n\n| Mode | Default Permissions |\n|------|--",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

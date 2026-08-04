@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_caacf2d0",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Execution Shapes\n\nUse this guide to choose the runtime shape of a skill before you decide its files.\nDefault rule: choose the simplest adequate shape, then add complexity only when it clearly improves outcomes.\nOnce you pick a shape, load only the concrete leaf references it needs.\n\n## Defaulting To The Simplest Shape\n\nStart from these questions, in order:\n\n1. Can one coherent set of instructions handle most requests?\n   If yes, prefer `inline-guidance`.\n2. Is the main complexity optional know",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

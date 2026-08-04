@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c1e16730",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# EMM Enable Flow\n\nCopilot-guided step-by-step workflow for enabling Essential Machine Management on a subscription. Copilot orchestrates each step, triggering the necessary CLI commands or API calls on behalf of the user.\n\n## Quick Reference\n\n| Property | Value |\n| -------- | ----- |\n| Resource type | `Microsoft.ManagedOps/ManagedOps` |\n| Resource provider | `Microsoft.ManagedOps` |\n| API version | `2025-07-28-preview` |\n| Deployment scope | Subscription-level |\n\n## Workflow Steps\n\n### Step 1:",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

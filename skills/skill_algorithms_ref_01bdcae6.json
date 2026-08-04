@@ -1,0 +1,12 @@
+{
+  "id": "algorithms_ref_01bdcae6",
+  "category": "algorithms",
+  "level": 4,
+  "language": "general",
+  "insight": "# Pattern Examples\n\n## Creative Frontend (New Interfaces)\n\n### Good: Clear Aesthetic Direction\n- Landing page with brutalist aesthetic: Raw typography (Neue Haas Grotesk), stark black and white, asymmetric layouts\n- Dashboard with organic theme: Rounded forms, earth tones, flowing animations, textured backgrounds\n\n### Bad: Generic AI Aesthetic\n- Overused fonts, cliched color schemes, centered content, generic card layouts\n\n## Design System Review (Existing Work)\n\n### Good: Frictionless\n- Single",
+  "tags": [
+    "testing",
+    "cli",
+    "file"
+  ]
+}

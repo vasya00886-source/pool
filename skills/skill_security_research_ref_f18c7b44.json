@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_f18c7b44",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Patterns\n\nPage layouts, navigation patterns, and application templates for dark-themed React applications.\n\n## App Shell\n\nThe main application layout with sidebar navigation:\n\ntsx\nimport { motion } from 'framer-motion';\nimport { type ReactNode } from 'react';\nimport { Sidebar } from './Sidebar';\n\ninterface AppShellProps {\n  children: ReactNode;\n}\n\nexport function AppShell({ children }: AppShellProps) {\n  return (\n    <div className=\"flex min-h-screen bg-neutral-bg1\">\n      <Sidebar />",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

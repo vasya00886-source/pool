@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_375a0fb8",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Validation, Manifest & Approval — Steps 10–12.5\n\n## Step 10 — CI/CD\n\nDo NOT auto-generate workflow files or create branches/PRs. Scaffold only writes IaC files. This step activates only when `context.json.repo.remote` is non-null AND user explicitly requests branch/PR creation. When `repo.remote` is absent or user declines, write IaC directly to working tree. If the user asks for CI/CD, or after deploy completes, suggest it as a follow-up: call `mcp_azure_mcp_deploy` → `deploy_pipeline_guidanc",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

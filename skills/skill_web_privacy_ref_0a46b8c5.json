@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_0a46b8c5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Unable to SSH into the VM\n\nUse for Linux VM SSH failures.\n\n## Symptoms -> Solutions\n\n| Symptom | Action | Docs |\n| --- | --- | --- |\n| connection refused on 22 | Check sshd running/listening and port config | [SSH overview] |\n| connection timed out | Check power state, public IP, NSG, routes | [SSH overview] |\n| permission denied publickey/password | Verify user, key, password auth; reset key/password | [SSH detail] |\n| host key verification failed | Remove stale `known_hosts` entry | [SSH det",
+  "tags": [
+    "automation",
+    "security",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_be5cbd80",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Cosmos DB Client Setup\n\n## Table of Contents\n\n1. [Dual Authentication Strategy](#dual-authentication-strategy)\n2. [Singleton Pattern](#singleton-pattern)\n3. [Async Wrapping](#async-wrapping)\n4. [Configuration Management](#configuration-management)\n5. [Connection Reset](#connection-reset)\n6. [Complete Implementation](#complete-implementation)\n\n---\n\n## Dual Authentication Strategy\n\nUse `DefaultAzureCredential` for Azure deployments and key-based auth only for the local emulator:\n\npython\nfrom",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_76ea5806",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# Apple App Store — Official Specs & Guidelines\n\nAll data from developer.apple.com as of March 2026.\n\n## Character Limits\n\n| Field                   | Limit            | Indexed for Search?      | Notes                                                    |\n| ----------------------- | ---------------- | ------------------------ | -------------------------------------------------------- |\n| App Name                | 30 chars (min 2) | Yes                      | Must be unique; no trademarks, compet",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

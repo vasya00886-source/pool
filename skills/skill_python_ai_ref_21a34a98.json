@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_21a34a98",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# azure-mgmt-apicenter-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Add API Definition\n\npython\nfrom azure.mgmt.apicenter.models import ApiDefinition, ApiDefinitionProperties\n\ndefinition = client.api_definitions.create_or_update(\n    resource_group_name=\"my-resource-group\",\n    service_name=\"my-api-center\",\n    workspace_name=\"default\",",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

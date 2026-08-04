@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_44b5c814",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Workflow Patterns\n\nPatterns for structuring multi-step processes in skills.\n\n## Sequential Workflows\n\nFor complex tasks, break operations into clear steps. Provide an overview at the start:\n\nmarkdown\nFilling a PDF form involves these steps:\n\n1. Analyze the form (run analyze_form.py)\n2. Create field mapping (edit fields.json)\n3. Validate mapping (run validate_fields.py)\n4. Fill the form (run fill_form.py)\n5. Verify output (run verify_output.py)\n\n\n## Conditional Workflows\n\nFor tasks with b",
+  "tags": [
+    "cli",
+    "file"
+  ]
+}

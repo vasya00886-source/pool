@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_188f63d2",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Choosing and Applying an Open-Source License\n\nA repository is not open source until it has a license. Without one, default\ncopyright applies and nobody can legally use, modify, or redistribute the code\nregardless of it being publicly visible.\n\n## Decision criteria\n\nChoose a license based on the answers to these questions, in order:\n\n1. **Does the organization have a license policy?** Apply it. If an\n   organization profile was loaded in Step 1 of the workflow, its policy\n   takes precedence ov",
+  "tags": [
+    "data",
+    "web",
+    "file"
+  ]
+}

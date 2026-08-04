@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_82f1fe81",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Free Tool Types Reference\n\nDetailed guide to each type of marketing tool you can build.\n\n## Contents\n- Calculators\n- Generators\n- Analyzers/Auditors\n- Testers/Validators\n- Libraries/Resources\n- Interactive Educational\n- Tool Concept Examples by Industry (SaaS product, agency/services, e-commerce, developer tools, finance)\n\n## Calculators\n\n**Best for**: Decisions involving numbers, comparisons, estimates\n\n**Examples**:\n- ROI calculator\n- Savings calculator\n- Cost comparison tool\n- Salary calcul",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "testing",
+    "web"
+  ]
+}

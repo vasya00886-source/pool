@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1e144234",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Vector Search Patterns\n\nDetailed patterns for vector search with Azure AI Search.\n\n## Vector Search Configuration\n\n### HNSW Algorithm Configuration\n\nHNSW (Hierarchical Navigable Small World) is the recommended algorithm for large-scale vector search.\n\npython\nfrom azure.search.documents.indexes.models import (\n    VectorSearch,\n    HnswAlgorithmConfiguration,\n    VectorSearchProfile,\n    HnswParameters,\n)\n\nvector_search = VectorSearch(\n    algorithms=[\n        HnswAlgorithmConfiguration(",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "cli",
+    "file"
+  ]
+}

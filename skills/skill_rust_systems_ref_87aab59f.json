@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_87aab59f",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "<overview>\n\nThis reference helps predict Culture Index traits from interview transcripts. Candidates don't take CI during interviews - these signals help estimate traits before the actual survey is administered after an offer is signed.\n\n**Important caveats:**\n- Predictions are estimates, not definitive assessments\n- Interview context affects behavior (stress, performance mode)\n- Always note confidence level for each trait\n- Actual CI survey will confirm or correct predictions\n\n</overview>\n\n<tra",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

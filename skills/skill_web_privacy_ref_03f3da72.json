@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_03f3da72",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Non-Azure Cloud Service Dependencies\n\n> Detected during Step 2 manifest scan. The `ask_user` redirect gate is handled in SKILL.md Step 2 — this file defines the classification rules.\n\nFunctional cloud SDK deps are 🔶 `CLOUD_SDK_MIGRATION`. Populate `prereq-output.json.cloudSdkFindings[]`.\n\n| Found Dependency | Azure Equivalent |\n|-----------------|-----------------|\n| AWS DynamoDB (`AWSSDK.DynamoDBv2`, `@aws-sdk/client-dynamodb`), GCP Firestore | Cosmos DB (NoSQL API) |\n| AWS Cognito (`AWSSDK.C",
+  "tags": [
+    "api",
+    "web",
+    "cli",
+    "file"
+  ]
+}

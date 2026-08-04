@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_4691d876",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Foundry Tool Catalog — Project Connections for Remote Tools\n\nReference for wiring a **remote tool** (catalog tile or generic MCP server) into a Foundry project as a `RemoteTool` project connection, so a toolbox can attach to it.\n\n> 🚦 **Toolbox creation gate:** before creating a toolbox/connection, you MUST read the boundary rules in [create-hosted.md → Toolbox creation boundary](../create-hosted.md#toolbox-creation-boundary) and follow them, then continue with the rest of this file.\n\nThree cat",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

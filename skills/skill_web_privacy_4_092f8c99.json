@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_092f8c99",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Azure Bot Service resources via Azure Resource Manager.\ndotnet add package Azure.ResourceManager.BotService\ndotnet add package Azure.Identity\n**Current Versions**: Stable v1.1.1, Preview v1.1.0-beta.1",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

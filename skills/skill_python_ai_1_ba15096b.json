@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_1_ba15096b",
+  "category": "python_ai",
+  "level": 1,
+  "language": "rust",
+  "insight": "Event routing service for building event-driven applications with pub/sub semantics.\npip install azure-eventgrid azure-identity\nEVENTGRID_TOPIC_ENDPOINT=https://<topic-name>.<region>.eventgrid.azure.net/api/events  # Required for Event Grid topic publishing\nEVENTGRID_NAMESPACE_ENDPOINT=https://<namespace>.<region>.eventgrid.azure.net  # Required for namespace operations\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

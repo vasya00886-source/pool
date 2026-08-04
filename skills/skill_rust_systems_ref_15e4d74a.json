@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_15e4d74a",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Core Patterns\n\n## When markers help\nUse markers when the prompt mixes different content types:\n\n- instructions\n- retrieved context\n- tool rules\n- examples\n- input payloads\n- output schema\n\nGood section names are concrete and stable:\n\n- `<role>`\n- `<goal>`\n- `<context>`\n- `<tool_policy>`\n- `<workflow>`\n- `<constraints>`\n- `<output_format>`\n\nDo not add markup around every sentence. Markers are useful when they carve the prompt into distinct blocks, not when they add noise.\n\nIf the target stack o",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

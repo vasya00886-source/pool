@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_e630444d",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Output Format\n\nReturn a concise evidence packet. Use Markdown unless the user asks for JSON.\n\nmarkdown\n# Trailmark Finding Triage: <title>\n\n## Verdict\n\nStatus: Promote | Needs manual review | Deprioritize | Blocked\nConfidence: High | Medium | Low\n\n## Candidate\n\n- Source:\n- Location:\n- Bound node:\n- Claimed issue:\n\n## Graph Evidence\n\n- Entrypoint reachable:\n- Entry paths:\n- Tainted:\n- Privilege boundary:\n- Blast radius:\n- Direct callers:\n- Direct callees:\n- Relevant sinks:\n\n## Manual Review",
+  "tags": [
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

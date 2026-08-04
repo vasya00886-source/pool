@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f185d1f5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Unable to RDP into the VM\n\nUse for Windows VM RDP timeouts, refused connections, black screen, or RDP error dialogs.\n\n## Symptoms -> Solutions\n\n| Symptom | Action | Docs |\n| --- | --- | --- |\n| timeout/no response | Check power state, public IP, NSG allow for 3389 | [RDP NSG] |\n| timeout with NSG OK | Check guest firewall | [Guest firewall] |\n| credentials failed | Reset password or username format | [RDP errors] |\n| internal/security/authentication error | Check TLS, NLA, CredSSP, certificate",
+  "tags": [
+    "api",
+    "security",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

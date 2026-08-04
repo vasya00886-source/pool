@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_e66c85a5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Testing the toolbox\n\nAfter creating or updating a toolbox (steps 1–3 in each tool's setup guide), verify it works. Two ways: call the MCP endpoint directly, or exercise it through the deployed agent.\n\n## 1. Call the toolbox endpoint directly\n\nVerify the toolbox MCP endpoint end-to-end without an agent. Use `az login` for authentication, then test the MCP operations in order. For endpoint URL format and auth scope, see [toolbox.md § MCP endpoint URL format](../toolbox.md#mcp-endpoint-url-format",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

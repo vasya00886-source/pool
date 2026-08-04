@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_4c99a767",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Mermaid Diagram Templates\n\nCopy-paste-ready Mermaid diagrams for visual sitemaps. Customize node labels and connections for your site.\n\n---\n\n## Basic Hierarchy\n\nSimple top-down page hierarchy.\n\nmermaid\ngraph TD\n    HOME[\"Homepage<br/>/\"] --> FEAT[\"Features<br/>/features\"]\n    HOME --> PRICE[\"Pricing<br/>/pricing\"]\n    HOME --> BLOG[\"Blog<br/>/blog\"]\n    HOME --> ABOUT[\"About<br/>/about\"]\n\n    FEAT --> F1[\"Analytics<br/>/features/analytics\"]\n    FEAT --> F2[\"Automation<br/>/features/automati",
+  "tags": [
+    "api",
+    "file"
+  ]
+}

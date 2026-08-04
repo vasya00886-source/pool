@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d5d48c16",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Widget Patterns\n\n## Table of Contents\n- [Required Dependencies](#required-dependencies)\n- [Widget Template](#widget-template)\n- [Data Access Pattern](#data-access-pattern)\n- [Theme Support Pattern](#theme-support-pattern)\n- [CSS Variables (Required)](#css-variables-required)\n- [Debug Data Pattern](#debug-data-pattern)\n- [XSS Prevention](#xss-prevention)\n- [Action Buttons](#action-buttons)\n\nReact widgets for OpenAI Apps SDK with Copilot Chat.\n\nMANDATORY: Use Fluent UI (`@fluentui/react-componen",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

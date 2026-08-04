@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_414dc741",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Rust Sharp Edges\n\n## Integer Overflow Behavior Differs by Build\n\nrust\n// In debug builds: panics\n// In release builds: wraps silently!\nlet x: u8 = 255;\nlet y = x + 1;  // Debug: panic! Release: y = 0\n\nfn calculate_size(count: usize, element_size: usize) -> usize {\n    count * element_size  // Panics in debug, wraps in release\n}\n\n\n**The Problem**: Behavior differs between debug and release. Bugs may only manifest in production.\n\n**Fix**: Use explicit methods:\nrust\n// Wrapping (explicit",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

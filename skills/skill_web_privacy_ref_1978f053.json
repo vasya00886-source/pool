@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1978f053",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Browser Authentication Reference\n\nBrowser-based authentication for Azure services using the @azure/identity TypeScript SDK.\n\n## Overview\n\nBrowser applications require special credential types that handle OAuth redirects and popup windows. This reference covers `InteractiveBrowserCredential`, `BrowserCustomizationOptions`, and SPA authentication patterns.\n\n## Installation\n\nbash\nnpm install @azure/identity\n\n\n**Note:** Browser credentials require a bundler (Vite, webpack, etc.) and won't wo",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "testing"
+  ]
+}

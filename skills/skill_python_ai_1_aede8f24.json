@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_1_aede8f24",
+  "category": "python_ai",
+  "level": 1,
+  "language": "rust",
+  "insight": "Centralized configuration management with feature flags and dynamic settings.\npip install azure-appconfiguration\nAZURE_APPCONFIGURATION_ENDPOINT=https://<name>.azconfig.io  # Required for Entra ID auth\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_1c91daad",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Iteration Evidence\n\nUse this guide when improving a skill from positive examples, negative examples, review feedback, validation results, or observed agent behavior.\n\n## Storage Layout\n\nStore persistent improvement evidence under:\n\ntext\nreferences/evidence/\n├── findings-log.md\n├── working-set.md\n└── holdout-set.md\n\n\nUse this directory only when examples should outlive the current task. For a one-off small fix, summarize the examples in `SOURCES.md` instead.\n\n## File Roles\n\n`references/ev",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

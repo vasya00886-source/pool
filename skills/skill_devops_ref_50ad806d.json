@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_50ad806d",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Pre-Deployment Checklist\n\n> **CRITICAL**: Before running ANY provisioning commands, you MUST complete this checklist IN ORDER.\n>\n> ⛔ **DO NOT** run `azd up` until ALL steps are complete. Trial-and-error wastes time and creates orphan resources.\n\n## Step 1: Check Current Subscription\n\nUse the Azure MCP tool to get current subscription:\n\n\nmcp_azure_mcp_subscription_list\n\n\n**CLI fallback:**\nbash\naz account show --query \"{name:name, id:id}\" -o json\n\n\n## Step 2: Prompt User for Subscrip",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

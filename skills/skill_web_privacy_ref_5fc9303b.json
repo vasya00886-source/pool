@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_5fc9303b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Crypto Protocol Patterns Reference\n\nCanonical message flows for common cryptographic protocols. Use these as a\nreference when comparing an implementation against a known spec, or as a\nstarting skeleton when the implementation follows a named protocol.\n\n---\n\n## TLS 1.3 Handshake (RFC 8446)\n\n**Parties:** Client (C), Server (S)\n**Round complexity:** 1 RTT (0-RTT with resumption)\n\n\nC → S: ClientHello(random, legacy_session_id, cipher_suites,\n                   key_share[ecdhe], supported_versio",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

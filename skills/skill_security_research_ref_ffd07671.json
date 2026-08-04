@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_ffd07671",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# YARA-X Performance Guidelines\n\nUnderstanding how YARA-X works internally helps you write rules that scan fast.\n\n> **YARA-X Performance:** YARA-X is 5-10x faster than legacy YARA for regex-heavy rules due to its Rust-based regex engine. The atom extraction and matching principles remain the same.\n\n## How YARA Scanning Works\n\n### Three-Phase Process\n\n1. **Atom Extraction** — YARA extracts short byte sequences (atoms) from your strings\n2. **Aho-Corasick Matching** — Fast multi-pattern search find",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

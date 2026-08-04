@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_1492f29d",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "javascript",
+  "insight": "Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects). Use when working with Foundry project clients, agents, connections, deployments, datasets, indexes, evaluations, or getting OpenAI clients.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

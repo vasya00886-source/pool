@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7af7c541",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# API Permissions Guide\n\nThis document explains how to configure and manage API permissions for your Microsoft Entra app registration.\n\n## Permission Types\n\n### Delegated Permissions (User Context)\n\n**What:** Application acts on behalf of a signed-in user\n\n**When to use:**\n- User is present and can consent\n- App needs to access resources as the user\n- Interactive authentication flows\n\n**Examples:**\n- Read user's email\n- Update user's calendar\n- Access user's OneDrive files\n\n**Scope format:** Use",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

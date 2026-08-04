@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_f583f788",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# Bicep Patterns — Data Service Modules\n\nBicep module templates for database and cache services. Read when the prepare plan includes PostgreSQL, MySQL, or Redis.\n\nFor core patterns (file structure, skeleton, naming, tagging), see [bicep-patterns.md](bicep-patterns.md). For security defaults, see [bicep-patterns-security.md](bicep-patterns-security.md).\n\n## PostgreSQL Flexible Server Module\n\nbicep\nparam pgName string\nparam location string\nparam tags object\nparam administratorLogin string\n@secu",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_71d15b83",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "javascript",
+  "insight": "Use this skill to help users evaluate Microsoft 365 Copilot declarative agents with @microsoft/m365-copilot-eval. The skill designs schema-compatible eval datasets, runs the public preview CLI, analyzes results, and recommends targeted fixes.\nDefault to Microsoft 365 Agents Toolkit (ATK) projects when detected, but do not hard-stop solely because the current directory is not ATK. The CLI can also evaluate deployed agents with an explicit M365_AGENT_ID or --m365-agent-id.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

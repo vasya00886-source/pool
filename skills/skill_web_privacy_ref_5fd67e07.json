@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_5fd67e07",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Mode Selection\n\nChoose the minimal set of paths needed for the request.\nRegardless of path, prioritize input quality and coverage depth before finalizing outputs.\n\n## Path mapping\n\n| Request shape | Required paths |\n|---------------|----------------|\n| New skill from scratch | synthesis + authoring + description optimization + registration/validation |\n| Update existing skill wording/structure | authoring + description optimization + registration/validation |\n| Improve skill from outcomes/exam",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

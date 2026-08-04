@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_4617db16",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# Google Play Store — Official Specs & Guidelines\n\nAll data from support.google.com and developer.android.com as of March 2026.\n\n## Character Limits\n\n| Field             | Limit       | Indexed?               | Notes                                 |\n| ----------------- | ----------- | ---------------------- | ------------------------------------- |\n| App Title         | 30 chars    | Yes (strongest signal) | Reduced from 50 in Sept 2021          |\n| Short Description | 80 chars    | Yes",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

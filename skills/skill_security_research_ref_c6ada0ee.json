@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_c6ada0ee",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Standard Verification\n\nLinear single-pass checklist for straightforward bugs. No task tracking — work through each step sequentially and document findings inline.\n\n## Escalation Checkpoints\n\nTwo points in this checklist may trigger escalation to [deep-verification.md]({baseDir}/references/deep-verification.md):\n\n1. **After Step 1 (Data Flow)**: Escalate if 3+ trust boundaries, callbacks/async control flow, or ambiguous validation chain\n2. **After Step 5 (Devil's Advocate)**: Escalate if any qu",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_07353a5a",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# Ruleset Catalog\n\n## Official CodeQL Suites\n\n| Suite | False Positives | Use Case |\n|-------|-----------------|----------|\n| `security-extended` | Low | **Default** - Security audits |\n| `security-and-quality` | Medium | Comprehensive review (stable security + code quality) |\n| `security-experimental` | Higher | Research, vulnerability hunting (stable security + experimental security) |\n\n> **Suite hierarchy:** `security-and-quality` and `security-experimental` are complementary. `security-and-q",
+  "tags": [
+    "automation",
+    "security",
+    "file"
+  ]
+}

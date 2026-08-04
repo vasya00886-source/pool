@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_20f4a141",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Partition Key Strategies\n\nComprehensive guide to partition key design and optimization for Azure Cosmos DB.\n\n## Partition Key Fundamentals\n\n### What is a Partition Key?\n\nA partition key determines how data is distributed across physical partitions:\n\n- **Logical partition**: All items with the same partition key value\n- **Physical partition**: Storage unit that holds one or more logical partitions\n- **Maximum logical partition size**: 20 GB\n\npython\nfrom azure.cosmos import PartitionKey\n\n# De",
+  "tags": [
+    "performance",
+    "data",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

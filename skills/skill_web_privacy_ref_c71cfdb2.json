@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c71cfdb2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Components\n\nReusable UI components built with React, Tailwind CSS, and Framer Motion.\n\n## Button\n\ntsx\nimport { motion, type HTMLMotionProps } from 'framer-motion';\nimport { clsx } from 'clsx';\nimport { forwardRef, type ReactNode } from 'react';\n\ntype ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'danger';\ntype ButtonSize = 'sm' | 'md' | 'lg';\n\ninterface ButtonProps extends Omit<HTMLMotionProps<'button'>, 'children'> {\n  variant?: ButtonVariant;\n  size?: ButtonSize;\n  children: ReactNo",
+  "tags": [
+    "automation",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

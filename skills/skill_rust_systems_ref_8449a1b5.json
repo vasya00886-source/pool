@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_8449a1b5",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# C# Sharp Edges\n\n## Nullable Reference Types\n\ncsharp\n// DANGEROUS: NRT is opt-in and warnings-only by default\n// Project must enable: <Nullable>enable</Nullable>\n\nstring? nullable = null;\nstring nonNull = nullable;  // Warning, but compiles!\nnonNull.Length;  // NullReferenceException at runtime\n\n// DANGEROUS: Suppression operator\nstring value = possiblyNull!;  // Suppresses warning, doesn't fix bug\n\n// DANGEROUS: Default enabled doesn't mean enforced\n// Many legacy codebases have NRT enabled",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_b5c0009c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Batch Java SDK - Examples\n\nComprehensive code examples for the Azure Batch SDK for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Pool Operations](#pool-operations)\n- [Job Operations](#job-operations)\n- [Task Operations](#task-operations)\n- [Node Operations](#node-operations)\n- [Job Schedule Operations](#job-schedule-operations)\n- [Error Handling](#error-handling)\n- [Complete Application Example](#complete-application-example",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

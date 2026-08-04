@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_75cf54a3",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Permission Analysis\n\nFramework for evaluating tool permissions granted to agent skills.\n\n## Tool Risk Tiers\n\n| Tier | Tools | Risk Level | Notes |\n|------|-------|------------|-------|\n| **Tier 1 — Read-Only** | `Read`, `Grep`, `Glob` | Low | Cannot modify anything; safe for analysis skills |\n| **Tier 2 — Execution** | `Bash` | Medium | Can run arbitrary commands; should have clear justification |\n| **Tier 3 — Modification** | `Write`, `Edit`, `NotebookEdit` | High | Can modify files; verify t",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "web",
+    "cli"
+  ]
+}

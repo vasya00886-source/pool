@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_1c99f33e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Dimensional Algebra Rules\n\nThis document defines the rules for dimensional arithmetic. While examples use Solidity syntax, these algebraic rules are universal and apply to any language performing fixed-point or scaled arithmetic.\n\n## Notation\n\n- `{A}` - A semantic unit (e.g., `{tok}`, `{share}`, `{UoA}`)\n- `D18` - A precision prefix indicating 18 decimal places\n- `D18{A}` - A value with unit `{A}` and precision D18\n- `{A/B}` - A derived unit (A per B)\n- `{A*B}` - A compound unit (A times B)\n-",
+  "tags": []
+}

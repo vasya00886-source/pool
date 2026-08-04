@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_ref_297481ba",
+  "category": "algorithms",
+  "level": 4,
+  "language": "python",
+  "insight": "# Diagram Types\n\n## Contents\n\n- [Call graph](#call-graph)\n- [Class hierarchy](#class-hierarchy)\n- [Module dependencies](#module-dependencies)\n- [Containment](#containment)\n- [Complexity heatmap](#complexity-heatmap)\n- [Attack surface / data flow](#attack-surface--data-flow)\n\n---\n\n## Call Graph\n\nShows which functions call which. Built from `callers_of` / `callees_of`\nqueries and `calls` edges.\n\n**Mermaid type:** `flowchart`\n\n**When to use `--focus`:** Almost always. Without focus, large codebases",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

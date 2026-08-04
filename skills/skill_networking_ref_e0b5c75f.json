@@ -1,0 +1,13 @@
+{
+  "id": "networking_ref_e0b5c75f",
+  "category": "networking",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Query Recipes\n\nUse these recipes after building a graph and running `engine.preanalysis()`.\nFeature-gate optional Trailmark 0.4 APIs with `hasattr()`.\n\n## Build And Preanalyze\n\npython\nfrom trailmark.query.api import QueryEngine\n\nengine = QueryEngine.from_directory(\"{targetDir}\", language=\"auto\")\nengine.preanalysis()\n\n\nIf auto-detection is wrong, rerun with an explicit language or comma-separated\nlanguage list.\n\n## Bind A File/Line Candidate\n\nPrefer Trailmark or `audit-augmentation` match",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "file"
+  ]
+}

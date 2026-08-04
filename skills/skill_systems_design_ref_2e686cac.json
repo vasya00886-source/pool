@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_ref_2e686cac",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Claude Argument Substitutions\n\nLoad this when the skill uses Claude Code argument fields or substitution variables.\n\n## Supported substitutions\n\n- `$ARGUMENTS`\n- `$ARGUMENTS[N]`\n- `$N`\n- named arguments such as `$issue` when `arguments` is declared\n- `${CLAUDE_SESSION_ID}`\n- `${CLAUDE_EFFORT}`\n- `${CLAUDE_SKILL_DIR}`\n\n## Required contract\n\n1. Document expected arguments and empty-input behavior.\n2. Add quoting-aware examples for multi-word input when ambiguity is likely.\n3. Use manual-only inv",
+  "tags": []
+}

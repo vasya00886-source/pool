@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_bb4f750e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Health Check Patterns\n\nPost-deployment health verification for AppOnboard-deployed resources.\n\n## HTTP Endpoints\n\nFor each endpoint: HTTPS GET, 30s timeout, 3 retries (10s/20s/40s backoff).\n\n| Status | Health | Note |\n|--------|--------|------|\n| 2xx | `healthy` | **Verify not a placeholder page (see below)** |\n| 401/403 | `healthy` | Auth working, app running |\n| 5xx ×3 | `degraded` | |\n| Timeout/DNS ×3 | `unreachable` | |\n\n> ⛔ **DB-backed apps: a 200 on `/` is NOT healthy.** When `prepare-pl",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

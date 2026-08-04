@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_75e94250",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AI Video Prompting Guide\n\nHow to write effective prompts for AI video generation models (Veo, Runway, Kling, Pika).\n\n---\n\n## Prompt Structure\n\nA strong video prompt follows this formula:\n\n\n[Subject] + [Action] + [Camera movement] + [Visual style] + [Lighting/mood] + [Technical specs]\n\n\n### Example Prompts by Use Case\n\n**Product hero shot:**\n\nA sleek laptop on a minimal white desk, screen glowing with a dashboard UI,\ncamera slowly orbits 180 degrees around the desk,\nsoft volumetric lig",
+  "tags": [
+    "performance",
+    "automation",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

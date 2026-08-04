@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6ee607cd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# SMS Compliance Reference\n\nComprehensive compliance reference for SMS marketing across major jurisdictions, opt-in copy templates, and STOP/HELP response templates.\n\n> This is operational guidance, not legal advice. For high-volume programs (50K+ subscribers) or any program with non-trivial revenue, run your compliance setup past a TCPA-experienced attorney.\n\n---\n\n## United States — TCPA\n\n### What it is\n\nThe Telephone Consumer Protection Act (1991, amended) regulates marketing calls and texts.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

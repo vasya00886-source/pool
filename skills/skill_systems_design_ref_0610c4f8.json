@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_0610c4f8",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Argument-Driven Skill Layout\n\nUse this layout when the skill is normally invoked with explicit inputs such as issue numbers, paths, modes, or targets.\n\n## Choose this layout when\n\n- the user supplies parameters directly\n- empty-input behavior needs to be defined\n- manual invocation is safer than automatic activation\n\n## Common layout\n\nyaml\n---\nname: fix-issue\ndescription: Fix a GitHub issue by number. Use when asked to fix or resolve a specific issue.\nargument-hint: \"[issue-number]\"\ndisable",
+  "tags": [
+    "automation",
+    "security",
+    "file"
+  ]
+}

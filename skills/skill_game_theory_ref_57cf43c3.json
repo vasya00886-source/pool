@@ -1,0 +1,14 @@
+{
+  "id": "game_theory_ref_57cf43c3",
+  "category": "game_theory",
+  "level": 4,
+  "language": "python",
+  "insight": "# Loop Template\n\nA copy-paste template for authoring your own marketing loop. Fill every one of the nine parts — a loop missing its **state/idempotency**, **self-check**, or **stop/bail-out** isn't a system, it's a way to do the wrong thing on a schedule.\n\nBefore you start, sanity-check that this *should* be a loop at all (see \"When NOT to loop\" in `SKILL.md`): it's recurring, signal-driven, and doesn't require human judgment to set strategy or creative direction each run.\n\n---\n\n## Blank templat",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

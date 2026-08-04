@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_3f141489",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Startup Commands by Framework\n\nLinux App Service (Oryx) auto-detects **Flask** and **Django** — no startup command is needed for these. **FastAPI does NOT rely on Oryx auto-detection** in this skill: we always set an explicit uvicorn startup command so the behavior is identical on every supported Python runtime (3.12, 3.13, 3.14, …). This skill also sets a startup command (or emits a manual hint) for non-Flask/Django/FastAPI frameworks.\n\n## Flask — no startup command needed\n\nAzure App Service",
+  "tags": [
+    "api",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

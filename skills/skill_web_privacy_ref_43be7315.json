@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_43be7315",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Marketing Operations Stack — Skills + MCPs per AARRR Stage\n\nThis doc maps every marketing-skill and every relevant MCP/API integration to the AARRR stage(s) it primarily serves. It's the source for Section 11 of every plan.\n\n> **Note on scope.** Skills below live in this `marketingskills` repo. A few references point to optional tools from adjacent Claude Code marketplaces (e.g., `vercel:agent-browser`, `compound-engineering:diagram-maker`) — substitute equivalents if not installed. When a pla",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

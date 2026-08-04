@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_824119ed",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Dataset Comparison — A/B Testing Across Dataset Versions\n\nRun structured experiments that compare how an agent performs across different dataset versions, and present results as leaderboards with per-evaluator breakdowns. Use this to answer: \"Did scores drop because of harder tests or agent regression?\"\n\n## Experiment Structure\n\nAn experiment consists of:\n1. **Pinned agent version** — the same agent evaluated on each dataset\n2. **Varied dataset versions** — the versions being compared\n3. **Sam",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

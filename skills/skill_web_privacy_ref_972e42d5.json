@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_972e42d5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Resource Graph Queries for Compliance Auditing\n\nAzure Resource Graph (ARG) enables fast, cross-subscription resource querying using KQL via `az graph query`. Use it for compliance scanning, tag audits, and configuration validation.\n\n## How to Query\n\nUse the `extension_cli_generate` MCP tool to generate `az graph query` commands:\n\nyaml\nmcp_azure_mcp_extension_cli_generate\n  intent: \"query Azure Resource Graph to <describe what you want to audit>\"\n  cli-type: \"az\"\n\n\nOr construct dire",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

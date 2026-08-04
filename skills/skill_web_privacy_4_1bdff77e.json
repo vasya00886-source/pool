@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_1bdff77e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build search applications with full-text, vector, semantic, and hybrid search capabilities.\ndotnet add package Azure.Search.Documents\ndotnet add package Azure.Identity\n**Current Versions**: Stable v11.7.0, Preview v11.8.0-beta.1",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

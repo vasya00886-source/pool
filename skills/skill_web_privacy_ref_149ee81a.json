@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_149ee81a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reference Architecture\n\nUse this guide before adding bundled files or long sections to `SKILL.md`.\n\n## Router Rule\n\n- `SKILL.md` is the router.\n- References are flat lookup leaves under `references/`.\n- `SPEC.md` is the maintenance contract.\n- `SOURCES.md` stores provenance and decisions.\n\n## Lookup Test\n\nBefore creating a reference, finish this sentence:\n\n- \"I need to decide X, so read `...`.\"\n- \"I need to do Y, so read `...`.\"\n- \"I need to diagnose Z, so read `...`.\"\n\nIf the sentence sounds",
+  "tags": [
+    "testing",
+    "file"
+  ]
+}

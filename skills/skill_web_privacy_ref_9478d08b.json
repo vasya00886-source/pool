@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_9478d08b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Associating and Disassociating VMs/VMSS with a Capacity Reservation Group\n\n## Association Model\n\ntext\nCapacity Reservation Group (CRG)\n├── Capacity Reservation: Standard_D4s_v5 × 5 (Zone 1)\n├── Capacity Reservation: Standard_D4s_v5 × 3 (Zone 2)\n└── Capacity Reservation: Standard_E8s_v5 × 2 (Zone 1)\n\nVM / VMSS\n└── capacityReservationGroup.id = <CRG resource ID>\n    └── Azure auto-matches to a reservation with the right VM size + zone\n\n\n### Associating VMs\n\nSet the `capacityReservationGrou",
+  "tags": [
+    "automation",
+    "docker",
+    "cli"
+  ]
+}

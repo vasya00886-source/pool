@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_aeee94a0",
+  "category": "databases",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Account Management\n\nDetailed patterns for managing Cosmos DB accounts via Azure Resource Manager.\n\n## Create Account with Full Configuration\n\ncsharp\nusing Azure.ResourceManager.CosmosDB;\nusing Azure.ResourceManager.CosmosDB.Models;\nusing Azure.Core;\n\nvar accountData = new CosmosDBAccountCreateOrUpdateContent(\n    location: AzureLocation.EastUS,\n    locations: new[]\n    {\n        new CosmosDBAccountLocation\n        {\n            LocationName = AzureLocation.EastUS,\n            FailoverPriori",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

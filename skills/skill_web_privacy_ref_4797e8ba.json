@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_4797e8ba",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Portal Monitoring Links\n\nGenerate the portal link BEFORE deploying — the deployment name is deterministic, so the link works before the deployment even starts. The user wants to watch resources being created in real time.\n\n## Generate via PowerShell — NEVER construct manually\n\nThe `%2F` encoding is critical and models consistently decode it back to `/` during text generation, producing broken links. Always use `.Replace('/', '%2F')`.\n\npowershell\n# Subscription-scope deployment\n$deploymentNa",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

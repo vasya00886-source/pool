@@ -1,0 +1,11 @@
+{
+  "id": "rust_systems_ref_9905ad74",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Neighborhood Patterns\n\nUse multiple bounded graph dimensions. Each dimension creates candidate review\ntargets, not findings.\n\n| Dimension | Query idea | Variant hypothesis |\n|---|---|---|\n| Same caller | Other callees of the seed's caller | Caller applies the same bad precondition before several sinks |\n| Same callee/sink | Other callers of the vulnerable sink | Missing validation before the same sink elsewhere |\n| Same entrypoint path | Nodes on related paths from the same entrypoint | Adjace",
+  "tags": [
+    "testing",
+    "file"
+  ]
+}

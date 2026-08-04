@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_14d3e1bd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# First App Registration - Step-by-Step Guide\n\nThis guide walks you through creating your first Microsoft Entra app registration from scratch.\n\n## Overview\n\nYou'll learn how to:\n1. Create an app registration in Azure Portal\n2. Configure authentication settings\n3. Add API permissions\n4. Create client credentials\n5. Test the authentication flow\n\n## Prerequisites\n\n- Azure subscription (free tier works)\n- Azure Portal access: https://portal.azure.com\n- Basic understanding of your application type (w",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "web"
+  ]
+}

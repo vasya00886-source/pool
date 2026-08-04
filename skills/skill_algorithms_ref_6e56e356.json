@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_6e56e356",
+  "category": "algorithms",
+  "level": 4,
+  "language": "python",
+  "insight": "# Insecure Defaults: Examples and Counter-Examples\n\nThis document provides detailed examples for each category in the Quick Verification Checklist, showing both vulnerable patterns (report these) and secure patterns (skip these).\n\n## Fallback Secrets\n\n### ❌ VULNERABLE - Report These\n\n**Python: Environment variable with fallback**\npython\n# File: src/auth/jwt.py\nSECRET_KEY = os.environ.get('SECRET_KEY', 'dev-secret-key-123')\n\n# Used in security context\ndef create_token(user_id):\n    return jwt.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

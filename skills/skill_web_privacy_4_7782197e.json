@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_7782197e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Data plane SDK for Azure Cosmos DB NoSQL API operations — CRUD on documents, queries, bulk operations.\n> **⚠️ Data vs Management Plane**\n> - **This SDK (@azure/cosmos)**: CRUD operations on documents, queries, stored procedures\n> - **Management SDK (@azure/arm-cosmosdb)**: Create accounts, databases, containers via ARM\nnpm install @azure/cosmos @azure/identity",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

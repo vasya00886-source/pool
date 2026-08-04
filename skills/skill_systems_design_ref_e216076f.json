@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_e216076f",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Routing Workflows\n\nUse this workflow when the incoming request must be classified and sent to different downstream prompts, references, scripts, or tools.\n\n## Choose this workflow when\n\n- distinct request classes benefit from specialized downstream handling\n- one broad prompt would create conflicts or false positives\n- misroutes can be detected and recovered\n\n## Required contract\n\n1. Route-selection criteria.\n2. Default route or clarification fallback.\n3. Misroute recovery.\n4. Downstream contr",
+  "tags": [
+    "automation"
+  ]
+}

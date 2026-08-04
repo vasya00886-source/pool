@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_9b21d98e",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Dead-Letter Queue Reference\n\nHandling poison messages and dead-letter queue processing in Azure Service Bus.\n\n## Dead-Letter Queue Overview\n\nThe dead-letter queue (DLQ) is a secondary sub-queue for messages that cannot be processed:\n\n\nMain Queue: myqueue\n   └── Dead-Letter Queue: myqueue/$deadletterqueue\n\n\n## Why Messages Get Dead-Lettered\n\n| Reason | Description |\n|--------|-------------|\n| `MaxDeliveryCountExceeded` | Message abandoned too many times |\n| `HeaderSizeExceeded` | Message",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

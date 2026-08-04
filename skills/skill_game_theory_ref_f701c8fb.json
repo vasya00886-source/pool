@@ -1,0 +1,14 @@
+{
+  "id": "game_theory_ref_f701c8fb",
+  "category": "game_theory",
+  "level": 4,
+  "language": "general",
+  "insight": "# AARRR Framework — Primer for Plan Sequencing\n\nAARRR (Dave McClure's \"pirate metrics\") is the spine of every plan produced by this skill. This doc is the primer + the decision rules for when each stage gets prioritized.\n\n## The five stages\n\n| Stage | Question | Common metrics |\n|---|---|---|\n| **A**cquisition | How do strangers become aware of us? | Visits, MQLs, signup-page sessions, app-store visits, CAC by channel |\n| **A**ctivation | Once they try us, do they have an experience that convert",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

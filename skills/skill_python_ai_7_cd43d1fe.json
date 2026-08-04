@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_7_cd43d1fe",
+  "category": "python_ai",
+  "level": 7,
+  "language": "rust",
+  "insight": "Simple REST API for speech-to-text transcription of short audio files (up to 60 seconds). No SDK required - just HTTP requests.\n1. **Azure subscription** - [Create one free](https://azure.microsoft.com/free/)\n2. **Speech resource** - Create in [Azure Portal](https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices)\n3. **Get credentials** - After deployment, go to resource > Keys and Endpoint\n# Required\nAZURE_SPEECH_KEY=<your-speech-resource-key>\nAZURE_SPEECH_REGION=<regio...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_2b9da9a5",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "cargo-fuzz is the de facto choice for fuzzing Rust projects when using Cargo. It uses libFuzzer as the backend and provides a convenient Cargo subcommand that automatically enables relevant compilation flags for your Rust project, including support for sanitizers like AddressSanitizer.\ncargo-fuzz is currently the primary and most mature fuzzing solution for Rust projects using Cargo.\n| Fuzzer | Best For | Complexity |\n|--------|----------|------------|\n| cargo-fuzz | Cargo-based Rust projects, q",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

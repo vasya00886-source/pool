@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ba1b6f44",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Communication Call Automation SDK for Java - Examples\n\nComprehensive code examples for the Azure Communication Call Automation SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Creating Outbound Calls](#creating-outbound-calls)\n- [Answering Inbound Calls](#answering-inbound-calls)\n- [Playing Audio/TTS](#playing-audiotts)\n- [Recognizing DTMF Tones](#recognizing-dtmf-tones)\n- [Recording Calls](#recording-calls)\n- [Transfer",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

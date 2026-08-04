@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ed7b07f4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# How Each AI Platform Picks Sources\n\nEach AI search platform has its own search index, ranking logic, and content preferences. This guide covers what matters for getting cited on each one.\n\nSources cited throughout: Princeton GEO study (KDD 2024), SE Ranking domain authority study, ZipTie content-answer fit analysis.\n\n---\n\n## The Fundamentals\n\nEvery AI platform shares three baseline requirements:\n\n1. **Your content must be in their index** — Each platform uses a different search backend (Google",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

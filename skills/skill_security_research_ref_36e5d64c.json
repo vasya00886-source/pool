@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_36e5d64c",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Business Logic Security Reference\n\n## Overview\n\nBusiness logic vulnerabilities occur when the application's logic can be manipulated to achieve unintended outcomes. Unlike technical vulnerabilities, these flaws exploit legitimate functionality in unexpected ways.\n\n## Common Vulnerability Types\n\n### 1. Race Conditions\n\n#### Time-of-Check to Time-of-Use (TOCTOU)\n\npython\n# VULNERABLE: Race condition in balance check\ndef transfer(from_account, to_account, amount):\n    if from_account.balance >=",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_7bc85a0d",
+  "category": "databases",
+  "level": 4,
+  "language": "go",
+  "insight": "# Remediation Protocol — Step 6\n\n## Pre-check\n\n> **🛑 Hard Halt?** Skip remediation. Set `overallHealth: \"blocked\"`, write artifacts, go to Step 7.\n> **🔶 Major Migration?** If user chose \"Attempt migration,\" enter loop. Warn changes may need review.\n\n## Remediation Scope\n\n⛔ **Fix ONLY Azure-deployment blockers:** missing dependencies causing build/startup failure, missing entry point, startup crashes, Azure-required configuration (port binding, env var externalization, managed-DB client TLS/SSL —",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

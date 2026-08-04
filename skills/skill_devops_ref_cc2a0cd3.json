@@ -1,0 +1,10 @@
+{
+  "id": "devops_ref_cc2a0cd3",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Hand-off to vm-creator\n\nWhen the user wants to **provision** the recommended option (not just compare), hand off to [vm-creator](../../vm-creator/vm-creator.md). Don't skip directly to an output adapter — the user must see and approve the Plan Card first.\n\n## Required before hand-off\n\nRender the [Plan Card](../../vm-creator/references/plan-card.md) markdown table **in chat** with the chosen SKU, region, instance count, pricing, and quota status pre-filled from the recommender's work. The user",
+  "tags": [
+    "cli"
+  ]
+}

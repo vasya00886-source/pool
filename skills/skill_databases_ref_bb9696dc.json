@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_bb9696dc",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# SKU Selection Matrix\n\nSelect SKU based on `context.json.intent.budget`. Cross-reference with `intent.scale` for right-sizing.\n\n## Budget Tiers\n\n> ⚠️ **F1 (Free) limitations:** 1 GB RAM, shared compute (60 min/day CPU), no custom domain, no always-on, no deployment slots, no VNet integration. Only suitable for low-traffic dev/test. Production apps → B1 minimum.\n\n| Service | cost-optimized | balanced | performance |\n|---------|---------------|----------|-------------|\n| Container Apps | Consumpt",
+  "tags": [
+    "api",
+    "performance",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

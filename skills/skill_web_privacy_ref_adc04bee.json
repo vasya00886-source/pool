@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_adc04bee",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure CLI Commands for App Registration\n\nThis document provides a comprehensive reference for managing Microsoft Entra app registrations using Azure CLI.\n\n## Prerequisites\n\nbash\n# Ensure Azure CLI is installed\naz version\n\n# Login to Azure\naz login\n\n# Set default subscription (optional)\naz account set --subscription \"Your Subscription Name\"\n\n\n## App Registration Management\n\n### Create App Registration\n\n**Basic app registration:**\nbash\naz ad app create --display-name \"MyApplication\"",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

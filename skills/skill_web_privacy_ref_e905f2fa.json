@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_e905f2fa",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Demo Script Templates\n\nScene-by-scene templates for different call types, with timing, talk tracks, and interaction guidance.\n\n## Discovery Call Script\n\n**Duration:** 30 minutes\n**Goal:** Qualify the opportunity, understand pain, map the buying process.\n\n### Scene 1: Opening (3 min)\n\n**Talk track:**\n> \"Thanks for taking the time, [Name]. I've done some research on [Company] but I'd love to hear from you directly. My goal for today is to understand what you're working on and see if there's a fi",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

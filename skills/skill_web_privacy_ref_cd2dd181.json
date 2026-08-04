@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_cd2dd181",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Troubleshooting\n\nThis reference covers common errors encountered during Azure deployment with `azd` and how to resolve them.\n\n## Language Not Supported\n\n**Symptom:** Error message like `ERROR: error executing step command 'package --all': initializing service 'web', getting framework service: language 'html' is not supported by built-in framework services`\n\n**Cause:** Using unsupported language value in `azure.yaml`. Neither `html` nor `static` are valid language types for azd.\n\n**Solution:**",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

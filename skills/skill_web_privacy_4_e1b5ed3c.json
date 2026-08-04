@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_e1b5ed3c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for running large-scale parallel and high-performance computing (HPC) batch jobs in Azure.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-compute-batch</artifactId>\n    <version>1.0.0-beta.5</version>\n</dependency>\n- Azure Batch account\n- Pool configured with compute nodes\n- Azure subscription",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

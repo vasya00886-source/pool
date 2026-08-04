@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_5a8db50d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-monitor-ingestion-py capability coverage\n\n**SDK/package**: `azure-monitor-ingestion`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Upload Custom Logs`\n- `Upload from JSON File`\n- `Custom Error Handling`\n- `Ignore Errors`\n\n## Non-hero scenarios\n\n- `Async Client`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#async-client`](non-hero-scenarios.md#as",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

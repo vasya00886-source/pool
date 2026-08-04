@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_edf7bbe4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Detailed Workflows: Create Foundry Resource\n\n**Table of Contents:** [Workflow 1: Create Resource Group](#workflow-1-create-resource-group---detailed-steps) · [Workflow 2: Create Foundry Resource](#workflow-2-create-foundry-resource---detailed-steps) · [Workflow 3: Register Resource Provider](#workflow-3-register-resource-provider---detailed-steps)\n\n## Workflow 1: Create Resource Group - Detailed Steps\n\n### Step 1: Ask user preference\n\nAsk the user which option they prefer:\n1. Use an existing r",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

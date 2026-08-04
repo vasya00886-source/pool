@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d7df76d1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Bulk Operations Reference\n\nHigh-throughput bulk operations for Azure Cosmos DB using the @azure/cosmos TypeScript SDK.\n\n## Overview\n\nBulk operations enable efficient batch processing of Create, Upsert, Read, Replace, Delete, and Patch operations with automatic batching and retry handling.\n\n## BulkOperationType Enum\n\ntypescript\nimport { BulkOperationType } from \"@azure/cosmos\";\n\nenum BulkOperationType {\n  Create = \"Create\",\n  Upsert = \"Upsert\",\n  Read = \"Read\",\n  Replace = \"Replace\",\n  Delet",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

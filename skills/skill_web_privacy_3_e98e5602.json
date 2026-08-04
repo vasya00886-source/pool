@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_e98e5602",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "javascript",
+  "insight": "Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration). Use when working with configuration settings, feature flags, Key Vault references, dynamic refresh, or centralized configuration management.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

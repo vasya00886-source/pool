@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_7_a95ce2ac",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Scans Substrate/Polkadot pallets for 7 critical vulnerabilities including arithmetic overflow, panic DoS, incorrect weights, and bad origin checks. Use when auditing Substrate runtimes or FRAME pallets.",
+  "tags": [
+    "security",
+    "testing",
+    "file"
+  ]
+}

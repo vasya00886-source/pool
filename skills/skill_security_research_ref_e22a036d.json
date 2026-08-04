@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_e22a036d",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# Cross-File Resolution: Composite Actions and Reusable Workflows\n\nAI agents can be hidden inside composite actions and reusable workflows, invisible when analyzing only the caller workflow file. This reference documents how to classify `uses:` references, resolve the referenced files, trace input mappings across file boundaries, and report unresolved references.\n\nResolution is limited to one level deep (fixed). If a resolved file contains its own cross-file references, log them as unresolved --",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

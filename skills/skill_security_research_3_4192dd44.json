@@ -1,0 +1,14 @@
+{
+  "id": "security_research_3_4192dd44",
+  "category": "security_research",
+  "level": 3,
+  "language": "rust",
+  "insight": "GitHub Actions security review for workflow exploitation vulnerabilities. Use when asked to \"review GitHub Actions\", \"audit workflows\", \"check CI security\", \"GHA security\", \"workflow security review\", or review .github/workflows/ for pwn requests, expression injection, credential theft, and supply chain attacks. Exploitation-focused with concrete PoC scenarios.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

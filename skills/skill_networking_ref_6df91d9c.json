@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_6df91d9c",
+  "category": "networking",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Remote Monitoring Protocol\n\nDbgViewCli can connect to a remote machine running DbgView (GUI or service) and\nreceive debug output over TCP. This document describes the wire protocol.\n\n---\n\n## Connection\n\n### Port Scanning\n\nThe client scans TCP ports `DBGVPORTLO` (2020) through `DBGVPORTHI` (2030) on the\ntarget machine, attempting a connection on each until one succeeds.\n\n| Constant | Value |\n|----------|-------|\n| `DBGVPORTLO` | 2020 |\n| `DBGVPORTHI` | 2030 |\n| Connection Timeout | 10 seconds (",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

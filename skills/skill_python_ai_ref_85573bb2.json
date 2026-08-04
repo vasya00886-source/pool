@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_85573bb2",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# DRF Permissions - Context for Investigation\n\nBackground on how DRF handles permissions. Use this to understand what you're seeing, not as patterns to match.\n\n## How DRF Permission Flow Works\n\n\nRequest → permission_classes.has_permission() → View method → get_object() → has_object_permission()\n\n\n### has_permission()\n\n- Called on EVERY request\n- Checked BEFORE the view method runs\n- Good for \"is user authenticated?\" or \"is user admin?\"\n- NOT good for \"does user own this specific object?\"",
+  "tags": [
+    "api",
+    "data",
+    "cli",
+    "file"
+  ]
+}

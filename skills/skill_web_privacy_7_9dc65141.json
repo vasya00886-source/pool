@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_9dc65141",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "java",
+  "insight": "> **⚠️ DEPRECATION NOTICE**: This package is deprecated. Migrate to azure-monitor-opentelemetry-autoconfigure.\n>\n> See [Migration Guide](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/monitor/azure-monitor-opentelemetry-exporter/MIGRATION.md) for detailed instructions.\nExport OpenTelemetry telemetry data to Azure Monitor / Application Insights.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-monitor-opentelemetry-exporter</artifactId>\n    <version>1.0.0-beta...",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "file"
+  ]
+}

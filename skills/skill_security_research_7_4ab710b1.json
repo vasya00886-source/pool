@@ -1,0 +1,14 @@
+{
+  "id": "security_research_7_4ab710b1",
+  "category": "security_research",
+  "level": 7,
+  "language": "rust",
+  "insight": "Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

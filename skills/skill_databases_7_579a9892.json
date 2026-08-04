@@ -1,0 +1,14 @@
+{
+  "id": "databases_7_579a9892",
+  "category": "databases",
+  "level": 7,
+  "language": "general",
+  "insight": "| Property | Value |\n|----------|-------|\n| Best for | Mapping app components to Azure services with cost estimation and quota validation |\n| Inputs | prereq-output.json + context.json from .copilot-azure/sessions/{id}/ |\n| Outputs | prepare-plan.json written to session directory |\n| Parent | [azure-app-onboard](../SKILL.md) |\nInvoked by the azure-app-onboard orchestrator at Phase 2 when prereq-output.json exists. Not directly user-routable.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

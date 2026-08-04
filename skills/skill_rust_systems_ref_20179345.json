@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_20179345",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Step 2: Annotate the Codebase\n\nAfter defining dimensions (Step 1), add annotations to all numeric values in the code.\n\n> **Note:** Examples below use Solidity syntax. For other languages, adapt the comment syntax (e.g., `//` in Rust, `#` in Python, `//` or `/** */` in TypeScript) while keeping the same dimensional annotation format.\n\n---\n\n## Comment Placement Patterns\n\n### Variable Declarations\n\nsolidity\n// Inline (preferred for brevity)\nuint256 public totalAssets;  // D18{UNDERLYING}\n\n// A",
+  "tags": [
+    "api",
+    "performance",
+    "automation"
+  ]
+}

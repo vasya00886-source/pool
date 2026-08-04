@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_17006947",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Builds and queries multi-language source and binary code graphs for security analysis. Includes pre-analysis passes for blast radius, taint propagation, privilege boundaries, entry point enumeration, proxy/unresolved-call tracking, type/reference queries, structural traversal, graph diffs, audit augmentation, declared cross-language/FFI/external links via .trailmark/links.toml, and SQL schema graphs. Use when analyzing call paths, mapping attack surface, finding complexity hotspots, enumeratin",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

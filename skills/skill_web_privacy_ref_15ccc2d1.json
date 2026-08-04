@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_15ccc2d1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Troubleshooting: Create Foundry Resource\n\n## Resource Creation Failures\n\n### ResourceProviderNotRegistered\n\n**Solution:**\n1. If you have Owner/Contributor role, register the provider:\n   bash\n   az provider register --namespace Microsoft.CognitiveServices\n   \n2. If you lack permissions, ask a subscription Owner or Contributor to register it\n3. Alternatively, ask them to grant you the `/register/action` privilege\n\n### InsufficientPermissions\n\n**Solution:**\nbash\n# Check your role assign",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

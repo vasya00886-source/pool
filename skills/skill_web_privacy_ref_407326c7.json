@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_407326c7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Lead Routing Rules\n\nDecision trees, platform-specific configurations, territory routing, ABM routing, and speed-to-lead benchmarks.\n\n## Routing Decision Tree\n\nUse this template to map your routing logic:\n\n\nNew Lead Arrives\n│\n├─ Is this a named/target account?\n│  ├─ YES → Route to assigned account owner\n│  └─ NO ↓\n│\n├─ Is ACV likely > $50K? (based on company size + industry)\n│  ├─ YES → Route to enterprise AE team\n│  └─ NO ↓\n│\n├─ Is this a PLG signup with team usage?\n│  ├─ YES → Route to PLG",
+  "tags": [
+    "performance",
+    "automation",
+    "data"
+  ]
+}

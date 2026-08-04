@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_1ab97e50",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "## Modify code\n\nMake these necessary changes to the app.\n\n- Install client library\n\npip install azure-monitor-opentelemetry\n\n\n- Configure the app to use Azure Monitor\nPython applications send telemetry via the logger class in Python standard library. Create a module that configures and creates a logger that can send telemetry.\n\npython\nimport logging\nfrom azure.monitor.opentelemetry import configure_azure_monitor\n\nconfigure_azure_monitor(\n    logger_name=\"<your_logger_namespace>\"\n)\nlogge",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

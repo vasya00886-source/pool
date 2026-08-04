@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_42b25320",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AKS Structured Input Modes\n\nUse this reference when the troubleshooting request already contains structured inputs.\n\n## Detector-backed Mode\n\nUse when AKS-aware detectors or AppLens-style insights are available.\n\nDecision rules:\n\n- Ignore findings where the detector is `emergingIssues`.\n- Prefer critical findings over warnings.\n- Prefer findings with more concrete remediation detail when choosing the likely root problem.\n- Preserve per-insight output: problem summary, root-problem flag, affect",
+  "tags": [
+    "data",
+    "cli",
+    "file"
+  ]
+}

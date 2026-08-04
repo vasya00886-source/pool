@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7feba784",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# pyproject.toml Configuration Reference\n\nComplete reference for configuring `pyproject.toml` for modern Python projects.\n\n**Important**: Always use `uv add` and `uv remove` to manage dependencies. Do not edit the `dependencies` or `dependency-groups` sections directly.\n\n## Complete Example\n\ntoml\n[project]\nname = \"myproject\"\nversion = \"0.1.0\"\ndescription = \"A modern Python project\"\nreadme = \"README.md\"\nlicense = \"MIT\"\nrequires-python = \">=3.11\"\nauthors = [\n    { name = \"Your Name\", email = \"y",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

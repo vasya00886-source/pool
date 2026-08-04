@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_46b1f4d4",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-mgmt-apicenter-py capability coverage\n\n**SDK/package**: `azure-mgmt-apicenter`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Create API Center`\n- `List API Centers`\n- `Register an API`\n- `Create API Version`\n\n## Non-hero scenarios\n\n- `Add API Definition`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#add-api-definition`](non-hero-scenarios.md#add",
+  "tags": [
+    "api",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_fc4e8ad1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Azure Cache for Redis resources via Azure Resource Manager.\n> **⚠️ Management vs Data Plane**\n> - **This SDK (Azure.ResourceManager.Redis)**: Create caches, configure firewall rules, manage access keys, set up geo-replication\n> - **Data Plane SDK (StackExchange.Redis)**: Get/set keys, pub/sub, streams, Lua scripts\ndotnet add package Azure.ResourceManager.Redis\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

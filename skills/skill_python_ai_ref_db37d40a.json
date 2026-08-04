@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_db37d40a",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-monitor-query-py capability coverage\n\n**SDK/package**: `azure-monitor-query`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Logs Query Client`\n- `Metrics Query Client`\n- `Async Clients`\n- `Common Kusto Queries`\n\n## Non-hero scenarios\n\n- `Client Types`: | Client | Purpose |  \n  See: [`non-hero-scenarios.md#client-types`](non-hero-scenarios.md#client-types)\n\n## Related deep-dive",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_d1e307c0",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

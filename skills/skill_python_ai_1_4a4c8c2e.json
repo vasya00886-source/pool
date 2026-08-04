@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_1_4a4c8c2e",
+  "category": "python_ai",
+  "level": 1,
+  "language": "rust",
+  "insight": "Real-time messaging with WebSocket connections at scale.\n# Service SDK (server-side)\npip install azure-messaging-webpubsubservice\nAZURE_WEBPUBSUB_HUB=my-hub  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_fbaf2a1c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Server Management\n\nAdvanced server operations for Azure SQL.\n\n## Create Server with Azure AD Authentication\n\ncsharp\nusing Azure.ResourceManager.Sql;\nusing Azure.ResourceManager.Sql.Models;\n\nvar serverData = new SqlServerData(AzureLocation.EastUS)\n{\n    // SQL authentication (optional, can be disabled)\n    AdministratorLogin = \"sqladmin\",\n    AdministratorLoginPassword = \"YourSecurePassword123!\",\n    \n    // Azure AD authentication\n    Administrators = new ServerExternalAdministrator\n    {",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f4f064ee",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Site Type Templates\n\nFull page hierarchy templates with ASCII trees, URL maps, and navigation recommendations for common site types.\n\n---\n\n## SaaS Marketing Site\n\n### Page Hierarchy\n\n\nHomepage (/)\n├── Features (/features)\n│   ├── Feature A (/features/feature-a)\n│   ├── Feature B (/features/feature-b)\n│   └── Feature C (/features/feature-c)\n├── Pricing (/pricing)\n├── Customers (/customers)\n│   ├── Case Study 1 (/customers/company-name)\n│   └── Case Study 2 (/customers/company-name-2)\n├── Res",
+  "tags": [
+    "api",
+    "security",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_3_183a290d",
+  "category": "python_ai",
+  "level": 3,
+  "language": "python",
+  "insight": "Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants. Use when defining API request/response schemas, database models, or data validation in Python applications using Pydantic v2.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

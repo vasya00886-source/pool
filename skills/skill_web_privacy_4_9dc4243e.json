@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_9dc4243e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions. Use for token enrichment, custom claims, attribute collection, and OTP customization in Entra ID. Triggers: \"Authentication Events\", \"WebJobsAuthenticationEventsTrigger\", \"OnTokenIssuanceStart\", \"OnAttributeCollectionStart\", \"custom claims\", \"token enrichment\", \"Entra custom extension\", \"authentication extension\".",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "web"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_9fa47907",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Iterate on a PR until actionable CI passes and high/medium review feedback is addressed. Use for PR CI failures, review feedback, or green-check loops; do not wait for human approval, draft status, or merge gates.",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_ref_4361e54f",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Mermaid Syntax Reference\n\nPitfalls and edge cases when generating Mermaid from code graph data.\n\n## Contents\n\n- [Node ID sanitization](#node-id-sanitization)\n- [Label escaping](#label-escaping)\n- [Style definitions](#style-definitions)\n- [Edge confidence styling](#edge-confidence-styling)\n- [Common pitfalls](#common-pitfalls)\n\n---\n\n## Node ID Sanitization\n\nTrailmark node IDs use `module:Class.method` format. Mermaid node IDs\nonly allow `[a-zA-Z0-9_]`.\n\n**Rules applied by `diagram.py`:**\n- Repl",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

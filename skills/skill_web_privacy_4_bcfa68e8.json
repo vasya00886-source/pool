@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_bcfa68e8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Authentication library for Azure SDK clients using Microsoft Entra ID.\nUse this skill when:\n- An app needs to authenticate to Azure services from Python\n- You need DefaultAzureCredential for local dev + Azure deployment\n- You need ManagedIdentityCredential for Azure-hosted workloads\n- You need service principal auth with secret or certificate\n- You need direct token acquisition with get_token()\n- You need to troubleshoot credential chain failures\npip install azure-identity",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

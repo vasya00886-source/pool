@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_371bbf0d",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "Scans Cairo/StarkNet smart contracts for 6 critical vulnerabilities including felt252 arithmetic overflow, L1-L2 messaging issues, address conversion problems, and signature replay. Use when auditing StarkNet projects.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "file"
+  ]
+}

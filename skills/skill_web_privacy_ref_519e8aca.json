@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_519e8aca",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# APIs and Operations\n\nPatterns for managing APIs, operations, and schemas.\n\n## Create API from OpenAPI\n\ncsharp\nvar apiData = new ApiCreateOrUpdateContent\n{\n    DisplayName = \"Pet Store API\",\n    Path = \"petstore\",\n    Protocols = { ApiOperationInvokableProtocol.Https },\n    // Import from OpenAPI spec\n    Format = ContentFormat.OpenApiJson,\n    Value = File.ReadAllText(\"petstore-openapi.json\"),\n    // Or from URL\n    // Format = ContentFormat.OpenApiJsonLink,\n    // Value = \"https://petstore",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

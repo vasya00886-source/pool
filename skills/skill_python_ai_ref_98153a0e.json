@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_98153a0e",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Security Misconfiguration Reference\n\n## Overview\n\nSecurity misconfiguration is one of the most common vulnerabilities. It occurs when security settings are not defined, implemented incorrectly, or left at insecure defaults. This includes missing security headers, overly permissive CORS, debug mode in production, and exposed sensitive endpoints.\n\n---\n\n## Security Headers\n\n### Missing Headers\n\npython\n# VULNERABLE: No security headers\n@app.route('/')\ndef index():\n    return render_template('in",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

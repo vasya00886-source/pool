@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7e5ad70a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Custom Evaluators Reference\n\nCreate custom evaluators when built-in evaluators don't meet your needs using the `azure-ai-projects` SDK.\n\n## Evaluator Types\n\n| Type | Best For | Requires LLM |\n|------|----------|--------------|\n| **Code-based** | Pattern matching, format validation, deterministic rules | No |\n| **Prompt-based** | Subjective judgment, semantic analysis, nuanced evaluation | Yes |\n\n## Code-Based Evaluators\n\nUse Python code for deterministic evaluation logic.\n\n### Basic Code Evalu",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

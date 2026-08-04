@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_8adc419e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Code Deployment — Container Apps\n\nAfter IaC deployment creates the Container App with a placeholder image (`mcr.microsoft.com/azuredocs/containerapps-helloworld:latest`), deploy the actual application code. This is **Phase 2** of the two-phase Container Apps deployment pattern.\n\n> ⛔ **`--subscription {subscriptionId}` on EVERY `az` command** (from `context.json.azure.subscriptionId`). Without it, the CLI uses whatever subscription is currently active — which may have changed since the prepare",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_151c07ab",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# SPEC.md Template\n\nUse this guide to create or update a root-level `SPEC.md`.\n\n## Use `SPEC.md` For\n\n- intent\n- scope\n- trigger context\n- evidence model\n- validation expectations\n- limitations\n- maintenance rules\n\nDo not put runtime instructions or full provenance tables here.\n\n## Update `SPEC.md` When\n\n- intent or scope changes\n- trigger strategy changes\n- evidence sources or storage policy changes\n- reference architecture changes\n- validation gates change\n- privacy, security, or data-handling",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

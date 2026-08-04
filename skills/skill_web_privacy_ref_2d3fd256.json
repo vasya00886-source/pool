@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2d3fd256",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Bicep — Container Apps Patterns\n\nContainer Apps-specific Bicep patterns. For shared patterns (skeleton, naming, tags, security defaults, data modules), see [bicep-patterns.md](bicep-patterns.md).\n\n## Two-Phase Wiring\n\nContainer Apps + ACR requires two-phase deployment (circular dependency: CA needs ACR image, ACR needs CA identity for AcrPull):\n\n1. **Phase 1:** Deploy Container App with placeholder image (`mcr.microsoft.com/azuredocs/containerapps-helloworld:latest`). ⛔ **No `registries` block",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_314efc81",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Plan Template\n\nCreate `.azure/deployment-plan.md` using this template. This file is **mandatory** and serves as the source of truth for the entire workflow.\n\n## ⛔ BLOCKING REQUIREMENTS\n\n1. You **MUST** create this plan file BEFORE generating any code, infrastructure, or configuration.\n2. You **MUST** complete Step 6 Phase 2 (Provisioning Limit Checklist) with NO \"_TBD_\" entries remaining before presenting the plan to the user.\n3. Present the plan to the user and get approval before proceeding",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

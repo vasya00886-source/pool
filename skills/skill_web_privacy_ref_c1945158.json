@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c1945158",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Conversation and Instruction Design for M365 Agents\n\n> Based on the official Microsoft guidance: [Write effective instructions for declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/declarative-agent-instructions)\n\n## Agent Instructions\n\nThe `instructions` field in `declarativeAgent.json` references an external `instructions.txt` file. This keeps the JSON manifest clean and makes instructions easy to edit. This is the most critical aspect of agent design.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

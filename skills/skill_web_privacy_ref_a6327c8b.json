@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a6327c8b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# GA4 Implementation Reference\n\nDetailed implementation guide for Google Analytics 4.\n\n## Contents\n- Configuration (data streams, enhanced measurement events, recommended events)\n- Custom Events (gtag.js implementation, Google Tag Manager)\n- Conversions Setup (creating conversions, conversion values)\n- Custom Dimensions and Metrics (when to use, setup steps, examples)\n- Audiences (creating audiences, audience examples)\n- Debugging (DebugView, real-time reports, common issues)\n- Data Quality (fil",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

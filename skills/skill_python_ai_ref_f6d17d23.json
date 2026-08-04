@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_f6d17d23",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Subagent Template — Starter App Scaffold (Zero-Code Path Step 4)\n\nGenerate a minimal, Azure-compatible starter project from scratch based on user requirements.\n\n## Critical Rules\n\n- ⛔ **Do NOT invoke ANY skills** — no `{\"skill\": \"...\"}` calls. You are a code generation sub-agent only.\n- ⛔ **Do NOT generate Azure infrastructure** (Bicep, Terraform, `azure.yaml`). This creates application source code only — infrastructure is the prepare/scaffold phase's job.\n- ⛔ **Do NOT install dependencies** —",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

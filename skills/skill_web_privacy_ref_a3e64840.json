@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_a3e64840",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Registration and Validation\n\nApply registration and lightweight validation before completion.\n\n## Registration checklist\n\n1. Inspect the workspace and identify the active skill layout before editing files.\n2. Create/update `<skill-root>/SKILL.md`, `<skill-root>/SPEC.md` when required by change scope, and any bundled `references/`, `scripts/`, or `assets/` beneath that root.\n3. Default to `.agents/skills/<name>/` when there is no stronger prior art.\n4. If the workspace clearly uses a different",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_0790162f",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Testing Cosmos DB Services\n\n## Table of Contents\n\n1. [Test-Driven Development Workflow](#test-driven-development-workflow)\n2. [Test File Structure](#test-file-structure)\n3. [Fixtures and Mocking](#fixtures-and-mocking)\n4. [Unit Test Patterns](#unit-test-patterns)\n5. [Integration Test Patterns](#integration-test-patterns)\n6. [Test Data Factories](#test-data-factories)\n\n---\n\n## Test-Driven Development Workflow\n\nFollow Red-Green-Refactor:\n\n1. **Red**: Write a failing test for the behavior you wan",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

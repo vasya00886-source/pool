@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_e9110e68",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# SDK Operations for Foundry Agent Service\n\nUse the Foundry MCP tools for agent CRUD operations. When MCP tools are unavailable, use the `azure-ai-projects` Python SDK or REST API.\n\n## Agent Operations via MCP\n\n| Operation | MCP Tool | Description |\n|-----------|----------|-------------|\n| Create/Update agent | `agent_update` | Create a new agent or update an existing one (creates new version) |\n| List/Get agents | `agent_get` | List all agents, or get a specific agent by name |\n| Delete agent |",
+  "tags": [
+    "api",
+    "automation",
+    "cli"
+  ]
+}

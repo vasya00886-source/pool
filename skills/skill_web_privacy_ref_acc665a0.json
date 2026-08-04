@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_acc665a0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Pipeline Rules — Runtime Reference\n\nKnown platform bugs and deploy timing. Read before deploy completion or on scaffold/deploy error.\n\nFor core pipeline rules (approval gates, phase lifecycle, session artifacts, security baseline), see [pipeline-rules.md](pipeline-rules.md).\n\n## Known Platform Bugs\n\n| Bug | Symptom | Workaround |\n|-----|---------|------------|\n| SWA CLI Windows path with spaces | `StaticSitesClient.exe` fails when workspace path contains spaces | Use a short, space-free temp p",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_7dfb595d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Deploy Strategy\n\nDetermine how application code will be deployed to Azure based on prereq scan results. The prepare phase writes `deployStrategy` to `prepare-plan.json`; scaffold encodes it in Bicep; deploy executes it.\n\n## Deployment Patterns\n\nThree patterns — select based on `prereq-output.json.components[].buildRequirements`:\n\n> ⛔ **Dockerfile ≠ Container Apps.** A Dockerfile that only serves static files (nginx, httpd, `COPY . /usr/share/nginx/html`) is NOT a backend app. Route static-only",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

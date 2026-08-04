@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0bd5cd0c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# .NET Aspire Projects\n\n> ⛔ **CRITICAL - READ THIS FIRST**\n>\n> For .NET Aspire projects, **NEVER manually create azure.yaml or infra/ files.**\n> Always use `azd init --from-code` which auto-detects the AppHost and generates everything correctly.\n>\n> **Failure to follow this causes:** \"Could not find a part of the path 'infra\\main.bicep'\" error.\n\nGuidance for preparing .NET Aspire applications for Azure deployment.\n\n**📖 For detailed AZD workflow:** See [recipes/azd/aspire.md](recipes/azd/aspire.m",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

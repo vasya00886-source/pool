@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_560270c0",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Go Sharp Edges\n\n## Silent Integer Overflow\n\ngo\n// DANGEROUS: Overflow wraps silently (no panic!)\nvar x int32 = math.MaxInt32\nx = x + 1  // Wraps to -2147483648, no error\n\n// Real vulnerability pattern: size calculations\nfunc allocate(count int32, size int32) []byte {\n    total := count * size  // Can overflow!\n    return make([]byte, total)  // Tiny allocation\n}\n\n\n**The Problem**: Unlike Rust (debug panics), Go silently wraps. Fuzzing with go-fuzz may never find overflow bugs because the",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

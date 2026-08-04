@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_76820bfb",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "general",
+  "insight": "Guides through Trail of Bits' 5-step secure development workflow. Runs Slither scans, checks special features (upgradeability/ERC conformance/token integration), generates visual security diagrams, helps document security properties for fuzzing/verification, and reviews manual security areas.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

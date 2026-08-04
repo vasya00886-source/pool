@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_5bda5488",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "javascript",
+  "insight": "Generate and maintain Claude Code skills from the Trail of Bits Testing Handbook.\n**Invoke this skill when:**\n- Creating new security testing skills from handbook content\n- User mentions \"testing handbook\", \"appsec.guide\", or asks about generating skills\n- Bulk skill generation or refresh is needed\n**Do NOT use for:**\n- General security testing questions (use the generated skills)\n- Non-handbook skill creation",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

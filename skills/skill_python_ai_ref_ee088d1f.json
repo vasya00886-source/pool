@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_ee088d1f",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Django Views - Context for Investigation\n\nThis is background context to help you understand Django authorization patterns when investigating. Not a checklist.\n\n## Where Authorization Can Happen\n\nWhen tracing a request, check these layers:\n\n\nURL conf → Middleware → View decorators → View class → Method → Query\n\n\n### URL-Level\n\npython\n# urls.py - decorators applied at routing\nfrom django.contrib.admin.views.decorators import staff_member_required\n\nurlpatterns = [\n    path('admin/', staf",
+  "tags": [
+    "testing",
+    "file"
+  ]
+}

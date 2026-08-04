@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_588e2987",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subscription Resolution — Defensive Fallback\n\nThe `azure-app-onboard` orchestrator resolves the subscription at Step 1 (login hard gate) and writes `subscriptionId`, `subscriptionName`, `tenantId` to `context.json.azure` before any sub-skill runs. In normal operation, `context.json.azure.subscriptionId` is always set by the time prepare runs.\n\nAt prepare phase entry, verify `context.json.azure.subscriptionId` is set. If it is (expected path), use it — done.\n\nIf `context.json.azure` is somehow",
+  "tags": [
+    "automation",
+    "web",
+    "file"
+  ]
+}

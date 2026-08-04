@@ -1,0 +1,14 @@
+{
+  "id": "security_research_7_3e2fb98d",
+  "category": "security_research",
+  "level": 7,
+  "language": "python",
+  "insight": "Timing attacks exploit variations in execution time to extract secret information from cryptographic implementations. Unlike cryptanalysis that targets theoretical weaknesses, timing attacks leverage implementation flaws - and they can affect any cryptographic code.\nTiming attacks were introduced by [Kocher](https://paulkocher.com/doc/TimingAttacks.pdf) in 1996. Since then, researchers have demonstrated practical attacks on RSA ([Schindler](https://link.springer.com/content/pdf/10.1007/3-540-444",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_1be8ad80",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceManager.MongoDBAtlas SDK. Use when creating, updating, listing, or deleting MongoDB Atlas organizations through Azure Marketplace integration. This SDK manages the Azure-side organization resource, not Atlas clusters/databases directly.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

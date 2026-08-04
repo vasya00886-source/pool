@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_e5bf1996",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Connections Operations Reference\n\n## Overview\n\nConnections provide access to external Azure services like Azure OpenAI, Azure AI Search, Bing, and more.\n\n## List Connections\n\n### List All Connections\n\npython\nconnections = project_client.connections.list()\nfor conn in connections:\n    print(f\"Name: {conn.name}\")\n    print(f\"Type: {conn.connection_type}\")\n    print(f\"ID: {conn.id}\")\n    print(\"---\")\n\n\n### Filter by Connection Type\n\npython\nfrom azure.ai.projects.models import ConnectionT",
+  "tags": [
+    "api",
+    "cli"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_e42999ae",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Workflow Details\n\n## Upgrade Workflow Phases\n\nThe azure-upgrade skill follows a structured workflow to ensure safe, repeatable upgrades.\n\n## Phase Overview\n\n\n┌──────────┐    ┌──────────┐    ┌─────────────┐    ┌─────────┐    ┌──────────┐\n│ Identify │───▶│  Assess  │───▶│ Pre-migrate │───▶│ Upgrade │───▶│ Validate │\n└──────────┘    └──────────┘    └─────────────┘    └─────────┘    └──────────┘\n\n\n## Progress Tracking\n\nCreate and maintain `upgrade-status.md` in the workspace root:\n\nmarkdo",
+  "tags": [
+    "automation",
+    "security",
+    "testing",
+    "file"
+  ]
+}

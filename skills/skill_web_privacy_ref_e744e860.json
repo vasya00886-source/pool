@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_e744e860",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Subject Line Optimization\n\nThe subject line determines whether the email gets read. The data is counterintuitive: **short, boring, internal-looking subject lines win decisively.**\n\n## Length: 2–4 words\n\n- 2-word subject lines get **60% more opens** than 5-word (Lavender).\n- Going from 2 to 4 words reduces replies by **17.5%**.\n- 2–4 words yield **46% open rates** vs 34% for 10 words (Belkins, 5.5M emails).\n- Mobile truncates at 30–35 characters — brevity is practical necessity.\n\n## Internal Ca",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "file"
+  ]
+}

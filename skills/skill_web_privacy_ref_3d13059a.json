@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3d13059a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Event Processing Reference\n\nReceiving and processing events with Azure Event Hubs using the @azure/event-hubs TypeScript SDK.\n\n## Overview\n\nEvent Hubs provides high-throughput event streaming. This reference covers the EventHubConsumerClient, subscription patterns, event handlers, and processing strategies.\n\n## Key Interfaces\n\ntypescript\nimport {\n  EventHubConsumerClient,\n  ReceivedEventData,\n  PartitionContext,\n  SubscriptionEventHandlers,\n  SubscribeOptions,\n  Subscription\n} from \"@azure/",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

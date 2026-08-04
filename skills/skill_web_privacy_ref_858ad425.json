@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_858ad425",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Vision Fine-Tuning\n\nFine-tune models with image data to customize visual understanding. Uses the same chat-completions JSONL format as text SFT, but with image content blocks in user messages.\n\n## Supported Models\n\n| Model | Version |\n|-------|---------|\n| gpt-4o | 2024-08-06 |\n| gpt-4.1 | 2025-04-14 |\n\n## Image Requirements\n\n| Constraint | Limit |\n|-----------|-------|\n| Max examples with images per training file | 50,000 |\n| Max images per example | 64 |\n| Max image file size | 10 MB |\n| Sup",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_33583a48",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Run-All Query Suite\n\nIn run-all mode, generate a custom `.qls` query suite file at runtime. This ensures all queries from all installed packs actually execute, avoiding the silent filtering caused by each pack's `defaultSuiteFile`.\n\n## Why a Custom Suite\n\nWhen you pass a pack name directly to `codeql database analyze` (e.g., `-- codeql/cpp-queries`), CodeQL uses the pack's `defaultSuiteFile` field from `qlpack.yml`. For official packs, this is typically `codeql-suites/<lang>-code-scanning.qls`",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

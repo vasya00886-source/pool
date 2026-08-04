@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_da8b431e",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

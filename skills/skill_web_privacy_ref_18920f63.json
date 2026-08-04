@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_18920f63",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Context (Subscription & Location)\n\nDetect and confirm Azure subscription and location before generating artifacts. Run region capacity check for customer selected location\n\n---\n\n## Step 1: Check for Existing AZD Environment\n\nIf the project already uses AZD, check for an existing environment with values already set:\n\nbash\nazd env list\n\n\n**If an environment is selected** (marked with `*`), check its values:\n\nbash\nazd env get-values\n\n\nIf `AZURE_SUBSCRIPTION_ID` and `AZURE_LOCATI",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

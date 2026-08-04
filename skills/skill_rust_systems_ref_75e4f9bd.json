@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_75e4f9bd",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "<overview>\n\nCulture Index identifies 19 distinct behavioral patterns based on the configuration of A, B, C, D traits. The interaction between traits reveals more than individual positions.\n\n</overview>\n\n<common_archetypes>\n\n| Archetype | Pattern | Description | Typical Roles |\n|-----------|---------|-------------|---------------|\n| Visionary/Architect | High A, Low C, Low D | Big-picture, fast-paced, dislikes details. Best system builders when also high D. | CEO, Entrepreneur, Founder |\n| Rainma",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

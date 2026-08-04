@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_774d6614",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Trace-to-Dataset Pipeline — Harvest Production Traces as Test Cases\n\nExtract production traces from App Insights using KQL, transform them into evaluation dataset format, and persist as versioned datasets. This is the core workflow for turning real-world agent failures into reproducible test cases.\n\n## ⛔ Do NOT\n\n- Do NOT use `parse_json(customDimensions)` — `customDimensions` is already a `dynamic` column in App Insights KQL. Access properties directly: `customDimensions[\"gen_ai.response.id\"]`",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_029a8d6d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Marketing Loop Catalog\n\nA library of repeatable marketing loops with thorough coverage across the funnel. Each is a complete, adaptable spec. Pick the closest match, then tune the cadence, thresholds, state handling, and human checkpoints to the user's product, stage, and tooling.\n\nEvery loop lists nine parts: **Check cadence · Acts when · Purpose · Skills used · Loop body · Self-check · State / idempotency · Stop / bail-out · Output**. See `SKILL.md` for the anatomy, the cadence rule, and whe",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

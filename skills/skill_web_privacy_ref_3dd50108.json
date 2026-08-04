@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3dd50108",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# M365 JSON Agent Developer Examples\n\nThis document provides workflow examples for common M365 Copilot JSON-based agent development scenarios.\n\n> **Note:** This guide is for JSON-based agents that use `.json` manifest files directly.\n\n---\n\n## Example 1: Development and Provisioning\n\nComplete workflow for provisioning a JSON-based agent to a development environment:\n\nbash\n# Install dependencies (if any)\nnpm install\n\n# Provision agent to development environment (no compile step needed for JSON",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

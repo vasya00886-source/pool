@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_e1c32eaf",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Transient ARM error handling for `az ... create`\n\nLoad this file only when an `az group create`, `az appservice plan create`, or `az webapp create` command fails. Healthy runs never need it.\n\n## Which errors are transient\n\nARM `PUT` operations sometimes fail with **transient** errors:\n\n- `Connection reset`, `Connection aborted`, `ConnectionError`\n- `Read timed out`, `Max retries exceeded`\n- `BadGatewayConnection`, `ServiceUnavailable`\n- `TooManyRequests` / HTTP `429`\n- HTTP `502` / `503` / `50",
+  "tags": [
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

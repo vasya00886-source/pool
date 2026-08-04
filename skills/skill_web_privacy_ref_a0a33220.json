@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a0a33220",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Newsjacking — Reactive PR Workflow\n\nInjecting your POV into a story that's already trending. Done well: free distribution off a wave of attention. Done badly: cringe at best, brand damage at worst.\n\n## Contents\n- When newsjacking works (and when it doesn't)\n- The detect → score → angle → pitch loop\n- Newsworthiness scoring rubric\n- Story angle library\n- Speed: the only thing that matters\n- Sources & tooling\n- Failure modes\n\n---\n\n## When Newsjacking Works\n\n- **Tech/regulatory news in your categ",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "web"
+  ]
+}

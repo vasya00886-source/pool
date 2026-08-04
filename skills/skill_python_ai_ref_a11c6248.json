@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_a11c6248",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-language-conversations-py capability coverage\n\n**SDK/package**: `azure-ai-language-conversations`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Core workflow`\n\n## Non-hero scenarios\n\n- `Operational hardening`: Use this section for retries, timeouts, pagination, and cleanup patterns specific to this SDK.  \n  See: [`non-hero-scenarios.md#operational-hardening`](non-hero-scena",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

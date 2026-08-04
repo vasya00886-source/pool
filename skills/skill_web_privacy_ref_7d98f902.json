@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7d98f902",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# AKS Cluster Autoscaler (CAS)\n\nEnable and tune the Cluster Autoscaler to automatically scale down idle nodes.\n\n## Check CAS Status\n\nbash\naz aks show \\\n  --name \"<CLUSTER_NAME>\" --resource-group \"<RESOURCE_GROUP>\" \\\n  --query \"agentPoolProfiles[].{name:name, casEnabled:enableAutoScaling, min:minCount, max:maxCount, count:count}\" \\\n  -o table\n\naz aks show \\\n  --name \"<CLUSTER_NAME>\" --resource-group \"<RESOURCE_GROUP>\" \\\n  --query \"autoScalerProfile\" -o json\n\n\n## Check Node Utilization (7 da",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "docker"
+  ]
+}

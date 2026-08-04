@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_58106eaf",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts, typing notifications, or real-time chat features.",
+  "tags": [
+    "api",
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

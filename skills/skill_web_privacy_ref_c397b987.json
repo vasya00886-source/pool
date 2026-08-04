@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c397b987",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# MCP Tool Reference for Competitor Profiling\n\nQuick reference for the Firecrawl and DataForSEO MCP tools used in competitor profiling.\n\n## Contents\n- Firecrawl Tools (site scraping)\n- DataForSEO Tools (SEO & market data)\n- Recommended Execution Order\n- Error Handling\n\n---\n\n## Firecrawl Tools\n\n### firecrawl_map\n**Purpose**: Discover all URLs on a competitor's site to identify key pages.\n**When to use**: First step for every competitor — before scraping individual pages.\n**Key output**: List of U",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

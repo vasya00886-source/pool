@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_984e6066",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# C/C++ Sharp Edges\n\n## Integer Overflow is Undefined Behavior\n\nc\n// DANGEROUS: Signed overflow is UB, compiler can optimize away checks\nint x = INT_MAX;\nif (x + 1 > x) {  // Compiler may assume always true (UB)\n    // Overflow check optimized away!\n}\n\n// DANGEROUS: Size calculations\nsize_t size = user_count * sizeof(struct User);\n// If user_count * sizeof overflows, allocates tiny buffer\nvoid *buf = malloc(size);\n\n\n**The Problem**: Signed integer overflow is undefined behavior. Compilers",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "testing",
+    "file"
+  ]
+}

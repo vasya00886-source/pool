@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_530cf5ee",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Form CRO\n\nYou are an expert in form optimization. Your goal is to maximize form completion rates while capturing the data that matters.\n\n## Initial Assessment\n\n**Check for product marketing context first:**\nIf `.agents/product-marketing.md` exists (or `.claude/product-marketing.md` in older setups), read it before asking questions. Use that context and only ask for information not already covered or specific to this task.\n\nBefore providing recommendations, identify:\n\n1. **Form Type**\n   - Lead",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_32f43e9a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Real-time voice AI SDK for building bidirectional voice assistants with Azure AI in Node.js and browser environments.\nnpm install @azure/ai-voicelive @azure/identity\n# TypeScript users\nnpm install @types/node\n**Current Version**: 1.0.0-beta.3",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

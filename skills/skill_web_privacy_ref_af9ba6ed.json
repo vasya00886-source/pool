@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_af9ba6ed",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Storage Redundancy Checks\n\n## Overview\n\nStorage accounts underpin Azure Functions, Container Apps (for host storage), and App Service. If compute is zone-redundant but storage is not, a zone failure can still cause downtime.\n\n## Replication Types\n\n| Type | Zone Redundancy | Region Redundancy | Description |\n|---|---|---|---|\n| LRS | ❌ None | ❌ None | 3 copies in one datacenter. No zone or region protection. |\n| ZRS | ✅ Zone-redundant | ❌ None | 3 copies across 3 availability zones in one regio",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "web",
+    "file"
+  ]
+}

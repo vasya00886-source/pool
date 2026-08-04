@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_4375b155",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Evidence Templates\n\nUse these templates when documenting verification evidence for each bug.\n\n## Data Flow Documentation\n\n\nBug #N Data Flow Analysis\nSource: [exact location] — Trust Level: [trusted/untrusted]\nPath: Source → Validation1[file:line] → Transform[file:line] → Vulnerability[file:line]\nValidation Points:\n  - Check1: [condition] at [file:line] — [passes/fails/bypassed]\n  - Check2: [condition] at [file:line] — [passes/fails/bypassed]\n\n\n## Mathematical Bounds Proof\n\n\nBug #N Mat",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_f5e9d3d8",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure Blob Storage — upload, download, and manage blobs and containers.\nUse this skill when:\n- An app needs to upload or download blobs from Azure Storage in Rust\n- You need to create or manage blob containers\n- You need to list blobs with pagination\n- You need RBAC-based auth for blob operations",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

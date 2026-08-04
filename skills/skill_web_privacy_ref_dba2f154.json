@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_dba2f154",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Microsoft Agent Framework — Best Practices for Hosted Agents\n\nBest practices when building hosted agents with Microsoft Agent Framework for deployment to Foundry Agent Service.\n\n## Official Resources\n\n| Resource | URL |\n|----------|-----|\n| **GitHub Repo** | https://github.com/microsoft/agent-framework |\n| **MS Learn Overview** | https://learn.microsoft.com/agent-framework/overview/agent-framework-overview |\n| **Quick Start** | https://learn.microsoft.com/agent-framework/tutorials/quick-start",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

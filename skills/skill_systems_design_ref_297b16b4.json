@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_297b16b4",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Prompt Chaining\n\nUse this workflow when the task should move through fixed ordered steps and each step makes the next one easier.\n\n## Choose this workflow when\n\n- the decomposition is known in advance\n- step order matters\n- validation between steps improves quality\n\n## Required contract\n\n1. Step order.\n2. Inputs and outputs for each step.\n3. Validation or gate points between steps.\n\n## Example\n\nmarkdown\n1. Summarize the current state\n2. Propose the target state\n3. Validate the proposal agai",
+  "tags": [
+    "file"
+  ]
+}

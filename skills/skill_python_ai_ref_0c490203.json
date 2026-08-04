@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_0c490203",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-keyvault-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Async Clients\n\npython\nfrom azure.identity.aio import DefaultAzureCredential\nfrom azure.keyvault.secrets.aio import SecretClient\n\nasync def get_secret():\n    async with DefaultAzureCredential() as credential:\n        async with SecretClient(vault_url=vault_url, credential=credent",
+  "tags": [
+    "cli",
+    "file"
+  ]
+}

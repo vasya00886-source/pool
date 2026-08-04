@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f55245cb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# @azure/storage-blob - Streaming Patterns\n\nReference documentation for upload/download streaming in the Azure Blob Storage TypeScript SDK.\n\n**Source**: [Azure SDK for JS - storage-blob](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/storage/storage-blob)\n\n---\n\n## Installation\n\nbash\nnpm install @azure/storage-blob @azure/identity\n\n\n---\n\n## Client Setup\n\ntypescript\nimport {\n  BlobServiceClient,\n  ContainerClient,\n  BlockBlobClient,\n} from \"@azure/storage-blob\";\nimport { DefaultA",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

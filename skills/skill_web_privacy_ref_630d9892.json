@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_630d9892",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Bicep Patterns\n\nBicep default-path patterns for AppOnboard scaffold. Used as the primary IaC format. For the alternative Terraform path (existing `.tf` files or user override), scaffold uses `mcp_azure_mcp_azureterraformbestpractices` output patterns.\n\n> **Source:** Adapted from Azure Bicep best practices. See [Bicep best practices](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices) for updates.\n\n## File Structure\n\n> ⛔ **Always use `targetScope = 'subscription",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

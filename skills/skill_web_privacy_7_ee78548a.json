@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_ee78548a",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Azure SQL resources via Azure Resource Manager.\n> **⚠️ Management vs Data Plane**\n> - **This SDK (Azure.ResourceManager.Sql)**: Create servers, databases, elastic pools, configure firewall rules, manage failover groups\n> - **Data Plane SDK (Microsoft.Data.SqlClient)**: Execute queries, stored procedures, manage connections\ndotnet add package Azure.ResourceManager.Sql\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

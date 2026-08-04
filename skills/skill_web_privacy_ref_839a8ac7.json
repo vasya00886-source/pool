@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_839a8ac7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# M365 Copilot eval workflow\n\nUse this workflow when the user wants to set up, author, run, or analyze evaluations with the public preview `@microsoft/m365-copilot-eval` CLI.\n\n## Canonical command\n\nAlways invoke the CLI through the public npm package:\n\npowershell\nnpx -y --package @microsoft/m365-copilot-eval@latest runevals\n\n\nDo not use private-preview installers, global installs, bare `runevals`, bare `npx runevals`, or retired flags such as `--input` and `--html`.\n\n## 1. Detect project s",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

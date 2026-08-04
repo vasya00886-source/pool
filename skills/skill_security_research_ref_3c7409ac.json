@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_3c7409ac",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# azqr Recommendation Categories\n\nThis document describes how to interpret azqr recommendations and prioritize remediation.\n\n## Recommendation Sources\n\nazqr aggregates recommendations from multiple sources:\n\n| Source | Description | Priority |\n|--------|-------------|----------|\n| **APRL** | Azure Proactive Resiliency Library - reliability-focused best practices | High |\n| **Orphaned Resources** | Resources that are unused or disconnected | Medium |\n| **Azure Advisor** | Microsoft's built-in rec",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

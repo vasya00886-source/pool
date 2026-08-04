@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2cebe22a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Tool — Work IQ (`type: mcp`, preview) — Microsoft 365 work context\n\nGive the agent Microsoft 365 work context (mail, meetings, files, chats, and M365 agents) via the **Work IQ MCP server** at `https://workiq.svc.cloud.microsoft/mcp`. It attaches as a **remote MCP connection** and calls Work IQ as the **signed-in user**, so each user needs an **M365 Copilot license**. For the toolbox concept, versions, and endpoint, see [toolbox.md](../toolbox.md).\n\n- **Server URL:** `https://workiq.svc.cloud.m",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

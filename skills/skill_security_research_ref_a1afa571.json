@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_a1afa571",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Constant-Time Analysis: Ruby\n\nAnalysis guidance for Ruby scripts. Uses YARV (Yet Another Ruby VM) instruction sequence dump to analyze bytecode for timing-unsafe operations.\n\n## Prerequisites\n\n- Ruby 2.0+ (uses `ruby --dump=insns`)\n\n## Running the Analyzer\n\nbash\n# Analyze Ruby file\nuv run {baseDir}/ct_analyzer/analyzer.py crypto.rb\n\n# Include warning-level violations\nuv run {baseDir}/ct_analyzer/analyzer.py --warnings crypto.rb\n\n# Filter to specific functions\nuv run {baseDir}/ct_analyzer/an",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

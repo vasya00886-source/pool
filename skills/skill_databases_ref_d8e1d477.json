@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_d8e1d477",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# Subagent Template — IaC Generation (Steps 5–8)\n\nGenerate deployment-ready IaC from `prepare-plan.json`. Follow the workflow below — each step specifies which reference to read and what to do with it.\n\n## Critical Rules\n\n- ⛔ **Do NOT invoke ANY skills** — no `{\"skill\": \"azure-validate\"}`, `{\"skill\": \"azure-deploy\"}`, `{\"skill\": \"azure-prepare\"}`, or any other skill call. Use the procedures in THIS file only.\n- ⛔ **Do NOT generate `azure.yaml`**\n- ⛔ **Do NOT modify app source code** — only write",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

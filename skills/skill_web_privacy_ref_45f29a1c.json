@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_45f29a1c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Generative AI Tools for Ad Creative\n\nReference for using AI image generators, video generators, and code-based video tools to produce ad visuals at scale.\n\n---\n\n## When to Use Generative Tools\n\n| Need | Tool Category | Best Fit |\n|------|---------------|----------|\n| Static ad images (banners, social) | Image generation | ChatGPT Images 2.0, Nano Banana Pro, Flux, Ideogram |\n| Ad images with text overlays | Image generation (text-capable) | Ideogram, Nano Banana Pro |\n| Short video ads (6-30 s",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

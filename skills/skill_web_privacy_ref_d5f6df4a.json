@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d5f6df4a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Checkpointing with Azure Event Hubs\n\nPatterns for reliable event processing with checkpoint stores.\n\n## Why Checkpointing?\n\nCheckpointing tracks which events have been processed, enabling:\n- **Resume after failure** — Pick up where you left off\n- **Scalable consumers** — Multiple consumers share work without duplication\n- **At-least-once delivery** — Ensure no events are lost\n\n## Blob Checkpoint Store (Recommended)\n\npython\nfrom azure.eventhub import EventHubConsumerClient\nfrom azure.eventhu",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

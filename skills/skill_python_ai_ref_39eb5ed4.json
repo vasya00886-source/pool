@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_39eb5ed4",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Agent Operations Reference\n\n## Agent Types and Kinds\n\npython\nfrom azure.ai.projects.models import AgentKind\n\n# Agent kinds\n# - \"prompt\": Standard prompt-based agents\n# - \"hosted\": Hosted agents\n# - \"container_app\": Container App agents\n# - \"workflow\": Workflow agents\n\n# Filter agents by kind\nagents = project_client.agents.list(kind=AgentKind.PROMPT)\n\n\n## Basic Agent Creation\n\npython\nagent = project_client.agents.create_agent(\n    model=os.environ[\"AZURE_AI_MODEL_DEPLOYMENT_NAME\"],",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

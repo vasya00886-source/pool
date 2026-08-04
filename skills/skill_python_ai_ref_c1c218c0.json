@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_c1c218c0",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-translation-document-py capability coverage\n\n**SDK/package**: `azure-ai-translation-document`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Basic Document Translation`\n- `Multiple Target Languages`\n- `Translate Single Document`\n- `Check Translation Status`\n\n## Non-hero scenarios\n\n- `List Document Statuses`: Dedicated example and implementation notes.  \n  See: [`non-hero-sce",
+  "tags": [
+    "api",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

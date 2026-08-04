@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_54808241",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Training Types: SFT vs DPO vs RFT\n\n## Decision Matrix\n\n| Factor | SFT | DPO | RFT |\n|--------|-----|-----|-----|\n| **Best for** | Teaching a new skill or format | Aligning preferences/style | Improving reasoning chains |\n| **Data needed** | Input–output pairs | Chosen/rejected pairs | Prompts + grading function |\n| **Data volume** | 50–5,000 examples | 500–5,000 pairs | 200–2,000 prompts |\n| **Effort to prepare data** | Low | High (need contrasting pairs) | Medium (need grader, not outputs) |",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

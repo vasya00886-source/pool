@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_7c7e2a53",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Custom Template Adaptation\n\nFor the EXTEND path — when the user has existing Bicep or Terraform templates.\n\n## Instructions\n\n1. **Read** the user's existing template files. Understand the resource graph: what's defined, how resources reference each other, what naming conventions are used.\n\n2. **Analyze** the template against the user's requirements (from [intake.md](intake.md)) and the Foundry private networking documentation validated in the intake step. Identify:\n   - Resources already prese",
+  "tags": [
+    "security",
+    "docker",
+    "file"
+  ]
+}

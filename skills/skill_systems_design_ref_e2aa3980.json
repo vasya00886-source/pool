@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_e2aa3980",
+  "category": "systems_design",
+  "level": 4,
+  "language": "java",
+  "insight": "# Azure Communication CallingServer Java SDK - Migration Guide\n\n> **⚠️ DEPRECATED**: This SDK has been renamed to **Call Automation**. For new projects, use `azure-communication-callautomation` instead.\n\n## Migration Summary\n\nThe `azure-communication-callingserver` package is deprecated. All new development should use `azure-communication-callautomation`.\n\n## Dependency Change\n\nxml\n<!-- OLD (deprecated) -->\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-communication-call",
+  "tags": [
+    "api",
+    "cli"
+  ]
+}

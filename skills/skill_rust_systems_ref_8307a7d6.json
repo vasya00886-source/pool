@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_8307a7d6",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Objection Library\n\nCommon B2B SaaS objections with response frameworks. Organized by category for quick reference.\n\n## Quick-Reference Table\n\nFor live calls. Find the objection, scan the response, reference the proof.\n\n| Objection | Response (1-line) | Proof Point |\n|-----------|--------------------|-------------|\n| \"Too expensive\" | \"Compared to what? Let's look at what the problem costs you today.\" | ROI case study showing payback in X months |\n| \"No budget\" | \"When budget opens up, what wou",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

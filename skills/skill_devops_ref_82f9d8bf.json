@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_82f9d8bf",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Approval Gate Template\n\nDisplay template for the deploy approval gate. Present after preflight validation, before execution.\n\n## Display Format\n\n\n## Deploy Approval\n\n🏢 **Subscription:** {context.json.azure.subscriptionName} (`{context.json.azure.subscriptionId}`)\n📁 **Resource Group:** {context.json.azure.resourceGroup}\n🌍 **Region:** {context.json.azure.region}\n\n**Services:**\n| Service | SKU | Region | Resource Name |\n|---------|-----|--------|---------------|\n{for each service in prepare-pl",
+  "tags": [
+    "automation",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

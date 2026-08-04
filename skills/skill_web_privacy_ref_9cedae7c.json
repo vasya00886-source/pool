@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_9cedae7c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Cryptographic Operation to ProVerif Mapping\n\nMaps every Mermaid annotation produced by the `crypto-protocol-diagram` skill\nto the corresponding ProVerif declarations and process patterns.\n\nUse this table to build the preamble (types, functions, equations) and the\nper-step process code for each participant.\n\n---\n\n## Key Generation\n\n### Long-term asymmetric keypair\n\n**Mermaid:** `Note over A: keygen() → sk_A, pk_A`\n\n**Meaning:** Party A has a long-term signing or asymmetric encryption keypair.",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

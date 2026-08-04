@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_1c3d7dae",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Centralized API inventory and governance SDK for managing APIs across your organization.\ndotnet add package Azure.ResourceManager.ApiCenter\ndotnet add package Azure.Identity\n**Current Version**: v1.0.0 (GA)  \n**API Version**: 2024-03-01",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

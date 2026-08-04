@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_66d01149",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Kotlin Sharp Edges\n\n## Platform Types from Java\n\nkotlin\n// DANGEROUS: Java interop returns \"platform types\" (Type!)\nval result = javaLibrary.getValue()  // Type: String! (platform type)\nresult.length  // NPE if Java returned null!\n\n// Kotlin doesn't know if Java code can return null\n// Platform types bypass null safety\n\n// Even \"safe\" Java annotations may not be recognized:\n// @NotNull in Java doesn't guarantee Kotlin sees it correctly\n\n\n**Fix**: Explicitly declare nullability when calli",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

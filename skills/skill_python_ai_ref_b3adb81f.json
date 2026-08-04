@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_b3adb81f",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Multi-Tenant Isolation - Context for Investigation\n\nBackground on multi-tenant architectures. Use this to understand the ownership model you're investigating.\n\n## Ownership Hierarchy\n\nMost apps have layered ownership:\n\n\nOrganization/Tenant\n    └── Team (optional)\n        └── User\n            └── Resource\n\n\n**Key question**: At which level is authorization enforced?\n\n## Common Implementation Patterns\n\n### Tenant from Session\n\npython\n# User's current tenant stored in session/request\nreq",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

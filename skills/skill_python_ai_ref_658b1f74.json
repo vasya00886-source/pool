@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_658b1f74",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Large File Uploads\n\nThe standard `client.files.create()` silently fails on JSONL files >~150MB (Azure returns 500 during job execution). Use the chunked Uploads API:\n\npython\nupload = client.uploads.create(filename=\"data.jsonl\", purpose=\"fine-tune\", bytes=file_size, mime_type=\"application/jsonl\")\npart_ids = []\nwith open(filepath, \"rb\") as f:\n    while chunk := f.read(64 * 1024 * 1024):  # 64MB chunks\n        part = client.uploads.parts.create(upload_id=upload.id, data=chunk)\n        part_ids",
+  "tags": [
+    "api",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_4_4f779fe1",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "Builds Trailmark code graphs at two source snapshots and computes a\nstructural diff. Surfaces security-relevant changes that text-level\ndiffs miss: new attack paths, complexity shifts, blast radius growth,\ntaint propagation changes, and privilege boundary modifications.\n- Comparing two git refs to understand what structurally changed\n- Auditing a range of commits for security-relevant evolution\n- Detecting new attack paths created by code changes\n- Finding functions whose blast radius or complex",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

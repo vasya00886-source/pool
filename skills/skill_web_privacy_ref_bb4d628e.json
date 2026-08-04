@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_bb4d628e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Measurement Paradigms — MTA vs. MMM vs. Incrementality\n\nAttribution *models* (see `attribution-models.md`) split credit *within* your tracked data. They can't tell you what would have happened anyway. That's what these three paradigms are for — increasingly rigorous, increasingly expensive ways to get closer to causality. Use this reference to help a user pick, and to explain how a test *reads* (not how to run the statistics).\n\n## The three, compared\n\n| | **MTA** (multi-touch) | **MMM** (media",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "web"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_99707cba",
+  "category": "devops",
+  "level": 4,
+  "language": "java",
+  "insight": "Artifact write procedures for the prereq phase exit. Read at Step 4 of the [readiness gate](readiness-gate.md).\n\n## Write Artifacts\n\n> ⛔ **Write all 3 artifacts before exiting prereq.** Downstream phases read these.\n> ⛔ **Use `create` tool for ALL session files — NEVER `powershell`.** Terminal is OK ONLY for read-only ops: UUID generation, git info, file existence checks.\n> ⛔ **Path scoping:** ALL `create` calls target `.copilot-azure/sessions/{uuid}/`. After writing, read back to confirm correc",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

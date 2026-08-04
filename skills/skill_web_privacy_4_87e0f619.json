@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_87e0f619",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

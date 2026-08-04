@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_686c64b7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Best Practices\n\n> **Language note**: These best practices apply to any MCP server implementation. Code examples\n> use TypeScript for illustration, but the patterns (rendering tools, partial data handling,\n> tool response format, widget-resource-tool triplet) are language-agnostic concepts.\n\n## Table of Contents\n- [1. ALWAYS Use Fluent UI for Widgets](#1-always-use-fluent-ui-for-widgets)\n- [2. Rendering Tools Pattern](#2-rendering-tools-pattern)\n- [3. Handle Partial Data](#3-handle-partial-data",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

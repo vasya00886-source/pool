@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_5a214e58",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Post-deploy message to the user\n\nAfter `az webapp deploy` / `azd deploy` returns successfully, **the skill is done**. Do not run any further verification commands.\n\n## Hard rules\n\n- ⛔ Never run `az webapp log tail` as a \"confirm startup\" step — logs are often quiet for 1–2 min during build/warm-up; silence is not a failure signal.\n- ⛔ Never run `curl`, `Invoke-WebRequest`, `wget`, or any HTTP request against the deployed URL — first request often 502s or times out on a healthy deploy.\n- ⛔ Neve",
+  "tags": [
+    "api",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

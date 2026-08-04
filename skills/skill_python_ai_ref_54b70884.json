@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_54b70884",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Python Agent Optimizer in Foundry Patterns\n\nUse the Azure SDK optimization package and a local baseline folder. The baseline is file-based; call `load_config()` without code-level fallback parameters.\n\n## Install and Import\n\nAdd `azure-ai-agentserver-optimization` to `requirements.txt` or the project dependency file:\n\ntext\nazure-ai-agentserver-optimization\n\n\nImport from the SDK namespace:\n\npython\nfrom azure.ai.agentserver.optimization import load_config\n\n\n## Baseline Folder\n\nCreate",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

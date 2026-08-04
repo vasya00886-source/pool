@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d40e3e87",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Communication Common Java SDK - Examples\n\nComprehensive code examples for the Azure Communication Services Common SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Communication Token Credential](#communication-token-credential)\n- [Communication Identifiers](#communication-identifiers)\n- [Token Refresh Patterns](#token-refresh-patterns)\n- [Entra ID Authentication](#entra-id-authentication)\n- [Complete Application Example](#complete-application-example)\n\n## Ma",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "web"
+  ]
+}

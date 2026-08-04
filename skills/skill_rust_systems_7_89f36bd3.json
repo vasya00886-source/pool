@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_89f36bd3",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Generates AGENTS.md files for repository folders — coding agent context files with build commands, testing instructions, code style, project structure, and boundaries. Only generates where AGENTS.md is missing.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

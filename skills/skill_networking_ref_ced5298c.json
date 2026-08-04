@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_ced5298c",
+  "category": "networking",
+  "level": 4,
+  "language": "python",
+  "insight": "# Google Search Playbook (B2B)\n\nIntent-first operating rules for Google Ads: where to spend first, how to structure the account, when to loosen match types, and how to keep smart bidding pointed at revenue instead of junk form-fills. For RSA generation mechanics, see [rsa-output-spec.md](rsa-output-spec.md).\n\n## Contents\n\n- The intent ladder\n- Brand bidding (and the pause test)\n- Capture before you create\n- Account structure\n- Keywords and match types\n- Negative keywords\n- The weekly search-term",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d0f21986",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# SaaS Prospecting Reference\n\nFor when the user sells SaaS or digital services to other SaaS companies / digital businesses.\n\n---\n\n## ICP Signals That Matter (SaaS branch)\n\nBeyond standard firmographics (industry, size, geography), SaaS prospects are qualified by:\n\n### Technographic signals\n\n- **Tech stack** — do they use complementary tools (your integration target) or competing tools (a switch opportunity)?\n- **Recent stack changes** — adding/removing tools signals active vendor evaluation\n- *",
+  "tags": [
+    "api",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

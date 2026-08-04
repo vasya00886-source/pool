@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_5d54c5f9",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Detection Strategy\n\nRead this during execution to guide per-step analysis. Steps 1–6 are Phase 1 (source-level); Steps 7–12 are Phase 2 (compiler-level).\n\n---\n\n## Phase 1 — Source-Level Analysis\n\n### Step 1 — Preflight Build Context (mandatory)\n- Verify `compile_db` exists and is readable.\n- Verify compile database entries point to existing files/working directories.\n- Verify the codebase is compilable with the captured commands (or equivalent build invocation).\n- Fail fast if preflight fails;",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

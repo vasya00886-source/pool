@@ -1,0 +1,14 @@
+{
+  "id": "security_research_7_ce0ad3f5",
+  "category": "security_research",
+  "level": 7,
+  "language": "rust",
+  "insight": "Scans TON (The Open Network) smart contracts for 3 critical vulnerabilities including integer-as-boolean misuse, fake Jetton contracts, and forward TON without gas checks. Use when auditing FunC contracts.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_a61d32e3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Queues vs Topics Patterns\n\nDetailed patterns for Azure Service Bus queues and topics with @azure/service-bus.\n\n## Queue Patterns (Point-to-Point)\n\nQueues deliver each message to exactly one consumer. Use for work distribution.\n\n### Basic Queue Sender\n\ntypescript\nimport { ServiceBusClient, ServiceBusMessage } from \"@azure/service-bus\";\nimport { DefaultAzureCredential } from \"@azure/identity\";\n\nconst client = new ServiceBusClient(\n  process.env.SERVICEBUS_NAMESPACE!,\n  new DefaultAzureCredent",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

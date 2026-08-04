@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9309c743",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Customer Research — Source Guides\n\nDetailed, source-by-source playbooks for gathering customer intelligence from online watering holes.\n\n---\n\n## Reddit Research\n\n### Finding the Right Subreddits\n\nStart by identifying where your ICP spends time, not where your product is discussed.\n\n**Discovery methods:**\n- Search `site:reddit.com \"[job title] tools\"` or `site:reddit.com \"[problem category] software\"`\n- Use [subreddit search tools](https://www.reddit.com/subreddits/search) with problem-space ke",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

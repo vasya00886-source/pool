@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9893402e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Security Logging Reference\n\n## Overview\n\nInsufficient logging and monitoring failures allow attacks to go undetected. This includes missing audit trails, sensitive data in logs, log injection attacks, and inadequate alerting on security events.\n\n---\n\n## Missing Security Event Logging\n\n### Events That Must Be Logged\n\npython\n# VULNERABLE: No logging of security events\ndef login(username, password):\n    user = authenticate(username, password)\n    if user:\n        return create_session(user)",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "web"
+  ]
+}

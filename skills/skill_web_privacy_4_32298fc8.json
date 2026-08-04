@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_32298fc8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Secure storage and management for secrets, cryptographic keys, and certificates.\n# Secrets\npip install azure-keyvault-secrets azure-identity\nAZURE_KEYVAULT_URL=https://<vault-name>.vault.azure.net/  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "cli"
+  ]
+}

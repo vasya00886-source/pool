@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_30d43879",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-containerregistry-py capability coverage\n\n**SDK/package**: `azure-containerregistry`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `List Repositories`\n- `Repository Operations`\n- `List Tags`\n- `Manifest Operations`\n\n## Non-hero scenarios\n\n- `Tag Operations`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#tag-operations`](non-hero-scenarios.md#tag-o",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

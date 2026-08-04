@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_196936c4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Instruction Review & Quality Audit\n\nThis reference defines how to evaluate, diagnose, and improve existing agent instructions. Use it whenever you touch instructions — whether auditing an existing agent, adding a capability, or responding to a user who says their agent \"doesn't work well.\"\n\n> **When to use this guide:**\n> - User asks to \"review\", \"improve\", \"audit\", or \"fix\" their agent's instructions\n> - User reports the agent \"doesn't use the right tool\", \"gives generic answers\", or \"doesn't",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rust_systems_ref_0c387461",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Source Adaptation\n\nUse this when turning an upstream prompt, workflow, rubric, benchmark, guide, or docs set into a reusable skill.\n\n## Goal\n\nPreserve the source's useful intent while rewriting the runtime shape for this repository, the Agent Skills format, and the selected execution shape.\n\n## Adaptation Checklist\n\nUse the rows that affect runtime behavior, maintenance, or legal/attribution handling. Do not fill every row mechanically for trivial sources.\n\n| Decision | Record |\n|----------|--",
+  "tags": [
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0e30779a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Framework Extensions\n\n## React (`@microsoft/applicationinsights-react-js`)\n\nbash\nnpm i @microsoft/applicationinsights-react-js history\n\n\ntypescript\n// app-insights.ts\nimport { ApplicationInsights } from \"@microsoft/applicationinsights-web\";\nimport { ReactPlugin } from \"@microsoft/applicationinsights-react-js\";\nimport { createBrowserHistory } from \"history\";\n\nexport const reactPlugin = new ReactPlugin();\nexport const browserHistory = createBrowserHistory();\n\nexport const appInsights =",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

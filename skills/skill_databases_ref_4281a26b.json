@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_4281a26b",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# App Onboard Prepare — Pricing Guide\n\n> ⛔ **SELF-CHECK:** If `costEstimate.breakdown[]` has ANY `monthlyUsd > 0`, at least one `pricing_get` or `az rest` pricing API call MUST appear in this session. Estimating from memory or training data is NEVER acceptable — reference values in this file may be outdated. If API fails after 2 attempts, use the reference value WITH disclaimer: `\"⚠️ Estimated from reference — live API unavailable.\"`\n\n## Free-Tier Shortcut — Skip API\n\n> ⛔ **Check this FIRST.** I",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

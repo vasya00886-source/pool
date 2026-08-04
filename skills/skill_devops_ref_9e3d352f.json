@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_9e3d352f",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Handoff Protocol — Step 9\n\nOffer next steps: CI/CD setup, monitoring, domain config, **🗑️ resource cleanup**, skill-based suggestions. Session artifacts remain for deferred pickup.\n\n> ⛔ **Handoff MUST include ALL FOUR sections: (1) Deployment Identity, (2) Cleanup Commands, (3) Redeploy Command, (4) Post-Deploy Recommendations.** Missing any section = incomplete handoff. Do NOT skip cleanup even if deployment failed. Do NOT skip identity even if no resources were created. Do NOT skip recommend",
+  "tags": [
+    "api",
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

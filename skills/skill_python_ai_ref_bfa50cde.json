@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_bfa50cde",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Migration Checklist\n\nComprehensive checklist for migrating Python projects to modern tooling.\n\n## Before Migration\n\n- [ ] **Determine layout**: `src/` or flat? Configure `[tool.uv.build-backend]` if flat\n- [ ] **Decide uv.lock strategy**: app (commit) vs library (.gitignore)\n- [ ] **Backup current state**: Create a branch or tag before starting\n\n## Cleanup Old Artifacts\n\nFind and remove legacy linter comments:\n\nbash\n# Find files with old linter pragmas\nrg \"# pylint:|# noqa:|# type: ignore\"",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

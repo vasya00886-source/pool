@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_a04b6c57",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# Move Entry Point Detection (Aptos)\n\n## Entry Point Identification (State-Changing Only)\n\nIn Move, `public` functions can be invoked from transaction scripts (Aptos) and typically modify state. In addition, all `entry` functions are entrypoints. Package-protected (`public package`) and friend (`friend` or `public friend`) functions should be excluded.\n\n### Aptos Move\nmove\n// Public entry functions are entry points\npublic entry fun transfer(from: &signer, to: address, amount: u64) { }\n\n// Pub",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "file"
+  ]
+}

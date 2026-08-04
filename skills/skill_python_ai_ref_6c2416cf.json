@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_6c2416cf",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-textanalytics-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Language Detection\n\npython\ndocuments = [\"Ce document est en francais.\", \"This is written in English.\"]\n\nresult = client.detect_language(documents)\n\nfor doc in result:\n    if not doc.is_error:\n        print(f\"Language: {doc.primary_language.name} ({doc.primary_language.is",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

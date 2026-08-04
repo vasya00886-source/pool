@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_edd7d6c6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Terraform Patterns\n\nAlternative-path patterns for AppOnboard scaffold. Used when `.tf` files detected or user overrides `iacFormat`. Per-resource config comes from `mcp_azure_mcp_azureterraformbestpractices` at runtime — this file covers layout, provider, naming, state, tagging, and wiring.\n\n## File Structure\n\n### Default (greenfield or user override)\n\n\ninfra/\n├── main.tf              # Root module — provider, resource group, module calls\n├── variables.tf         # Input variables (all conf",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

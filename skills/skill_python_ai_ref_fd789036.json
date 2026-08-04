@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_fd789036",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Features vs Dockerfile\n\n## Use devcontainer features when:\n\n- Installing standard development tools (GitHub CLI, languages, etc.)\n- The feature does what you need out of the box\n- You want automatic updates with feature version bumps\n\n## Use Dockerfile when:\n\n- Installing specific versions of tools\n- Custom configuration is needed\n- Combining multiple tools in optimized layers\n- The feature doesn't exist or is poorly maintained\n\n## Example: Python\n\nFor Python, we use Dockerfile + uv instead of",
+  "tags": [
+    "docker",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_9d2fa1d5",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "rust",
+  "insight": "Manage SMB file shares for cloud-native and lift-and-shift scenarios.\npip install azure-storage-file-share\nAZURE_STORAGE_ACCOUNT_URL=https://<account>.file.core.windows.net  # Required for Entra ID auth\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

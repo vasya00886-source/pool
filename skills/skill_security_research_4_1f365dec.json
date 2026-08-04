@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_1f365dec",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "web",
+    "cli"
+  ]
+}

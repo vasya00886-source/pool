@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_5b077661",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-ai-textanalytics-py capability coverage\n\n**SDK/package**: `azure-ai-textanalytics`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Sentiment Analysis`\n- `Entity Recognition`\n- `PII Detection`\n- `Key Phrase Extraction`\n\n## Non-hero scenarios\n\n- `Language Detection`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#language-detection`](non-hero-scenario",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

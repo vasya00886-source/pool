@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_77ed844b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Data Protection Reference\n\n## Overview\n\nData protection encompasses safeguarding sensitive information throughout its lifecycle: collection, processing, storage, transmission, and disposal. Security failures at any stage can lead to data breaches.\n\n## Sensitive Data Categories\n\n### Personal Identifiable Information (PII)\n- Full names, addresses, phone numbers\n- Email addresses\n- Social Security Numbers, national IDs\n- Dates of birth\n- Biometric data\n\n### Financial Information\n- Credit card num",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

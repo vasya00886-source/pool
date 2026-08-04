@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_c866dc5c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Full-text, vector, and hybrid search with AI enrichment capabilities.\npip install azure-search-documents\nAZURE_SEARCH_ENDPOINT=https://<service-name>.search.windows.net  # Required for all auth methods\nAZURE_SEARCH_INDEX_NAME=<your-index-name>  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production\nAZURE_SEARCH_API_KEY=<your-api-key>  # Only required for the legacy API-key auth path below",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

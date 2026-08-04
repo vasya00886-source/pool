@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d7d78bce",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# YARA-X CRX Module Reference\n\nThe `crx` module enables analysis of Chrome extension packages (CRX files). Use it to detect malicious extensions based on their declared permissions, manifest structure, and metadata.\n\n**Version requirements:** YARA-X v1.5.0+\n\n## Module Import\n\nyara\nimport \"crx\"\n\n\n## API Reference\n\n### File Type Validation\n\n| Field | Type | Description |\n|-------|------|-------------|\n| `crx.is_crx` | bool | Returns true if file is a valid CRX package |\n\n**Always check `crx.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

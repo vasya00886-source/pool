@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_cc7c8356",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Codebase Scan\n\nAnalyze workspace to identify components, technologies, and dependencies.\n\n## Detection Patterns\n\n### Languages & Frameworks\n\n| File | Indicates |\n|------|-----------|\n| `package.json` | Node.js |\n| `requirements.txt`, `pyproject.toml` | Python |\n| `*.csproj`, `*.sln` | .NET |\n| `pom.xml`, `build.gradle` | Java |\n| `go.mod` | Go |\n\n### Component Types\n\n| Pattern | Component Type |\n|---------|----------------|\n| React/Vue/Angular in package.json | SPA Frontend |\n| Only .html/.css",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

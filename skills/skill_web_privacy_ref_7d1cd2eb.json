@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7d1cd2eb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Bicep — App Service Patterns\n\nApp Service-specific Bicep patterns. For shared patterns (skeleton, naming, tags, security defaults, data modules), see [bicep-patterns.md](bicep-patterns.md).\n\n## Module Template\n\nStandard App Service module with managed identity and SCM/FTP auth disabled. Use this as the base for ALL App Service resources.\n\nbicep\nparam location string\nparam tags object\nparam appServicePlanId string\nparam appServiceName string\n\nresource appService 'Microsoft.Web/sites@2023-12-",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

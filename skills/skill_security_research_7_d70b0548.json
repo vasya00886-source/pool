@@ -1,0 +1,14 @@
+{
+  "id": "security_research_7_d70b0548",
+  "category": "security_research",
+  "level": 7,
+  "language": "rust",
+  "insight": "AFL++ is a fork of the original AFL fuzzer that offers better fuzzing performance and more advanced features while maintaining stability. A major benefit over libFuzzer is that AFL++ has stable support for running fuzzing campaigns on multiple cores, making it ideal for large-scale fuzzing efforts.\n| Fuzzer | Best For | Complexity |\n|--------|----------|------------|\n| AFL++ | Multi-core fuzzing, diverse mutations, mature projects | Medium |\n| libFuzzer | Quick setup, single-threaded, simple har",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_a0d3acb9",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# API Security Reference\n\n## Overview\n\nAPIs expose application functionality and data, making them prime targets for attackers. This reference covers security for REST APIs, GraphQL, and general API patterns.\n\n## Authentication\n\n### Token-Based Authentication\n\npython\n# JWT Best Practices\n# 1. Use strong signing algorithms\n# VULNERABLE: None algorithm\njwt.decode(token, algorithms=['none'])\n\n# SAFE: Explicit algorithm\njwt.decode(token, secret_key, algorithms=['HS256'])\n\n# 2. Validate standard c",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

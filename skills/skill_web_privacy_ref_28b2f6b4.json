@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_28b2f6b4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Web PubSub Java SDK - Examples\n\nComprehensive code examples for the Azure Web PubSub SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Send Messages](#send-messages)\n- [Group Management](#group-management)\n- [Connection Management](#connection-management)\n- [Client Access Tokens](#client-access-tokens)\n- [Permissions](#permissions)\n- [Async Operations](#async-operations)\n- [Complete Application Example](#complete-applicat",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_3b2eb8c4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Build enterprise agents for Microsoft 365, Teams, and Copilot Studio using the Microsoft 365 Agents SDK with Express hosting, AgentApplication routing, streaming responses, and Copilot Studio client integrations.\n- Use the microsoft-docs MCP to verify the latest API signatures for AgentApplication, startServer, and CopilotStudioClient.\n- Confirm package versions on npm before wiring up samples or templates.\nnpm install @microsoft/agents-hosting @microsoft/agents-hosting-express @microsoft/...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "testing",
+    "web"
+  ]
+}

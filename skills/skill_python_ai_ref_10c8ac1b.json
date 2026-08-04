@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_10c8ac1b",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Agentic RFT — Tool Calling\n\nTrain reasoning models (o4-mini) for agentic scenarios where the model invokes external tools during chain-of-thought reasoning.\n\n> ⚠️ **Access required**: Agentic RFT with tool calling and GPT-5 RFT are behind feature flags. You must request access through the Azure AI Foundry portal or your Microsoft account team. o4-mini RFT without tools is generally available.\n\n## Tool Definition Format\n\npython\ntools = [\n    {\n        \"name\": \"search\",\n        \"server_url\":",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

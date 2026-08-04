@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_708ba4e7",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "AddressSanitizer (ASan) is a widely adopted memory error detection tool used extensively during software testing, particularly fuzzing. It helps detect memory corruption bugs that might otherwise go unnoticed, such as buffer overflows, use-after-free errors, and other memory safety violations.\nASan is a standard practice in fuzzing due to its effectiveness in identifying memory vulnerabilities. It instruments code at compile time to track memory allocations and accesses, detecting illegal operat",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "testing"
+  ]
+}

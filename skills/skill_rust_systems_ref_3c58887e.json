@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_3c58887e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Dockerfile Generation\n\nGenerate Dockerfiles for components targeting Container Apps (or B1+ App Service) that have no existing Dockerfile. Read this when `iac-generation-rules.md` Step 6b applies.\n\n## When to Generate\n\n- Component targets Container Apps and has NO Dockerfile (and no `Dockerfile.azure`)\n- Component targets App Service B1+ with `deployStrategy.containerized: true`\n- ⛔ Do NOT generate for F1/D1 SKUs — use platform runtime stack instead\n- ⛔ Do NOT overwrite an existing Dockerfile",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "testing",
+    "docker"
+  ]
+}

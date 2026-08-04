@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_4397eeda",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Shared Foundations: Attacker-Controlled Input Model\n\nThis reference documents cross-cutting concepts that all 9 attack vector detection heuristics depend on. Read this before analyzing individual vectors.\n\n## Attacker-Controlled GitHub Context Expressions\n\nThese `github.event.*` expressions resolve to content an external attacker can influence. Dangerous contexts typically end with: `body`, `default_branch`, `email`, `head_ref`, `label`, `message`, `name`, `page_name`, `ref`, `title`.\n\n**High-",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

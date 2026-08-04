@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_2ebda3ff",
+  "category": "networking",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Technology Choice Decision Frameworks\n\nDecision frameworks for selecting the right Azure service in each category. Use these tables to compare options based on scale, cost, complexity, and use case fit.\n\n## Decision Approach\n\n1. **Start with requirements** — workload type, scale needs, team expertise\n2. **Use the comparison tables** — narrow to 2-3 candidates\n3. **Follow the decision trees** — Azure Architecture Center provides flowcharts for compute, data store, load balancing, and mess",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

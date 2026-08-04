@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_b21b505e",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Policy Validation\n\n## How to Validate Policies\n\n### 1. Get Subscription ID\n\nRetrieve your current Azure subscription ID:\n\nbash\naz account show --query id -o tsv\n\n\n### 2. Validate Policies\n\nCall the Azure MCP Policy tool to retrieve policies for your subscription:\n\n\nmcp_azure_mcp_policy(command: \"list\", parameters: { subscription_id: \"<subscription-id>\" })\n\n\nReplace `<subscription-id>` with the actual subscription ID obtained from step 1.\n\n## Review Policy Compliance\n\nWhen val",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "cli"
+  ]
+}

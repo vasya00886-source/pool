@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_a8fe8d1b",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Self-Review Procedure — Step 9\n\nAdversarial self-review using a sub-agent to perform L1–L4 review of generated IaC.\n\n## Sub-Agent Setup\n\nUse a sub-agent to perform the review. Provide:\n- All generated IaC file contents (every .bicep or .tf file from Step 5)\n- The `prepare-plan.json` services/naming/deploymentVariables sections\n- The `scaffold-manifest.json.files[]` list\n- The full content of [self-review-checklist.md](self-review-checklist.md) AND [waf-checklist.md](waf-checklist.md) verbatim",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "file"
+  ]
+}

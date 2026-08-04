@@ -1,0 +1,13 @@
+{
+  "id": "algorithms_ref_835189b6",
+  "category": "algorithms",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Cryptographic API Footguns\n\nDetailed patterns for identifying misuse-prone cryptographic interfaces.\n\n## Algorithm Selection Anti-Patterns\n\n### The \"alg\" Header Attack (JWT)\n\nThe JSON Web Token standard allows the token itself to specify which algorithm to use for verification. This is catastrophically wrong.\n\n**Attack 1: \"none\" algorithm**\njson\n{\"alg\": \"none\", \"typ\": \"JWT\"}\n\nMany libraries accept this and skip signature verification entirely.\n\n**Attack 2: Algorithm confusion (RS256 → HS",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "web"
+  ]
+}

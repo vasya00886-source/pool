@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_51fa784a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Social Listening & Engagement Triage\n\nHow to surface the right posts to engage with each day — instead of randomly scrolling. The goal is a short, scorable list (\"here are your top 10 posts to comment on\") rather than an open feed.\n\n## Contents\n- When to use this\n- The daily triage loop\n- Scoring rubric\n- Comment quality tiers\n- Sources & light tooling (curl recipes)\n- Per-platform notes\n- Common workflows\n\n---\n\n## When to Use This\n\nUse listening when the goal is **commenting and relationships",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

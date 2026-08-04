@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_90382744",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Browser Automation (`type: browser_automation_preview`) — preview\n\nBrowser automation backed by an **Azure Playwright workspace**. Auth is `ProjectManagedIdentity`; the connection kind is `PlaywrightWorkspace`. For the toolbox concept, versions, and endpoint, see [toolbox.md](../toolbox.md).\n\nThe tool uses the **nested** shape: a `browser_automation_preview: { connection: { project_connection_id: ... } }` object under the tool entry (not a top-level `connections:` array).\n\n> 🚦 Before cr",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

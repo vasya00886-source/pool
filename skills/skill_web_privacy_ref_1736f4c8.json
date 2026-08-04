@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1736f4c8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Security Hardening\n\nSecure Azure resources following Zero Trust principles.\n\n## Security Principles\n\n1. **Zero Trust** — Never trust, always verify\n2. **Least Privilege** — Minimum required permissions\n3. **Defense in Depth** — Multiple security layers\n4. **Encryption Everywhere** — At rest and in transit\n\n---\n\n## Security Services\n\n| Service | Use When | MCP Tools | CLI |\n|---------|----------|-----------|-----|\n| Key Vault | Secrets, keys, certificates | `azure__keyvault` | `az keyvault` |\n|",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

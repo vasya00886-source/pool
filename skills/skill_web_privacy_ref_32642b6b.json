@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_32642b6b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Authoring Path\n\nUse this path to create or update skill files.\n\n## Runtime Writing Rules\n\n1. Frontmatter must be first line.\n2. `name` must match the directory.\n3. `description` must contain realistic trigger language.\n4. Keep runtime guidance imperative and compact.\n5. Prefer tables, checklists, templates, and examples over prose.\n6. Use `SKILL.md` as the runtime decision layer for complex skills.\n\n## Precision Pass\n\nRun the pre-edit check before creating new sections, references, scripts, or",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "file"
+  ]
+}

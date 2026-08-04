@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_b9f710cd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Error Recovery Reference\n\nComplete mapping of common KQL error patterns. For each error: the exact message, a real query that triggered it, and the fix.\n\n## Table of Contents\n\n1. [E_LOW_MEMORY_CONDITION](#1-e_low_memory_condition)\n2. [Join Errors](#2-join-errors)\n3. [Network / Transient](#3-network--transient)\n4. [Dynamic Type Errors](#4-dynamic-type-errors)\n5. [Unresolved Names](#5-unresolved-names)\n6. [Syntax Errors](#6-syntax-errors)\n7. [String Comparison](#7-string-comparison)\n8. [extract_",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "cli",
+    "file"
+  ]
+}

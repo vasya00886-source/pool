@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_abd877df",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# IaC Resources — Official Documentation & Tools\n\nLook up when stuck after 3 tries, edge cases, or validating generated code against ground truth.\n\n## Bicep\n\n| Resource | URL | Use When |\n|----------|-----|----------|\n| Bicep Documentation | https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/ | Syntax, file structure, deployment scopes, install |\n| Azure Resource Reference | https://learn.microsoft.com/en-us/azure/templates/ | Resource properties, API versions, schema per type",
+  "tags": [
+    "api",
+    "testing",
+    "docker",
+    "web",
+    "file"
+  ]
+}

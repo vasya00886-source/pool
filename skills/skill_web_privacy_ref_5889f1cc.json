@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_5889f1cc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Deployment Formats\n\n## Model Format and SKU Mapping\n\n| Base model family | `model.format` | `sku.name` | Endpoint type |\n|-------------------|---------------|------------|---------------|\n| gpt-4.1-mini | `\"OpenAI\"` | `\"Standard\"` | Project |\n| gpt-4.1-nano | `\"OpenAI\"` | `\"Standard\"` | Project |\n| o4-mini (RFT) | `\"OpenAI\"` | `\"Standard\"` | Project |\n| gpt-oss-20b | `\"Microsoft\"` | `\"GlobalStandard\"` | Cognitive Services |\n| Ministral-3B | `\"Mistral AI\"` | `\"GlobalStandard\"` | Cognitive Servi",
+  "tags": [
+    "api",
+    "automation",
+    "cli"
+  ]
+}

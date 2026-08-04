@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_435fa5bc",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# EMM Prerequisites\n\nRequirements that must be met before enabling Essential Machine Management.\n\n## Required Azure Resources\n\n| Resource | Purpose |\n| -------- | ------- |\n| Log Analytics workspace | Collects log data from Change Tracking & Inventory |\n| Azure Monitor workspace | Collects metrics data from VM Insights |\n| User-assigned managed identity (UAMI) | Used to onboard and configure VMs in the subscription |\n\n## Required User Roles\n\nThe user performing the enrollment must have these rol",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

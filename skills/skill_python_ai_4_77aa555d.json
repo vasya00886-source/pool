@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_4_77aa555d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "Troubleshoot and resolve issues with Azure Messaging SDKs for Event Hubs and Service Bus. Covers connection failures, authentication errors, message processing issues, and SDK configuration problems. WHEN: event hub SDK error, service bus SDK issue, messaging connection failure, AMQP error, event processor host issue, message lock lost, message lock expired, lock renewal, lock renewal batch, send timeout, receiver disconnected, SDK troubleshooting, azure messaging SDK, event hub consumer, servic",
+  "tags": [
+    "automation",
+    "testing",
+    "cli"
+  ]
+}

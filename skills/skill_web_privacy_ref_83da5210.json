@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_83da5210",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Funding-Stage Capability Unlocks\n\nEvery marketing plan must include explicit \"what changes when funding closes / when budget unlocks\" reasoning. This makes the plan investor-friendly and operationally honest.\n\nThis doc defines the standard tiers. Use them as anchors, adjust for client category and unit economics.\n\n**Related docs:**\n- `budget-planning.md` — two scientific methods for setting the actual budget number (Revenue-Based 5–40%, or Goal-Based reverse-engineered from the revenue target)",
+  "tags": [
+    "api",
+    "performance",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

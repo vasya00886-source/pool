@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_6ff46139",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Input Strategy Reference\n\n## Python/Hypothesis\n\n| Type | Strategy |\n|------|----------|\n| `int` | `st.integers()` |\n| `float` | `st.floats(allow_nan=False)` |\n| `str` | `st.text()` |\n| `bytes` | `st.binary()` |\n| `bool` | `st.booleans()` |\n| `list[T]` | `st.lists(strategy_for_T)` |\n| `dict[K, V]` | `st.dictionaries(key_strategy, value_strategy)` |\n| `set[T]` | `st.frozensets(strategy_for_T)` |\n| `tuple[T, ...]` | `st.tuples(strategy_for_T, ...)` |\n| `Optional[T]` | `st.none() \\| strategy_for_T",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

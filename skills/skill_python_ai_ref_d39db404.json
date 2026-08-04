@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_d39db404",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-eventgrid-py capability coverage\n\n**SDK/package**: `azure-eventgrid`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Event Types`\n- `Publish CloudEvents`\n- `Publish EventGridEvents`\n- `Event Properties`\n\n## Non-hero scenarios\n\n- `Async Client`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#async-client`](non-hero-scenarios.md#async-client)\n- `Names",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

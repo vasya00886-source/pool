@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_ba0892e0",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Refactoring for Property-Based Testing\n\nIdentify code that could be refactored to enable or improve property-based testing.\n\n## Quick Reference\n\n| Pattern | Problem | Solution | Properties Enabled |\n|---------|---------|----------|-------------------|\n| I/O mixed with logic | Can't test without mocks | Extract pure core | Multiple |\n| Encode without decode | No roundtrip possible | Add inverse operation | Roundtrip |\n| Hardcoded config | Can't test edge cases | Inject dependencies | Full cover",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing"
+  ]
+}

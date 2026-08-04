@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_0407d47e",
+  "category": "systems_design",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# SMS Sequence Templates\n\nFull copy templates with character counts, timing, and segmentation logic for every major SMS flow.\n\n> Character counts shown assume GSM-7 encoding. Emojis force UCS-2 (70 chars/segment instead of 160). All templates use `[Brand]`, `[FirstName]`, and `[short.link]` as substitution tokens.\n\n---\n\n## Welcome / Opt-In Confirmation\n\n### Send 1 — Immediate (after opt-in)\n\n\nFrom [Brand]: Welcome! Here's your 10% off code: WELCOME10. Shop now: [short.link]\nReply STOP to opt",
+  "tags": [
+    "api",
+    "data"
+  ]
+}

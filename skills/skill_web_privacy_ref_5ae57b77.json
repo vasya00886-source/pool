@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_5ae57b77",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AKS Pod Rightsizing\n\nIdentify pods requesting far more CPU/memory than they use and recommend reduced resource requests.\n\n## Prerequisites — Check Monitoring State First\n\nBefore collecting usage data, determine what monitoring is available on the cluster:\n\nbash\n# 1. Check if Azure Managed Prometheus is enabled\naz aks show \\\n  --name \"<CLUSTER_NAME>\" --resource-group \"<RESOURCE_GROUP>\" \\\n  --query \"azureMonitorProfile.metrics.enabled\" -o tsv\n\n# 2. Check if Container Insights (Log Analytics)",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

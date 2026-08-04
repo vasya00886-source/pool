@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_a07b0923",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Readiness Gate — Step 4\n\n## Write Artifacts\n\n⛔ **You MUST read [`prereq-artifacts.md`](prereq-artifacts.md)** for complete artifact write procedures and phase exit checklist.\n\n---\n\n## Severity Tiers\n\n| Verdict | Icon | Meaning |\n|---------|------|---------|\n| Hard Halt | 🛑 | App is intentionally vulnerable — pipeline stops, no fix possible |\n| Major Migration | 🔶 | Large-scope change (EOL runtime, cloud SDK migration, >5 files) — redirect or warn |\n| Critical | ❌ FAIL | Deployment will fail —",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

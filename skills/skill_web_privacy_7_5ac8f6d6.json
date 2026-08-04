@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_5ac8f6d6",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "javascript",
+  "insight": "When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions \"schema markup,\" \"structured data,\" \"JSON-LD,\" \"rich snippets,\" \"schema.org,\" \"FAQ schema,\" \"product schema,\" \"review schema,\" \"breadcrumb schema,\" \"Google rich results,\" \"knowledge panel,\" \"star ratings in search,\" or \"add structured data.\" Use this whenever someone wants their pages to show enhanced results in Google. For broader SEO issues, see seo-audit. For AI search",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

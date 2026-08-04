@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0da85386",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Secrets Reference\n\nSecret management operations using @azure/keyvault-secrets SDK.\n\n## Overview\n\nThe SecretClient provides operations for managing secrets in Azure Key Vault:\n- Create, update, and delete secrets\n- List secrets and versions\n- Soft-delete and purge operations\n- Backup and restore capabilities\n\n## Core Types\n\ntypescript\nimport {\n  SecretClient,\n  KeyVaultSecret,\n  SecretProperties,\n  DeletedSecret,\n  SetSecretOptions,\n  GetSecretOptions,\n  UpdateSecretPropertiesOptions,\n  Begi",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6a7c5042",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-data-tables-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Batch Operations\n\npython\nfrom azure.data.tables import TableTransactionError\n\n# Batch operations (same partition only!)\noperations = [\n    (\"create\", {\"PartitionKey\": \"batch\", \"RowKey\": \"1\", \"data\": \"first\"}),\n    (\"create\", {\"PartitionKey\": \"batch\", \"RowKey\": \"2\", \"data\": \"s",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

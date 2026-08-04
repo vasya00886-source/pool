@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_9c1d74d9",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "javascript",
+  "insight": "List, find, and show Azure resources across subscriptions or resource groups. Handles prompts like \\\"list the websites in my subscription\\\", \\\"list my web apps\\\", \\\"show my app services\\\", \\\"list virtual machines\\\", \\\"list my VMs\\\", \\\"show storage accounts\\\", \\\"find container apps\\\", and \\\"what resources do I have\\\". USE FOR: list websites, list web apps, list app services, show websites in subscription, resource inventory, find resources by tag, tag analysis, orphaned resource discovery (not fo",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

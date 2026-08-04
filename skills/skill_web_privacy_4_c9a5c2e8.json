@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_c9a5c2e8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "SDK for Azure Blob Storage operations — upload, download, list, and manage blobs and containers.\nnpm install @azure/storage-blob @azure/identity\n**Current Version**: 12.x  \n**Node.js**: >= 18.0.0",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

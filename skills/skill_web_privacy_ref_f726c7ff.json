@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_f726c7ff",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "java",
+  "insight": "# Azure Identity library for Java - Examples\n\nComprehensive code examples for the Azure Identity library for Java.\n\n## Table of Contents\n\n- [Maven Dependency](#maven-dependency)\n- [DefaultAzureCredential](#defaultazurecredential)\n- [ChainedTokenCredential](#chainedtokencredential)\n- [ClientSecretCredential](#clientsecretcredential)\n- [ClientCertificateCredential](#clientcertificatecredential)\n- [ManagedIdentityCredential](#managedidentitycredential)\n- [EnvironmentCredential](#environmentcredenti",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "web"
+  ]
+}

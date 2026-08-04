@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_077ba43a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# The Hook System\n\nThe first three seconds decide whether the rest of the ad exists. Hooks are the highest-leverage unit of paid creative work — and hook *diversity* is what earns incremental learning: distinct hooks reach distinct pockets of the audience, while near-identical openings mostly re-test what you already know about the same one. This reference is a complete system for generating, diagnosing, and iterating hooks — not a list of one-liners.\n\nUse it inside Mode 1/3 generation (hooks fo",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

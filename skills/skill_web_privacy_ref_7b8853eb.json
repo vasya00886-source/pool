@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_7b8853eb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# MCP Integration Reference\n\nLoaded when troubleshooting MCP tool calls, debugging the fallback chain, or understanding the API response format.\n\n---\n\n## Tool Discovery\n\nAlways call `mcp_azure_mcp_aks` first to discover the current available tool surface. Do not assume a fixed action name — the available actions depend on the MCP server version deployed to the client.\n\njavascript\nmcp_azure_mcp_aks({ action: \"discover\" })\n\n\nThe response lists available actions and their parameter schemas. U",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "docker"
+  ]
+}

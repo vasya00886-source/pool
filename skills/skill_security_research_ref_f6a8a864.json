@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_f6a8a864",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# AI Prompt Injection via CI\n\n## Overview\n\nWhen GitHub Actions workflows run AI coding agents (Claude, Copilot, GPT) on pull request content, attackers can inject instructions through project configuration files. If the workflow checks out fork code, attacker-modified files like `CLAUDE.md`, `AGENTS.md`, or `.cursorrules` become \"trusted\" context that manipulates the AI agent.\n\n---\n\n## The Vulnerability\n\nyaml\n# VULNERABLE: AI agent runs on fork code with write permissions\non: pull_request_tar",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

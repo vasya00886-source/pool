@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_bc378829",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "rust",
+  "insight": "Hierarchical file system for big data analytics workloads.\npip install azure-storage-file-datalake azure-identity\nAZURE_STORAGE_ACCOUNT_URL=https://<account>.dfs.core.windows.net  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

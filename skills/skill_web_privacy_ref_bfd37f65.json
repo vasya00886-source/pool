@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_bfd37f65",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Step 1 - Auto-Setup Evaluation Suite\n\n> **This step runs automatically after deployment.** If the agent was deployed via the [deploy skill](../../deploy/deploy.md), `.foundry` cache and metadata may already be configured. Check `.foundry/evaluators/`, `.foundry/datasets/`, and the selected metadata file under the selected agent root before re-creating them.\n\n## Auto-Generate Suite\n\nAfter deployment, immediately prepare a Foundry evaluation suite and local references for the selected environmen",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

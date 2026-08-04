@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_94a35140",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Resource Graph Queries for Diagnostics\n\nAzure Resource Graph (ARG) enables fast, cross-subscription resource querying using KQL via `az graph query`. Use it to check resource health, find degraded resources, and correlate incidents.\n\n## How to Query\n\nUse the `extension_cli_generate` MCP tool to generate `az graph query` commands:\n\nyaml\nmcp_azure_mcp_extension_cli_generate\n  intent: \"query Azure Resource Graph to <describe what you want to diagnose>\"\n  cli-type: \"az\"\n\n\nOr construct",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_67d7cf06",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Projects SDK - Complete API Reference\n\n**Package**: `azure-ai-projects` v2.0.0b4  \n**Repository**: [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)  \n**Path**: `sdk/ai/azure-ai-projects/`  \n**Commit**: `7e86ab0076297173aae290c11fa14660bed2b125`\n\n---\n\n## Table of Contents\n\n1. [Client Classes](#1-client-classes)\n2. [Agent Classes](#2-agent-classes)\n3. [Tool Classes](#3-tool-classes)\n4. [ItemResource Classes](#4-itemresource-classes)\n5. [InputItem Classes](#5-i",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

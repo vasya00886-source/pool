@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_d1f34561",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Model Family Notes\n\nUse this file to adapt prompts to model behavior instead of assuming all model families respond the same way.\n\n## OpenAI\n\n### Reasoning models\n\n- Prefer straightforward `developer` instructions with a clear end goal.\n- Keep prompts simple and direct.\n- Avoid explicitly requesting chain-of-thought or \"think step by step\" behavior.\n- Use delimiters such as markdown headings, XML tags, or section titles when the prompt mixes multiple content blocks.\n- Try zero-shot first. Add",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "file"
+  ]
+}

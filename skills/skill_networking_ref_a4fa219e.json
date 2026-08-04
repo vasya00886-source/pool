@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_a4fa219e",
+  "category": "networking",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Resource Graph Query Patterns\n\nAzure Resource Graph (ARG) queries use a KQL subset against indexed Azure resource metadata. Results are near real-time across all subscriptions.\n\n## Command Format\n\nbash\naz graph query -q \"<KQL>\" --query \"data[].{col1:field1, col2:field2}\" -o table\n\n\n| Flag | Purpose |\n|------|---------|\n| `-q` | KQL query string |\n| `--query` | JMESPath to shape output columns |\n| `--first N` | Limit to N results |\n| `--subscriptions` | Scope to specific subscriptio",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "web",
+    "cli"
+  ]
+}

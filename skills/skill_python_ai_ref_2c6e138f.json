@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_2c6e138f",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# YARA-X Rule Testing\n\nTesting is non-negotiable. Untested rules cause alert fatigue (false positives) or missed detections (false negatives).\n\n## Testing Philosophy\n\nEvery rule needs three validation stages:\n\n1. **Positive validation** — Matches all target samples\n2. **Negative validation** — Zero matches on goodware\n3. **Edge case validation** — Handles variants, packed versions, fragments\n\n## Validation Workflow\n\n\n┌──────────────────────┐\n│ Write initial rule   │\n└──────────┬───────────┘",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

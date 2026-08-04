@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_bb96a1a3",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "rust",
+  "insight": "Converts VitePress/GFM wiki markdown to Azure DevOps Wiki-compatible format. Generates a Node.js build script that transforms Mermaid syntax, strips front matter, fixes links, and outputs ADO-compatible copies to dist/ado-wiki/.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

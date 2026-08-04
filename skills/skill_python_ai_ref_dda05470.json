@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_dda05470",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# azure-mgmt-fabric-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Update Capacity\n\npython\nfrom azure.mgmt.fabric.models import FabricCapacityUpdate, RpSku\n\nupdated = client.fabric_capacities.begin_update(\n    resource_group_name=resource_group,\n    capacity_name=capacity_name,\n    properties=FabricCapacityUpdate(\n        sku=RpSku(",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

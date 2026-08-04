@@ -1,0 +1,10 @@
+{
+  "id": "rust_systems_ref_977a7bd4",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Copy Editing Checklist\n\nUse this checklist alongside the Seven Sweeps Framework (see SKILL.md) as a final QA pass before delivering edited copy.\n\n## Before You Start\n\n- [ ] Understand the goal of this copy\n- [ ] Know the target audience\n- [ ] Identify the desired action\n- [ ] Read through once without editing\n\n## Clarity (Sweep 1)\n\n- [ ] Every sentence is immediately understandable\n- [ ] No jargon without explanation\n- [ ] Pronouns have clear references\n- [ ] No sentences trying to do too much",
+  "tags": [
+    "file"
+  ]
+}

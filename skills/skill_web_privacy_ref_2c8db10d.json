@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2c8db10d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Content Safety SDK for Java - Examples\n\nComprehensive code examples for the Azure AI Content Safety SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Analyzing Text Content](#analyzing-text-content)\n- [Analyzing Image Content](#analyzing-image-content)\n- [Handling Analysis Results](#handling-analysis-results)\n- [Blocklist Management](#blocklist-management)\n- [Async Client Patterns](#async-client-patterns)\n- [Error Hand",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

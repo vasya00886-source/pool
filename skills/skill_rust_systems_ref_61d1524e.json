@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_61d1524e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# PBT Libraries by Language\n\n## Quick Reference\n\n| Language | Library | Import/Setup |\n|----------|---------|--------------|\n| Python | Hypothesis | `from hypothesis import given, strategies as st` |\n| JavaScript/TypeScript | fast-check | `import fc from 'fast-check'` |\n| Rust | proptest | `use proptest::prelude::*` |\n| Go | rapid | `import \"pgregory.net/rapid\"` |\n| Java | jqwik | `@Property` annotations, `import net.jqwik.api.*` |\n| Scala | ScalaCheck | `import org.scalacheck._` |\n| C# | FsChec",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

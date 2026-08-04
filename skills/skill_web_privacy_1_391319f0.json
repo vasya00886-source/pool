@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_1_391319f0",
+  "category": "web_privacy",
+  "level": 1,
+  "language": "rust",
+  "insight": "Manage API inventory, metadata, and governance in Azure API Center.\npip install azure-mgmt-apicenter\npip install azure-identity\nAZURE_SUBSCRIPTION_ID=your-subscription-id  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

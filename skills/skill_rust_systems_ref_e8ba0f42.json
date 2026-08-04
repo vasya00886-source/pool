@@ -1,0 +1,11 @@
+{
+  "id": "rust_systems_ref_e8ba0f42",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# ASO Benchmarks & Conversion Data\n\nIndustry data from AppTweak, SplitMetrics, Sensor Tower, and others. Updated March 2026.\n\n## Conversion Rate Benchmarks by Category\n\n**Average CVR (page view to install):**\n\n- iOS overall: **25.0%**\n- Google Play overall: **27.3%**\n\n| Category          | iOS CVR        | Google Play CVR |\n| ----------------- | -------------- | --------------- |\n| Navigation        | 115%\\*         | --              |\n| Auto & Vehicles   | --             | 70.5%           |\n| B",
+  "tags": [
+    "data",
+    "testing"
+  ]
+}

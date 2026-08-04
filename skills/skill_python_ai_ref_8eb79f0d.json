@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_8eb79f0d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Hyperparameter Guide\n\n## SFT / DPO Core Parameters\n\n| Parameter | What it controls | Default | Typical range |\n|-----------|-----------------|---------|---------------|\n| **Epochs** | Passes through data | 2 | 1–5 |\n| **Learning rate multiplier** | Weight change aggressiveness | 1.0 | 0.1–2.0 |\n| **Batch size** | Examples per gradient step | Model-dependent | 4–32 |\n\n### Dataset Size vs Epochs\n\n| Dataset size | Recommended epochs |\n|-------------|-------------------|\n| < 100 examples | 3–5 |\n|",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

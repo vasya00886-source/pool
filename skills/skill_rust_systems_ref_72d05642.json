@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_72d05642",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# PoC Crafting Reference\n\n## Overview\n\nEach zeroize-audit finding is demonstrated with a bespoke proof-of-concept program\ncrafted from the finding details and the actual source code. PoCs are individually\nwritten, not generated from templates — they use the real function signatures,\nvariable names, types, and sizes from the audited codebase. Each PoC exits 0 if the\nsecret persists (exploitable) or 1 if the data was properly wiped (not exploitable).\n\n## Exit Code Convention\n\n| Exit code | Meaning",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

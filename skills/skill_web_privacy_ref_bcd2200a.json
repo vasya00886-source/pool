@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_bcd2200a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Hosted Tools Reference\n\nDetailed patterns for all hosted tools available in the Agent Framework.\n\n## HostedCodeInterpreterTool\n\nEnables agents to execute Python code on the Azure AI service.\n\n### Basic Usage\n\npython\nfrom agent_framework import HostedCodeInterpreterTool\nfrom agent_framework.azure import AzureAIAgentsProvider\nfrom azure.identity.aio import AzureCliCredential\n\nasync with (\n    AzureCliCredential() as credential,\n    AzureAIAgentsProvider(credential=credential) as provider,\n):",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

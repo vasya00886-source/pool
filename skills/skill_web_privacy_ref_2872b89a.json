@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_2872b89a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Remediation patterns\n\nUse these patterns when converting eval failures into concrete changes to agent instructions, manifest configuration, knowledge sources, or the eval dataset.\n\n## Before recommending changes\n\n1. Confirm the run reached the agent and evaluator model successfully.\n2. Separate setup failures from quality failures.\n3. Check whether the failed evaluator was configured for that item.\n4. Inspect prompt, expected response, actual response, and context for ambiguity or sensitive co",
+  "tags": [
+    "data"
+  ]
+}

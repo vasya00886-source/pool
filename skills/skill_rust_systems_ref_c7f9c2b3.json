@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_c7f9c2b3",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Solana Entry Point Detection\n\n## Entry Point Identification (State-Changing Only)\n\nIn Solana, most program instructions modify state. **Exclude** view-only patterns:\n- Instructions that only read account data without `mut` references\n- Pure computation functions that don't write to accounts\n\n### Native Solana Programs\nrust\n// Single entrypoint macro\nentrypoint!(process_instruction);\n\npub fn process_instruction(\n    program_id: &Pubkey,\n    accounts: &[AccountInfo],\n    instruction_data: &[u",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "file"
+  ]
+}

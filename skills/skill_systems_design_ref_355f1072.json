@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_355f1072",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# azure-ai-contentsafety-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Harm Categories\n\n| Category | Description |\n|----------|-------------|\n| `Hate` | Attacks based on identity (race, religion, gender, etc.) |\n| `Sexual` | Sexual content, relationships, anatomy |\n| `Violence` | Physical harm, weapons, injury |\n| `SelfHarm` | Self-injury, sui",
+  "tags": [
+    "automation",
+    "security",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

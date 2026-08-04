@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_00ba09c1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# ATK CLI and Deployment for M365 Agents\n\n## ATK CLI Overview\n\nThe Agents Toolkit (ATK) CLI is the official toolchain for M365 agent project management. It handles the complete agent lifecycle from creation to deployment.\n\n**Golden Rule:**\nCheck if ATK CLI is available (`npx -y --package @microsoft/m365agentstoolkit-cli atk --version`). If not found, **STOP and tell the user** that the ATK CLI is required but not installed. Do NOT attempt to install it yourself.\nThen use `npx -y --package @micro",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "devops_ref_1f85ea22",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Workflow\n\n## Mandatory Rules\n\n- You must execute the seven phases in sequential order. Follow the instructions precisely as defined. Do not continue to the next phase until the current phase is complete.\n- You must stop on all \"gate\" conditions and only continue when the conditions have been met.\n- Destructive actions require explicit user confirmation.\n- You must read each phase's reference file in full before executing it.\n- Never assume knowledge and cut corners or skip research steps.\n\n##",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

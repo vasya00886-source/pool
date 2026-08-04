@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_06bca4d5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboards, admin panels, or data-rich interfaces with a refined dark aesthetic.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

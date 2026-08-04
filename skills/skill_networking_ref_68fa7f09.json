@@ -1,0 +1,14 @@
+{
+  "id": "networking_ref_68fa7f09",
+  "category": "networking",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Guardrails and troubleshooting\n\nUse this reference before writing files, handling secrets, running state-changing commands, or diagnosing failures.\n\n## Safety rules\n\n1. Never print, commit, or summarize secret values from `.env.local.user`, `env\\.env.local.user`, `env\\.env.<environment>`, system environment variables, or terminal output.\n2. Treat prompts, agent responses, retrieved grounding data, HTML reports, CSV files, JSON results, and debug logs as potentially sensitive.\n3. Ask before ove",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

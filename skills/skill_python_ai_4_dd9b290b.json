@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_4_dd9b290b",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "Query logs and metrics from Azure Monitor and Log Analytics workspaces.\npip install azure-monitor-query\n# Log Analytics\nAZURE_LOG_ANALYTICS_WORKSPACE_ID=<workspace-id>  # Required for log queries",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

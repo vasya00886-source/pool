@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_a92610bf",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "Management plane SDK for provisioning and managing Azure Durable Task Scheduler resources via Azure Resource Manager.\n> **⚠️ Management vs Data Plane**\n> - **This SDK (Azure.ResourceManager.DurableTask)**: Create schedulers, task hubs, configure retention policies\n> - **Data Plane SDK (Microsoft.DurableTask.Client.AzureManaged)**: Start orchestrations, query instances, send events\ndotnet add package Azure.ResourceManager.DurableTask\ndotnet add package Azure.Identity",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

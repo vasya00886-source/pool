@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_37e2f3d2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "cli",
+    "file"
+  ]
+}

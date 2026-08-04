@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_a42c0495",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Deep Verification\n\nFull task-based verification for complex bugs. Use when routing from SKILL.md selects the deep path, or when standard verification escalates.\n\n## If Escalated from Standard\n\nWhen a bug escalates from standard verification:\n\n1. Review all evidence gathered during the standard pass — do not repeat completed work\n2. Identify which phases below are already satisfied by existing evidence\n3. Create tasks only for remaining phases, starting from where standard left off\n4. Preserve",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

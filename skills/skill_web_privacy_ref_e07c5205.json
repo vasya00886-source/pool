@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_e07c5205",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# First-Party Attribution — The Own-Your-Attribution Runbook\n\nHow to instrument and stitch attribution yourself when you control the site/app. This is the build track (Pillar B). It's distilled from real production builds and kept tool-agnostic — **PostHog + SavvyCal are the worked example**, but the pattern maps to any product-analytics tool with `identify()`/merge (Segment, Amplitude, GA4 user-id) and any third-party conversion domain with a metadata passthrough + webhook (Calendly, Cal.com, S",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

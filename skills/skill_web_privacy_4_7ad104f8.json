@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_7ad104f8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Safely analyzes and cleans up local git branches and worktrees by categorizing them as merged, squash-merged, superseded, or active work.",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

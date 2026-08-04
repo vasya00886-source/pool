@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_f86da8cf",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Enterprise messaging SDK for reliable message delivery with queues, topics, subscriptions, and sessions.\ndotnet add package Azure.Messaging.ServiceBus\ndotnet add package Azure.Identity\n**Current Version**: v7.20.1 (stable)",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "web"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_7c6877e1",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Vector C: CLI Data Fetch\n\nThe prompt instructs the AI agent to fetch attacker-controlled content at runtime using `gh` CLI commands. The prompt itself may contain no dangerous expressions or env vars with attacker data, but the AI is directed to pull attacker content from GitHub at execution time. This vector is invisible to static YAML analysis because the data fetch happens inside the AI agent's execution environment -- the workflow YAML looks clean.\n\n## Applicable Actions\n\n| Action | Applic",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

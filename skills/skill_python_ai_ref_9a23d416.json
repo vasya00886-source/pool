@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_9a23d416",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-monitor-opentelemetry-exporter-py capability coverage\n\n**SDK/package**: `azure-monitor-opentelemetry-exporter`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Trace Exporter`\n- `Metric Exporter`\n- `Log Exporter`\n- `From Environment Variable`\n\n## Non-hero scenarios\n\n- `Azure AD Authentication`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#azure-ad-",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

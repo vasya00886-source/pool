@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_26ab92ff",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "general",
+  "insight": "# Meta Optimization Loop\n\nUse this file when refining an existing prompt or when a first draft needs disciplined iteration.\n\n## Inputs\n\nCollect these before iterating:\n\n- current prompt or first draft\n- target model family\n- optimizer model, if different from the deployment model\n- representative eval cases\n- scoring rubric\n- known failures\n- hard constraints\n\n## Optimization loop\n\n### 1. Baseline\n\nRun the current prompt on a representative slice.\n\nScore at least:\n\n- instruction following\n- outp",
+  "tags": [
+    "performance",
+    "automation",
+    "testing",
+    "file"
+  ]
+}

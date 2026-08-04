@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_bb611538",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# KQL Query Reference\n\nEssential Kusto Query Language (KQL) queries for diagnosing Azure application issues.\n\n## Prerequisites\n\n- Application Insights or Log Analytics workspace configured\n- Diagnostic settings enabled on Azure resources\n\n---\n\n## Recent Errors\n\nkql\n// Recent errors\nAppExceptions\n| where TimeGenerated > ago(1h)\n| project TimeGenerated, Message, StackTrace\n| order by TimeGenerated desc\n\n\n## Failed Requests\n\nkql\n// Failed requests\nAppRequests\n| where Success == false\n| whe",
+  "tags": [
+    "data"
+  ]
+}

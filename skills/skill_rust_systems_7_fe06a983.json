@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_fe06a983",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services. Use when creating new skills or updating existing skills.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_c6fc50a8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Validation Rubric\n\nRun all 4 dimensions before writing `prepare-plan.json`. All must pass — a failure in any dimension triggers the [Error Handling](../SKILL.md#error-handling) procedures.\n\n## Dimensions\n\n| Dimension | Pass Criteria |\n|-----------|---------------|\n| **Goal Alignment** | Every `context.json.intent` field reflected in service/SKU choice. No orphaned services (every service maps to a component or supporting role). `overrides[]` honored. |\n| **WAF Alignment** | **Cost:** SKU match",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "docker"
+  ]
+}

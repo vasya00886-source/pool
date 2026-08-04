@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_1e82bea5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Hosted Session Management with azd\n\nUse azd to manage session-backed compute and filesystem state for Hosted Agents.\n\n## Automatic Session Handling\n\nFor `responses` and `invocations`, start with `azd ai agent invoke`. Do not create a session first unless the workflow needs a known session before invocation.\n\nWithin an azd project, azd resolves session state for a normal remote invoke in this order:\n\n1. Use and persist an explicit `--session-id`.\n2. Reuse the session saved for the agent endpoin",
+  "tags": [
+    "api",
+    "web",
+    "cli",
+    "file"
+  ]
+}

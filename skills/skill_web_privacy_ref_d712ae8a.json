@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d712ae8a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# VPN Gateway & DNS Private Resolver Setup\n\nPost-deployment add-on for private network templates (T10, T15–T19). Creates a point-to-site VPN Gateway and DNS Private Resolver so the user can connect from their dev machine and resolve private DNS zones.\n\n## Assumptions\n\n| Property | Value | Rationale |\n|----------|-------|-----------|\n| Auth | Microsoft Entra ID (AAD) only | No certificate management |\n| Tunnel | OpenVPN | Cross-platform, Azure VPN Client |\n| Gateway SKU | VpnGw1AZ | Zone-redundan",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

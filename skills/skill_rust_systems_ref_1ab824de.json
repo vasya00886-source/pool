@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_1ab824de",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Loop Orchestration & Rollout\n\nLoops aren't independent scripts — they compose into a marketing operating system. This reference covers how they fit together and the order to adopt them so you never build 43 at once.\n\n## The system view\n\nLoops fall into four layers. Data flows down and learnings flow back up.\n\n\nSENSING        analytics-anomaly · tracking-QA · weekly-marketing-review\n                  │  (detect what changed; trust the numbers first)\n                  ▼\nDIAGNOSTIC     per-sta",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

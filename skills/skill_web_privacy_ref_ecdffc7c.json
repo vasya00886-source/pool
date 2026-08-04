@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_ecdffc7c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Azure Authentication Best Practices\n\n> Source: [Microsoft — Passwordless connections for Azure services](https://learn.microsoft.com/azure/developer/intro/passwordless-overview) and [Azure Identity client libraries](https://learn.microsoft.com/dotnet/azure/sdk/authentication/).\n\n**Table of Contents:** [Golden Rule](#golden-rule) · [Authentication by Environment](#authentication-by-environment) · [Why Not DefaultAzureCredential in Production?](#why-not-defaultazurecredential-in-production) · [P",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "docker"
+  ]
+}

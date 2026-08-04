@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_508fce20",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Monitor Query SDK for Java - Examples\n\nComprehensive code examples for the Azure Monitor Query SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Querying Log Analytics](#querying-log-analytics)\n- [Querying Metrics](#querying-metrics)\n- [Batch Queries](#batch-queries)\n- [Handling Query Results](#handling-query-results)\n- [Time Ranges](#time-ranges)\n- [Async Client Patterns](#async-client-patterns)\n- [Error Handling](#error",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

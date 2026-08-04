@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_751920f7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Azure Cost Skill Reference\n\n## MCP Tools\n\n| Tool | Description | Parameters | When to Use |\n|------|-------------|------------|-------------|\n| `azure__documentation` | Search Azure documentation | `query` (Required): search terms | Research Cost Management API parameters and options |\n| `azure__extension_cli_generate` | Generate Azure CLI commands | `intent` (Required): task description, `cli-type` (Required): `\"az\"` | Construct `az rest` commands for cost queries |\n| `azure__get_azure_bestpr",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

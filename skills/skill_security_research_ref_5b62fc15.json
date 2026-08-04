@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_5b62fc15",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Important-Only Query Suite\n\nIn important-only mode, generate a custom `.qls` query suite file at runtime. This applies the same precision/severity filtering to **all** packs (official + third-party).\n\n## Why a Custom Suite\n\nThe built-in `security-extended` suite only applies to the official `codeql/<lang>-queries` pack. Third-party packs (Trail of Bits, Community Packs) run unfiltered when passed directly to `codeql database analyze`. A custom `.qls` suite loads queries from all packs and appl",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "file"
+  ]
+}

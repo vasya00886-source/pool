@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_e51c9d44",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure App Configuration, a managed service for centralizing application configurations.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-data-appconfiguration</artifactId>\n    <version>1.8.0</version>\n</dependency>\nOr use Azure SDK BOM:",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

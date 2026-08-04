@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_8059ca56",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "<overview>\n\nThe four primary traits (A, B, C, D) are the main drivers of behavior. The relationship BETWEEN dots is often more important than individual positions. All interpretations are relative to the red arrow (population mean).\n\n</overview>\n\n<trait name=\"A\" color=\"maroon\" label=\"Autonomy\">\n\nMeasures **mental initiative** (think and start on their own) and **inner self-confidence** (belief in self that they will win regardless of circumstance).\n\n<high_a side=\"right\">\n\n**Characteristics:**\n-",
+  "tags": [
+    "api",
+    "security",
+    "testing",
+    "file"
+  ]
+}

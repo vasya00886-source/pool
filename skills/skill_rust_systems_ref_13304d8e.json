@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_13304d8e",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Common Dimensions in DeFi\n\nThis document catalogs standard dimensional units used across DeFi protocols. While examples use Solidity syntax, the dimensional vocabulary is protocol-agnostic and applies equally to Rust (Anchor, CosmWasm), TypeScript, Python, or any other language implementing DeFi logic.\n\n## Universal Base Units\n\n### Token Amounts: `{tok}`\n\nRepresents a quantity of tokens.\n\nsolidity\nuint256 public totalSupply;      // {tok}\nuint256 public balanceOf;        // {tok}\nuint256 am",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

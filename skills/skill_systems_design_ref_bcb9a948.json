@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_ref_bcb9a948",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Output Formats\n\nDbgViewCli supports three output formats selectable via `--format <text|csv|xml>`.\n\n---\n\n## Text Format (Default)\n\nTab-separated fields written to stdout. This is the default when `--format text` or no format is specified.\n\n### Schema\n\n\n<sequence>\\t<timestamp>\\t[<pid>]\\t<message>\\n\n\n\n### Fields\n\n| Field | Description | Example |\n|-------|-------------|---------|\n| Sequence | Monotonically increasing line number | `1`, `2`, `3` |\n| Timestamp | Depends on `--elapsed`, `--cl",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

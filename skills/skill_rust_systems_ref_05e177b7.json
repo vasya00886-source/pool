@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_05e177b7",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Gemini CLI Invocation\n\n## Default Configuration\n\n- Model: `gemini-3.1-pro-preview`\n- Extensions: `code-review`, `gemini-cli-security`\n\n## Key Flags\n\n| Flag | Purpose |\n|------|---------|\n| `-p <prompt>` | Non-interactive (headless) mode |\n| `--yolo` / `-y` | Auto-approve all tool calls |\n| `-m <model>` | Model selection |\n| `-e <ext>` | Load specific extension(s) |\n\n## Scope-to-Diff Mapping\n\nGemini does not have built-in scope flags like Codex. Map the\nuser's scope choice to the correct `git d",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

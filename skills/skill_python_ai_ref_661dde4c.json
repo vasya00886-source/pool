@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_661dde4c",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Workspace Detection & Gate Rules\n\nThis document contains detailed rules for workspace detection, gate scenarios, and error handling behavior.\n\n---\n\n## 🚨 CRITICAL — Read Before Anything Else\n\n**The #1 eval failure pattern is creating files that should not exist.** These rules are HARD BLOCKS:\n\n1. **If `declarativeAgent.json` does NOT exist and the user asked to edit/modify/add/deploy → REJECT.** Respond with text only. Do NOT create the file. Do NOT create `appPackage/`. Do NOT look at other di",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

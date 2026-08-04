@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_a94e8876",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET). Use when managing Arize AI organizations \\non Azure via Azure Marketplace, creating/updating/deleting Arize resources, or integrating Arize ML observability \\ninto .NET applications. Triggers: \\\"Arize AI\\\", \\\"ML observability\\\", \\\"ArizeAIObservabilityEval\\\", \\\"Arize organization\\\".\\n",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

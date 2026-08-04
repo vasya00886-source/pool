@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_1_4ce23bd1",
+  "category": "web_privacy",
+  "level": 1,
+  "language": "rust",
+  "insight": "Client library for Azure AI Transcription (speech-to-text) with real-time and batch transcription.\npip install azure-ai-transcription\nTRANSCRIPTION_ENDPOINT=https://<resource>.cognitiveservices.azure.com\nTRANSCRIPTION_KEY=<your-key>  # For key auth; not needed when using DefaultAzureCredential/TokenCredential",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

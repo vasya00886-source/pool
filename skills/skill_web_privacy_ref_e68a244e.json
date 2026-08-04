@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_e68a244e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Query Patterns Reference\n\nAdvanced query patterns for Azure Cosmos DB using the @azure/cosmos TypeScript SDK.\n\n## Overview\n\nCosmos DB supports SQL-like queries with support for JSON documents. This reference covers parameterized queries, pagination, cross-partition queries, and advanced query patterns.\n\n## SqlQuerySpec Interface\n\ntypescript\nimport { SqlQuerySpec, SqlParameter } from \"@azure/cosmos\";\n\ninterface SqlQuerySpec {\n  /** SQL query text */\n  query: string;\n  /** Array of parameters",
+  "tags": [
+    "performance",
+    "automation",
+    "docker"
+  ]
+}

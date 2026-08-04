@@ -1,0 +1,14 @@
+{
+  "id": "databases_4_ff8fb45d",
+  "category": "databases",
+  "level": 4,
+  "language": "rust",
+  "insight": "Azure Resource Manager SDK for managing PostgreSQL Flexible Server deployments.\ndotnet add package Azure.ResourceManager.PostgreSql\ndotnet add package Azure.Identity\n**Current Version**: v1.2.0 (GA)  \n**API Version**: 2023-12-01-preview",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

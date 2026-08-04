@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_f21ef94c",
+  "category": "databases",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Advanced KQL Patterns\n\nReference for specialized KQL features: graph queries, vector similarity, geospatial operations, time series, and external data. Consult this when a task requires these capabilities.\n\n> **Try it yourself**: Examples marked with `// try it!` can be run on the public help cluster:\n> `https://help.kusto.windows.net`, database `Samples`.\n\n## Table of Contents\n\n1. [Graph Queries](#1-graph-queries)\n2. [Vector Similarity](#2-vector-similarity)\n3. [Geospatial Operations](#3-geos",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

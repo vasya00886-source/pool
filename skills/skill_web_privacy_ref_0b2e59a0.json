@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0b2e59a0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Credential Types Reference\n\nAzure Identity credential types for authenticating to Azure services using the @azure/identity TypeScript SDK.\n\n## Overview\n\nThe Azure Identity library provides various credential classes for different authentication scenarios. Choose the right credential based on your environment and security requirements.\n\n## Credential Selection Guide\n\n| Scenario | Recommended Credential |\n|----------|------------------------|\n| Production (any environment) | `DefaultAzureCredent",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "web",
+    "cli"
+  ]
+}

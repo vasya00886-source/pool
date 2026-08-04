@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_fa5add16",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Security Properties in ProVerif\n\nA guide to choosing and expressing the right security queries for a given\nMermaid sequence diagram.\n\n---\n\n## Decision Tree: Which Queries to Include\n\n\nStart here for every protocol\n│\n├─ Does the protocol establish a shared key?\n│  └─ YES → Add secrecy query for that key\n│\n├─ Does a party verify the peer's identity (Verify/MAC check)?\n│  └─ YES → Add authentication queries (both directions if mutual auth)\n│     ├─ Does the verification cover a fresh session v",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

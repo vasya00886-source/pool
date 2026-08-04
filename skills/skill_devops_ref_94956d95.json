@@ -1,0 +1,13 @@
+{
+  "id": "devops_ref_94956d95",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Declarative Routines\n\nThe routines extension registers a service target so routines can live in source control and be upserted by `azd up` / `azd deploy`. Declare each routine as a service with `host: azure.ai.routine`: the **service key is the routine name**, and the keys under it bind directly to the routine model.\n\nyaml\n# azure.yaml\nservices:\n  my-agent:\n    host: azure.ai.agent\n    # ... agent service block ...\n\n  daily-digest:                 # service key = routine name\n    host: azur",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

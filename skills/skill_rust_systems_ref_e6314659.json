@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_e6314659",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Claude Hook-Backed Skills\n\nLoad this when the skill uses Claude Code hooks for deterministic enforcement around tool or lifecycle events.\n\n## Use this file for\n\n- pre-tool validation for risky commands\n- post-edit formatting or linting\n- scoped guardrails around specific tool events\n\n## Required contract\n\n1. Narrow event and matcher scope.\n2. Explicit side-effect boundaries.\n3. Fallback behavior when hooks are unavailable.\n4. Security note for shell execution, path handling, and sensitive file",
+  "tags": [
+    "automation",
+    "security",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

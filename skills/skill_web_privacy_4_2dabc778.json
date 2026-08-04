@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_2dabc778",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Authentication library for Azure SDK clients using Microsoft Entra ID.\ndotnet add package Azure.Identity\nAZURE_CLIENT_ID=<application-client-id>\nAZURE_TENANT_ID=<directory-tenant-id>\nAZURE_CLIENT_SECRET=<client-secret-value>",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "testing",
+    "web"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_e60346df",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Orchestrator-Workers\n\nUse this workflow when the subtasks are not known ahead of time and must be discovered from the input.\n\n## Choose this workflow when\n\n- the orchestrator must discover work units dynamically\n- each unit can be delegated to a stable worker contract\n- a final synthesis step can merge the results\n\n## Required contract\n\n1. Worker-task schema.\n2. Worker output schema.\n3. Expansion limit or stopping rule.\n4. Final synthesis rule.\n\n## Example\n\nmarkdown\n1. Inspect the request a",
+  "tags": [
+    "file"
+  ]
+}

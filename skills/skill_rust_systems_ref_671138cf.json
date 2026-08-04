@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_671138cf",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Constant-Time Analysis: Compiled Languages\n\nAnalysis guidance for C, C++, Go, and Rust. These languages compile to native assembly, where timing side-channels are detected by scanning for variable-time CPU instructions.\n\n## Running the Analyzer\n\nbash\n# C/C++ (default: clang, native architecture)\nuv run {baseDir}/ct_analyzer/analyzer.py crypto.c\n\n# Go\nuv run {baseDir}/ct_analyzer/analyzer.py crypto.go\n\n# Rust\nuv run {baseDir}/ct_analyzer/analyzer.py crypto.rs\n\n# Cross-architecture testing (R",
+  "tags": [
+    "performance",
+    "security",
+    "testing"
+  ]
+}

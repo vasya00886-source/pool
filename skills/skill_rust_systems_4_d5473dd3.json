@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_d5473dd3",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Secure storage for passwords, API keys, and connection strings.\nUse this skill when:\n- An app needs to store or retrieve secrets from Azure Key Vault in Rust\n- You need to set, get, update, or delete secrets\n- You need to list secret properties with pagination\n- You need error handling for missing secrets",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

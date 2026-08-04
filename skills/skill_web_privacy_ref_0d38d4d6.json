@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0d38d4d6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Deploy Safety\n\nHook-based safety rules for the deploy phase. Block destructive operations.\n\n## deploy-result.json Skeleton\n\nCreated by scaffold validate sub-agent. If missing at deploy Step 5b, create from [`deploy-schemas.ts`](deploy-schemas.ts) with `status: \"in-progress\"`. Append to `deploymentNames[]` on each healing retry.\n\n## Deploy Checklist (compaction-safe — generated at Step 5b)\n\n> ⛔ **You MUST read [`deploy-checklist-template.md`](deploy-checklist-template.md)** at Step 5b to genera",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "web"
+  ]
+}

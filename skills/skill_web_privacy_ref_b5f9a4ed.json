@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_b5f9a4ed",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Copilot Widget Protocol\n\nLanguage-agnostic protocol requirements for MCP servers that render widgets in Microsoft 365 Copilot Chat. This document describes **what** your server must implement, regardless of programming language. For a complete TypeScript reference implementation, see [mcp-server-pattern.md](mcp-server-pattern.md).\n\n## Table of Contents\n- [Transport: Streamable HTTP](#transport-streamable-http)\n- [CORS Configuration](#cors-configuration)\n- [Server Capabilities](#server-capabili",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

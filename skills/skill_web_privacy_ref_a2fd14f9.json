@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a2fd14f9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# International SEO: Evidence & Sources\n\nDetailed evidence backing the International SEO & Localization section of the SEO Audit skill. Organized by topic with source URLs and key quotes.\n\n---\n\n## Hreflang\n\n### Placement Methods\n\nGoogle supports three equivalent methods: HTML `<link>` in `<head>`, HTTP `Link` headers, and XML sitemap `<xhtml:link>` elements. Google confirmed no method is prioritized over another.\n\nGoogle combines signals from both HTML and sitemaps. If the same language-region p",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

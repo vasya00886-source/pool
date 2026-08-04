@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_d868dc98",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# WAF Cross-Cutting Checklist\n\nWalk through every row and decide if resources or properties are needed.\n\n| Concern | Question | Resources / Properties to Add |\n|---------|----------|-------------------------------|\n| Identity | How do services authenticate to each other? | Managed identity, RBAC role assignments |\n| Secrets | Are there connection strings, API keys, credentials? | Key Vault with RBAC authorization, soft-delete, and purge protection enabled |\n| Monitoring | How will operators obse",
+  "tags": [
+    "api",
+    "data",
+    "docker"
+  ]
+}

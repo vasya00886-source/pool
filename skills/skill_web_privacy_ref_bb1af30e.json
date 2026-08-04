@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_bb1af30e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Output schema reference\n\nThe current `runevals --output <file>` JSON output is schema-compatible with the eval document format. It is not the older `{ \"summary\": ..., \"results\": [...] }` shape.\n\nUse `references\\output-schema.json` for a compact validation-oriented schema and `references\\prompts-schema.json` for the full package schema.\n\n## JSON output\n\nTypical JSON output:\n\njson\n{\n  \"schemaVersion\": \"1.2.0\",\n  \"metadata\": {\n    \"evaluatedAt\": \"2025-01-01T00:00:00Z\",\n    \"agentId\": \"00000000",
+  "tags": [
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

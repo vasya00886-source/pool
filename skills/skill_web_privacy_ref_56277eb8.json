@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_56277eb8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "<aside>\n💡\n\n**Try to be concise with answers**\n\nEach project submission has to be reduced to around 400 words\n\n</aside>\n\n# Project Description\n\n<aside>\n👉\n\nFill this in with a brief, general description of the project\n\n</aside>\n\n## Project Goals\n\n<aside>\n👉\n\nList the goals of the project. Why are we investing in this, what does it provide Sentry or the broader industry?\n\n</aside>\n\n# Technical Uncertainties\n\n<aside>\n👉\n\nDuplicate the toggle header for each uncertainty this project contained and fill",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

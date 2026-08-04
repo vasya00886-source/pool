@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_dca9a5a9",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Dunning Playbook\n\nComplete guide to recovering failed payments and reducing involuntary churn.\n\n---\n\n## Why Dunning Matters\n\n- Failed payments cause 30-50% of all subscription churn\n- Most failed payments are recoverable with the right strategy\n- Subscription businesses lose an estimated $129 billion annually to involuntary churn\n- Effective dunning recovers 50-60% of failed payments\n\n---\n\n## The Dunning Timeline\n\n\nDay -30 to -7: Pre-dunning (prevent failures)\nDay 0:         Payment fails →",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

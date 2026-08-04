@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_46b9bc1d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# IaC Patching — Bicep\n\n## When to Use\n\nUse this reference when the user chooses **\"Patch my IaC\"** instead of \"Fix now\" (CLI).\nThis patches Bicep files in the project's `infra/` folder so reliability settings persist across `azd up`.\n\n## Detection\n\n1. Look for `infra/` folder in the project root\n2. Check for `*.bicep` files (especially `main.bicep`, `main.parameters.json`)\n3. Confirm with user: \"I found Bicep files in `infra/`. Want me to patch them for reliability?\"\n\n## File Discovery\n\nSearch",
+  "tags": [
+    "security",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

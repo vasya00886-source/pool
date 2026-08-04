@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c99b9e41",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# ASO Scoring Criteria\n\nScore each dimension 0-10 using the rubrics below.\n**Apply brand maturity tier adjustments** from Phase 1.5 of the main skill.\n\n---\n\n## Brand Maturity Adjustments (apply to all dimensions)\n\nBefore scoring, determine the app's tier: **Dominant**, **Established**, or **Challenger**.\n\n**Dominant apps (Instagram, Uber, Spotify, WhatsApp, Netflix):**\n\n- Brand-only titles score 8+ (the brand IS the keyword)\n- Lifestyle/brand screenshots score same as captioned UI screenshots\n-",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "web",
+    "cli"
+  ]
+}

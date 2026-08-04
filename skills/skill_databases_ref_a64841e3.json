@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_a64841e3",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# Query Patterns Reference\n\nAdvanced query patterns for Azure Cosmos DB NoSQL API.\n\n## Parameterized Queries\n\nAlways use parameters to prevent injection and enable query plan caching:\n\npython\n# GOOD: Parameterized query\nquery = \"SELECT * FROM c WHERE c.category = @category AND c.price < @max_price\"\nitems = container.query_items(\n    query=query,\n    parameters=[\n        {\"name\": \"@category\", \"value\": \"electronics\"},\n        {\"name\": \"@max_price\", \"value\": 500}\n    ],\n    partition_key=\"electr",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

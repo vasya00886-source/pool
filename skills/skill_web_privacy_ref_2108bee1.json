@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2108bee1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Google Tag Manager Implementation Reference\n\nDetailed guide for implementing tracking via Google Tag Manager.\n\n## Contents\n- Container Structure (tags, triggers, variables)\n- Naming Conventions\n- Data Layer Patterns\n- Common Tag Configurations (GA4 configuration tag, GA4 event tag, Facebook pixel)\n- Preview and Debug\n- Workspaces and Versioning\n- Consent Management\n- Advanced Patterns (tag sequencing, exception handling, custom JavaScript variables)\n\n## Container Structure\n\n### Tags\n\nTags are",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

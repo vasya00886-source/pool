@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_4eecffcb",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Codex CLI Invocation\n\n## Default Configuration\n\n- Model: `gpt-5.5`\n- Reasoning effort: `xhigh`\n\n## Approach\n\nUse `codex exec` in headless mode with the published code review\nprompt, structured JSON output, and `-o` (`--output-last-message`)\nto capture only the final review. This avoids the verbose\n`[thinking]` and `[exec]` blocks that `codex review` dumps to\nstdout.\n\n## Review Prompt\n\nUse this prompt verbatim — it is from OpenAI's [Build Code Review\nwith the Codex SDK](https://developers.opena",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

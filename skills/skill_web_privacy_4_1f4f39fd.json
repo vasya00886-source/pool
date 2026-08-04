@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_1f4f39fd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for sending custom logs to Azure Monitor using the Logs Ingestion API via Data Collection Rules.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-monitor-ingestion</artifactId>\n    <version>1.2.11</version>\n</dependency>\nOr use Azure SDK BOM:",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

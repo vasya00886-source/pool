@@ -1,0 +1,14 @@
+{
+  "id": "security_research_3_ea1686b4",
+  "category": "security_research",
+  "level": 3,
+  "language": "general",
+  "insight": "Scans Android APKs for Firebase security misconfigurations including open databases, storage buckets, authentication issues, and exposed cloud functions. Use when analyzing APK files for Firebase vulnerabilities, performing mobile app security audits, or testing Firebase endpoint security. For authorized security research only.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

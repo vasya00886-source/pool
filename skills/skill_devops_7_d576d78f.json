@@ -1,0 +1,14 @@
+{
+  "id": "devops_7_d576d78f",
+  "category": "devops",
+  "level": 7,
+  "language": "python",
+  "insight": "Generate deployment-ready infrastructure code from an architecture plan, verify it with adversarial self-review, and bridge to validation — all without deploying.\n| Property | Value |\n|----------|-------|\n| Parent | [azure-app-onboard](../SKILL.md) |\n| Best for | Turning prepare-plan.json service list into Bicep templates with secure-by-default patterns |\n| Inputs | prepare-plan.json (services, naming, quotas), context.json (overrides, components, repo info) |\n| Outputs | `scaffold-manifest...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

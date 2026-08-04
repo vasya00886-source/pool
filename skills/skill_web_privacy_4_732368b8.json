@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_732368b8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "java",
+  "insight": "Build content moderation applications with Azure AI Content Safety SDK for Java. Use when implementing text/image analysis, blocklist management, or harm detection for hate, violence, sexual content, and self-harm.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

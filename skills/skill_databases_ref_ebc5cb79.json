@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_ebc5cb79",
+  "category": "databases",
+  "level": 4,
+  "language": "python",
+  "insight": "# Database Post-Deploy Verification\n\nRun schema migrations on AppOnboard-created databases (listed in `prepare-plan.json.services[]`) before health checks. The app must be running first — if it's crashing, fix that before attempting migrations.\n\n## Create App Database (if needed)\n\n> ⛔ **Azure PostgreSQL/MySQL Flexible Server only creates the system `postgres`/`mysql` database by default.** If the app's config references a named database (e.g., `car_sale_db`, `myapp_production`), create it BEFORE",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "docker",
+    "web"
+  ]
+}

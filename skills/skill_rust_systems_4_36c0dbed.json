@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_4_36c0dbed",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "Secure storage and management of cryptographic keys — RSA, EC, and HSM-protected.\nUse this skill when:\n- An app needs to create or manage cryptographic keys in Key Vault from Rust\n- You need to wrap/unwrap data encryption keys (envelope encryption)\n- You need to sign or verify data with Key Vault keys\n- You need HSM-protected keys",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

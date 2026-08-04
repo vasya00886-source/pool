@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a65391e1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Deploy Checklist Template (compaction-safe — generated at Step 5b)\n\nLong-running deploy sessions lose rules when the conversation compacts. At Step 5b, generate a checklist file tailored to this deployment. Write it to disk so it survives compaction — re-reading costs ~100 tokens.\n\n**Write** to `.copilot-azure/sessions/{id}/deploy-checklist.md` using the `create` tool at Step 5b.\n**Re-read** via `view` after every long-running command (`az deployment`, `az webapp deploy`, `az acr build`), afte",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

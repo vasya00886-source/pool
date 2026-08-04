@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_b61d7bf4",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Pronunciation Assessment\n\nEvaluate pronunciation quality of speech input using the REST API for short audio.\n\n## Limitations\n\n- Maximum 30 seconds of audio (vs 60 seconds for regular transcription)\n- Requires reference text to compare against\n\n## Headers\n\nAdd the `Pronunciation-Assessment` header with Base64-encoded JSON parameters:\n\npython\nimport base64\nimport json\nimport os\nimport requests\n\ndef transcribe_with_pronunciation_assessment(\n    audio_file_path: str,\n    reference_text: str,",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_7ada41be",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# azure-mgmt-apimanagement-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Create Product\n\npython\nfrom azure.mgmt.apimanagement.models import ProductContract\n\nproduct = client.product.create_or_update(\n    resource_group_name=\"my-resource-group\",\n    service_name=\"my-apim\",\n    product_id=\"premium\",\n    parameters=ProductContract(\n        dis",
+  "tags": [
+    "api",
+    "automation",
+    "cli",
+    "file"
+  ]
+}

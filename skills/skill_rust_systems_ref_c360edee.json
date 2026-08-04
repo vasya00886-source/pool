@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_c360edee",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Optimization Strategies\n\nApply these strategies **before** running a campaign when Phase 3 of the configuration workflow requires optimization (estimated >16 hours or user requests).\n\n---\n\n## Priority 1: Verify Target Selection\n\n**Most common issue:** Mutating non-source code.\n\n**Diagnostic:**\n\nbash\nmewt print config     # Check [targets] include/ignore\nmewt print targets    # Check what was actually mutated\n\n\n**Look for unintended files:**\n- Mocks: `src/mocks/`, `__mocks__/`\n- Tests: `*",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

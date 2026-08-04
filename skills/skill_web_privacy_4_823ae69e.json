@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_823ae69e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

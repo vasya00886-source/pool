@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_3a174718",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Real-time, bidirectional voice conversations with AI assistants using WebSocket technology.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-ai-voicelive</artifactId>\n    <version>1.0.0-beta.2</version>\n</dependency>\nAZURE_VOICELIVE_ENDPOINT=https://<resource>.openai.azure.com/ # Required for all auth methods\nAZURE_VOICELIVE_API_KEY=<your-api-key> # Only required for AzureKeyCredential auth\nAZURE_TOKEN_CREDENTIALS=prod  # Required only if DefaultAzureCredentia...",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

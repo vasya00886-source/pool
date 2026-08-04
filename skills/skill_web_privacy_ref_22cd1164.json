@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_22cd1164",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Methodology — How a Marketing Plan Gets Made\n\nThe three-phase workflow that produces a comprehensive marketing plan. SKILL.md is the orchestration layer; this is the operational detail.\n\n## Phase 1 — INIT (research + intake)\n\n**Goal:** Walk into Phase 2 with enough context to draft every section without guessing.\n\n### Step 1.1 — Set up the plan folder\n\nCanonical file layout for every plan:\n\n\n~/marketing-plans/{client-slug}/\n├── materials/         # Client-provided files (decks, audit output",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

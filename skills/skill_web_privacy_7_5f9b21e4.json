@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_5f9b21e4",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Wycheproof is an extensive collection of test vectors designed to verify the correctness of cryptographic implementations and test against known attacks. Originally developed by Google, it is now a community-managed project where contributors can add test vectors for specific cryptographic constructions.\n| Concept | Description |\n|---------|-------------|\n| Test vector | Input/output pair for validating crypto implementation correctness |\n| Test group | Collection of test vectors sharing attribu",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

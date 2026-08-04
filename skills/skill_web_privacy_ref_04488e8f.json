@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_04488e8f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Configure Zone Redundancy — Platform Notes\n\n## Storage redundancy is part of the same fix — discover it now, migrate it later\n\nZone-redundant compute backed by LRS/GRS storage still suffers downtime in a zone failure, so the storage SKU **must** be assessed alongside compute. However, do **not** block the compute fix on a storage migration — they happen in separate steps.\n\n**Required order (matches the parent skill's [Configuration Workflow](../SKILL.md#configuration-workflow)):**\n\n1. **Discov",
+  "tags": [
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_5a683b90",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "c",
+  "insight": "Ruzzy is a coverage-guided fuzzer for Ruby built on libFuzzer. It enables fuzzing both pure Ruby code and Ruby C extensions with sanitizer support for detecting memory corruption and undefined behavior.\nRuzzy is currently the only production-ready coverage-guided fuzzer for Ruby.\n**Choose Ruzzy when:**\n- Fuzzing Ruby applications or libraries\n- Testing Ruby C extensions for memory safety issues\n- You need coverage-guided fuzzing for Ruby code\n- Working with Ruby gems that have native extensions",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

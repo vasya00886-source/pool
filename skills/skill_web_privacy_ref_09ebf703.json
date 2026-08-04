@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_09ebf703",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Session Protocol — Step 1\n\n## All Prompts Are Actionable\n\n> ⛔ **ALL prompts that activate this skill are actionable — go directly to Step 1.** Do NOT answer the user's question, give an overview of capabilities, or describe what AppOnboard can do before starting the pipeline. \"Can Azure figure out my app?\" and \"Deploy my app\" are the same action: Step 1 → Step 2 → scan. The user's phrasing (question vs command) does NOT change the workflow.\n\n## Session Check\n\nResolve active session via pointer",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

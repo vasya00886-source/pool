@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_366f1ec1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure AI Voice Live SDK - API Reference\n\n## Table of Contents\n- [connect() Function](#connect-function)\n- [VoiceLiveConnection](#voiceliveconnection)\n- [SessionResource](#sessionresource)\n- [ResponseResource](#responseresource)\n- [InputAudioBufferResource](#inputaudiobufferresource)\n- [OutputAudioBufferResource](#outputaudiobufferresource)\n- [ConversationResource](#conversationresource)\n- [TranscriptionSessionResource](#transcriptionsessionresource)\n- [WebsocketConnectionOptions](#websocketcon",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

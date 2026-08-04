@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6fa94163",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# MCP Plugin Schema\n\nmcpPlugin.json configuration for M365 Copilot declarative agents.\n\n> **Naming note:** The property key for tool definitions in the runtime spec is `mcp_tool_description`. Older documentation may reference `x-mcp_tool_description` with the `x-` prefix — this older form is no longer supported and can cause MCP agent provisioning failures. Always use `mcp_tool_description` (without `x-`) in new configurations.\n\n## ⚠️ CRITICAL: Use MCP Inspector ⚠️\n\n**NEVER manually write tool d",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

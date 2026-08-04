@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_d1521622",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Vyper Entry Point Detection\n\n## Entry Point Identification (State-Changing Only)\n\n### Include: State-Changing Functions\nvyper\n@external                    # State-changing entry point\ndef function_name():\n    pass\n\n@external\n@payable                     # State-changing, receives ETH\ndef payable_function():\n    pass\n\n@external\n@nonreentrant(\"lock\")        # State-changing with reentrancy protection\ndef protected():\n    pass\n\n\n### Exclude: Read-Only Functions\nvyper\n@external\n@view",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "file"
+  ]
+}

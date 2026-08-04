@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_ecda4319",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure Cosmos DB NoSQL API with global distribution and reactive patterns.\n<dependency>\n    <groupId>com.azure</groupId>\n    <artifactId>azure-cosmos</artifactId>\n    <version>LATEST</version>\n</dependency>\nOr use Azure SDK BOM:",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

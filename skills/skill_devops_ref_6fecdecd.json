@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_6fecdecd",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Bicep — Static Web Apps Patterns\n\nSWA-specific Bicep patterns. For shared patterns (skeleton, naming, tags, security defaults, data modules), see [bicep-patterns.md](bicep-patterns.md).\n\n## Module Template\n\nSWA modules for token-based deploys (no GitHub CI/CD):\n\nbicep\nresource staticWebApp 'Microsoft.Web/staticSites@2023-12-01' = {\n  name: swaName\n  location: location\n  tags: tags\n  sku: { name: 'Free', tier: 'Free' }\n  properties: {} // ⛔ MUST be empty — no repositoryUrl, no branch, no bui",
+  "tags": [
+    "security",
+    "data",
+    "web"
+  ]
+}

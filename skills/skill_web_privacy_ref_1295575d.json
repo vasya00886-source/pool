@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1295575d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Navigation Patterns\n\nDetailed navigation patterns for different site types and contexts.\n\n---\n\n## Header Navigation\n\n### Simple Header (4-6 items)\n\nBest for: small businesses, simple SaaS, portfolios.\n\n\n[Logo]   Features   Pricing   Blog   About   [CTA Button]\n\n\nRules:\n- Logo always links to homepage\n- CTA button is rightmost, visually distinct (filled button, contrasting color)\n- Items ordered by priority (most visited first)\n- Active page gets visual indicator (underline, bold, color)",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

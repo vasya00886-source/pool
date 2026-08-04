@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_faf551bb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Function Calling Reference\n\nTool definitions and function call handling patterns for Azure AI Voice Live using the @azure/ai-voicelive TypeScript SDK.\n\n## Overview\n\nVoice Live supports function calling (tools) that allow the voice assistant to execute actions and retrieve information during a conversation. This reference covers tool definitions, handling function call events, and sending function results.\n\n## Tool Definition Schema\n\nTools are defined using JSON Schema in the session configurat",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

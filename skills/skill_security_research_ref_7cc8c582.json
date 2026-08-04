@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_7cc8c582",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Scan Modes Reference\n\n## Mode: Run All\n\nFull scan with all rulesets and severity levels. Current default behavior. No filtering applied — all findings are reported and triaged.\n\n## Mode: Important Only\n\nFocused on high-confidence security vulnerabilities. Excludes code quality, best practices, and low-confidence audit findings.\n\n### Pre-Filter: CLI Severity Flag\n\nAdd these flags to every `semgrep` command:\n\nbash\n--severity MEDIUM --severity HIGH --severity CRITICAL\n\n\nThis excludes LOW/IN",
+  "tags": [
+    "performance",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_9ff8632a",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-storage-file-share-py capability coverage\n\n**SDK/package**: `azure-storage-file-share`\n\nThis index maps hero scenarios in `SKILL.md` and links non-hero scenarios documented in dedicated reference files.\n\n## Hero scenarios covered in SKILL.md\n\n- `Share Operations`\n- `Directory Operations`\n- `File Operations`\n- `Range Operations`\n\n## Non-hero scenarios\n\n- `Snapshot Operations`: Dedicated example and implementation notes.  \n  See: [`non-hero-scenarios.md#snapshot-operations`](non-hero-scena",
+  "tags": [
+    "api",
+    "cli",
+    "file"
+  ]
+}

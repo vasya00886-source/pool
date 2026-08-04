@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_1da4834d",
+  "category": "security_research",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# EMM Enable Flow (Portal)\n\nStep-by-step guide for enabling Essential Machine Management through the Azure portal UI.\n\n## Quick Reference\n\n| Property | Value |\n| -------- | ----- |\n| Portal blade | `EnableMachineManagement.ReactView` |\n| Extension | `Microsoft_Azure_Computehub` |\n| Portal path | Compute infrastructure → Monitoring+Operations → Essential Machine Management → Enable |\n| Resource type | `Microsoft.ManagedOps/ManagedOps` |\n\n## Enable Flow Steps\n\nThe portal enable flow is a multi-tab",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

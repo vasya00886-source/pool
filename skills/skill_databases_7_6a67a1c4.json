@@ -1,0 +1,14 @@
+{
+  "id": "databases_7_6a67a1c4",
+  "category": "databases",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure Cosmos DB NoSQL API — globally distributed, multi-model database.\npip install azure-cosmos azure-identity\nCOSMOS_ENDPOINT=https://<account>.documents.azure.com:443/  # Required for all auth methods\nCOSMOS_DATABASE=mydb  # Required for all auth methods\nCOSMOS_CONTAINER=mycontainer  # Required for all auth methods\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

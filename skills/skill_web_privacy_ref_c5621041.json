@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c5621041",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Driver IOCTLs and Buffer Formats\n\nReference documentation for the Dbgv.sys kernel driver interface used by DbgViewCli.\n\n---\n\n## Device Identity\n\n| Property | Value |\n|----------|-------|\n| Device Type | `FILE_DEVICE_DBGMON` (`0x00008305`) |\n| Driver File | `Dbgv.sys` |\n| Service Name | `DBGV` |\n| Registry Key | `HKLM\\System\\CurrentControlSet\\Services\\Dbgv` |\n| Version | `0x320` |\n\n---\n\n## IOCTL Commands\n\nAll IOCTLs use `CTL_CODE(FILE_DEVICE_DBGMON, function, method, access)`.\n\n| IOCTL Name | F",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

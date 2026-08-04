@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2c459e0b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# azd ai CLI Reference\n\nCore mental model for the `azd ai agent` extension. Use this when you need to understand command surface, file layout, or where a given setting lives.\n\n## CLI surface\n\nbash\nazd ai project show                  # which Foundry project endpoint is active\nazd ai agent show                    # is the agent deployed? what version?\nazd ai agent doctor                  # full health check, suggests fixes\n\nazd ai agent sample list             # curated catalog -- pick a manif",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

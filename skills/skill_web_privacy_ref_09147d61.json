@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_09147d61",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Error Handling and Reliability\n\nComprehensive error handling patterns for @azure/service-bus.\n\n## ServiceBusError\n\nAll Service Bus errors extend `ServiceBusError` with a `code` property:\n\ntypescript\nimport { ServiceBusError } from \"@azure/service-bus\";\n\ntry {\n  await sender.sendMessages(message);\n} catch (error) {\n  if (error instanceof ServiceBusError) {\n    console.log(`Code: ${error.code}`);\n    console.log(`Message: ${error.message}`);\n    console.log(`Retryable: ${error.retryable}`);",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

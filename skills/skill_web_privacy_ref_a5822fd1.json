@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a5822fd1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Mission-Critical Architecture on Azure\n\nGuidance for designing mission-critical workloads on Azure that prioritize cloud-native capabilities to maximize reliability and operational effectiveness.\n\n**Target SLO:** **99.99%** or higher — permitted annual downtime: **52 minutes 35 seconds**.\n\nAll encompassed design decisions are intended to accomplish this target SLO.\n\n| SLO Target | Permitted Annual Downtime | Typical Use Case |\n|---|---|---|\n| 99.9% | 8 hours 45 minutes | Standard business apps",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

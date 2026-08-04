@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_8abea9fb",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Training Curve Analysis\n\n## SFT Metrics\n\n| Column | What it means |\n|--------|---------------|\n| `train_loss` | Loss on training batch (should decrease) |\n| `train_mean_token_accuracy` | Token-level accuracy on training data |\n| `valid_loss` | Loss on validation set (**primary metric**) |\n| `valid_mean_token_accuracy` | Token-level accuracy on validation data |\n| `full_valid_loss` | Full-pass validation loss (more accurate, less frequent) |\n| `full_valid_mean_token_accuracy` | Full-pass token",
+  "tags": [
+    "automation",
+    "data",
+    "cli"
+  ]
+}

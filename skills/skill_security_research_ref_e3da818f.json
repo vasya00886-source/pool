@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_e3da818f",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Structure Troubleshooting\n\nLoad this when the skill layout is unclear, overloaded, or drifting away from focused routing.\n\n## Over-long SKILL.md\n\nProblem: `SKILL.md` exceeds 500 lines and becomes a second encyclopedia.\n\nFix: extract detailed material into focused `references/` files and keep `SKILL.md` as the router.\n\n## Additive Drift\n\nProblem: each update adds another rule, section, or reference without removing or tightening the old one.\n\nFix: run the precision pass before editing and again",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

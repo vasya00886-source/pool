@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_4f9b496f",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# azure-monitor-opentelemetry-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Custom Traces\n\npython\nfrom opentelemetry import trace\nfrom azure.monitor.opentelemetry import configure_azure_monitor\n\nconfigure_azure_monitor()\n\ntracer = trace.get_tracer(__name__)\n\nwith tracer.start_as_current_span(\"my-operation\") as span:\n    span.set_attribute(\"",
+  "tags": [
+    "api",
+    "automation",
+    "file"
+  ]
+}

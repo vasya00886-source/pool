@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_8719482e",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# azure-mgmt-botservice-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Update Bot\n\npython\nbot = client.bots.update(\n    resource_group_name=resource_group,\n    resource_name=bot_name,\n    properties=BotProperties(\n        display_name=\"Updated Bot Name\",\n        description=\"Updated description\"\n    )\n)\n\n\n## Delete Bot\n\npython\nclient.b",
+  "tags": [
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

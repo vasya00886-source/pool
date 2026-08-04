@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_02064d73",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Lessons Learned (BLS12-381 Case Study)\n\nPatterns observed during mutation testing of gnark-crypto (Go),\nblst (Rust FFI), and zkcrypto/bls12_381 (Rust):\n\n## 1. FFI Wrappers Have 0% Kill Rate\n\nMutating blst's Rust bindings produced 0 kills across 79 mutants.\nThe Rust layer is thin wrappers around C/assembly — mutations to\n`PartialEq`, `miller_loop_n`, `finalverify` all survive because\nthe real logic is in C. **Always identify FFI crates in Phase 1\nand skip them for Rust/Go mutation testing. Use",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

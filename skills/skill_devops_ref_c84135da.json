@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_c84135da",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Troubleshooting & Rollback\n\n## Error Handling\n\n| Error / Symptom | Likely Cause | Remediation |\n|-----------------|--------------|-------------|\n| No kubeconfig context | Not connected to a cluster | Run `az aks get-credentials` or equivalent |\n| `make: *** No rule to make target` | Not in AI Runway repo root | `cd` to repo root and retry |\n| Controller in CrashLoopBackOff | Config or RBAC issue | `kubectl logs -n airunway-system -l control-plane=controller-manager --previous` |\n| Provider not",
+  "tags": [
+    "docker",
+    "cli",
+    "file"
+  ]
+}

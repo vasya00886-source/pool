@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c57f6c28",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tool — Remote MCP server, custom OAuth2 app (BYO) (`type: mcp`)\n\nAttach a remote MCP server that authenticates with **your own OAuth2 app** (bring-your-own `client_id` / `client_secret`) — when you own the OAuth app and control the client, scopes, and secret. Either a **third-party / non-Azure MCP** whose OAuth app you register, or a **private MCP on Azure** ([custom MCP on Azure Functions](https://learn.microsoft.com/en-us/azure/foundry/mcp/build-your-own-mcp-server?view=foundry)).\n\n> 🚦 Befor",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

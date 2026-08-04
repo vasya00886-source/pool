@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_f185496c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "High-level SDK for Azure AI Foundry project operations including agents, connections, datasets, deployments, evaluations, and indexes.\ndotnet add package Azure.AI.Projects\ndotnet add package Azure.Identity\n**Current Versions**: GA v1.1.0, Preview v1.2.0-beta.5",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

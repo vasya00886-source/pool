@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_54f37852",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Carousel Frameworks\n\nFive slide-by-slide narrative architectures for carousels — Instagram carousels and LinkedIn document posts. Each framework is a different *reason to keep swiping*; picking the right one for the content matters more than polishing individual slides.\n\nA carousel is not a blog post chopped into squares. It's a swipe-through with two jobs per slide: deliver one idea, and make the next swipe irresistible. These frameworks encode structures that show up repeatedly in high-perfo",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "testing",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_97b85dfa",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "c",
+  "insight": "# Platform Specs Reference\n\nComplete character limits, format requirements, and best practices for each ad platform.\n\n---\n\n## Google Ads\n\n### Responsive Search Ads (RSAs)\n\n| Element | Character Limit | Required | Notes |\n|---------|----------------|----------|-------|\n| Headline | 30 chars | 3 minimum, 15 max | Any 3 may be shown together |\n| Description | 90 chars | 2 minimum, 4 max | Any 2 may be shown together |\n| Display path 1 | 15 chars | Optional | Appears after domain in URL |\n| Display",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

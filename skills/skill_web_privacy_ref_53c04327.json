@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_53c04327",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# APIM Deployment Guide\n\nDeploy Azure API Management (APIM) as part of your Azure infrastructure.\n\n> **For AI Gateway configuration** (policies, backends, semantic caching), use the **azure-aigateway** skill after deployment.\n\n---\n\n## When to Deploy APIM\n\n| Scenario | APIM Tier | Notes |\n|----------|-----------|-------|\n| AI Gateway for model governance | Standard v2 or Premium v2 | Semantic caching requires v2 SKUs |\n| API consolidation | Standard v2 | Single entry point for microservices |\n| M",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "cli"
+  ]
+}

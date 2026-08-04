@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_14d25cf6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Async Patterns Reference\n\n## Async Client Setup\n\npython\nimport os\nimport asyncio\nfrom azure.ai.projects.aio import AIProjectClient\nfrom azure.identity.aio import DefaultAzureCredential\n\n# Requires: pip install aiohttp\n\nasync def main():\n    async with (\n        DefaultAzureCredential() as credential,\n        AIProjectClient(\n            endpoint=os.environ[\"AZURE_AI_PROJECT_ENDPOINT\"],\n            credential=credential,\n        ) as client,\n    ):\n        # Use async operations\n        pass",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

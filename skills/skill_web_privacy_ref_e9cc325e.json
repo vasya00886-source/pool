@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_e9cc325e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Growth Patterns — The Real Shape of SaaS Growth\n\nThe 12-month outlook in every plan (Section 10) describes a trajectory. This doc names the shape of that trajectory honestly — what real SaaS growth looks like, when to expect plateaus, and how to plan for the next leg of growth before the current one stalls.\n\nExcerpted and adapted from *Founding Marketing* by Corey Haines.\n\n## The long, slow SaaS ramp of death\n\nPitch decks show hockey sticks. Real growth shows a series of S-curves — each repres",
+  "tags": [
+    "api",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

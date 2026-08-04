@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2234c5a6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Azure Quota CLI Commands Reference\n\nComprehensive reference for Azure CLI quota commands.\n\n## Prerequisites\n\n**Install quota extension** (required):\nbash\naz extension add --name quota\n\n\n> **⚠️ CRITICAL: ALWAYS USE CLI FIRST**\n>\n> Azure CLI is the **ONLY reliable method** for quota checks. **Use `az quota` commands FIRST, always.**\n>\n> **DO NOT use REST API or Azure Portal as your first approach.** They are unreliable.\n>\n> **Required workflow:**\n> 1. **FIRST:** Try `az quota list` / `az q",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_0f598b02",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Google RSA Output Spec\n\nWhen the user requests Google Ads RSAs (Responsive Search Ads), output MUST comply with these platform limits and structural requirements. Do not output any RSA that violates them.\n\n## Hard limits per RSA (enforce before responding)\n\n- **Headlines:** exactly **15** per RSA, each **≤ 30 characters** (count characters, including spaces). Render as `1. ... (NN chars)` so the reader can verify.\n- **Descriptions:** exactly **4** per RSA, each **≤ 90 characters**.\n- **Paths:*",
+  "tags": [
+    "automation",
+    "security",
+    "cli",
+    "file"
+  ]
+}

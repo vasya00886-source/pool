@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_dffaf4bc",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Test Vector Patterns for Cryptographic Primitives\n\nPatterns for designing test vectors that target specific code paths\nidentified through mutation testing escape analysis.\n\n## Contents\n\n- General principles\n- Serialization / deserialization vectors\n- Signature scheme vectors\n- Hash-to-curve vectors\n- Pairing-based cryptography vectors\n- Aggregate / threshold scheme vectors\n- Key encapsulation vectors\n- Symmetric cipher vectors\n- Mapping escaped mutants to vector patterns\n\n---\n\n## General Princ",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "testing",
+    "file"
+  ]
+}

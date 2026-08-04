@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_73c65fc2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Eval Lineage — Full Traceability from Production to Deployment\n\nTrack the complete chain from production traces through dataset creation, evaluation runs, comparisons, and deployment decisions. Enables \"why was this deployed?\" audit queries and compliance reporting.\n\n## Lineage Chain\n\n\nProduction Trace (App Insights)\n    │ conversationId, responseId\n    ▼\nDataset Version (.foundry/datasets/*.jsonl, environment-scoped)\n    │ metadata.conversationId, metadata.harvestRule\n    ▼\nEvaluation Run",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

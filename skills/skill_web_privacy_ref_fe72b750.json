@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_fe72b750",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Audio Streaming Reference\n\nReal-time audio capture and playback patterns for Azure AI Voice Live using the @azure/ai-voicelive TypeScript SDK.\n\n## Overview\n\nVoice Live requires bidirectional audio streaming over WebSocket. This reference covers browser microphone capture, PCM format conversion, and audio playback patterns for voice assistants.\n\n## Audio Format Requirements\n\n| Property | Default Value | Options |\n|----------|---------------|---------|\n| `inputAudioFormat` | `\"pcm16\"` | `\"pcm16\"",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

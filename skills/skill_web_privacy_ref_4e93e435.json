@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_4e93e435",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tracing Insights API\n\nAutomatically detect quality regressions and anomalies in agent traces using changepoint detection on evaluation scores stored in App Insights.\n\n## When to Use\n\nUse this instead of manual KQL queries when you want **automated anomaly detection** across evaluation dimensions (task adherence, intent resolution, fluency, latency, token usage). The API finds statistical changepoints in score distributions — no manual threshold tuning needed.\n\n**Prerequisites:**\n- App Insights",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

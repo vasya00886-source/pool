@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_c1282e79",
+  "category": "databases",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Property & Pairing Checks\n\nCross-check each new resource's properties against every already-written resource it connects to. Only run the checks relevant to this resource's type. Consult the resource file's Pairing Constraints section for type-specific rules.\n\n## SKU Compatibility\n\n| # | Check | Fix |\n|---|-------|-----|\n| 1 | Public IP SKU matches Load Balancer SKU (both Standard or both Basic) | Align to Standard (Basic retiring Sep 2025) |\n| 2 | Application Gateway v1/v2 on separate subnets",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_494f3792",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Code Deployment — App Service & Functions\n\nAfter IaC deployment creates the Azure resources, deploy application code.\n\n> ⛔ **`--subscription {subscriptionId}` on EVERY `az` command.**\n\n> ⛔ **Verify `SCM_DO_BUILD_DURING_DEPLOYMENT=true` is active BEFORE deploying.** ARM timing can delay propagation. Check: `az webapp config appsettings list -g {rg} -n {app} --query \"[?name=='SCM_DO_BUILD_DURING_DEPLOYMENT'].value\" -o tsv`. If not `true`: `az webapp config appsettings set -g {rg} -n {app} --sett",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

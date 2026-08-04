@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_2616cbc4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Schema Markup Examples\n\nComplete JSON-LD examples for common schema types.\n\n## Contents\n- Organization\n- WebSite (with SearchAction)\n- Article / BlogPosting\n- Product\n- SoftwareApplication\n- FAQPage\n- HowTo\n- BreadcrumbList\n- LocalBusiness\n- Event\n- Multiple Schema Types\n- Implementation Example (Next.js)\n\n## Organization\n\nFor company/brand homepage or about page.\n\njson\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Example Company\",\n  \"url\": \"https://example.co",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "web",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_815a0fc6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Built-in Evaluators Reference\n\nComplete reference for Microsoft Foundry's built-in evaluators using the `azure-ai-projects` SDK.\n\n## Discovering Evaluators\n\n### List All Built-in Evaluators\n\npython\nfrom azure.identity import DefaultAzureCredential\nfrom azure.ai.projects import AIProjectClient\n\nendpoint = os.environ[\"AZURE_AI_PROJECT_ENDPOINT\"]\n\nwith (\n    DefaultAzureCredential() as credential,\n    AIProjectClient(endpoint=endpoint, credential=credential) as project_client,\n):\n    evaluator",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

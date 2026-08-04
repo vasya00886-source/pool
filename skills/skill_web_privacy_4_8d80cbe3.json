@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_8d80cbe3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "SDK for Azure Queue Storage operations — send, receive, peek, and manage messages in queues.\nnpm install @azure/storage-queue @azure/identity\n**Current Version**: 12.x  \n**Node.js**: >= 18.0.0",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "web"
+  ]
+}

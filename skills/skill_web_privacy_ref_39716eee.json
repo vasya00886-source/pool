@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_39716eee",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Research Components\n\nAfter architecture planning, research each selected component to gather best practices before generating artifacts.\n\n## Process\n\n1. **Identify Components** — List all Azure services from architecture plan\n2. **Load Service References** — For each service, load `services/<service>/README.md` first, then specific references as needed\n3. **Check Resource Naming Rules** — For each resource type, check [resource naming rules](https://learn.microsoft.com/azure/azure-resource-man",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

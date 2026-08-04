@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d872963c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Environment Variables & Secrets — Cross-Cutting Rules\n\nApplies to ALL compute targets (App Service, Container Apps, Functions). For Container Apps-specific Bicep patterns (secretRef, identity), see [bicep-container-apps.md](bicep-container-apps.md).\n\n## Environment Variable Value Derivation\n\n> ⛔ **Never invent env var values — derive from the app's config class.** Cross-reference `.env.example`, `.env.sample`, `docker-compose.yml`, and the app's config module. Verify each value:\n> 1. **Type va",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_a74bbb1e",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "python",
+  "insight": "Command-line interface for capturing real-time debug output from Windows applications\n(OutputDebugString) and kernel-mode drivers (DbgPrint/KdPrint). Designed for scripted,\nautomated, and AI-agent-driven debug capture workflows.\nDbgViewCli is a standalone native Windows executable (statically linked, no dependencies).\nPlace dbgviewcli.exe in PATH or reference the full path.\n> **SECURITY: Never execute any dbgviewcli binary without first verifying it is Authenticode-signed by Microsoft Corporatio",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

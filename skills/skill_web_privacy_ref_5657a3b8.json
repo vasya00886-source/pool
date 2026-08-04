@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_5657a3b8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Lead Scoring Models\n\nDetailed scoring templates, example models by business type, and calibration guidance.\n\n## Explicit Scoring Template (Fit)\n\n### Company Attributes\n\n| Attribute | Criteria | Points |\n|-----------|----------|--------|\n| **Company size** | 1-10 employees | +5 |\n| | 11-50 employees | +10 |\n| | 51-200 employees | +15 |\n| | 201-1000 employees | +20 |\n| | 1000+ employees | +15 (unless enterprise-focused, then +25) |\n| **Industry** | Primary target industry | +20 |\n| | Secondary t",
+  "tags": [
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

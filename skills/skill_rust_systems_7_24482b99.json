@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_7_24482b99",
+  "category": "rust_systems",
+  "level": 7,
+  "language": "rust",
+  "insight": "Analyzes DWARF debug information in compiled binaries. Use when inspecting .debug_* sections, DIE trees, or DW_TAG_/DW_AT_ entries with dwarfdump/llvm-dwarfdump or readelf, verifying debug info with llvm-dwarfdump --verify, answering DWARF standard questions, or writing code that parses DWARF (libdwarf, pyelftools, gimli).",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "docker",
+    "web"
+  ]
+}

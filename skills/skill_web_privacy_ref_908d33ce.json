@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_908d33ce",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Database Operations\n\nAdvanced database operations for Azure SQL.\n\n## Create Database with vCore SKU\n\ncsharp\nusing Azure.ResourceManager.Sql;\nusing Azure.ResourceManager.Sql.Models;\n\nvar databaseData = new SqlDatabaseData(AzureLocation.EastUS)\n{\n    Sku = new SqlSku(\"GP_Gen5_2\")\n    {\n        Tier = \"GeneralPurpose\",\n        Family = \"Gen5\",\n        Capacity = 2 // vCores\n    },\n    MaxSizeBytes = 32L * 1024 * 1024 * 1024, // 32 GB\n    ZoneRedundant = false,\n    ReadScale = SqlDatabaseReadSc",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "file"
+  ]
+}

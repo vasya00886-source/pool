@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_861cc922",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Runtime Token Exchange (`fmi_path`)\n\nSource: [Agent ID Setup Instructions](https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/agent-id-setup-instructions)\n\nAgent Identities authenticate at runtime via a **two-step token exchange** against the Entra `/oauth2/v2.0/token` endpoint. This is a standard Entra feature — it works anywhere (Azure, on-premises, local dev), not only inside Foundry.\n\n\nStep 1: Blueprint credentials + fmi_path  →  Parent token (aud: api://AzureADTokenExch",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

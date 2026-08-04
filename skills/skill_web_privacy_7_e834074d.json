@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_e834074d",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "general",
+  "insight": "Create, synthesize, and iteratively improve agent skills following the Agent Skills specification. Use when asked to \"create a skill\", \"write a skill\", \"synthesize sources into a skill\", \"improve a skill from positive/negative examples\", \"update a skill\", or \"maintain skill docs and registration\". Handles source capture, precision passes, authoring, registration, and validation.",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

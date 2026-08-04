@@ -1,0 +1,14 @@
+{
+  "id": "game_theory_ref_3fa41e74",
+  "category": "game_theory",
+  "level": 4,
+  "language": "rust",
+  "insight": "# B2B Paid Playbook\n\nCross-platform operating rules for B2B paid acquisition — where sales cycles run 2–24 months, in-platform conversions mislead, and lead *quality* matters more than lead cost. Use this alongside the platform playbooks ([Meta decision system](meta-decision-system.md), [LinkedIn](linkedin-b2b-playbook.md), [Google Search](google-search-playbook.md), [ABM](abm-playbook.md)).\n\n## Contents\n\n- The Demand Lifecycle (5 stages, past the funnel)\n- Budget by stage\n- Leading vs. lagging",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

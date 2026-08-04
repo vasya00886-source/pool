@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_50dd4cef",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Framework Detection (Advisory)\n\nFramework detection is **advisory only**. The deployment never blocks because of an unknown framework.\n\n## What to check\n\n1. **Confirm Python project** — at least one of:\n   - `requirements.txt`\n   - `pyproject.toml`\n   - `*.py` files in workspace root\n2. **Scan dependencies** in `requirements.txt` or `pyproject.toml`:\n\n| Token (case-insensitive) | Detected framework |\n|---|---|\n| `flask`, `Flask` | **flask** |\n| `django`, `Django` | **django** |\n| `fastapi` | *",
+  "tags": [
+    "api",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

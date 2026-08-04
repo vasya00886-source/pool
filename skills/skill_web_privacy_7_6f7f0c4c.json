@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_6f7f0c4c",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Build blob storage applications with Azure Storage Blob SDK for Java. Use when uploading, downloading, or managing files in Azure Blob Storage, working with containers, or implementing streaming data operations.",
+  "tags": [
+    "api",
+    "performance",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

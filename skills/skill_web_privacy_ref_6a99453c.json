@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_6a99453c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Steps 3–5 — Download Results, Cluster Failures, Dive Into Category\n\n## Step 3 — Download Results\n\n`evaluation_get` returns run metadata but **not** full per-row output. Write a Python script (save to `scripts/`) to download detailed results using the **Azure AI Projects Python SDK**.\n\n### Prerequisites\n\ntext\npip install azure-ai-projects>=2.0.0 azure-identity\n\n\n### SDK Client Setup\n\npython\nfrom azure.identity import DefaultAzureCredential\nfrom azure.ai.projects import AIProjectClient",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

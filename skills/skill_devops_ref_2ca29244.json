@@ -1,0 +1,14 @@
+{
+  "id": "devops_ref_2ca29244",
+  "category": "devops",
+  "level": 4,
+  "language": "python",
+  "insight": "# Eval Regression — Automated Regression Detection\n\nAutomatically detect when evaluation metrics degrade between agent versions. Compare each evaluation run against the baseline and generate pass/fail verdicts with actionable recommendations.\n\n## Prerequisites\n\n- At least 2 evaluation runs in the same evaluation group\n- Baseline run identified (either the first run or the one tagged as `baseline`)\n\n## Step 1 — Identify Baseline and Treatment\n\n### Automatic Baseline Selection\n\n1. Read `.foundry/d",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

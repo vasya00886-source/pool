@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_e82efadd",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Configure Storage Redundancy\n\n## Overview\n\nStorage accounts must match or exceed the redundancy level of the compute they support. Zone-redundant compute requires at minimum ZRS storage.\n\n## Upgrade Paths\n\n| Current | Target | Method | Downtime |\n|---|---|---|---|\n| Standard_LRS → Standard_ZRS | ZRS | Live migration or manual | None (live) or planned (manual) |\n| Standard_LRS → Standard_GRS | GRS | In-place update | None |\n| Standard_LRS → Standard_GZRS | GZRS | In-place update | None |\n| Prem",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "web",
+    "file"
+  ]
+}

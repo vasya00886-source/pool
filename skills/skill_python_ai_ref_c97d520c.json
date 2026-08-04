@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_c97d520c",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Thread Management Reference\n\nPatterns for managing conversation state and multi-turn interactions.\n\n## Overview\n\n`AgentThread` links agent execution to server-side conversation state, enabling:\n- Multi-turn conversations with context\n- Conversation persistence and resumption\n- Thread-based message history\n\n---\n\n## Creating and Using Threads\n\n### Basic Multi-Turn Conversation\n\npython\nfrom agent_framework.azure import AzureAIAgentsProvider\nfrom azure.identity.aio import AzureCliCredential\n\nas",
+  "tags": [
+    "automation",
+    "data",
+    "cli",
+    "file"
+  ]
+}

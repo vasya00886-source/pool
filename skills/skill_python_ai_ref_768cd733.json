@@ -1,0 +1,13 @@
+{
+  "id": "python_ai_ref_768cd733",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Semantic Ranking Patterns\n\nSemantic ranking uses machine learning to re-rank search results for better relevance.\n\n## Semantic Configuration\n\n### Basic Semantic Configuration\n\npython\nfrom azure.search.documents.indexes.models import (\n    SemanticSearch,\n    SemanticConfiguration,\n    SemanticPrioritizedFields,\n    SemanticField,\n)\n\nsemantic_search = SemanticSearch(\n    default_configuration_name=\"my-semantic-config\",\n    configurations=[\n        SemanticConfiguration(\n            name=\"my-",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

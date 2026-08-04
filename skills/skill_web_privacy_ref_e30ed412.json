@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_e30ed412",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Content Architecture for Competitor Pages\n\nHow to structure and maintain competitor data for scalable comparison pages.\n\n## Contents\n- Centralized Competitor Data\n- Competitor Data Template\n- Your Product Data\n- Page Generation\n- Index Page Structure (alternatives index, vs comparisons index, index page best practices)\n- Footer Navigation\n\n## Centralized Competitor Data\n\nCreate a single source of truth for each competitor:\n\n\ncompetitor_data/\n├── notion.md\n├── airtable.md\n├── monday.md\n└── .",
+  "tags": [
+    "api",
+    "data",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_46a5639d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Advanced Patterns Reference\n\nAdvanced patterns including structured outputs, OpenAPI tools, file handling, and more.\n\n## Structured Outputs with Pydantic\n\n### Basic Response Format\n\npython\nfrom pydantic import BaseModel, ConfigDict\nfrom agent_framework.azure import AzureAIAgentsProvider\nfrom azure.identity.aio import AzureCliCredential\n\nclass MovieRecommendation(BaseModel):\n    model_config = ConfigDict(extra=\"forbid\")  # Strict validation\n    \n    title: str\n    year: int\n    genre: str",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "web"
+  ]
+}

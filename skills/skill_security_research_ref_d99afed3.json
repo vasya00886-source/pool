@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_d99afed3",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Source Discovery\n\nUse this guide during synthesis when obvious docs are shallow, stale, incomplete, or too polished to reveal real behavior.\n\n## Source Priority\n\nPrefer sources in this order:\n\n1. Local repository authority: `AGENTS.md`, `README.md`, `CONTRIBUTING.md`, manifests, validators, scripts, tests, and existing neighboring skills.\n2. Primary upstream material: official specifications, product docs, API references, release notes, changelogs, and source code.\n3. Operational evidence: iss",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_7_2fcb73c7",
+  "category": "python_ai",
+  "level": 7,
+  "language": "python",
+  "insight": "Django performance code review. Use when asked to \"review Django performance\", \"find N+1 queries\", \"optimize Django\", \"check queryset performance\", \"database performance\", \"Django ORM issues\", or audit Django code for performance problems.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

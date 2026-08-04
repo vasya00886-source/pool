@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_2482d22a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for Azure AI Translator document translation service for batch document translation with format preservation.\npip install azure-ai-translation-document\nAZURE_DOCUMENT_TRANSLATION_ENDPOINT=https://<resource>.cognitiveservices.azure.com  # Required for all auth methods\n# Storage for source and target documents\nAZURE_SOURCE_CONTAINER_URL=https://<storage>.blob.core.windows.net/<container>?<sas>  # Required for all auth methods\nAZURE_TARGET_CONTAINER_URL=https://<sto...",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "docker"
+  ]
+}

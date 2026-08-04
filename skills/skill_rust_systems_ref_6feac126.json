@@ -1,0 +1,12 @@
+{
+  "id": "rust_systems_ref_6feac126",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "python",
+  "insight": "# Authentication & Session Footguns\n\nPatterns that make authentication and session management error-prone.\n\n## Password Handling\n\n### Comparison Vulnerabilities\n\npython\n# DANGEROUS: Short-circuit evaluation\ndef check_password(user_input, stored):\n    return user_input == stored  # Timing attack\n\n# DANGEROUS: Empty password bypass\ndef check_password(user_input, stored):\n    if not stored:\n        return True  # No password set = access granted?\n    return constant_time_compare(user_input, stor",
+  "tags": [
+    "api",
+    "security",
+    "file"
+  ]
+}

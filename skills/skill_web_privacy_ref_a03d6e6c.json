@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_a03d6e6c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# WAF Checklist\n\nPer-pillar Well-Architected Framework alignment for AppOnboard-generated infrastructure. Use during scaffold self-review (Layer 4) and prepare validation (WAF Alignment dimension).\n\n> **Reference:** [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) — link, don't duplicate. See [WAF Service Guides](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/) for per-service checklists.\n\n## Reliability\n\n- Zone redundancy ena",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "testing"
+  ]
+}

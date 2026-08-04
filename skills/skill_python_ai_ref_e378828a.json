@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_e378828a",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Recharts Patterns for Sentry Presentations\n\n## Color Usage Rules\n\n**Categorical palette** — for data series, groups, categories where color is just a distinguisher:\njavascript\nconst CAT = [\n  '#4e79a7',  // steel blue\n  '#f28e2b',  // orange\n  '#e15759',  // coral\n  '#76b7b2',  // teal\n  '#59a14f',  // green\n  '#edc948',  // gold\n  '#b07aa1',  // mauve\n  '#ff9da7',  // pink\n  '#9c755f',  // brown\n  '#bab0ac',  // gray\n];\n\n\n**Semantic colors** — ONLY when the color itself carries meaning:",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "docker",
+    "web"
+  ]
+}

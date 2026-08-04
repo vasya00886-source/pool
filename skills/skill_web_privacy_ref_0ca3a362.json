@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_0ca3a362",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Platform Gotchas — Top 10\n\n1. **OSS models require `\"trainingType\": \"globalStandard\"`** in the request body — undocumented, and all OSS FT jobs fail without it.\n\n2. **Model catalog `fine_tune` flag is wrong for OSS models** — API returns `fine_tune = false` for all OSS models despite being FT-supported. Hardcode the supported list.\n\n3. **Older SDK versions may fail on `/v1/` project endpoints** — `client.files.create()` throws \"API version not supported\" with older `openai` package versions. U",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "cli",
+    "file"
+  ]
+}

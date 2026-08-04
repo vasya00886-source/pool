@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_756982c1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# azure-identity-py non-hero scenarios\n\nThese scenarios are intentionally separate from hero flows in `SKILL.md`.\nThey cover secondary/advanced patterns typically used after the primary end-to-end path is working.\n\n## Async Credentials\n\nAsync credentials are in `azure.identity.aio`. Always close them or use `async with`:\n\npython\nfrom azure.identity.aio import DefaultAzureCredential\nfrom azure.storage.blob.aio import BlobServiceClient\n\nasync def main():\n    # Preferred: use async context manag",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_0adc2643",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Vector E: Error Log Injection\n\nCI error output, build logs, or test failure messages are fed to an AI agent as context. An attacker crafts code that produces prompt injection payloads in compiler errors, test failure output, or log messages. When these logs are passed to the AI prompt, the AI processes attacker-controlled error messages as trusted instructions.\n\n## Applicable Actions\n\n| Action | Applicable | Notes |\n|--------|-----------|-------|\n| Claude Code Action | Yes | Confirmed -- PoC 2",
+  "tags": [
+    "security",
+    "data",
+    "testing",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_05676a81",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Azure Monitor Ingestion SDK for Java - Examples\n\nComprehensive code examples for the Azure Monitor Ingestion SDK for Java.\n\n## Table of Contents\n- [Maven Dependency](#maven-dependency)\n- [Client Creation](#client-creation)\n- [Uploading Logs](#uploading-logs)\n- [Batching with Concurrency](#batching-with-concurrency)\n- [Error Handling](#error-handling)\n- [Async Client Patterns](#async-client-patterns)\n\n## Maven Dependency\n\nxml\n<!-- Using Azure SDK BOM (recommended) -->\n<dependencyManagement>",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "cli"
+  ]
+}

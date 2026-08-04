@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_74556b1c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Steps 6–7 — Optimize Prompt & Deploy New Version\n\n## Step 6 — Optimize Prompt\n\n> ⛔ **Guardrail:** When optimizing after a dataset update, do NOT remove dataset rows or weaken evaluators to recover scores. Score drops on a harder dataset are expected — they mean test coverage improved, not that the agent regressed. Optimize for NEW failure patterns only.\n\nUse **`prompt_optimize`** with:\n\n| Parameter | Required | Description |\n|-----------|----------|-------------|\n| `developerMessage` | ✅ | Age",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

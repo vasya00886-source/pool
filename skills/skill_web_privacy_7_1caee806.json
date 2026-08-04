@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_1caee806",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "docker"
+  ]
+}

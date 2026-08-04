@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_d4b777ea",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Customize Workflow — Detailed Phase Instructions\n\n> Reference for: `models/deploy-model/customize/SKILL.md`\n\n## Phase 1: Verify Authentication\n\nbash\naz account show --query \"{Subscription:name, User:user.name}\" -o table\n\n\nIf not logged in: `az login`\n\nSet subscription if needed:\nbash\naz account list --query \"[].[name,id,state]\" -o table\naz account set --subscription <subscription-id>\n\n\n---\n\n## Phase 2: Get Project Resource ID\n\nCheck `PROJECT_RESOURCE_ID` env var. If not set, prompt",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

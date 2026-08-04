@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_fd452a45",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Current State Rubric — 17-Section Scoring Lens\n\nThis 17-section rubric is the source of truth for Section 3 (\"Current State\") of every marketing plan. Score each section 0–5 from available materials, then write a 2–4 sentence \"shape interpretation\" that names where strengths and gaps cluster.\n\n## How to score\n\n**From rich materials.** When the team has shared decks, prior content audits, a brand voice doc, kickoff transcript, app store and analytics snapshots — score each section from those ar",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

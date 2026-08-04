@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_450c9dc7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Configure Multi-Region — Active-Passive with Azure Front Door\n\n## When to Use\n\nUse this reference when:\n- Core single-region reliability is already in place (zone redundant compute, ZRS storage, health probes) and the user wants to go further\n- User explicitly asks for \"multi-region\", \"global reliability\", or \"region failover\"\n- User wants protection against a full Azure region outage\n\n## Prerequisites\n\nBefore enabling multi-region:\n1. App must already be zone-redundant in the primary region w",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "docker",
+    "web"
+  ]
+}

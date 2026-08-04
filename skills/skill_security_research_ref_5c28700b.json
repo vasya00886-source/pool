@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_5c28700b",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Real-World GitHub Actions Attacks\n\n## Overview\n\nThis reference documents 7 attacks from the HackerBot Claw campaign (February-March 2025), which targeted high-profile open source repositories using GitHub Actions exploitation techniques. These are real, documented attacks — use them to calibrate severity and validate findings.\n\n---\n\n## Attack Timeline\n\n| Date (UTC) | Target | Stars | Method | Outcome |\n|------------|--------|-------|--------|---------|\n| Feb 27, 05:14 | microsoft/ai-discovery-",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

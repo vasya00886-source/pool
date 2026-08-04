@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_33c815e4",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Client library for Azure Blob Storage — object storage for unstructured data.\npip install azure-storage-blob azure-identity\nAZURE_STORAGE_ACCOUNT_NAME=<your-storage-account>  # Required for all auth methods\n# Or use full URL\nAZURE_STORAGE_ACCOUNT_URL=https://<account>.blob.core.windows.net  # Alternative to account name\nAZURE_TOKEN_CREDENTIALS=prod # Required only if DefaultAzureCredential is used in production",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "docker"
+  ]
+}

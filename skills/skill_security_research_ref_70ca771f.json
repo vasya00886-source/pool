@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_70ca771f",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Firebase Security Vulnerability Patterns\n\nDetailed vulnerability patterns, exploitation techniques, and audit checklists for Firebase implementations in mobile applications.\n\n---\n\n## 1. OPEN EMAIL/PASSWORD SIGNUP (Critical)\n\n**The Problem:** Firebase Authentication allows anyone to create accounts via the Identity Toolkit API, even if the app UI doesn't expose registration.\n\n**Vulnerable Configuration:**\n\nFirebase Console → Authentication → Sign-in method → Email/Password: Enabled\n\n\n**Ex",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

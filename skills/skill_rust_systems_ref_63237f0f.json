@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_63237f0f",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Dimensional Bug Patterns\n\nThis document catalogs common dimensional bugs with examples and detection strategies. Examples use Solidity syntax, but these bug patterns occur in any language performing arithmetic with mixed units and scaling factors (Rust, TypeScript, Python, etc.).\n\n## Critical Bugs (P0)\n\n### Pattern 1: Unit Mismatch in Price Feeds\n\n**Description:** Oracle returns price in different precision than expected.\n\n**Example:**\nsolidity\n// Contract assumes D27 prices\nuint256 price;",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "testing"
+  ]
+}

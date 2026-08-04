@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_87d52752",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "## Container Apps Observability\n\nObservability guide for apps running in Azure Container Apps.\n\n## Environment-Level Log Analytics\n\nBy default, Container Apps environments use a Log Analytics workspace. Configure it at environment creation (`--logs-workspace-id` expects the workspace **Customer ID** (GUID), not the ARM resource ID):\n\nbash\nWORKSPACE_ID=$(az monitor log-analytics workspace show \\\n  --resource-group <rg> --workspace-name <workspace-name> \\\n  --query customerId -o tsv)\n\nWORKSPACE",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

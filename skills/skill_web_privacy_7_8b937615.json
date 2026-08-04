@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_7_8b937615",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "general",
+  "insight": "Answers questions about a code repository using source file analysis. Use when the user asks a question about how something works, wants to understand a component, or needs help navigating the codebase.",
+  "tags": [
+    "api",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "security_research_ref_8bbf6889",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Evolution Metrics Reference\n\nThis document explains each structural metric the graph-evolution skill\ntracks and why it matters for security analysis.\n\n## Contents\n\n- Node changes (added, removed, modified)\n- Edge changes (added, removed)\n- Complexity evolution\n- Attack surface changes\n- Blast radius shifts\n- Taint propagation changes\n- Privilege boundary changes\n\n---\n\n## Node Changes\n\n### Added Nodes\n\nNew functions, methods, classes, or modules introduced between snapshots.\n\n**Security relevan",
+  "tags": [
+    "security",
+    "testing",
+    "file"
+  ]
+}

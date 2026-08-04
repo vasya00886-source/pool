@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_fcb16b69",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Use a Toolbox from Your Agent Code\n\nA **toolbox** is a single MCP-compatible endpoint that exposes all the tools you've configured; your agent connects to that one URL and discovers every tool inside. For the concept, object model, and API/schema, see [toolbox.md](../../toolbox/toolbox.md).\n\nThere are two ways to consume it from agent code:\n\n- **Default SDK — Microsoft Agent Framework (MAF).** The `FoundryToolbox` wrapper does all the plumbing (endpoint resolution, auth, per-request call-id, c",
+  "tags": [
+    "api",
+    "data",
+    "testing",
+    "web",
+    "cli"
+  ]
+}

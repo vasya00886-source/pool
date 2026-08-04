@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_610f73ff",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Client library for Azure OpenAI Service providing access to OpenAI models including GPT-4, GPT-4o, embeddings, DALL-E, and Whisper.\ndotnet add package Azure.AI.OpenAI\n**Current Version**: 2.1.0 (stable)",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

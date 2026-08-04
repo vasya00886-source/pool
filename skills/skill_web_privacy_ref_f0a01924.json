@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_f0a01924",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Case Study: Router Skill Synthesis\n\n## Scenario\n\nGoal: create a skill that classifies requests into distinct downstream paths without overloading one prompt.\n\n## Input collection approach\n\nThis case collected:\n\n1. examples of request categories\n2. known ambiguous cases\n3. downstream resources for each route\n4. historical misroutes and their fixes\n\nCollection stopped only after route criteria and fallback behavior were explicit.\n\n## Coverage matrix used\n\nRequired dimensions tracked during synth",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

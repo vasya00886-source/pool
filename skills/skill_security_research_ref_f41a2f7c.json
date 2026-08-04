@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_f41a2f7c",
+  "category": "security_research",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Semgrep Rulesets Reference\n\n## Complete Ruleset Catalog\n\n### Security-Focused Rulesets\n\n| Ruleset | Description | Use Case |\n|---------|-------------|----------|\n| `p/security-audit` | Comprehensive vulnerability detection, higher false positives | Manual audits, security reviews |\n| `p/secrets` | Hardcoded credentials, API keys, tokens | Always include |\n| `p/owasp-top-ten` | OWASP Top 10 web application vulnerabilities | Web app security |\n| `p/cwe-top-25` | CWE Top 25 most dangerous softwar",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

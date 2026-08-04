@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_d0c6c432",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "## Modify code\n\nMake these necessary changes to the app.\n\n- Install client library\n\ndotnet add package Azure.Monitor.OpenTelemetry.AspNetCore\n\n\n- Configure the app to use Azure Monitor\nAn ASP.NET Core app typically has a Program.cs file that \"builds\" the app. Find this file and apply these changes.\n  - Add `using Azure.Monitor.OpenTelemetry.AspNetCore;` at the top\n  - Before calling `builder.Build()`, add this line `builder.Services.AddOpenTelemetry().UseAzureMonitor();`.\n\n> Note: since we",
+  "tags": [
+    "automation",
+    "cli",
+    "file"
+  ]
+}

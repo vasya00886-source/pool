@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_7_2ad90a94",
+  "category": "algorithms",
+  "level": 7,
+  "language": "rust",
+  "insight": "Generates Mermaid diagrams from Trailmark's code graph. A pre-made script\nhandles Mermaid syntax generation; Claude selects the diagram type and\nparameters. Trailmark 0.4.0 includes a native trailmark diagram command; use\nit only after a version/command check, otherwise use this skill's bundled\nscript.\n- Visualizing call paths between functions\n- Drawing class inheritance hierarchies\n- Mapping module import dependencies\n- Showing class structure with members\n- Highlighting complexity hotspots w.",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

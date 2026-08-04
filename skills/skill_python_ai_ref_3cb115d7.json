@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_3cb115d7",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Language-Specific Guidance\n\n## No Build Required\n\n### Python\n\nbash\ncodeql database create codeql.db --language=python --source-root=.\n\n\n**Framework Support:**\n- Django, Flask, FastAPI: Built-in models\n- Tornado, Pyramid: Partial support\n- Custom frameworks: May need data extensions\n\n**Common Issues:**\n| Issue | Fix |\n|-------|-----|\n| Missing Django models | Ensure `settings.py` is at expected location |\n| Virtual env included | Use `paths-ignore` in config |\n| Type stubs missing | Insta",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

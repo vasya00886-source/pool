@@ -1,0 +1,14 @@
+{
+  "id": "security_research_ref_ba0fca40",
+  "category": "security_research",
+  "level": 4,
+  "language": "python",
+  "insight": "# Data Extension YAML Format\n\nYAML format for CodeQL data extension files. Used by the create-data-extensions workflow to model project-specific sources, sinks, and flow summaries.\n\n## Structure\n\nAll extension files follow this structure:\n\nyaml\nextensions:\n  - addsTo:\n      pack: codeql/<language>-all  # Target library pack\n      extensible: <model-type>      # sourceModel, sinkModel, summaryModel, neutralModel\n    data:\n      - [<columns>]\n\n\n## Source Models\n\nColumns: `[package, type, sub",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

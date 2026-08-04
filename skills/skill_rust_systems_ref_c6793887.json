@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_c6793887",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Demand-Signal Discovery (Find Your First Customers)\n\nThe other three branches build a list from who *fits* (firmographics, technographics, proximity). This branch builds a list from who is *already showing the pain* — the early-stage motion where you have a product and a hunch but no customer base yet, and you need your first ten real conversations. You are not filtering a database; you are mining recent public discourse for people describing the exact problem you solve, then linking every pro",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "file"
+  ]
+}

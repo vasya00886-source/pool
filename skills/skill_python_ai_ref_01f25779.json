@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_01f25779",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Partition Key Strategies\n\n## Table of Contents\n\n1. [Partition Key Fundamentals](#partition-key-fundamentals)\n2. [Common Strategies](#common-strategies)\n3. [Cross-Partition Queries](#cross-partition-queries)\n4. [Move Operations](#move-operations)\n5. [Query Optimization](#query-optimization)\n\n---\n\n## Partition Key Fundamentals\n\n### What is a Partition Key?\n\nThe partition key determines data distribution and query efficiency:\n\n- **Same partition key** → Data co-located → Fast queries, transaction",
+  "tags": [
+    "performance",
+    "automation",
+    "data",
+    "docker",
+    "file"
+  ]
+}

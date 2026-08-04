@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_d04adf54",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# App Onboard Prepare — Per-Service Pricing Patterns\n\nFilter strings, meter names, and formulas per Azure service. For methodology and troubleshooting, see [pricing-guide.md](pricing-guide.md).\n\n### Container Apps\n\nNo `armSkuName`. Filter: `serviceName eq 'Azure Container Apps' and armRegionName eq '{region}' and priceType eq 'Consumption' and isPrimaryMeterRegion eq true`\n\n**Key meters:** `Standard vCPU Active Usage` (1 Second), `Standard Memory Active Usage` (1 GiB Second), `Standard Requests`",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

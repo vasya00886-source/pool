@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_031346b4",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Case Study: Subagent-Fork Skill Synthesis\n\n## Scenario\n\nGoal: create a skill that runs a self-contained task in isolated context and returns a concise summary.\n\n## Input collection approach\n\nThis case collected:\n\n1. official provider docs for skill execution in forked context\n2. examples of self-contained tasks that benefit from isolation\n3. failure cases where passive guidance was incorrectly put into subagents\n4. summary expectations for returning results to the main thread\n\n## Coverage matr",
+  "tags": [
+    "file"
+  ]
+}

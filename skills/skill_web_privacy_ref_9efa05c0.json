@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_9efa05c0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Remediation Patterns for Common azqr Findings\n\nThis document provides remediation templates for frequently identified compliance issues.\n\n## Storage Account Issues\n\n### Enable Private Endpoints\n\n**Issue:** Storage account accessible via public endpoint\n\n**Azure CLI:**\nbash\n# Create private endpoint\naz network private-endpoint create \\\n  --name pe-storage \\\n  --resource-group <rg-name> \\\n  --vnet-name <vnet-name> \\\n  --subnet <subnet-name> \\\n  --private-connection-resource-id $(az storage ac",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

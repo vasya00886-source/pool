@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_2_8920766a",
+  "category": "systems_design",
+  "level": 2,
+  "language": "java",
+  "insight": "Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-callautomation instead for new projects. Only use this skill when maintaining legacy code.",
+  "tags": [
+    "cli"
+  ]
+}

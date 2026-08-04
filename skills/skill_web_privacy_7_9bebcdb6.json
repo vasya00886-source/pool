@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_9bebcdb6",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "rust",
+  "insight": "Design well-architected, production-grade cloud systems following Azure Architecture Center best practices. This skill provides:\n- **10 design principles** for Azure applications\n- **6 architecture styles** with selection guidance\n- **44 cloud design patterns** mapped to WAF pillars\n- **Technology choice frameworks** for compute, storage, data, messaging\n- **Performance antipatterns** to avoid\n- **Architecture review workflow** for systematic design validation\n---",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

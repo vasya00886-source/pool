@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_7719dcb4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Optimize Workflow\n\nUse this after azd setup and scaffold review are complete.\n\n## 1. Prepare context\n\n1. Resolve the hosted agent with [azd Setup](azd-setup.md).\n2. If SDK wiring or `.agent_configs/baseline/` is missing, run [Scaffold Workflow](scaffold.md) first.\n3. If scaffolding changed files, stop and ask the user to review before optimization.\n4. Ensure `eval.yaml` exists using [eval.yaml Guidance](eval-yaml.md), generate it with `azd ai agent eval generate`, or ask whether to use built-i",
+  "tags": [
+    "performance",
+    "data",
+    "file"
+  ]
+}

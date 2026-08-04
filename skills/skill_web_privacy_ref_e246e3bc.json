@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_e246e3bc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Enable Incoming A2A on a Foundry Agent\n\nExpose a Foundry agent (prompt or hosted) as an Agent2Agent (A2A) endpoint so other agents can discover and call it.\n\n## Pick a path\n\n| Situation | Path |\n|---|---|\n| Hosted agent, `azd` project on disk, new agent version is fine | **A. Declarative (`azd deploy`)** |\n| Same as above, want to change card / protocols without a new version | **B.1 `azd ai agent endpoint update`** |\n| Prompt agent, portal-created agent, no local project | **B.2 REST PATCH**",
+  "tags": [
+    "api",
+    "automation",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_28ac8566",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Bicep Patterns — Security Defaults\n\nMandatory security configuration for all AppOnboard-generated Bicep. Read during IaC generation before writing resource definitions. Apply during scaffold — never defer to deploy.\n\nFor core patterns (file structure, skeleton, naming, tagging), see [bicep-patterns.md](bicep-patterns.md). For data module templates (PostgreSQL, Redis), see [subagent-iac-gen.md](subagent-iac-gen.md) Step 6.\n\n## Key Vault Deployer RBAC\n\nThe deploying user/principal needs RBAC to",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

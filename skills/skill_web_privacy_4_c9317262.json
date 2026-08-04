@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_c9317262",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "Send custom logs to Azure Monitor Log Analytics workspace using the Logs Ingestion API.\npip install azure-monitor-ingestion\npip install azure-identity\n# Data Collection Endpoint (DCE)\nAZURE_DCE_ENDPOINT=https://<dce-name>.<region>.ingest.monitor.azure.com  # Required for all auth methods",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

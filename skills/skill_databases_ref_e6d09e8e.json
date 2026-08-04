@@ -1,0 +1,13 @@
+{
+  "id": "databases_ref_e6d09e8e",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# KQL Query Templates\n\nReusable query patterns for common data investigation operations. Copy and adapt these.\n\n## Table of Contents\n\n1. [Deduplication](#1-deduplication)\n2. [Top-N Analysis](#2-top-n-analysis)\n3. [Time Binning & Trends](#3-time-binning--trends)\n4. [Pivoting](#4-pivoting)\n5. [Running Totals & Window Functions](#5-running-totals--window-functions)\n6. [Sessionization](#6-sessionization)\n7. [Cardinality Check Before Join](#7-cardinality-check-before-join)\n8. [Safe Exploration Patter",
+  "tags": [
+    "security",
+    "data",
+    "testing",
+    "file"
+  ]
+}

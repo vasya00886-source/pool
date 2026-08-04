@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_3_4b8a32ff",
+  "category": "python_ai",
+  "level": 3,
+  "language": "rust",
+  "insight": "Implement Conversational Language Understanding (CLU) using the azure-ai-language-conversations Python SDK. Use when working with ConversationAnalysisClient to analyze conversation intent and entities, building NLP features, or integrating language understanding into applications.",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "testing",
+    "cli"
+  ]
+}

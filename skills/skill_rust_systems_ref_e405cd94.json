@@ -1,0 +1,14 @@
+{
+  "id": "rust_systems_ref_e405cd94",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Security Setup\n\nSecurity tooling for Python projects: pre-commit hooks, CI auditing, and dependency scanning.\n\n## Tool Installation\n\nInstall these tools before running the quick setup commands below.\n\n### prek (pre-commit runner)\n\nbash\n# Homebrew (recommended)\nbrew install prek\n\n# Cargo\ncargo install prek\n\n# Standalone installer\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/j178/prek/releases/latest/download/prek-installer.sh | sh\n\n\n### Security tools\n\nPre-commit hooks auto-in",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

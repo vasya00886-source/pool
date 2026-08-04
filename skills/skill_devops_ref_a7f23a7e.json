@@ -1,0 +1,12 @@
+{
+  "id": "devops_ref_a7f23a7e",
+  "category": "devops",
+  "level": 4,
+  "language": "general",
+  "insight": "# Search Traces — Conversation-Level Search\n\nSearch agent traces at the conversation level. Returns summaries grouped by conversation or operation, not individual spans.\n\n## Prerequisites\n\n- App Insights resource resolved (see [trace.md](../trace.md) Before Starting)\n- Selected agent root, environment, effective context source, and metadata overlay confirmed\n- Time range confirmed with user (default: last 24 hours)\n\n## Search by Conversation ID\n\nKeep the selected environment visible in the summa",
+  "tags": [
+    "api",
+    "data",
+    "file"
+  ]
+}

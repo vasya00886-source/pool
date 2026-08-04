@@ -1,0 +1,13 @@
+{
+  "id": "rust_systems_ref_4a42a38d",
+  "category": "rust_systems",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Reviewing Property-Based Tests\n\nEvaluate quality of existing property-based tests and suggest improvements.\n\n## Quick Reference\n\n| Issue | Severity | Detection | Fix |\n|-------|----------|-----------|-----|\n| Tautological | CRITICAL | Assertion compares same expression | Rewrite with actual property |\n| Vacuous | CRITICAL | Contradictory `assume()` calls | Remove or fix filters |\n| Weak (no assertion) | HIGH | Test body has no assert | Add meaningful assertion |\n| Reimplementation | HIGH | Ass",
+  "tags": [
+    "api",
+    "automation",
+    "testing",
+    "file"
+  ]
+}

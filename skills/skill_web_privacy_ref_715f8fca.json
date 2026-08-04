@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_715f8fca",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Bicep Generation\n\nGenerate Bicep IaC files from the approved infrastructure plan.\n\n> Important: All Bicep files must be created under `<project-root>/infra/`. Never place `.bicep` files in the project root or in `.azure/`.\n\n## File Structure\n\nGenerate files under `<project-root>/infra/`:\n\n\ninfra/\n├── main.bicep              # Orchestrator — deploys all modules\n├── main.bicepparam         # Parameter values\n└── modules/\n    ├── storage.bicep        # One module per resource or logical group",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker",
+    "file"
+  ]
+}

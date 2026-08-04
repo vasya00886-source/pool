@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_3_036a2147",
+  "category": "python_ai",
+  "level": 3,
+  "language": "python",
+  "insight": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to instrument app, App Insights SDK, telemetry patterns, what is App Insights, Application Insights guidance, instrumentation examples, APM best practices.",
+  "tags": [
+    "automation",
+    "docker",
+    "web",
+    "cli",
+    "file"
+  ]
+}

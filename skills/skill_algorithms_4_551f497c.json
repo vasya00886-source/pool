@@ -1,0 +1,14 @@
+{
+  "id": "algorithms_4_551f497c",
+  "category": "algorithms",
+  "level": 4,
+  "language": "general",
+  "insight": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

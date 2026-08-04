@@ -1,0 +1,14 @@
+{
+  "id": "security_research_4_d867bc1e",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "Detects fail-open insecure defaults (hardcoded secrets, weak auth, permissive security) that allow apps to run insecurely in production. Use when auditing security, reviewing config management, or analyzing environment variable handling.",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

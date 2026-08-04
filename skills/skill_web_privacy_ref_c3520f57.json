@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_c3520f57",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# Code Deployment — Static Web Apps\n\n## Static Web Apps — Content Deployment (Step 6c)\n\nDeploy content using the SWA CLI with deployment token.\n\n**Pre-check:** Verify `swa` CLI is installed: `npx --yes @azure/static-web-apps-cli --version`. If not available, install: `npm install -g @azure/static-web-apps-cli`.\n\n> ⛔ **Pre-deploy: Build the frontend if SPA source (not pre-built HTML).** Check if the SWA component directory has a `package.json` (or equivalent manifest) with a `build` script. If ye",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

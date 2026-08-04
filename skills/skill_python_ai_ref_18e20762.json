@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_ref_18e20762",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Datasets and Indexes Reference\n\n## Datasets\n\n### Upload File\n\npython\nfrom azure.ai.projects.models import DatasetVersion\n\ndataset = project_client.datasets.upload_file(\n    name=\"my-dataset\",\n    version=\"1.0\",\n    file_path=\"./data/training_data.csv\",\n    connection_name=\"my-storage-connection\",\n)\nprint(f\"Dataset uploaded: {dataset.name} v{dataset.version}\")\n\n\n### Upload Folder\n\npython\nimport re\nfrom azure.ai.projects.models import DatasetVersion\n\ndataset = project_client.datasets.up",
+  "tags": [
+    "data",
+    "cli",
+    "file"
+  ]
+}

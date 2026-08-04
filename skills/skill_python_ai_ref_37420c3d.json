@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_ref_37420c3d",
+  "category": "python_ai",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Deploy via `az` CLI\n\nUse this path when there is **no** `azure.yaml` or it doesn't target `appservice`.\n\n> ⛔ **NEVER USE `az webapp up`** — this command is deprecated. Use the explicit create + deploy commands below.\n\n## Prerequisites\n\n- `az login` complete\n- Subscription, resource group, region, and app name decided (see [create-app.md](create-app.md))\n- App Service Plan (Linux, P0v3) and Web App (Python runtime) exist (see [create-app.md](create-app.md))\n\n## 1. Enable server-side build\n\nb",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "docker",
+    "web"
+  ]
+}

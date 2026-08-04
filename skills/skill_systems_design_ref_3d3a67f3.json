@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_3d3a67f3",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Asset-Template Skill Layout\n\nUse this layout when reusable templates, schemas, or static artifacts carry most of the skill's value.\n\n## Choose this layout when\n\n- the skill fills in or adapts reusable artifacts\n- the runtime procedure is small compared to the bundled assets\n- output quality depends on stable templates or schemas\n\n## File layout\n\ntext\nmy-skill/\n├── SKILL.md\n└── assets/\n    ├── template.md\n    └── schema.json\n\n\n## Required contract\n\n1. `SKILL.md` tells the agent when to lo",
+  "tags": [
+    "file"
+  ]
+}

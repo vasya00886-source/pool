@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_3adb7945",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "rust",
+  "insight": "# Constant-Time Analysis: Swift\n\nAnalysis guidance for Swift targeting iOS, macOS, watchOS, and tvOS. Swift compiles to native code, making it subject to the same CPU-level timing side-channels as C, C++, Go, and Rust.\n\n## Understanding Swift Compilation\n\nSwift compiles directly to native machine code:\n\ntext\nSource Code (.swift)\n        |\n        v\n    swiftc (Swift Compiler / LLVM)\n        |\n        v\n   Native Assembly\n        |\n        v\n   Machine Code (binary)\n\n\n**Key implications:**",
+  "tags": [
+    "performance",
+    "automation",
+    "security",
+    "data",
+    "testing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "databases_ref_67cb0c92",
+  "category": "databases",
+  "level": 4,
+  "language": "general",
+  "insight": "# Architecture Planning\n\nSelect hosting stack and map components to Azure services.\n\n## Stack Selection\n\n| Stack           | Best For                                               | Azure Services                    |\n| --------------- | ------------------------------------------------------ | --------------------------------- |\n| **Containers**  | Docker experience, complex dependencies, microservices | Container Apps, AKS, ACR          |\n| **Serverless**  | Event-driven, variable traffic, cost",
+  "tags": [
+    "api",
+    "performance",
+    "security",
+    "data",
+    "docker"
+  ]
+}

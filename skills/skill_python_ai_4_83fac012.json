@@ -1,0 +1,14 @@
+{
+  "id": "python_ai_4_83fac012",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "Supported languages: Python, JavaScript/TypeScript, Go, Java/Kotlin, C/C++, C#, Ruby, Swift.\n**Skill resources:** Reference files and templates are located at {baseDir}/references/ and {baseDir}/workflows/.\n1. **Database quality is non-negotiable.** A database that builds is not automatically good. Always run quality assessment (file counts, baseline LoC, extractor errors) and compare against expected source files. A cached build produces zero useful extraction.",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

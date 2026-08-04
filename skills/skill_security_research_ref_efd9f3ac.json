@@ -1,0 +1,13 @@
+{
+  "id": "security_research_ref_efd9f3ac",
+  "category": "security_research",
+  "level": 4,
+  "language": "general",
+  "insight": "# Tier Structure and Packaging\n\n## Contents\n- How Many Tiers?\n- Good-Better-Best Framework\n- Tier Differentiation Strategies\n- Example Tier Structure\n- Packaging for Personas (Identifying Pricing Personas, Persona-Based Packaging)\n- Freemium vs. Free Trial (When to Use Freemium, When to Use Free Trial, Hybrid Approaches)\n- Enterprise Pricing (When to Add Custom Pricing, Enterprise Tier Elements, Enterprise Pricing Strategies)\n\n## How Many Tiers?\n\n**2 tiers:** Simple, clear choice\n- Works for: Cl",
+  "tags": [
+    "api",
+    "security",
+    "data",
+    "file"
+  ]
+}
