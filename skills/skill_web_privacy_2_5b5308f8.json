@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_2_5b5308f8",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "This skill opens a closed receptacle to allow access to its contents or to enable interaction with it. It should be triggered when the agent encounters a closed receptacle (e.g., 'The fridge 1 is closed.') that must be opened to proceed with a task, such as cooling an item with a fridge or taking an object from inside a cabinet. The skill outputs the 'open' action on the specified receptacle.",
+  "tags": [
+    "security",
+    "data",
+    "file"
+  ]
+}

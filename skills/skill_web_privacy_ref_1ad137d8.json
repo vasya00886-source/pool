@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_1ad137d8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# SkillNet Security & Privacy Reference\n\n## Credential Scope\n\n- **API_KEY**: Used solely for authenticating with your chosen LLM endpoint (`BASE_URL`). **Never** sent to the SkillNet search API or any other third party.\n- **GITHUB_TOKEN**: Sent only to `api.github.com` to access repositories. Only `repo:read` scope is needed. Never forwarded to any other service.\n\n## Network Endpoints & Data Flow\n\n| Endpoint                 | Used by                   | Data sent",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

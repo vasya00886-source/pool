@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_e4604ad3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "This skill connects two electrical components (e.g., wires, batteries, devices) by their terminals to build or modify a circuit. Use when constructing electrical setups for testing, such as conductivity checks or device activation. The input includes two component identifiers and their connection points, and the output is an established electrical connection.",
+  "tags": [
+    "testing",
+    "cli",
+    "file"
+  ]
+}

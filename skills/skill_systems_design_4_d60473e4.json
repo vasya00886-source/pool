@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_4_d60473e4",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "Use when the agent needs to check whether an ALFWorld task objective has been met after completing a sub-action (e.g., placing an object). This skill parses the task goal, evaluates the latest environment observation, and outputs a verification decision — task complete, task incomplete, or action ineffective — to guide the next step.",
+  "tags": [
+    "automation",
+    "data",
+    "testing"
+  ]
+}

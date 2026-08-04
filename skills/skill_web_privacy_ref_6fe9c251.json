@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_6fe9c251",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for Animal Identification\n\n## Essential Actions\nThe following actions from the ScienceWorld environment are core to this skill's execution.\n\n### `teleport to <LOCATION>`\n*   **Purpose:** Instantly move the agent to a named room.\n*   **Usage:** Critical for initial positioning. Always use if the target animal is known to be elsewhere.\n*   **Example:** `teleport to outside`\n\n### `look around`\n*   **Purpose:** Describes the current room and lists all objects, containers, and entitie",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

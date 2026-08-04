@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_426e01cc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for Object Fetching\n\n## Primary Action\n`pick up OBJ`\n*   **Effect:** Moves the specified object from the environment into the agent's inventory.\n*   **Precondition:** The object must be present in the current room and accessible (not fixed, not inside a *closed* container).\n*   **Postcondition:** The object is listed in the agent's inventory and can be referenced as `OBJ in inventory`.\n\n## Supporting Actions\n*   `look around`: **CRITICAL.** Use this to scan the current room and i",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

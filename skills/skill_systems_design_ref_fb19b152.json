@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_fb19b152",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common ScienceWorld Task Patterns\n\nThis reference catalogs frequent instruction patterns and their corresponding parsing logic.\n\n## Pattern 1: Find and Move\n*   **Instruction Template:** \"Find a(n) [OBJECT_TYPE]. First, focus on the thing. Then, move it to the [CONTAINER] in the [ROOM].\"\n*   **Parsed Components:**\n    *   Target Object Type: `[OBJECT_TYPE]` (e.g., non-living thing, red wire, light bulb)\n    *   Target Location: `[CONTAINER]` in `[ROOM]`\n    *   Action Sequence: `find` -> `focu",
+  "tags": [
+    "data",
+    "docker"
+  ]
+}

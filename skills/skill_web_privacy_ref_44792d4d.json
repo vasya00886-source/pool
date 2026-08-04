@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_44792d4d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Patterns for Planting\n\n## Core Planting Action\nThe fundamental action for this skill is:\n`move <SEED_SOURCE> to <CONTAINER>`\n\n**Example:** `move banana seed in seed jar to flower pot 1`\n\n## Resolving Ambiguity\nThe environment may generate ambiguous requests when multiple identical objects are present. The standard resolution pattern is:\n\n1.  The agent issues a `move` command.\n2.  The environment responds with a numbered list of possible interpretations.\n3.  The agent selects the intende",
+  "tags": [
+    "docker",
+    "cli"
+  ]
+}

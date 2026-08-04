@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_3725ae8d",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Use when the agent has just obtained a numerical measurement (temperature, weight, pH) and must compare it against a predefined threshold to determine a binary outcome. This skill extracts the measured value, evaluates it against the threshold condition (above/below), and executes the corresponding branch action such as classification or placement.",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

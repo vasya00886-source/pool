@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_6e5404b1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Alfworld Action Guide & Conventions\n\n## Core Action Set\nThe agent can perform the following atomic actions. `{obj}` and `{recep}` must be replaced with exact names from observations.\n\n1.  `go to {recep}` - Navigate to a receptacle.\n2.  `take {obj} from {recep}` - Pick up an object from a receptacle.\n3.  `put {obj} in/on {recep}` - Place a held object onto/in a receptacle.\n4.  `open {recep}` - Open a closed receptacle (e.g., drawer, fridge).\n5.  `close {recep}` - Close an open receptacle.\n6.  `",
+  "tags": []
+}

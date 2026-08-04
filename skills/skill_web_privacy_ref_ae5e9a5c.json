@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_ae5e9a5c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Action Primer for Environment Scanning\n\n## Primary Scanning Action\n*   `look around`: Describes the current room, listing all visible objects, substances, and doors to other rooms. This is the core action for the `scienceworld-environment-scanner` skill.\n\n## Context for Other Common Actions\n*(This section is for reference when planning post-scan steps. Do not use these during the scan itself.)*\n\n### Navigation\n*   `teleport to LOC`: Instantly moves the agent to a named room (e.g.,",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_3_674208dc",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Executes the purchase action for a confirmed suitable product on an e-commerce page. Use when a product has been verified against the user's requirements (price, attributes) and the decision is to buy. Performs a click[Buy Now] action on the purchase button to complete the transaction.",
+  "tags": [
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

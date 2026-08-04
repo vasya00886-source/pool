@@ -1,0 +1,13 @@
+{
+  "id": "systems_design_ref_ccef0769",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Evaluation Logic Reference\n\n## Parsing Rules for WebShop Observations\nThe WebShop environment presents data in a specific text format. Key parsing assumptions:\n1.  The observation is split by the `[SEP]` delimiter.\n2.  The user's instruction follows the token `Instruction:`.\n3.  Product listings typically follow this pattern on a search page:\n    `[ASIN] [Title] [Price]`\n    *   **ASIN:** A 10-character alphanumeric identifier, usually starting with 'B' (e.g., `B09NYFDNVX`).\n    *   **Title:**",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

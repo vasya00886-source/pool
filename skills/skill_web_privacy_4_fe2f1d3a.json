@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_fe2f1d3a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Parses the natural language task goal to extract actionable sub-objectives and required objects. Trigger this skill whenever a new task is assigned to break down complex instructions into clear, sequential targets. It interprets phrases like 'look at X under Y' to identify target objects (pillow), reference objects (desklamp), and spatial relationships (under).",
+  "tags": [
+    "automation",
+    "data",
+    "docker"
+  ]
+}

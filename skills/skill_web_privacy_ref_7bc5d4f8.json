@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_7bc5d4f8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Action Glossary for Measurement\n\n## Core Measurement Actions\n*   `use TOOL on TARGET`: The primary action for obtaining a measurement. Triggers the tool's function on the target and returns a reading in the observation.\n*   `focus on OBJECT`: Signals intent on a task-critical object. Use this on the measurement tool and target after picking them up to confirm readiness.\n\n## Navigation & Search Actions\n*   `teleport to ROOM`: Instantly move to any named room. Use this to efficientl",
+  "tags": [
+    "data",
+    "docker",
+    "file"
+  ]
+}

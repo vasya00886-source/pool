@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_1d61c09b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Device Specifications & Activation Protocols\n\n## Blast Furnace\n- **Purpose:** High-temperature melting of metals and materials.\n- **Activation Command:** `activate blast furnace`\n- **Typical Operating Temperature:** 400-2000°C\n- **Safety Protocols:**\n  - Ensure materials are in a heat-resistant container (e.g., metal pot).\n  - Verify door is open before loading (usually pre-opened in this environment).\n  - Do not touch while activated.\n- **Confirmation Output:** \"The blast furnace is now activ",
+  "tags": [
+    "security",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

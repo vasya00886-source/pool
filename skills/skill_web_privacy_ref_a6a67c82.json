@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_a6a67c82",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Heating Appliances in ALFWorld\n\nThis reference lists typical appliances used for the `heat` action and their common states.\n\n## Primary Appliances\n*   **microwave {N}**\n    *   **Default State:** Usually closed.\n    *   **Preparation:** Often requires opening. May contain other items that need removal.\n    *   **Action:** `heat {obj} with microwave {N}`\n*   **stoveburner {N}**\n    *   **Default State:** Typically off (not toggled).\n    *   **Preparation:** May need to be toggled on firs",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

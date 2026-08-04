@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_510ebe6a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reference: WebShop Pagination Controls\n\n## Context\nThis document details the structure and identifiers for pagination elements within the WebShop environment, as observed in the provided trajectory.\n\n## Observed Pagination Format\nPagination controls appear within the observation text, following the page information header. The format is consistent:\n`[SEP] < Prev [SEP] Next > [SEP]`\n\n## Control Identification\n*   **\"Next >\"**: The control to advance to the next page of results. The exact clicka",
+  "tags": [
+    "web",
+    "cli"
+  ]
+}

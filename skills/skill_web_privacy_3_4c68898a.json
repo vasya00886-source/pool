@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_4c68898a",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill chemically mixes the contents of a container using the 'mix' action. Use when all required ingredients (e.g., sodium chloride and water) are present inside a container and the agent needs to combine them to produce a new substance. The skill performs the mixing operation and outputs the resulting product, completing the synthesis step of the task.",
+  "tags": [
+    "docker"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_cd25c196",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Activates a device (e.g., blast furnace, stove) to initiate a process like heating. Use this skill when you have placed materials inside a device and need to start its operation. Takes a device name as input and outputs a confirmation of activation, enabling tasks that require energy input or material processing to progress.",
+  "tags": [
+    "file"
+  ]
+}

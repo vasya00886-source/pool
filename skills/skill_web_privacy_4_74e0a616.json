@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_74e0a616",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "This skill opens or closes a receptacle (like a fridge, cabinet, or microwave) to access its interior or secure it. It should be triggered when an object needs to be placed inside/retrieved from a closed container, or when an open container should be closed (e.g., for energy efficiency or task cleanliness). The skill decides the appropriate 'open' or 'close' action based on the receptacle's current state and the task context.",
+  "tags": [
+    "testing",
+    "docker",
+    "file"
+  ]
+}

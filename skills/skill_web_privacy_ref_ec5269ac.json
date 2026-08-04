@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_ec5269ac",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Environment\n\nThis document lists common actions used in conjunction with the `scienceworld-instruction-reader` skill to execute tasks based on extracted instructions.\n\n## Navigation & Exploration\n*   `teleport to LOC`: Instantly move to a named room (e.g., `teleport to workshop`).\n*   `look around`: Observe the current room's contents and exits.\n\n## Inventory & Object Manipulation\n*   `pick up OBJ`: Move an object into your inventory.\n*   `examine OBJ`: Get a det",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "file"
+  ]
+}

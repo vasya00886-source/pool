@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_d7b4a26e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Circuit Building Basics\n\n## Common Components & Terminals\n| Component | Typical Terminals | Notes |\n| :--- | :--- | :--- |\n| **Battery** | `anode` (positive, +), `cathode` (negative, -) | Power source. |\n| **Wire** | `terminal 1`, `terminal 2` | Conducts current. Color is cosmetic. |\n| **Light Bulb** | `anode`, `cathode` | Lights up when current flows. |\n| **Buzzer** | `anode`, `cathode` | Sounds when current flows. |\n| **Switch** | `terminal 1`, `terminal 2` | Must be `activate`d to close the",
+  "tags": [
+    "testing",
+    "cli",
+    "file"
+  ]
+}

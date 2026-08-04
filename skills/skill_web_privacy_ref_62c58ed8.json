@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_62c58ed8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Skill Application Example: Growing an Avocado Plant\n\nThis document illustrates how the `scienceworld-tool-user` skill was applied in a specific trajectory to progress a task.\n\n## Scenario: Digging Soil with a Shovel\n**Goal:** Obtain soil for planting an avocado seed.\n**Prerequisites Met:**\n1.  Tool (`shovel`) was acquired via `pick up shovel` in the greenhouse.\n2.  Target (`ground`) was identified in the `outside` location.\n\n**Skill Execution:**\n*   **Action:** `use shovel on ground`\n*   **Sys",
+  "tags": [
+    "data"
+  ]
+}

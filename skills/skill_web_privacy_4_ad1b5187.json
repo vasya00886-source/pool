@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_ad1b5187",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Inspects the contents of a container or device using the 'look at' action. Use this skill when you need to verify what is inside a container (e.g., checking if lead is in the blast furnace), monitor the state of contents (e.g., solid vs. liquid phase changes), or confirm that a placement or process step succeeded. Returns a detailed list of contents and their states for process monitoring.",
+  "tags": [
+    "automation",
+    "data",
+    "docker"
+  ]
+}

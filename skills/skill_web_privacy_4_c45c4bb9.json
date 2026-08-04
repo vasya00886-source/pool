@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_4_c45c4bb9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Prepares a household appliance (microwave, oven, toaster, fridge) for use by ensuring it is in the correct open/closed state. Use when the agent needs to heat, cool, or cook an item and must first open or close the appliance before placing an object inside. Takes an appliance identifier as input and outputs a confirmation that the appliance is ready for the next action.",
+  "tags": [
+    "file"
+  ]
+}

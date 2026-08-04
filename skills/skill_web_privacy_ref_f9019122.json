@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_f9019122",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Action Semantics for 'cool'\n\n## Definition\nThe `cool {obj} with {recep}` action reduces the temperature of a held object (`{obj}`) by interacting with a cooling appliance (`{recep}`).\n\n## Semantics from Trajectory\n*   **Agent State:** The agent must be holding `{obj}`.\n*   **Location:** The agent must be at the location of `{recep}`. The trajectory shows the agent at `fridge 1` before executing `cool pot 1 with fridge 1`.\n*   **Receptacle State:** The receptacle (e.g., `fridge 1`) does not nec",
+  "tags": []
+}

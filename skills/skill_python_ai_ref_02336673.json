@@ -1,0 +1,10 @@
+{
+  "id": "python_ai_ref_02336673",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Room Priority Guide for Liquid Sources\n\nThis guide ranks rooms based on the observed likelihood of containing accessible liquids in the ScienceWorld environment. Use this to inform the search order.\n\n## Tier 1: High Probability\n*   **Kitchen:** Contains multiple fixed sources (`sink`) and portable containers (`cup`, `pot`, `jar`). Often has consumable liquids (e.g., `orange juice` in fridge).\n*   **Bathroom:** Contains fixed sources (`sink`, `toilet`, `bathtub`). Frequently has `water`.\n\n## Ti",
+  "tags": [
+    "docker"
+  ]
+}

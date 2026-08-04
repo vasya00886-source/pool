@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_7_b801e663",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "go",
+  "insight": "Plans and executes movement to a target receptacle within the ALFWorld environment. Use when the agent needs to reach a specific location before interacting with objects there (e.g., go to fridge to cool an item, go to garbagecan to dispose of an item). Takes a receptacle identifier as input, executes the go to action, and outputs confirmation of arrival at the destination.",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "file"
+  ]
+}

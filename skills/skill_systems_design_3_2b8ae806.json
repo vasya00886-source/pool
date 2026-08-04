@@ -1,0 +1,14 @@
+{
+  "id": "systems_design_3_2b8ae806",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "You are verifying product attributes on a detailed product page. Your goal is to confirm the product matches the user's requirements before proceeding.\nYou receive an **Observation** containing:\n- The original user instruction (e.g., \"find a black leather wallet, price lower than 40.00 dollars\")\n- Product details: Title, Price, Rating\n- Available options (e.g., color buttons like \"black\", \"brown\")\n- Available actions (e.g., \"Buy Now\", \"Back to Search\", \"Description\")",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

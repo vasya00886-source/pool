@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_d3eea54b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Action Glossary\nThis is a quick reference for common actions used in task execution. Use `look around` and `teleport to LOC` as the primary tools for the navigation and observation phases of this skill.\n\n## Core Navigation & Observation\n*   `teleport to LOC`: Instantly move to a named room/location. Use this first if a target location is specified.\n*   `look around`: Describes the current room and lists all visible objects, agents, and doors. Use this immediately after arriving at",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

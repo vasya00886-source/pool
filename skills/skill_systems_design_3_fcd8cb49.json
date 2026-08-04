@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_3_fcd8cb49",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "Use when the agent needs to locate, identify, and focus on a specific animal or biological entity in the ScienceWorld environment. This skill handles tasks involving animal comparison, examination, or interaction (such as determining lifespan extremes) by navigating to the correct location with \"teleport to\", surveying with \"look around\", and executing \"focus on ANIMAL\" with the exact entity name.",
+  "tags": [
+    "data",
+    "testing"
+  ]
+}

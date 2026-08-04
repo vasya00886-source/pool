@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_3_d7e728b4",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "2.  **Validate Constraints:** Confirm you have at least one constraint extracted before proceeding. If the instruction contains no filterable criteria, skip filtering and select the first available product.\n3.  **Parse the Observation:** Extract the list of products from the search results page (Product ID, Title, Price, Rating if available).\n4.  **Apply Filters:** For each product, check it against **all** extracted constraints:\n    *   **Price Filter:** Is the product price strictly below the ",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

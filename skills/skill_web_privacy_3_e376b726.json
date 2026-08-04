@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_e376b726",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Handles picking up objects from the environment into the agent's inventory or moving them out to containers. Use this skill when you need to acquire an object for later use (pick up) or place an object into a specific container as part of a task requirement (move). Takes an object name and location as input and confirms the transfer to or from inventory.",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

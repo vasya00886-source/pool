@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_a0502784",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Action Primer for Room Scanning\n\n## The `look around` Action\n*   **Syntax:** `look around`\n*   **Effect:** Returns a detailed textual description of the agent's current room.\n*   **Key Observation Fields:**\n    1.  `This room is called <ROOM_NAME>.`\n    2.  `In it, you see:` - Lists all objects, substances, and the agent itself.\n    3.  `On <CONTAINER> is:` / `In <CONTAINER> is:` - Describes contents of open containers and furniture.\n    4.  `You also see:` - Lists all doorways to",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "docker"
+  ]
+}

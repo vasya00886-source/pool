@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_11fd5d3c",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Systematically searches a sequence of likely locations for a target object based on common sense. Use when you need to find a specific object and know which receptacles to check but not which one contains it. Takes a list of candidate receptacles, orchestrates navigation and inspection, and outputs when the target is found or all locations are exhausted.",
+  "tags": [
+    "file"
+  ]
+}

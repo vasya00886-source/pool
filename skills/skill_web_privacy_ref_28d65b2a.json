@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_28d65b2a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Trajectory Analysis for Recipe Retrieval\n\n## Observed Successful Pattern\nFrom the provided trajectory, the successful recipe acquisition followed this sequence:\n\n1. **Initial Context**: Task involves creating \"salt water\" using chemistry\n2. **Environment Survey**: Agent teleported to workshop after initial room checks\n3. **Recipe Identification**: `look around` revealed \"A recipe titled instructions to make salt water\"\n4. **Acquisition**: `pick up recipe` moved it to inventory\n5. **Verificatio",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

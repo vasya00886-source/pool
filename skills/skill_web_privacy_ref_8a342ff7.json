@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_8a342ff7",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Full Task Trajectory Example\n\nThis reference document contains the complete execution trajectory from which the `alfworld-object-retriever` skill was derived. It demonstrates the skill's use in context.\n\n## Original Task\n**Goal**: \"heat some potato and put it in diningtable.\"\n\n## Relevant Skill Execution Segment\n1. **Observation**: \"On the garbagecan 1, you see a egg 2, a potato 3, and a soapbottle 1.\"\n   *This provides the visual confirmation required for the skill.*\n2. **Thought**: \"I've fou",
+  "tags": []
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_8c037f9a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Environment\n\n## Relevant Actions for This Skill\n- `teleport to <LOC>`: Move instantly to a named room.\n- `look around`: Observe the current room and its contents.\n- `pick up <OBJ>`: Take an object into your inventory.\n- `use <OBJ> [on <OBJ>]`: Employ a tool (e.g., thermometer) on a target.\n- `move <OBJ> to <OBJ>`: Transfer an object (from inventory) to a container.\n- `focus on <OBJ>`: Signal intent on a task-relevant object.\n\n## Key Object Types\n- **Measurement T",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

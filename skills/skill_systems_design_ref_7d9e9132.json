@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_7d9e9132",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reference: Common E-commerce Purchase UI Patterns\n\nThis document catalogs common button text and UI patterns for purchase actions across e-commerce platforms. Use this to improve the robustness of the purchase button detection logic.\n\n## Primary Purchase Buttons\n- **Buy Now**: The most direct purchase action. Often leads to a single-page checkout.\n- **Add to Cart**: Places item in shopping cart. May require a subsequent \"Checkout\" action.\n- **Purchase**: A generic term, common on some marketpl",
+  "tags": [
+    "automation"
+  ]
+}

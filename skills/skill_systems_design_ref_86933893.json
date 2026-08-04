@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_86933893",
+  "category": "systems_design",
+  "level": 4,
+  "language": "go",
+  "insight": "# Action Primer for ALFWorld\n\nThis reference details the core actions used in the `alfworld-locate-target-object` skill.\n\n## Primary Skill Actions\n| Action Format | Purpose | Example in Skill Context |\n| :--- | :--- | :--- |\n| `go to {recep}` | Move the agent to a specific receptacle or appliance. | `go to fridge 1` |\n| `open {recep}` | Open a closed receptacle to see or access its contents. | `open fridge 1` |\n\n## Critical Observation Patterns\n*   `The {recep} is closed.` -> You must `open` it.",
+  "tags": [
+    "file"
+  ]
+}

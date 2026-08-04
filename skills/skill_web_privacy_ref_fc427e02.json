@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_fc427e02",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Search Strategy Guide for E-commerce Agents\n\n## Attribute Priority Hierarchy\nUse this hierarchy to decide which attributes to include in your initial search string (Higher = More likely to include).\n\n1.  **Specific Variant Identifiers:** Exact size, exact color name (e.g., \"patent-beige\", \"midnight blue\"), exact model number.\n2.  **Product Type/Subcategory:** The core item type (e.g., \"high heel\", \"running shoe\", \"blender\").\n3.  **Key Material/Feature:** A primary material or feature if it's c",
+  "tags": [
+    "automation",
+    "data",
+    "cli"
+  ]
+}

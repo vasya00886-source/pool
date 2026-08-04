@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_11de9b80",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Skill Application Example\n\nThe following trajectory snippet from the `heat some potato` task demonstrates the `alfworld-appliance-preparer` skill in action. The core skill steps are highlighted.\n\n**Goal:** Heat some potato and put it in diningtable.\n\n1.  **[Prerequisite]** Agent acquires a potato.\n2.  **[Skill Trigger]** Agent needs to use the `microwave 1` to heat the potato.\n3.  **[Skill Execution - Prepare Appliance]**\n    *   `Thought:` Now that I have the potato, I need to find an applian",
+  "tags": [
+    "file"
+  ]
+}

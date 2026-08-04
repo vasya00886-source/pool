@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_d42be78d",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Analyzes user instructions in ScienceWorld environments to extract specific task requirements and constraints. Use when receiving a new task to identify required objects, target locations, and action sequences before taking any environment actions.",
+  "tags": [
+    "automation",
+    "data",
+    "docker"
+  ]
+}

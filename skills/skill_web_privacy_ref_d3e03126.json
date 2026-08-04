@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_d3e03126",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reference: Phase Change Observation Protocol\n\n## Overview\nCooling a substance to observe a phase change (e.g., liquid to solid) is a multi-step process. The `scienceworld-substance-cooler` skill is **Step 1**.\n\n## Full Workflow\n1.  **Initialization (This Skill):** Move the substance into a cooling appliance.\n2.  **Monitoring:** Periodically use a thermometer on the substance to track its temperature.\n    *   Command: `use thermometer on <SUBSTANCE_NAME>`\n    *   Frequency: Varies. Monitor unti",
+  "tags": [
+    "automation",
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

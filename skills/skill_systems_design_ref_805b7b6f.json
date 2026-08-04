@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_805b7b6f",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Attribute Patterns for WebShop Analysis\n\nUse these regular expression patterns to identify key attributes in product titles and descriptions.\n\n## Size Patterns\n- **US Size 5:** `r\"\\bsize\\s*5\\b|\\b5\\s*us\\b|\\b5\\.0\\b\"`\n- **Size Range (e.g., 5-13):** `r\"\\b5\\s*[-–]\\s*13\\b\"` (will match \"5-13\", \"5 – 13\")\n\n## Color & Material Patterns\n- **Patent Beige:** `r\"patent-beige|beige.*patent|patent.*beige|beige-almond toe-patent leather\"`\n- **Rubber Sole:** `r\"rubber\\s*sole|sole\\s*rubber\"`\n\n## Price Ex",
+  "tags": [
+    "automation",
+    "data",
+    "web"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_0a97b306",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# WebShop Action Format Reference\n\n## Valid Action Types\nThe WebShop environment accepts two primary action formats:\n\n1.  `search[keywords]`\n    *   Initiates a product search.\n    *   `keywords`: A string of search terms (e.g., `\"double horn bluetooth speaker\"`).\n\n2.  `click[value]`\n    *   Clicks on an interactive element on the page.\n    *   `value`: Must be an **exact match** of a value present in the current observation's list of available actions.\n    *   Common `value` types:\n        *",
+  "tags": [
+    "automation",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_b9f228b3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Query Patterns for Product Search\n\nThis reference document catalogs common linguistic patterns found in shopping queries to aid in the development and refinement of the query parser.\n\n## 1. Product Type Indicators\n- **Direct Request:** \"I need/want/looking for a [product]\"\n- **Imperative:** \"Find/show me [product]\"\n- **Question:** \"Where can I get [product]?\" or \"Do you have [product]?\"\n\n## 2. Attribute & Feature Patterns\n- **Adjective-Noun:** \"long hair\", \"natural looking extensions\"\n-",
+  "tags": [
+    "automation",
+    "data",
+    "testing",
+    "cli"
+  ]
+}

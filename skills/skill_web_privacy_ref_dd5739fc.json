@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_dd5739fc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Environment: Action Reference\n\n## Core Actions for Tool Fetching\n| Action | Format | Purpose | Notes for Tool Fetcher |\n|--------|--------|---------|------------------------|\n| `teleport to` | `teleport to LOC` | Move instantly to another room. | Use to navigate to likely tool locations (e.g., `kitchen`, `workshop`). |\n| `look around` | `look around` | Get a full description of the current room and visible objects. | **Primary search action.** Use first in a new room. |\n| `look at",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_c8fa9cd0",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "**Thought:** [Your reasoning about the search terms to use based on the user's requirements.]\n**Action:** search[<keywords>]\nOr, if selecting a product from results:\n**Thought:** [Your reasoning about which product best matches.]\n**Action:** click[<product_id>]",
+  "tags": [
+    "web",
+    "cli"
+  ]
+}

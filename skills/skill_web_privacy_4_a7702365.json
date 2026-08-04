@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_a7702365",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Inspects a receptacle's contents by navigating to it and reading the observation. Use when you need to check what is on or inside a receptacle (e.g., \"what's on the shelf\", \"is the holder empty\", \"check the table for items\"). Executes go to {receptacle}, parses the observation listing items present, and decides whether to take an item, search elsewhere, or proceed.",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

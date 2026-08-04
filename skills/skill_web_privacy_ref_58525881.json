@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_58525881",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Environment\n\n## Relevant Actions for Substance Fetching\n- `teleport to LOC`: Instantly move to a named room (e.g., `kitchen`, `workshop`).\n- `look around`: Get a full description of the current room and its contents.\n- `examine OBJ`: Get a detailed description of a specific object.\n- `look at OBJ`: Describe a container's contents (redundant if `look around` was just used).\n- `pick up OBJ`: Move a portable object to your inventory.\n- `move OBJ to OBJ`: Move an obj",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

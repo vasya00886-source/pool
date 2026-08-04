@@ -1,0 +1,12 @@
+{
+  "id": "game_theory_ref_b4eb7888",
+  "category": "game_theory",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Guidelines for WebShop Navigation\n\n## Valid Action Patterns\nThe environment only accepts actions in these formats:\n*   `search[keywords]`\n*   `click[value]`\n\n## Click Action Rules\n1.  **Exact Match Required:** The `value` inside `click[]` must be an exact, case-sensitive string match for a clickable element shown in the observation.\n2.  **Common Clickable Elements:**\n    *   Product IDs (e.g., `B08VJB28BL`)\n    *   Option buttons (e.g., `10 slots`, `Large`, `Blue`)\n    *   Navigation (e",
+  "tags": [
+    "automation",
+    "web",
+    "cli"
+  ]
+}

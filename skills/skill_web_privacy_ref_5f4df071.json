@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_5f4df071",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Container Inspection: Examples & Patterns\n\nThis document provides concrete examples of the `look at` action's output and how to interpret it for effective process monitoring.\n\n## Basic Structure\n**Action:** `look at cupboard`\n**Observation:**",
+  "tags": [
+    "docker"
+  ]
+}

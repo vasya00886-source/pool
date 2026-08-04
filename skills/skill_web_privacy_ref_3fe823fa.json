@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_3fe823fa",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# ALFWorld Action Reference\n\nThis document lists the core actions available to the agent, as defined in the trajectory. Use this for quick reference.\n\n## Action List\n1.  `go to {recep}` - Move to a specified receptacle.\n2.  `take {obj} from {recep}` - Pick up an object from a receptacle.\n3.  `put {obj} in/on {recep}` - Place an object into or onto a receptacle.\n4.  `open {recep}` - Open a closed receptacle (e.g., drawer, fridge).\n5.  `close {recep}` - Close an open receptacle.\n6.  `toggle {obj}",
+  "tags": []
+}

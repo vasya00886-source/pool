@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_8ce13ae4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Price String Patterns\nThis reference lists common formats for price strings encountered in e-commerce environments. The `check_price.py` script is designed to handle these.\n\n## Primary Patterns\n*   `$164.95`\n*   `Price: $164.95`\n*   `$277.99`\n*   `$100.0` (Note: May be displayed with one decimal place)\n*   `$1,299.99` (Includes comma as thousands separator)\n\n## Implied Context\nOn a product page, the price is often near:\n*   The \"Buy Now\" button.\n*   The product title.\n*   A label such a",
+  "tags": [
+    "automation"
+  ]
+}

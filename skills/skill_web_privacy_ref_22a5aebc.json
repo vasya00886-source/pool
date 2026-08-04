@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_22a5aebc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Trajectory Breakdown & Common Pitfalls\n\n## Example Trajectory Analysis\nThe provided successful trajectory for heating a potato and placing it on a dining table follows this pattern:\n\n1.  **Locate & Acquire Object:** `go to garbagecan 1` -> `take potato 3 from garbagecan 1`\n2.  **Navigate to Appliance:** `go to microwave 1`\n3.  **Prepare Appliance:** `open microwave 1` (Observation: \"The microwave 1 is open.\")\n4.  **Execute Heating:** `heat potato 3 with microwave 1` (Observation: \"You heat the",
+  "tags": [
+    "cli",
+    "file"
+  ]
+}

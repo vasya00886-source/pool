@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_4061691d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Trajectory Analysis: Task Completion Focus\n\n## Source Context\nThis skill is derived from the final segment of a \"grow a banana\" task trajectory.\n\n## Key Sequence\n1.  **Prerequisite Achievement:** Multiple banana trees have reached the \"reproducing stage\" and are bearing fruit (`a banana`).\n2.  **Verification:** Agent uses `look around` to confirm the presence of bananas.\n3.  **Execution Attempt:** Agent issues `focus on banana on banana tree in the reproducing stage`.\n4.  **Ambiguity:** Enviro",
+  "tags": [
+    "automation",
+    "cli"
+  ]
+}

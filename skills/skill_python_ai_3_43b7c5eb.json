@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_3_43b7c5eb",
+  "category": "python_ai",
+  "level": 3,
+  "language": "python",
+  "insight": "This skill formulates an effective search query from structured product criteria. It is used when initiating a product search on an e-commerce platform, converting attributes into a concise, relevant keyword string. The input is a set of parsed criteria (e.g., 'jewelry box', '10 slots', 'easy to clean', 'price < $60'), and the output is a formatted search action string (e.g., 'search[jewelry box, 10 slots, less than $60, easy to clean]') optimized for the platform's search engine.",
+  "tags": [
+    "automation",
+    "data",
+    "web"
+  ]
+}

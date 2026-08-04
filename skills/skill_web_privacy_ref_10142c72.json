@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_10142c72",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Appliance Interaction Guide\n\nThis guide details the prerequisites and common issues for using appliances to modify object states.\n\n## Core Modifier Actions\nThe following actions are directly supported by the skill:\n- `cool {obj} with {appliance}`\n- `heat {obj} with {appliance}`\n- `clean {obj} with {appliance}`\n\n## Appliance-Specific Protocols\n\n### Refrigerator (`fridge`)\n*   **Purpose:** Cooling objects.\n*   **Typical Prerequisites:**\n    *   The fridge does **not** need to be open to perform",
+  "tags": []
+}

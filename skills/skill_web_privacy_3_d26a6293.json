@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_d26a6293",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Places an object into one of several designated containers based on a measured condition, such as a temperature threshold. Use this skill when you have completed a measurement or assessment and the task requires sorting or storing the object into one of multiple containers according to a rule (e.g., \"if temperature > X, place in container A; otherwise container B\").",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

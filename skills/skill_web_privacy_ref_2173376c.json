@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_2173376c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Guide for ScienceWorld Temperature Measurement\n\n## Essential Actions\n| Action | Purpose | Example | Expected Observation Key Phrase |\n| :--- | :--- | :--- | :--- |\n| `pick up OBJ` | Acquire a tool or sample. | `pick up thermometer` | `You move the thermometer to the inventory.` |\n| `move OBJ to OBJ` | Transfer a substance or item. | `move lead to metal pot` | `You move the lead to the metal pot.` |\n| `activate OBJ` | Start a device. | `activate blast furnace` | `The blast furnace is now",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

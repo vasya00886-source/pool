@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_67d94837",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Trajectory Analysis & Rationale\n\n## Skill Derivation\nThis skill is extracted from the provided trajectory where the agent successfully grows an avocado plant. The critical pattern identified is the use of `focus on` as a deliberate action to signal monitoring intent on a biological entity, which appears to be a mechanic for tracking or enabling growth stages in the ScienceWorld environment.\n\n## Observed Workflow\n1.  **Locate & Acquire Seed:** `teleport to greenhouse` -> `look around` -> `pick",
+  "tags": [
+    "data",
+    "docker",
+    "cli"
+  ]
+}

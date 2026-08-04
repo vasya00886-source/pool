@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_4_8ceadcf3",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Places a held object onto or into a target receptacle. Trigger this skill when the agent is carrying an object and needs to deposit it at a specific location to complete a task, such as installing an item on a holder or storing it in a container. It takes the object and destination receptacle as inputs, performing a 'put' action to finalize the object's positioning according to the task goal.",
+  "tags": [
+    "docker"
+  ]
+}

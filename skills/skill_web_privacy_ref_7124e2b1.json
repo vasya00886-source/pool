@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_7124e2b1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Prerequisite Checklist for Planting Operation\n\nExecute the Planting Operation skill **only** when the following conditions are met:\n\n## Mandatory Prerequisites\n- [ ] **Seeds Acquired:** You have a source of seeds in your inventory or within reach (e.g., `seed jar` in inventory). Verify with `look at <seed_source>`.\n- [ ] **Containers Prepared:** The target planting containers (e.g., `flower pot 1`, `flower pot 2`) exist in the environment and **contain soil**. Verify with `examine <container>`",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

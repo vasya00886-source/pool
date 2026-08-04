@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_3_c0925e2f",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "Performs the first search on an e-commerce platform using keywords derived from parsed user requirements. Use when starting product discovery from a user instruction or when previous search results are insufficient and a new query is needed. It formulates a search query from the criteria (e.g., '24 pack of 7.5 ounce bottles of non-gmo classic tonic') and executes the search[] action, returning the initial result page.",
+  "tags": [
+    "data",
+    "web",
+    "cli"
+  ]
+}

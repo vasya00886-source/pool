@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_2a477dd6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Alfworld Action Reference\n\nThis document lists the core actions available to an agent in the Alfworld environment, as per the trajectory. Use this for quick reference when planning actions.\n\n## Action List & Format\nThe agent must output actions strictly in the format: `Action: <action command>`.\n\n| # | Action Template          | Description                                                                 | Example                     |\n|---|--------------------------|---------------------------",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "cli"
+  ]
+}

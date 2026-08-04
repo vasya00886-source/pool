@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_549fc61c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Environment\n\n## Relevant Actions for Pouring Skill\n*   `pour OBJ into OBJ`: The core action. Transfers the contents of the first object (source) into the second object (target).\n*   `look around`: Describes the current room and lists all visible objects and containers. Use this to find source and target containers.\n*   `examine OBJ`: Provides a detailed description of a specific object, which can help verify its contents or state.\n*   `look at OBJ`: Describes a c",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

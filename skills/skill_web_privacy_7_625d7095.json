@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_7_625d7095",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "go",
+  "insight": "Use when the agent is holding an object and needs to place it into a target receptacle in ALFWorld. This skill checks receptacle suitability, opens closed containers if needed, and executes the put command to store the object. It handles both open surfaces (countertops, beds) and closed containers (drawers, cabinets).",
+  "tags": [
+    "security",
+    "docker",
+    "cli"
+  ]
+}

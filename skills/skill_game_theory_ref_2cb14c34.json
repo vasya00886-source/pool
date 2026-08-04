@@ -1,0 +1,12 @@
+{
+  "id": "game_theory_ref_2cb14c34",
+  "category": "game_theory",
+  "level": 4,
+  "language": "general",
+  "insight": "# WebShop Action Guidelines\n\n## Action Format\nThe environment requires actions in one of two strict formats:\n*   `search[keywords]`\n*   `click[value]`\n\nThe `value` in a `click` action must be an **exact match** (case-insensitive) of an item in the list of available actions presented in the observation.\n\n## Available Actions Identification\nAvailable actions are typically indicated in the observation by:\n1.  **Clickable Buttons/Text:** Items like `Back to Search`, `< Prev`, `Next >`, `Buy Now`, `D",
+  "tags": [
+    "automation",
+    "web",
+    "cli"
+  ]
+}

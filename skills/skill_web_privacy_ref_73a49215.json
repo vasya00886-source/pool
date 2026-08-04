@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_73a49215",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Trajectory Analysis & Skill Derivation\n\n## Source Trajectory\n**Task:** \"put a clean potato in microwave\"\n\n**Key Steps:**\n1. Agent acquires potato from fridge.\n2. **Skill Trigger:** Task requires a *clean* potato.\n3. Agent navigates to `sinkbasin 1`.\n4. Agent executes: `clean potato 1 with sinkbasin 1`\n5. Environment confirms: \"You clean the potato 1 using the sinkbasin 1.\"\n6. Agent proceeds to place the now-clean potato in the microwave.\n\n## Skill Abstraction\nThe trajectory demonstrates a clea",
+  "tags": [
+    "cli"
+  ]
+}

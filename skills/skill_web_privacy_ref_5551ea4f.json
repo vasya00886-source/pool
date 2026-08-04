@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_5551ea4f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Troubleshooting Guide: Temperature Regulation\n\n## Common Issues & Solutions\n\n### 1. Action Results in \"Nothing happened\"\n*   **Object not found:** The `{obj}` or `{recep}` in your action may not be visible or may have a different identifier (e.g., `bread 2` instead of `bread 1`). Re-examine the latest observation list.\n*   **Invalid syntax:** Ensure your action string exactly matches the available action format (e.g., `take bread 1 from countertop 2`, not `pick up bread`).\n*   **Precondition n",
+  "tags": [
+    "testing",
+    "file"
+  ]
+}

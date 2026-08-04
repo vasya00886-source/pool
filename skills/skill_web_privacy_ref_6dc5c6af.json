@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_6dc5c6af",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Action Guide for Object Location\n\n## Core Actions for Search\n\n### `teleport to <ROOM_NAME>`\n- **Purpose:** Instantly move the agent to a specified room.\n- **Usage:** `teleport to kitchen`\n- **Note:** This is the primary movement action. Use it to navigate between candidate rooms efficiently.\n\n### `look around`\n- **Purpose:** Describes the current room, listing all visible objects and containers.\n- **Output Format:** \"This room is called <ROOM_NAME>. In it, you see: ...\"\n- **Critic",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

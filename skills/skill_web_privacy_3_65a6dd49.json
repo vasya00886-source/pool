@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_65a6dd49",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Reads a recipe or note from the inventory using the 'read' action and extracts key information. Use this skill when you have acquired a recipe, note, or readable document in your inventory and need to extract explicit instructions, ingredient lists, or procedural steps before executing a task.",
+  "tags": [
+    "data",
+    "file"
+  ]
+}

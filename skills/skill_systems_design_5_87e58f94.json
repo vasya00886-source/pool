@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_5_87e58f94",
+  "category": "systems_design",
+  "level": 5,
+  "language": "go",
+  "insight": "Plans a path to move the agent between receptacles to search for target objects. Use this when you need to traverse the environment to reach a specific location or systematically explore multiple areas. It takes the current location and destination receptacle as input, and outputs the next 'go to' action to approach the target.",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

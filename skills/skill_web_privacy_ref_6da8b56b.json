@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_6da8b56b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Troubleshooting Guide\n\n## Common Failure Modes\n\n### 1. \"Nothing happened\" after clean action\n**Possible Causes:**\n- You are not at the correct receptacle. Ensure you have executed `go to {recep}` first.\n- The object is not in your inventory. You must `take` the object before cleaning.\n- The receptacle is not valid for cleaning (e.g., `cabinet`). Use only `sinkbasin`.\n\n**Solution:**\n1. Verify your location with `Observation`.\n2. Verify inventory by checking if you recently picked up the object.",
+  "tags": []
+}

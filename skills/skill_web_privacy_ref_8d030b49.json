@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_8d030b49",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Usage Examples & Patterns\n\n## Example 1: Basic Focus & Move (from Trajectory)\n**Task:** \"Find a living thing. First, focus on the thing. Then, move it to the orange box in the workshop.\"\n\n**Agent Execution:**\n1.  Explore (`look around`) multiple rooms (living room, outside).\n2.  **Identify Target:** In `outside`, observe `a dove egg`.\n3.  **Apply Skill:** `focus on dove egg`\n4.  **Result:** Observation confirms focus.\n5.  **Next Action:** `pick up dove egg`, then `move dove egg to orange box`.",
+  "tags": []
+}

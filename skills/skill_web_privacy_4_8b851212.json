@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_4_8b851212",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "This skill introduces deliberate pauses in task execution. Use when the agent needs to consider next steps, evaluate intermediate results, or wait for processes to complete. The skill uses the 'wait1' or 'wait' actions to temporarily halt activity, preventing rushed decisions in complex experimental procedures.",
+  "tags": []
+}

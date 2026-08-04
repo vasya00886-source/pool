@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_08692dc9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# AlfWorld Action Reference for Disposal\n\n## Relevant Action Template\n`put {obj} in/on {recep}`\n\n## Description\nPlaces an object into or onto a receptacle. For disposal tasks, the receptacle is typically a `garbagecan`.\n\n## Preconditions\n1. The agent must be holding the object (`{obj}`).\n2. The agent must be at the location of the receptacle (`{recep}`).\n3. The receptacle must be accessible (e.g., not inside a closed container).\n\n## Common Disposal Receptacles\n- `garbagecan`\n- `sinkbasin` (for l",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

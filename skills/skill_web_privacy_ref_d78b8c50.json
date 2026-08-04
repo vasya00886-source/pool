@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_d78b8c50",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Example Trajectory: Examine Pillow with Desklamp\n\nThis document breaks down the provided execution trajectory to illustrate the skill's logic.\n\n## Trajectory Steps\n1.  **Goal:** \"examine the pillow with the desklamp.\"\n2.  **Step 1 (Locate Object):** `go to sofa 1` -> No pillow found.\n3.  **Step 2 (Locate Object):** `go to armchair 1` -> `pillow 1` found.\n4.  **Step 3 (Acquire Object):** `take pillow 1 from armchair 1` -> Success.\n5.  **Step 4 (Locate Tool):** `go to sidetable 1` -> `desklamp 1",
+  "tags": []
+}

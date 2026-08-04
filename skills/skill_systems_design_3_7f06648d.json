@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_3_7f06648d",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill scans product listings or detail pages to verify if an item's price meets a specified budget constraint. It is triggered when evaluating a potential product for purchase. It extracts the price from the displayed information (e.g., '$164.95') and compares it against the maximum allowed budget, outputting a boolean decision on whether the item is within budget.",
+  "tags": [
+    "automation",
+    "data",
+    "web"
+  ]
+}

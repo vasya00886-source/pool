@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_97959c14",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "This skill opens a closed receptacle to access its contents. It should be triggered when an agent needs to interact with items inside a closed container (e.g., fridge, microwave, drawer). The skill takes a receptacle identifier as input, performs the open action, and outputs the observation of the interior, enabling subsequent item retrieval or placement.",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_3_b4d632ff",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "Focuses on a specific target object to signal task completion. Use when you have produced the required final object (like a grown banana) and need to formally complete the assigned task. This handles the 'focus on OBJ' action that typically marks successful task execution in the environment.",
+  "tags": []
+}

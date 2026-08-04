@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_3_49ece5ff",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill parses a user's high-level scientific task in the ScienceWorld environment and extracts the core objective and target location. It should be triggered when a new task instruction is received, especially those involving finding, comparing, or manipulating objects. The skill interprets the query to identify the goal (e.g., 'find the animal with the shortest life span') and any specified locations (e.g., 'animals are in the outside location'), outputting a clear, actionable sub-goal for",
+  "tags": [
+    "data",
+    "testing",
+    "file"
+  ]
+}

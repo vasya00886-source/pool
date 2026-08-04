@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_28c6bc18",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Example Execution: Placing a Clean Soapbar\n\nThis document provides a reference trajectory demonstrating the `alfworld-receptacle-finder` skill.\n\n**Task:** `put a clean soapbar in shelf.`\n\n**Agent Trajectory:**\n1.  **Locate Object:** The agent first finds a `soapbar 1` on the `toilet 1` and takes it.\n2.  **Pre-condition Check:** The agent ensures the soapbar is `clean` by using the `sinkbasin 1`.\n3.  **Receptacle Search Initiated:** The skill is triggered. The agent begins surveying shelves.",
+  "tags": []
+}

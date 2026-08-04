@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_5a0d6c9a",
+  "category": "systems_design",
+  "level": 4,
+  "language": "go",
+  "insight": "# AlfWorld Action Reference for State Inspection\n\n## Relevant Actions for This Skill\nThis skill is used in conjunction with the `go to` action. The inspection is performed by the environment's feedback *after* a successful navigation.\n\n**Primary Pre-condition Action:**\n*   `go to {recep}` - Moves the agent to a specific receptacle. The subsequent observation reveals the receptacle's state.\n\n## Observation Patterns\nThe environment responds to `go to {recep}` with one of the following patterns:\n\n1",
+  "tags": [
+    "file"
+  ]
+}

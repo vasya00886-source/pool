@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_426d75be",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ALFWorld Action Primer for Receptacle Closing\n\n## Available Actions Context\nThe agent operates with a discrete set of actions. The relevant action for this skill is:\n- `close {recep}`: Closes the specified receptacle if it is currently open.\n\n## Common Receptacle Types\n*   `drawer #`\n*   `cabinet #`\n*   `fridge #`\n*   `microwave #`\n*   `box #`\n*   `washingmachine #`\n\n## Trajectory Logic Extract\nThe skill is derived from the following step in the provided trajectory:\n1.  Agent opened `drawer 2`",
+  "tags": [
+    "data"
+  ]
+}

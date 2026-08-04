@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_4_84bfd795",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "Places an object into a designated container (like a colored box) based on a test outcome. It should be triggered when the agent needs to finalize a task by storing an object according to a rule (e.g., conductive → blue box, non-conductive → orange box). The input is the object and the rule, and the output is the object moved to the correct container.",
+  "tags": [
+    "automation",
+    "testing",
+    "docker",
+    "file"
+  ]
+}

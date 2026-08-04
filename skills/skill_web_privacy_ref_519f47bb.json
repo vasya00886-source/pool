@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_519f47bb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Example Trajectory Breakdown\n\nThis document breaks down the provided execution trajectory to illustrate the skill's intended use.\n\n## Scenario\n**User Instruction:** \"i am looking for an easy to clean jewelry box with 10 slots, and price lower than 60.00 dollars\"\n\n### Step 1: Initial Search\n*   **Observation:** Search page is presented.\n*   **Agent Thought:** Need to find item matching criteria. Start with a targeted search.\n*   **Agent Action:** `search[jewelry box, 10 slots, less than $60, ea",
+  "tags": [
+    "cli"
+  ]
+}

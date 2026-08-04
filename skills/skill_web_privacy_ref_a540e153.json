@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_a540e153",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Execution Guide\n\n## After Evaluation: What to Do Next\n\nOnce the threshold evaluation is complete, you must execute the appropriate action based on the result.\n\n### 1. Identify the Target Action\n\nFrom the original instruction, identify the two possible actions:\n- **Action A**: What to do if the condition is `True` (value above/below threshold)\n- **Action B**: What to do if the condition is `False` (value not above/below threshold)\n\n**Example from trajectory:**\n- If temperature > 50.0: `f",
+  "tags": [
+    "data",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

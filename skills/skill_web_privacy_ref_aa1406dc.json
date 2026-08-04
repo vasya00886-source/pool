@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_aa1406dc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# ALFWorld Action Reference\n\n## Available Actions\nThe ALFWorld environment supports the following action types:\n\n### Navigation & Interaction\n1. `go to {recep}` - Move to a receptacle\n2. `take {obj} from {recep}` - Pick up an object from a receptacle\n3. `put {obj} in/on {recep}` - Place an object in/on a receptacle\n4. `open {recep}` - Open a receptacle\n5. `close {recep}` - Close a receptacle\n6. `toggle {obj} {recep}` - Toggle an object (e.g., switch)\n7. `clean {obj} with {recep}` - Clean an obje",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

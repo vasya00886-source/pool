@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_669e9dc7",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Operates a device or appliance (like a desklamp, microwave, or fridge) to interact with another object. Use when the task requires using a tool on a target item (e.g., \"look at laptop under the desklamp\", \"heat potato with microwave\"). Locates both the device and target object, co-locates them, and executes the appropriate use action (toggle, heat, cool, or clean).",
+  "tags": [
+    "automation"
+  ]
+}

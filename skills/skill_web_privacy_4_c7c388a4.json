@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_c7c388a4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Uses a shovel tool to dig soil from the ground in outdoor environments. Execute this skill when you need to obtain soil for planting tasks and have both the shovel in inventory and access to an appropriate digging location. The skill produces soil that can then be collected and transported.",
+  "tags": [
+    "data",
+    "docker",
+    "cli"
+  ]
+}

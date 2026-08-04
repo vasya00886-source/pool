@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_5f62f1aa",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Execution Examples & Edge Cases\n\n## Primary Example (From Trajectory)\n**Scenario:** Need an avocado seed from a seed jar in the greenhouse.\n1.  **Observation Context:** `a seed jar (containing a avocado seed, a avocado seed, ...)`\n2.  **Skill Execution:** `pick up seed jar`\n3.  **Success Output:** `You move the seed jar to the inventory.`\n\n**Note:** In the provided trajectory, the entire container was picked up. The skill principle remains the same for picking up a specific item *from* the con",
+  "tags": [
+    "docker"
+  ]
+}

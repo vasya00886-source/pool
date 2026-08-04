@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_99374f74",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for Planting\n\n## Relevant Actions from the Trajectory\n- `look around`: Describes the current room and its contents.\n- `teleport to LOC`: Instantly moves the agent to a specified room.\n- `pick up OBJ`: Moves an object from the environment into the agent's inventory.\n- `move OBJ to OBJ`: Transfers an object from one container to another. This is the **core action** for planting.\n- `focus on OBJ`: Signals intent to monitor or work on a specific object. Use after planting.\n\n## Handli",
+  "tags": [
+    "automation",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

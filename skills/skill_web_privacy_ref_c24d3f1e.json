@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_c24d3f1e",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Sense Location Priorities\n\nThis reference provides typical search priorities for household objects, derived from general world knowledge. Use this to generate the initial `candidate_receptacles` list for the `alfworld-search-pattern-executor` skill.\n\n## High-Priority Locations (Search First)\n*   **Surfaces near seating/entertainment:** Coffee tables, side tables, sofas, armchairs, TV stands.\n*   **General storage surfaces:** Dressers, countertops, desks, shelves.\n*   **Designated storag",
+  "tags": [
+    "docker"
+  ]
+}

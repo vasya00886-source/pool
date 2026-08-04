@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_0bbec883",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Reference: Common Container Properties\n\nThis document lists typical containers found in the ScienceWorld environment and their inferred properties to guide selection for the transfer skill.\n\n## Container Types & Suitability\n\n| Container          | Typical Material | Heat Resistance | Suggested Use Case                                  |\n| :----------------- | :--------------- | :-------------- | :-------------------------------------------------- |\n| **Metal Pot**      | Metal            | **H",
+  "tags": [
+    "api",
+    "docker",
+    "cli"
+  ]
+}

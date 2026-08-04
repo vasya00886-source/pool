@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_66dc62c1",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill generates effective search keywords based on parsed product criteria. It is triggered after query parsing, when the agent needs to perform an initial product search on an e-commerce platform. The skill takes structured attributes (e.g., 'women's size 5 patent-beige high heel') and produces a concise, platform-appropriate search string designed to return relevant results, balancing specificity with recall.",
+  "tags": [
+    "api",
+    "data",
+    "web"
+  ]
+}

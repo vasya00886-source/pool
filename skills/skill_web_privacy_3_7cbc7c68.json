@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_7cbc7c68",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Navigates to and interacts with a specific product's detail page. This skill is triggered after a candidate product ID is selected from search results. It performs the click action to load the product page and then identifies available interactive elements (like flavor or size selectors) that need to be configured to match the user's requirements.",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

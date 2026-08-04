@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_eb102908",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# SkillNet API & CLI Reference\n\n## REST API (Public, No Auth)\n\n**Base URL**: `https://api-skillnet.openkg.cn/v1`\n\n> **Data handling**: The search API only sends your query string to return matching skills. No local files, credentials, or personal data are transmitted during search or download operations.\n\n### `GET /search`\n\n| Parameter   | Type   | Default      | Description                            |\n| ----------- | ------ | ------------ | -------------------------------------- |\n| `q`",
+  "tags": [
+    "api",
+    "performance",
+    "automation",
+    "security",
+    "data"
+  ]
+}

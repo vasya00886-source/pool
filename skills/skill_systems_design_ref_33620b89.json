@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_ref_33620b89",
+  "category": "systems_design",
+  "level": 4,
+  "language": "go",
+  "insight": "# ALFWorld Action Specification\nThis document details the exact action grammar the agent must use.\n\n## Available Actions\nThe agent can ONLY use actions from this list. `{obj}` and `{recep}` must be replaced with exact identifiers from observations.\n\n1.  `go to {recep}`\n2.  `take {obj} from {recep}`\n3.  `put {obj} in/on {recep}`\n4.  `open {recep}`\n5.  `close {recep}`\n6.  `toggle {obj} {recep}`\n7.  `clean {obj} with {recep}`\n8.  `heat {obj} with {recep}`\n9.  `cool {obj} with {recep}`\n\n## Formattin",
+  "tags": []
+}

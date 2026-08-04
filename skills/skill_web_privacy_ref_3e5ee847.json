@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_3e5ee847",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# ScienceWorld Object Taxonomy\n\n## Living Things Category\n### Animals\n- Mammals: wolf, dog, cat, mouse, rat\n- Reptiles: turtle, crocodile, lizard, snake\n- Birds: bird, chicken, duck\n- Fish: fish, goldfish\n- Insects: ant, bee, butterfly, spider\n\n### Animal States & Parts\n- Eggs: turtle egg, crocodile egg, bird egg\n- Young: baby [animal], young [animal]\n- Remains: fur, feather, bone\n\n### Plants\n- Trees: tree, sapling\n- Flowers: flower, rose, tulip\n- General: plant, leaf, seed, sprout\n- Crops: whea",
+  "tags": [
+    "data",
+    "docker"
+  ]
+}

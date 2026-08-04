@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_7ac5eb7d",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Use when the agent needs to measure a quantitative property (temperature, weight, pH) of a target object or substance using a measurement tool. This skill covers acquiring the tool, preparing both tool and target with focus actions, executing the measurement via \"use [TOOL] on [TARGET]\", and interpreting the resulting value for conditional decisions such as classification or placement.",
+  "tags": [
+    "file"
+  ]
+}

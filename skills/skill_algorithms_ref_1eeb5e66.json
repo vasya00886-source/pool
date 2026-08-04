@@ -1,0 +1,10 @@
+{
+  "id": "algorithms_ref_1eeb5e66",
+  "category": "algorithms",
+  "level": 4,
+  "language": "go",
+  "insight": "# ALFWorld Search & Fallback Patterns\n\n## Core Principle\nWhen the primary search path fails, systematically explore the environment using known object-location associations.\n\n## 1. Object Location Priors\nUse these common associations to guide search when an object is not in its expected location.\n\n| Object Type      | Common Receptacles/Locations                         | Priority |\n|------------------|------------------------------------------------------|----------|\n| desklamp         | desk,",
+  "tags": [
+    "file"
+  ]
+}

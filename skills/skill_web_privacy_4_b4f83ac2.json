@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_b4f83ac2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Searches for a specific target object across multiple rooms by systematically teleporting to likely locations and examining each room. Use this skill when you need to find an object whose exact location is unknown. Iterates through candidate rooms using teleport and look around, checks for the object, and continues until found, returning the object's location.",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

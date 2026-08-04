@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_17a0e194",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Analyzes room observations to identify potential living things (e.g., eggs, plants, animals) among listed objects. Use this skill when a task involves finding, focusing on, or interacting with a living thing, biological entity, or organism. Processes observation text, flags candidate living items based on domain knowledge, and outputs a focused target for subsequent actions like focus on or pick up.",
+  "tags": [
+    "docker"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_8c3d0b27",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Skill Usage Examples\n\n## Example 1: Basic Location (from trajectory)\n**Observation**: \"You are in the middle of a room. Looking quickly around you, you see a bathtubbasin 1, a cart 1, a countertop 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a handtowelholder 1, a shelf 1, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.\"\n\n**Goal**: \"put some dishsponge on toilet\"\n\n**Agent Thought**: \"I need to find the dishsponge. Let me scan the environment for lik",
+  "tags": [
+    "file"
+  ]
+}

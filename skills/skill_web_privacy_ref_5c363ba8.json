@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_5c363ba8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Skill Derivation from Trajectory\n\n## Source Trajectory Summary\n**Task**: Put a toiletpaper in toiletpaperhanger.\n**Successful Navigation Sequence**:\n1.  `go to toiletpaperhanger 1` - Initial approach to check state\n2.  `go to toilet 1` - Navigate to object source\n3.  `go to toiletpaperhanger 1` - Return for final placement\n\n## Extracted Navigation Logic\n1.  **Target Identification**: Agent first identifies the target location from the task description.\n2.  **State Checking**: Agent navigates t",
+  "tags": [
+    "automation",
+    "data",
+    "file"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_2eae7b81",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Trajectory Example: Pot Preparation\nThis reference shows the skill in use within the broader context of the \"grow an avocado\" task.\n\n## Context\nThe agent is in the `greenhouse` and needs to prepare three flower pots (`flower pot 1`, `flower pot 2`, `flower pot 3`) for planting avocado seeds. Soil has been previously collected and is in the agent's inventory.\n\n## Skill Execution Sequence\n1.  **Prepare Flower Pot 1**\n    *   **Action**: `move soil in inventory to flower pot 1`\n    *   **Observat",
+  "tags": [
+    "file"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_3_6f934c22",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Use when the ScienceWorld environment returns an \"Ambiguous request\" prompt with a numbered list of identical action options. This skill resolves the disambiguation by selecting the lowest available number (typically 0) to proceed, ensuring task progression when multiple identical object instances exist and the system cannot automatically determine which instance to act upon.",
+  "tags": []
+}

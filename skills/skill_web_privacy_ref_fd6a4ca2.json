@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_fd6a4ca2",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Botanical Growth & Pollination Patterns\n\n## Observed Timeline (Derived from Trajectory)\nThe following pattern was observed for banana plant growth in the provided simulation environment. Use this as a heuristic for similar tasks.\n\n1.  **Planting to Reproduction:** ~30 simulation steps (3 x `wait` actions).\n    *   Action Sequence: Plant seed -> `wait` (x3) -> Plant reaches \"reproducing stage\" with flowers.\n\n2.  **Flowering to Fruit Set:** Variable, requires pollination trigger.\n    *   Observa",
+  "tags": [
+    "docker",
+    "cli"
+  ]
+}

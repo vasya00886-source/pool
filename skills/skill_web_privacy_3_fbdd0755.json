@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_fbdd0755",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Moves a specified object from the environment or inventory into a target container based on a classification decision. Use this skill when a task requires sorting or storing an object in a specific location after an assessment (e.g., placing a conductive object in the blue box or a non-conductive object in the orange box).",
+  "tags": [
+    "testing",
+    "docker",
+    "file"
+  ]
+}

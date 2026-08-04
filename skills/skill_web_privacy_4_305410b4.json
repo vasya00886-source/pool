@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_4_305410b4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "This skill searches for a specific receptacle (e.g., garbage can, cabinet) by systematically exploring the environment, checking multiple locations until found. Trigger when the target receptacle is not initially visible, often after scanning nearby areas. It outputs the receptacle's location and may involve navigating through multiple waypoints.",
+  "tags": [
+    "file"
+  ]
+}

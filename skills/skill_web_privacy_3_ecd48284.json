@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_ecd48284",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Performs an initial survey of a room to identify all visible objects, containers, devices, and their states using the 'look around' action. Use this skill when you first enter a new location, need to refresh your understanding of the environment, or must identify available resources before planning a sequence of actions. Returns a detailed observation that serves as foundational context for subsequent tasks.",
+  "tags": [
+    "data",
+    "docker"
+  ]
+}

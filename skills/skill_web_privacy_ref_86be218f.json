@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_86be218f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Material Properties\n\n## Electrical Conductivity\n\n### Conductive Materials (Place in Orange Box)\n- **Metals**: copper, aluminum, iron, steel, silver, gold\n- **Graphite**: pencils, electrodes\n- **Electrolyte solutions**: salt water, acid solutions\n- **Human body**: when wet\n\n### Nonconductive Materials (Place in Yellow Box)\n- **Glass**: windows, jars, bottles\n- **Ceramics**: cups, plates, insulators\n- **Plastics**: most synthetic materials\n- **Wood**: dry wood, furniture\n- **Rubber**: glo",
+  "tags": [
+    "testing",
+    "docker"
+  ]
+}

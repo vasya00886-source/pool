@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_500dc51b",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "This skill verifies and prepares a target receptacle for receiving an object. It is triggered before placing an item into a receptacle (e.g., a garbage can) to ensure the receptacle is accessible and suitable. The skill involves navigating to the receptacle, observing its state (e.g., open/closed, occupied), and performing any necessary preparatory actions like opening it, resulting in a ready-to-use target location.",
+  "tags": [
+    "file"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_6a211c23",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Closes an open receptacle to maintain environment tidiness after inspection. Use when you have finished searching a container (drawer, cabinet, fridge) and no longer need it open. Takes a receptacle identifier as input and outputs confirmation that the receptacle is closed, preventing clutter during multi-step search tasks.",
+  "tags": [
+    "docker"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_e040b44d",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Verification Examples\n\nUse these examples to understand how the skill should interpret observations.\n\n## Scenario: Task is \"find two pen and put them in garbagecan.\"\n\n### Example 1: After first successful placement\n- **Observation:** \"You put the pen 3 in/on the garbagecan 1.\"\n- **Verification:** \"Verification: Task incomplete. Continue searching for pen.\"\n- **Reasoning:** One pen is in the garbage can, but the goal requires two.\n\n### Example 2: After second successful placement\n- **Observatio",
+  "tags": [
+    "file"
+  ]
+}

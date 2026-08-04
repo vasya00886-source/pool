@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_567c08a0",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Object Classifications for ScienceWorld\n\nUse this reference to evaluate if an object matches a task's categorical requirement (e.g., \"non-living thing\", \"container\").\n\n## Living vs. Non-Living\n*   **Non-Living:** Tools, devices, components, furniture, substances (e.g., `wire`, `battery`, `light bulb`, `table`, `box`, `air`, `water`).\n*   **Living:** Organisms, plants, animals (e.g., `mouse`, `fern`). If not explicitly described as living, assume non-living.\n\n## Common Functional Types\n*",
+  "tags": [
+    "docker"
+  ]
+}

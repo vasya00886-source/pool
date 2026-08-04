@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_55a8cb66",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "**Thought:** [Summarize the user's constraints, evaluate each product against them, and justify your selection.]\n**Action:** click[<product_id>]\n**Instruction:** \"i need a teeth whitening toothpaste that also freshens breath, and price lower than 15.00 dollars\"\n**Observation (Search Results Page):**\n- B09NYFDNVX: \"Whitening Toothpaste with Breath Freshener\" — $12.99\n- B08KZPTL3M: \"Professional Teeth Whitening Kit\" — $24.99\n- B07HQRJ4WP: \"Mint Fresh Whitening Toothpaste\" — $9.49",
+  "tags": [
+    "data",
+    "web",
+    "cli"
+  ]
+}

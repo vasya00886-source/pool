@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_c257829a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Action Primer for Conditional Tasks\n\n## Core Actions Used in Trajectory\n*   `teleport to <LOC>`: Move instantly to a named room.\n*   `look around`: Observe all objects and doors in the current room.\n*   `pick up <OBJ>`: Move a portable object into your inventory.\n*   `focus on <OBJ>`: Signal intent or completion on a task-relevant object. **This is the key action for this skill.**\n*   `move <OBJ> to <OBJ>`: Place an object inside a container or onto a surface.\n*   `activate <OBJ>`",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

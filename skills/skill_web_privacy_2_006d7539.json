@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_2_006d7539",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "This skill searches rooms for a liquid source (e.g., sink, toilet, jug) by sequentially surveying different locations. It should be triggered when the task requires obtaining a liquid (like water) and the agent does not have immediate access to it. The skill involves teleporting to candidate rooms, looking around, and identifying potential sources, guiding the agent toward the nearest available liquid.",
+  "tags": [
+    "api",
+    "docker",
+    "file"
+  ]
+}

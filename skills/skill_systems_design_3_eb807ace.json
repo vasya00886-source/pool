@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_3_eb807ace",
+  "category": "systems_design",
+  "level": 3,
+  "language": "javascript",
+  "insight": "Executes timed waiting using 'wait' or 'wait1' actions to advance the simulation clock. Use when a time-dependent process like plant growth, chemical reaction, or mechanical cycle must progress before you can continue the task.",
+  "tags": [
+    "api"
+  ]
+}

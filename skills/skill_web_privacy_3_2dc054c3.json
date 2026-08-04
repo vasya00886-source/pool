@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_2dc054c3",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Navigates the agent to a target appliance (microwave, stove, fridge, or sinkbasin) needed for object processing. Use when you are holding an object that needs heating, cooling, or cleaning and must move to the correct appliance station. Identifies the required appliance from the task context and executes the movement action.",
+  "tags": [
+    "cli",
+    "file"
+  ]
+}

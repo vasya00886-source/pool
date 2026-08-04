@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_6e8d8d36",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for Object Retrieval\n\n## Essential Actions\n*   `look around`: Describes the current room and lists all visible objects and agents. Use this first to find your target.\n*   `pick up OBJ`: Moves the specified object from the environment into your inventory. This is the core action of this skill.\n*   `teleport to LOC`: Instantly moves you to a named room (e.g., `teleport to workshop`). Use if the object is known to be in another location.\n\n## Supporting Actions (Use as Needed)\n*   `e",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

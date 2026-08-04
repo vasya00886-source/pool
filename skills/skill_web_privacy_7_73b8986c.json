@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_7_73b8986c",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "go",
+  "insight": "Uses a heating appliance (microwave, stoveburner, oven) to apply heat to a specified object. Use when the task requires warming or cooking an item (e.g., \"heat some egg\", \"warm the mug\") and a heating appliance is available. Takes the object name and appliance name as input and outputs the object in a heated state, ready for placement at the task's target location.",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

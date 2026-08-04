@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_cc3b7c72",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Guide: Extracting Constraints from User Instructions\n\nThis guide helps parse natural language shopping instructions into structured filters for the `webshop-result-filter` skill.\n\n## Common Constraint Patterns\n\n### 1. Price Constraints\n*   **Maximum Price:** `lower than X dollars`, `under X`, `less than X`, `below X`, `cheaper than X`\n    *   Extract: `max_price = X`\n*   **Price Range:** `between X and Y dollars`\n    *   Extract: `min_price = X`, `max_price = Y`\n*   **Exact Price:** `around X",
+  "tags": [
+    "data",
+    "web",
+    "cli"
+  ]
+}

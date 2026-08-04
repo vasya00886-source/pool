@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_2a18da19",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# AlfWorld Action Guide for Object Placement\n\n## Core Action\n`put {obj} in/on {recep}`\n\n## Preposition Rules\nUse the following guide to choose `in` or `on`:\n\n### Use `in` for:\n- Enclosed containers: `cabinet`, `fridge`, `microwave`, `drawer`, `garbagecan`, `box`, `shelf` (if it has walls).\n- Receptacles that hold items internally.\n\n### Use `on` for:\n- Surfaces: `countertop`, `desk`, `table`, `shelf` (open).\n- Holders: `toiletpaperhanger`, `towelholder`, `handtowelholder`, `plateholder`.\n- Applia",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

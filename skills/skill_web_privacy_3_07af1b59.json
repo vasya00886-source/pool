@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_07af1b59",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill retrieves a specified item from a container by using the 'pick up' action. It should be triggered when the agent has identified a needed item inside an open container (e.g., a jar, box, or hive) and must transfer it to inventory for later use. The skill handles the object transfer, assuming the container is already accessible, and outputs confirmation that the item is now in the agent's inventory.",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

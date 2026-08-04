@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_4_0a9b8323",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "If any check fails, do not use this skill. Instead, revert to selecting the correct option or searching for a different product.\n**Instruction:** \"i need a teeth whitening toothpaste that also freshens breath, and price lower than 15.00 dollars\"\n**Observation:** Product page for \"Whitening Toothpaste with Breath Freshener\" — Price: $12.99, Size: 4oz (selected), Flavor: Mint (selected). Available actions: click[buy now], click[back to search].",
+  "tags": [
+    "automation",
+    "web",
+    "cli",
+    "file"
+  ]
+}

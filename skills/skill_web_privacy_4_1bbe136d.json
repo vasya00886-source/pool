@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_4_1bbe136d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "This skill selects and focuses on a specific object to signal task intent or prepare it for manipulation. Use when you have identified a target object that meets task criteria (e.g., a living thing) and need to formally select it before performing actions like moving or using the object in ScienceWorld tasks. The skill uses the 'focus on OBJ' action, taking the object name as input.",
+  "tags": [
+    "automation"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_a4a16f00",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Prepares a planting pot by moving soil from inventory into an empty or water-filled pot. Use this when setting up a growth environment for seeds or plants. It performs the 'move soil to flower pot X' action, transforming the container into a viable planting medium. This skill is atomic and can be repeated for multiple pots.",
+  "tags": [
+    "data",
+    "docker"
+  ]
+}

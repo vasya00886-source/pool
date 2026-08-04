@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_8d78b28c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Use when you need to transfer a target substance into an appropriate container for processing (e.g., a pot for heating, a beaker for mixing). Trigger after acquiring the substance and before setting up an apparatus. Selects a suitable empty container and moves the substance into it.",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

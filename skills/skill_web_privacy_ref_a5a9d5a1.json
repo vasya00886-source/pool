@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_a5a9d5a1",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for Environment Isolation\n\n## Relevant Standard Actions\n*   `look around`: **Critical.** Use this first to survey the room and identify all closable openings (doors, gates, windows).\n*   `close OBJ`: The core action. `OBJ` must be the exact name of the opening as listed in the `look around` observation (e.g., \"door to the outside\").\n\n## Handling Ambiguity\nIf an action (like `focus on OBJ`) returns an \"Ambiguous request\" prompt after isolation, it is unrelated to this skill. Resol",
+  "tags": []
+}

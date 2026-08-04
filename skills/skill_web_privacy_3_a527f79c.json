@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_a527f79c",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Teleports the agent to a specified room within the ScienceWorld environment. Use when the agent needs to move between different locations to locate objects or access specific facilities. The input is a target room name, and the output is the agent arriving at that room, ready for further interaction.",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

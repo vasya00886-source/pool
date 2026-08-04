@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_e7a98f94",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill initiates the cooling of a substance by moving it into a cooling appliance like a freezer. Use when a task requires lowering the temperature of a specific material to observe phase changes. The skill takes the substance (often in a container) and the target appliance as inputs, using the 'move OBJ to OBJ' action. It outputs confirmation of the new location.",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

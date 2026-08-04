@@ -1,0 +1,12 @@
+{
+  "id": "python_ai_3_15594de7",
+  "category": "python_ai",
+  "level": 3,
+  "language": "python",
+  "insight": "This skill evaluates a list of search results against the target product criteria. Trigger it when a search result page is observed, to identify promising product listings. It analyzes each result's title, price, and brief description to shortlist items that best match the required attributes (like size, color, and price), outputting a prioritized list of candidate product IDs or links for further inspection.",
+  "tags": [
+    "automation",
+    "data",
+    "web"
+  ]
+}

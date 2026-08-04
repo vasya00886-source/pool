@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_d3c316c8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Mistakes in Multi-Object Collection Tasks\n\n## Analysis from Trajectory Data\n\n### 1. Redundant Searching\n**Mistake:** Checking the same empty container multiple times consecutively\n**Example from trajectory:** After finding cellphones on desk, agent rechecked all drawers\n**Solution:** Maintain search history and skip recently-searched empty locations\n\n### 2. Delayed Placement\n**Mistake:** Continuing search after finding first object instead of placing it immediately\n**Optimal pattern:**",
+  "tags": [
+    "data",
+    "docker"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_3cfd55de",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# ALFWorld Environment Guide for Receptacle Searching\n\n## Overview\nThis document provides context about the ALFWorld environment to aid in receptacle searching. It is intended to be loaded into the agent's context when needed.\n\n## Common Receptacle Types\n1. **Cabinets (cabinet 1-20)**: Often closed; may contain items. The garbage can is typically not inside a cabinet.\n2. **Countertops (countertop 1, 2)**: Usually open surfaces with items placed on them.\n3. **Tables (diningtable 1, 2)**: Similar",
+  "tags": [
+    "docker"
+  ]
+}

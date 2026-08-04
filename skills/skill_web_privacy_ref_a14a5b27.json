@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_a14a5b27",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Relevant Trajectory Excerpts for Soil Extraction\n\nThe following actions from the provided trajectory demonstrate the core, repeatable pattern of the soil-extraction skill.\n\n## Pattern: Dig -> Collect\nThis sequence was successfully executed three times to obtain soil for three flower pots.\n\n1.  **First Extraction:**\n    *   Action: `use shovel in inventory on ground`\n    *   Observation: `You dig a hole in the ground, and place the soil nearby.`\n    *   Follow-up: `pick up soil`\n\n2.  **Second E",
+  "tags": [
+    "data",
+    "cli"
+  ]
+}

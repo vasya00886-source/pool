@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_e095124e",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Use when the agent needs to choose a specific object from multiple candidates in the environment based on task criteria such as object type (non-living thing, electrical component, container), properties, or category. This skill surveys visible objects with \"look around\", evaluates each against the task requirements, selects the most suitable candidate, and signals intent with \"focus on [OBJECT]\".",
+  "tags": [
+    "docker"
+  ]
+}

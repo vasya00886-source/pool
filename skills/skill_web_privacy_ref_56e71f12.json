@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_56e71f12",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Environment\n\nThis reference details the actions used in the provided trajectory that are relevant to the object-placer skill's prerequisite steps.\n\n## Core Placement Action\n*   `move OBJ to OBJ`: Transfers an object to a container. This is the final action of the skill.\n    *   *Example:* `move metal pot to blue box`\n\n## Supporting Actions (Pre-Skill)\nThese actions are typically part of the assessment phase that occurs *before* this skill is triggered.\n*   `pick",
+  "tags": [
+    "automation",
+    "testing",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

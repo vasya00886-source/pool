@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_27da0d15",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Strategy Documentation for Option Selection\n\n## Overview\nThis document details the decision-making strategies for the `webshop-option-selector` skill.\n\n## Primary Strategy: Cost Minimization\n**When to Use:** Default strategy when no user preference is detected.\n**Logic:** Select the option value presumed to be the lowest cost. In e-commerce, this is often:\n- The smallest quantity (e.g., \"1pcs\" vs \"2pcs\").\n- The base model or standard variant.\n- The default color or size.\n\n**Implementation Note",
+  "tags": [
+    "api",
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

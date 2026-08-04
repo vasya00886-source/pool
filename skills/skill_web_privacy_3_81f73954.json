@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_81f73954",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill selects a product variant (e.g., size, quantity) from available options on a product detail page. It is triggered when a product page displays multiple choices, assessing the options (like '1.1 pound (pack of 1)' or 'pack of 2') and selecting one that aligns with user needs, often defaulting to a standard single unit if unspecified.",
+  "tags": [
+    "data",
+    "web",
+    "cli"
+  ]
+}

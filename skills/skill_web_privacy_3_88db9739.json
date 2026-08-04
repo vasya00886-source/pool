@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_88db9739",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "javascript",
+  "insight": "This skill observes the state of an active apparatus and its contents to track progress. Use when you need to periodically check for state changes (e.g., solid to liquid) during a heating or reaction process. The skill uses 'look at' or 'examine' actions on the apparatus and substance.",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

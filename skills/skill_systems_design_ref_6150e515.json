@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_6150e515",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Device Locations in ALFWorld\n\nThis guide lists typical receptacles where specific devices are found. Use this to prioritize search order in **Phase 1** of the skill.\n\n## Lighting & Electronics\n*   **Desklamp:** `desk`, `sidetable`, `dresser`\n*   **Floorlamp:** Next to `armchair`, `sofa`, in `corner`\n*   **Cellphone:** `sidetable`, `desk`, `bed`\n\n## Kitchen Appliances\n*   **Microwave:** `countertop`, `kitchen cabinet`\n*   **Fridge:** Standalone unit (often its own receptacle like `fridge",
+  "tags": [
+    "cli"
+  ]
+}

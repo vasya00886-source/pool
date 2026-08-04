@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_86dd8f19",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Common State Transitions in ScienceWorld\n\nThis document lists observable state changes for common substances and processes. Use these as reference when interpreting the output of `examine` commands.\n\n## Heating/Melting Processes\n| Substance | Initial State | Transition State | Final State (Melted) |\n| :--- | :--- | :--- | :--- |\n| Chocolate | `chocolate` | `softening chocolate` (optional) | `liquid chocolate` |\n| Ice / Water | `ice` | `water` (melting) | `water` |\n| Wax | `wax` | `soft wax` |",
+  "tags": [
+    "automation",
+    "cli"
+  ]
+}

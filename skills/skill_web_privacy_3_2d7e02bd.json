@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_2d7e02bd",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Transfers the contents of a source liquid container into a target container for mixing or preparation. Use this skill when you need to combine multiple substances (such as paints or chemicals) into a single vessel, or when a liquid must be moved from one container to another before processing.",
+  "tags": [
+    "docker"
+  ]
+}

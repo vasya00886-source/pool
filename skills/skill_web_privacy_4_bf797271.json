@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_bf797271",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Use when the agent needs to find a specific object in ALFWorld that is not currently in inventory and whose location is unknown. This skill parses the environment observation, ranks receptacles by likelihood of containing the target object using common-sense reasoning, and outputs a navigation action to the most promising location.",
+  "tags": [
+    "security",
+    "data",
+    "docker",
+    "cli",
+    "file"
+  ]
+}

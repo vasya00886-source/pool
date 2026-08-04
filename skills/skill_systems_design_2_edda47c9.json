@@ -1,0 +1,8 @@
+{
+  "id": "systems_design_2_edda47c9",
+  "category": "systems_design",
+  "level": 2,
+  "language": "general",
+  "insight": "This skill disposes of an object by placing it into a disposal receptacle like a garbage can. It should be triggered when the task requires discarding an object (e.g., 'put it in garbagecan') and the agent is at the disposal location with the object in hand. The skill executes the 'put' action to place the object in/on the target receptacle, completing the disposal subtask.",
+  "tags": []
+}

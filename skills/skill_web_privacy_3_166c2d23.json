@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_166c2d23",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill plants a seed or small plant into a suitable growth container (e.g., a flower pot with soil and water). It should be triggered when the agent has acquired a seed and needs to initiate the plant growth process by placing it into a prepared environment. The skill coordinates the 'move' action to transfer the seed from inventory to the target container, resolving any ambiguity if multiple instances exist.",
+  "tags": [
+    "data",
+    "docker",
+    "file"
+  ]
+}

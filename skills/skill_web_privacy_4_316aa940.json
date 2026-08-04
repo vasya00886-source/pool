@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_4_316aa940",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "This skill locates and acquires a recipe or instruction document by using 'pick up' on the recipe object. Use when the task involves following a specific procedure (e.g., crafting, mixing) and the agent needs to obtain the written instructions. The skill assumes the recipe is visible in the current room and moves it to the inventory, allowing the agent to read it later to understand required ingredients and steps.",
+  "tags": [
+    "file"
+  ]
+}

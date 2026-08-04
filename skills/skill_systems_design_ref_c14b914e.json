@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_c14b914e",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# WebShop Action Protocol Reference\n\n## Overview\nThis document details the strict action-response protocol used in the WebShop environment that this skill operates within.\n\n## Action Format\nAll actions must be output in one of two formats:\n\n1. **Search Action:** `search[<keywords>]`\n   *   `<keywords>`: A string of search terms. These should be carefully chosen to match the user's request.\n   *   **Usage:** Primarily used before this skill is triggered. This skill focuses on post-search navigati",
+  "tags": [
+    "api",
+    "web",
+    "cli"
+  ]
+}

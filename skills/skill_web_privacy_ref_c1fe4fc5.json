@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_c1fe4fc5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common ALFWorld Receptacles\nThis is a non-exhaustive list of receptacle types commonly found in ALFWorld environments. Use this for reference when parsing scene observations.\n\n## Primary Storage & Surfaces\n*   `cabinet {#}`\n*   `countertop {#}`\n*   `diningtable {#}`\n*   `drawer {#}`\n*   `shelf {#}` (if present)\n\n## Appliances\n*   `coffeemachine {#}`\n*   `fridge {#}`\n*   `microwave {#}`\n*   `safe {#}`\n*   `sinkbasin {#}`\n*   `stoveburner {#}`\n*   `toaster {#}`\n\n## Other\n*   `garbagecan {#}`",
+  "tags": [
+    "security"
+  ]
+}

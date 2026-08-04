@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_d0c6f922",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Primer: The 'focus on' Action\n\n## Environmental Role\nThe `focus on OBJ` action is a special meta-action within this simulation environment. It does not manipulate the object physically but signals to the task system that the agent has successfully interacted with or produced the object relevant to the assigned goal.\n\n## Semantics\n*   **Completion Signal:** Its primary use is to mark a task as **complete**.\n*   **Intent Declaration:** It can also be used to declare an intent to work on a specif",
+  "tags": [
+    "docker"
+  ]
+}

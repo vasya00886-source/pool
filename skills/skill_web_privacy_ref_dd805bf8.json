@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_dd805bf8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for scienceWorld\n\n## Relevant Actions for This Skill\n\n### Primary Action\n*   **`move OBJ to OBJ`**: Transfers an object from your inventory or current location to a container or surface.\n    *   Format: `move <object_name> to <container_name>`\n    *   Example: `move dove egg to orange box`\n    *   **Critical:** The object must be accessible (in inventory or in the room).\n\n### Prerequisite & Support Actions\n*   **`teleport to LOC`**: Instantly moves the agent to a named room.",
+  "tags": [
+    "docker",
+    "cli",
+    "file"
+  ]
+}

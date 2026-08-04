@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_933f2122",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Thermal Procedure Reference\n\n## Overview\nThis document provides supplementary context for heating-related experiments, detailing common substances, their properties, and best practices.\n\n## Common Substance Melting/Boiling Points\n*   **Chocolate:** Melting point typically ranges between 30°C and 32°C (86-90°F) for cocoa butter. Compound chocolate may have different properties.\n*   **Water:** Boiling point is 100°C at standard atmospheric pressure.\n*   **Sodium Chloride (Salt):** Melting point",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "docker",
+    "cli"
+  ]
+}

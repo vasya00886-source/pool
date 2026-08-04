@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_c8c883fc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Example Execution Trajectory\n\n**User Instruction:** \"i need some teeth whitening that also freshens breath, and price lower than 40.00 dollars\"\n\n**Process:**\n1.  **Search:** `search[teeth whitening that also freshens breath]`\n2.  **Product Selection:** From the results, `click[B09NYFDNVX]` on a product titled \"JUIK Teeth Cleansing Whitening Powder... Keep Freshen Breath\".\n3.  **Option Selection:** On the product page, choose the desired option (e.g., `click[1pcs]` for size).\n4.  **Verification",
+  "tags": [
+    "cli"
+  ]
+}

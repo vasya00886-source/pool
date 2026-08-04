@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_47107bb8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "This skill constructs a simple electrical circuit by connecting components like batteries, wires, and light bulbs. Use when the agent needs to test electrical conductivity or create a functional circuit for an experiment. The input is a set of available components, and the output is a fully connected circuit ready for activation.",
+  "tags": [
+    "testing",
+    "cli",
+    "file"
+  ]
+}

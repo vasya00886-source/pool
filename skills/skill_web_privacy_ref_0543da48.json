@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_0543da48",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Common Chemical Recipes\n\nThis document lists observed chemical mixtures from the execution trajectory. Use this for reference when planning synthesis tasks.\n\n## Recipe: Salt Water\n- **Target Substance:** `salt water`\n- **Required Ingredients:** `sodium chloride`, `water`\n- **Process:**\n    1.  Obtain a container (e.g., `glass cup`).\n    2.  Place `sodium chloride` into the container.\n    3.  Add `water` to the same container (e.g., by moving the container to an activated `sink`).\n    4.  Execu",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

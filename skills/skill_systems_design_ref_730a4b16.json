@@ -1,0 +1,12 @@
+{
+  "id": "systems_design_ref_730a4b16",
+  "category": "systems_design",
+  "level": 4,
+  "language": "go",
+  "insight": "# Troubleshooting Guide\n\n## Common Failure Patterns\n\n### 1. \"Nothing happened\" after `go to {receptacle}`\n- **Cause**: The receptacle identifier may be incorrect or the agent is not close enough.\n- **Solution**: \n  - Verify the receptacle name from the latest observation.\n  - Ensure you are using the exact identifier (e.g., `sidetable 1` not `side table 1`).\n  - If multiple receptacles exist, try the closest one first.\n\n### 2. \"Nothing happened\" after `take {object} from {receptacle}`\n- **Cause*",
+  "tags": [
+    "testing",
+    "docker",
+    "file"
+  ]
+}

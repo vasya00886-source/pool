@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_2_0fbb5335",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "This skill makes a determination about a material's property (e.g., conductivity) based on environmental cues or domain knowledge when direct testing fails. Trigger it when experimental actions are invalid or unavailable, requiring a logical inference. It uses observed object properties and common-sense reasoning to classify the material and decide its final disposition.",
+  "tags": [
+    "testing",
+    "docker",
+    "cli"
+  ]
+}

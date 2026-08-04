@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_3_3666d686",
+  "category": "systems_design",
+  "level": 3,
+  "language": "general",
+  "insight": "Teleports the agent to a specified room within the ScienceWorld environment. Use this skill when the target object or location for a task is known to be in a different room, enabling efficient navigation. It takes a target room name as input and outputs a successful teleportation observation.",
+  "tags": [
+    "automation"
+  ]
+}

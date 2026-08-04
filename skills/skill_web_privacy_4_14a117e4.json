@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_14a117e4",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Locates and retrieves a target substance or material from a container in the environment. Use this skill when the task requires processing a specific substance (e.g., chocolate, sodium chloride, a chemical) and you need to find and acquire it. Searches rooms and containers (fridge, cupboard, counter) and retrieves the substance via pick up or move actions.",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

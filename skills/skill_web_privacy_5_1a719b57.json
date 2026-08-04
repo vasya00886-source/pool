@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_5_1a719b57",
+  "category": "web_privacy",
+  "level": 5,
+  "language": "general",
+  "insight": "This skill selects product options or variants (such as size, color, or quantity) on a product detail page based on user preferences or cost optimization. It should be triggered when a product page displays configurable options. The skill evaluates available choices (e.g., 1pcs vs 2pcs) and selects the one that best aligns with the user's constraints, such as minimizing cost.",
+  "tags": [
+    "performance",
+    "data",
+    "web",
+    "cli"
+  ]
+}

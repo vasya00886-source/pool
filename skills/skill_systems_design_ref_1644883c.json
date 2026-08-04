@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_ref_1644883c",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# ALFWorld Task Grammar Reference\n\nThis document outlines common patterns in ALFWorld task descriptions to aid in parsing.\n\n## Core Task Structure\nMost tasks follow this pattern:\n`[Action Phrase] [Object Phrase] and [Placement Phrase] [Receptacle Phrase]`\n\n### 1. Action Phrase\n- `find` (e.g., \"find two pen\")\n- `put` (e.g., \"put the mug\")\n- `take` (e.g., \"take a book\")\n- `clean` (e.g., \"clean the plate\")\n- `heat`/`cool` (e.g., \"heat the potato\")\n\n### 2. Object Phrase\n- **Quantity + Object:** `two",
+  "tags": [
+    "automation"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_c38824e9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Reference for ScienceWorld Conditional Placement\n\nThis guide details the common actions used in this skill within the ScienceWorld environment.\n\n## Navigation & Exploration\n*   `teleport to LOC`: Instantly move to a named room (e.g., `teleport to kitchen`, `teleport to bedroom`). Use this for efficient travel.\n*   `look around`: Get a description of the current room and all visible objects. Use this to find items.\n\n## Object Interaction\n*   `pick up OBJ`: Move a visible object into your",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_3_a473bf6e",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "1.  **Parse User Requirements:** Extract key constraints from the user's instruction. Primary constraints are typically **Price** and **Key Attributes** (e.g., \"long\", \"clip-in\", \"natural looking\"). Store these in a structured format.\n2.  **Scrape Product Page Data:** Systematically extract the following information from the current page observation:\n    *   **Product Title**\n    *   **Price**\n    *   **Key Description Snippets** (from Description/Features sections)\n    *   **Rating** (if availa",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

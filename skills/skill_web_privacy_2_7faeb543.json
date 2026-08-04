@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_2_7faeb543",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "Moves an object from inventory to a specified container in a target room. Use when the task requires placing an item into a particular receptacle (e.g., 'move it to the orange box').",
+  "tags": [
+    "docker"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_cd0d4842",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Object-Receptacle Common-Sense Mappings\n\n## Kitchen & Dining Objects\n| Object | Most Likely Receptacles | Reasoning |\n|--------|------------------------|-----------|\n| dishsponge | cart, sinkbasin, countertop | Cleaning items often stored near sinks or on cleaning carts |\n| soapbottle | sinkbasin, countertop, shelf | Hygiene products near water sources |\n| plate | countertop, shelf, cart | Food service items on surfaces |\n| cup | countertop, shelf, cart | Drinkware on accessible surfaces |\n| b",
+  "tags": [
+    "security",
+    "docker"
+  ]
+}

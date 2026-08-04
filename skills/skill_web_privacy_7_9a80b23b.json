@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_7_9a80b23b",
+  "category": "web_privacy",
+  "level": 7,
+  "language": "python",
+  "insight": "Search a global skill library, download with one command, create from repos/docs/logs, evaluate quality, and analyze relationships.\nThis skill is portable across agents that understand SKILL.md directories, including Codex, Claude Code, OpenClaw, and similar tools. Use a single placeholder, <skills-dir>, for the local skill library:\n- If the user or host agent provides a skills directory, use that.\n- Else if SKILLNET_SKILLS_DIR is set, use it.\n- Else use the active agent's conventional direc...",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "docker"
+  ]
+}

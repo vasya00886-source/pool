@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_2b6b64a5",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Environment - Known Rooms\nThis is a non-exhaustive list of rooms observed in the trajectory. The environment may contain others.\n\n*   **Kitchen:** Common location for household items like pots, pans, and ingredients.\n*   **Foundry:** Contains industrial equipment like a blast furnace, typically for high-temperature processes.\n*   **Workshop:** Contains tools, electrical components (wires, batteries, light bulbs), and workbenches for building and testing.\n*   **Bathroom:** Likely c",
+  "tags": [
+    "automation",
+    "testing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_4_13e2803f",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "This skill positions a container with a substance onto a heating device (stove, oven) and activates the device. It should be triggered when a task requires melting, boiling, or heating a substance. The skill moves the prepared container to the heating element and turns it on.",
+  "tags": [
+    "automation",
+    "security",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_6fe36bb8",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Troubleshooting: Failed Pickup Actions\n\nIf the `take` action results in \"Nothing happened,\" consider the following common issues:\n\n1.  **Agent Position:** The agent must be at the same location as the source receptacle. Verify your location using the last observation.\n2.  **Object Visibility:** The object must be visible on the receptacle. Check the last observation for a list of items on the `source_receptacle`.\n3.  **Object Name:** Ensure the `object` identifier matches exactly the name show",
+  "tags": [
+    "file"
+  ]
+}

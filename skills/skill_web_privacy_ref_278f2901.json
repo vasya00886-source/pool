@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_278f2901",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Threshold Evaluator - Usage Examples\n\n## Example 1: Temperature Measurement (from Trajectory)\n\n**Instruction:**\n> \"If the melting point of chocolate is above 50.0 degrees, focus on the green box. If the melting point of chocolate is below 50.0 degrees, focus on the blue box.\"\n\n**Observation:**\n> \"the thermometer measures a temperature of 56 degrees celsius\"\n\n**Skill Execution:**\n1. **Extract Measurement:** `56.0`\n2. **Parse Condition:** \n   - Threshold: `50.0`\n   - Operator: `>` (from \"above 5",
+  "tags": [
+    "data",
+    "docker",
+    "file"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_b7918c6a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Pause Scenario Reference\n\nThis document outlines common scenarios in ScienceWorld tasks where introducing a deliberate pause improves performance, based on trajectory analysis.\n\n## 1. After Creating an Intermediate Product\n*   **Trigger:** Observation confirms creation of a new substance or assembly (e.g., \"X and Y mix to produce Z\").\n*   **Purpose:** Evaluate the intermediate result's properties before proceeding.\n*   **Example Action:** `wait1`\n*   **Trajectory Example:** After `mix jug` pro",
+  "tags": [
+    "performance",
+    "automation"
+  ]
+}

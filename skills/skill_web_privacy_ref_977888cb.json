@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_977888cb",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Example Trajectory Breakdown\n\nThis document breaks down the provided execution trajectory to illustrate the skill's logic.\n\n## Task\n\"Measure the temperature of metal fork, which is located around the bedroom.\"\n\n## Implicit Sub-Task: Locate the Thermometer\nThe agent does not know where the thermometer is, triggering the object location skill.\n\n### Search Execution (For Thermometer)\n1.  **Initial State:** Agent is in `workshop`.\n2.  **Action:** `look around` (in workshop).\n    *   **Observation:",
+  "tags": []
+}

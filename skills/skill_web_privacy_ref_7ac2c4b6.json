@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_7ac2c4b6",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Query Component Reference\n\nThis document lists common patterns and components found in WebShop user instructions to aid in parsing and criteria formulation.\n\n## 1. Product Type Indicators\nLook for these phrases followed by the product name:\n*   \"I need...\"\n*   \"I want...\"\n*   \"I'm looking for...\"\n*   \"Find me...\"\n*   \"Show me...\"\n*   \"Buy...\"\n\n## 2. Common Attributes & Keywords\n| Category | Examples |\n| :--- | :--- |\n| **Dietary** | gluten free, vegan, vegetarian, organic, non-gmo, kosher, hal",
+  "tags": [
+    "docker",
+    "web",
+    "cli"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_cbd8d35d",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "Use when the agent has acquired a tool or instrument and needs to verify it is operational before first use in a critical task step. This skill performs a lightweight pre-use check via \"focus on [TOOL] in inventory\" and confirms readiness based on the system's response, ensuring the tool is functional before measurement, activation, or connection operations.",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

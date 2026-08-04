@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_4_2150ca95",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Use when the agent needs to apply a tool to a target object in ALFWorld to accomplish an interaction such as cleaning, heating, cooling, or examining. This skill handles locating both the tool and target object, then executing the correct environment action (e.g., clean, heat, cool, use) to progress the task.",
+  "tags": [
+    "data",
+    "cli",
+    "file"
+  ]
+}

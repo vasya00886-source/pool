@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_8b0e3d2b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Decision Workflow for Measurement-Based Tasks\n\nThis document outlines the thought process for planning and executing a measurement task, based on the successful trajectory.\n\n## 1. Task Decomposition\n*   **Input:** \"Measure property of TARGET and perform ACTION_A if value > X, else ACTION_B.\"\n*   **Decomposed Steps:**\n    1.  Identify the required measurement `TOOL`.\n    2.  Identify the `TARGET` object/substance.\n    3.  Identify the location for `ACTION_A` and `ACTION_B` (e.g., `CONTAINER_A`,",
+  "tags": [
+    "data",
+    "docker"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "game_theory_3_5c47ba89",
+  "category": "game_theory",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill extracts key constraints and product requirements from a user's shopping query. It should be triggered when the agent receives a new shopping instruction, to identify product attributes (e.g., 'gluten free'), price limits (e.g., 'lower than 140.00 dollars'), and other specifications. The skill outputs a structured set of search criteria to guide subsequent product discovery.",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

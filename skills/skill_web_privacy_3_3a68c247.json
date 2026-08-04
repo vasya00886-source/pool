@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_3a68c247",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Navigates through paginated search results by moving to the next or previous page. Use this skill when the current page of product listings does not contain a suitable match and you need to review more options. It identifies and clicks the appropriate pagination controls (e.g., 'next >' or '< prev') to load additional result pages for evaluation.",
+  "tags": [
+    "web",
+    "cli"
+  ]
+}

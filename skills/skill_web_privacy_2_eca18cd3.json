@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_2_eca18cd3",
+  "category": "web_privacy",
+  "level": 2,
+  "language": "general",
+  "insight": "This skill determines the most likely location for a target object based on domain knowledge and environmental clues. Use when the agent needs to find a specific item (like an animal) but it is not in the current room. It analyzes the environment description and suggests a room to teleport to for further investigation.",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

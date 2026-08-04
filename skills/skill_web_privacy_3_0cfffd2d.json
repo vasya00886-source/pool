@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_0cfffd2d",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Moves the agent to a specified receptacle or object location within the Alfworld environment. Use this skill when the agent needs to physically approach a target to inspect or interact with it, such as when checking an object's state or preparing for pickup. The skill takes a target location name as input and executes the 'go to' action, resulting in the agent being positioned at the destination for subsequent operations.",
+  "tags": [
+    "file"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_3_f5c1a38b",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "javascript",
+  "insight": "Determines if an object is electrically conductive by integrating it into a circuit and observing a light bulb. Triggered when classifying an object based on conductivity.",
+  "tags": [
+    "testing",
+    "cli"
+  ]
+}

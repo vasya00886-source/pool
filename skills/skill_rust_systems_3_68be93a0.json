@@ -1,0 +1,8 @@
+{
+  "id": "rust_systems_3_68be93a0",
+  "category": "rust_systems",
+  "level": 3,
+  "language": "rust",
+  "insight": "Navigates to a suspected location and identifies a target object. Use when your goal requires finding a specific object (e.g., \"potato\", \"plate\") and its location is not immediately known. Moves to a relevant receptacle (like a fridge or cabinet), checks its contents, and outputs the object's location or confirms its absence.",
+  "tags": []
+}

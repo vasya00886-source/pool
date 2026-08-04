@@ -1,0 +1,11 @@
+{
+  "id": "python_ai_ref_20fa22ca",
+  "category": "python_ai",
+  "level": 4,
+  "language": "python",
+  "insight": "# Common Container Reference\n\n## For Heating/Mixing (Primary)\n*   `metal pot`\n*   `beaker` (glass)\n*   `bowl`\n*   `cauldron` (foundry)\n*   `crucible` (foundry)\n\n## For General Holding (Secondary)\n*   `ceramic cup`\n*   `glass cup`\n*   `tin cup`\n*   `wood cup`\n*   `glass jar`\n*   `flask`\n\n## Typically Not Suitable\n*   `drawer` (fixed furniture)\n*   `fridge`/`freezer` (appliance, not portable)\n*   `sink` (plumbing fixture)\n*   `oven` (appliance)\n\n## Verification Commands\n*   `look at [CONTAINER]` -",
+  "tags": [
+    "docker",
+    "cli"
+  ]
+}

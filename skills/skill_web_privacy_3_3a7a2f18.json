@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_3_3a7a2f18",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "1.  **Parse the Instruction:** Analyze the user's query to identify the following key components:\n    *   **Primary Product Type:** The main item being requested (e.g., \"hair extension\").\n    *   **Key Attributes/Features:** Descriptive requirements (e.g., \"long\", \"clip-in\", \"natural looking\").\n    *   **Constraints:** Hard limits, especially price (e.g., \"price lower than 40.00 dollars\").\n2.  **Structure the Output:** Format the extracted information into a clear, structured set of search param",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

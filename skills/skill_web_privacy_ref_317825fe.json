@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_317825fe",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Environment\n\nThis reference details common actions used in conjunction with the `scienceworld-room-explorer` skill for task execution.\n\n## Foundational Action\n*   `look around`: Describes the current room, listing all visible objects, their states, and contents. **This is the core action of the scienceworld-room-explorer skill.**\n\n## Common Follow-up Actions\nAfter using `scienceworld-room-explorer`, you will typically use other actions to manipulate the discovere",
+  "tags": [
+    "automation",
+    "docker",
+    "cli"
+  ]
+}

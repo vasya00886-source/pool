@@ -1,0 +1,13 @@
+{
+  "id": "web_privacy_ref_ea6aa181",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Query Optimization Guide for E-commerce Search\n\n## Principles\nEffective search queries on platforms like WebShop balance specificity with breadth.\n\n1.  **Order Matters:** Place the most critical, distinguishing term first. Typically, this is the product category.\n2.  **Conciseness:** Avoid stop words (the, a, an, for). Use commas to separate key concepts, which many search engines interpret as \"AND\" operators.\n3.  **Natural Language Filters:** For price, use phrases like \"less than $X\" which a",
+  "tags": [
+    "performance",
+    "data",
+    "web",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_ref_27ea9300",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "python",
+  "insight": "# SkillNet Workflow Patterns\n\nRecipes for common scenarios. Each pattern shows the trigger signal, the recommended actions, and the expected outcome. Remember: search is free and fast — never hesitate to search.\n\n---\n\n## Pattern 1: \"I need a skill for an unfamiliar domain\"\n\n**Trigger**: You received a task involving a technology, framework, or domain you lack expertise in.\n\n**Steps**:\n\n1. Identify 2–3 keywords describing the domain (e.g., \"kubernetes helm chart\")\n2. `skillnet search \"kubernetes",
+  "tags": [
+    "api",
+    "automation",
+    "security",
+    "data",
+    "cli"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_17f48f76",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Action Reference for Tool-Based Tasks\n\n## Core Action Templates\nThe following action formats are available for tool-based interactions in the ALFWorld environment:\n\n1.  `use {tool}` - Apply a tool to a held object or the immediate environment.\n2.  `clean {obj} with {tool}`\n3.  `heat {obj} with {tool}`\n4.  `cool {obj} with {tool}`\n5.  `toggle {obj} {recep}` (for tools integrated into receptacles)\n\n## Skill-Specific Mapping\n| Task Goal                      | Target Object | Tool          | Appro",
+  "tags": []
+}

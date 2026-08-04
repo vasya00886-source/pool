@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_46a014be",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Context for ScienceWorld Environment\n\n## Relevant Actions for This Skill\n*   `pick up OBJ`: Moves an object from the environment to the agent's inventory. A prerequisite for using the `focus` skill on that object.\n*   `focus on OBJ`: The core action of this skill. When the object is in inventory, use the format `focus on OBJ in inventory`.\n\n## Environment Assumptions (From Trajectory)\nThe provided trajectory operates under specific world assumptions that simplify task execution:\n*   **T",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

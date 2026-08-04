@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_61c6c2cc",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Receptacle Suitability Guide\n\n## Derived from Execution Trajectory\nThis guide summarizes the decision logic for selecting a storage receptacle, based on the observed agent behavior.\n\n## Core Principles\n1.  **Primary Storage:** Drawers are the primary candidate for storing utensils like knives, forks, and spoons.\n2.  **Suitability Check Protocol:**\n    a. **Go to** the candidate receptacle.\n    b. If closed, **open** it.\n    c. **Observe contents.**\n    d. **Evaluate:**\n        - **Empty:** Sui",
+  "tags": []
+}

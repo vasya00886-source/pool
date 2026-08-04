@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_3_556c0594",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Selects specific product attributes (e.g., flavor, size) on a product detail page to match user requirements. Triggered when a product page presents configurable options and the parsed query specifies needed values. It identifies the correct option from available clickables (e.g., 'smoked bacon' for flavor, '4 ounce (pack of 2)' for size) and executes the selection click.",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli",
+    "file"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "systems_design_4_24a6c8b3",
+  "category": "systems_design",
+  "level": 4,
+  "language": "go",
+  "insight": "Uses an appliance to change the state of an object (cooling, heating, or cleaning). Use when the task requires altering an object's temperature or cleanliness using a specific device (e.g., cooling with a fridge, heating with a microwave, cleaning with a sinkbasin). Takes the object, target state, and appliance as inputs and executes the corresponding modifier action.",
+  "tags": [
+    "file"
+  ]
+}

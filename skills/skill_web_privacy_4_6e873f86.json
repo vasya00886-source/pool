@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_6e873f86",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "This skill fills a container with liquid from a source by first placing the container at the source, then activating the source (e.g., turning on a sink), and finally deactivating it. It should be triggered when the agent has an empty or partially filled container and needs to add a liquid component. The skill results in the container containing the liquid, ready for mixing or further use.",
+  "tags": [
+    "docker",
+    "file"
+  ]
+}

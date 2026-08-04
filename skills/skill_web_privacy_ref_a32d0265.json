@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_a32d0265",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Skill Derivation: Trajectory Analysis\n\n## Source Trajectory Summary\n**Task:** Measure the melting point of chocolate.\n**Key Tool-Fetching Segment:**\n1.  Agent is in the `living room`. Uses `look around`.\n2.  Not finding the tool, uses `teleport to kitchen`.\n3.  In the `kitchen`, uses `look around`.\n4.  Observation lists \"a thermometer\" directly in the room.\n5.  Agent executes `pick up thermometer` successfully.\n\n## Extracted Skill Logic\nThe trajectory demonstrates the core pattern for this ski",
+  "tags": [
+    "automation",
+    "data"
+  ]
+}

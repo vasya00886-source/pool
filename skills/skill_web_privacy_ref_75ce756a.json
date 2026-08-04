@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_75ce756a",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld Object Location\n\n## Core Action for This Skill\n- `look around`: Describes the current room, listing all visible objects and their states. This is the primary action for environmental awareness.\n\n## Related Actions (For Subsequent Steps)\n- `pick up OBJ`: Moves a found object from the room to the agent's inventory.\n- `examine OBJ`: Provides a detailed description of a specific object (useful for verification).\n- `teleport to LOC`: Moves the agent to a different roo",
+  "tags": [
+    "automation"
+  ]
+}

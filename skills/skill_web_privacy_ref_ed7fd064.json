@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_ed7fd064",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Storage Heuristics for Household Environments\n\n## Common Storage Patterns\n\n### Kitchen Areas\n- **Cutlery**: Drawers near preparation areas (countertops, sink)\n- **Utensils**: Drawers containing spoons, forks likely also store knives\n- **Food Items**: Cabinets, refrigerator, countertops\n- **Cookware**: Cabinets near stove, drawers for small tools\n\n### Living/Bedroom Areas\n- **Personal Items**: Drawers in furniture, cabinets\n- **Electronics**: Specific shelves or cabinets\n- **Clothing**: Designa",
+  "tags": [
+    "security"
+  ]
+}

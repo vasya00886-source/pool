@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_9f7b0467",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill performs an initial observation of the current location to identify available objects, containers, and connections to other rooms. Use this when starting a new task in ScienceWorld to gather situational awareness, especially when the agent needs to understand its surroundings before taking action. It outputs a detailed room description, listing visible items and accessible doors.",
+  "tags": [
+    "api",
+    "automation",
+    "docker"
+  ]
+}

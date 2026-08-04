@@ -1,0 +1,13 @@
+{
+  "id": "systems_design_ref_7e28ae6c",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# WebShop Action Grammar Reference\n\n## Overview\nThis document defines the strict grammar for interacting with the WebShop environment. Adherence is required for successful execution.\n\n## Action Types\n\n### 1. Search Action\n*   **Format:** `search[<keywords>]`\n*   **Purpose:** To query the product database.\n*   **Construction Rules:**\n    *   `<keywords>` is a single string.\n    *   Combine the core product name with the most salient modifiers from the user instruction.\n    *   **Example:** Instru",
+  "tags": [
+    "automation",
+    "data",
+    "web",
+    "cli"
+  ]
+}

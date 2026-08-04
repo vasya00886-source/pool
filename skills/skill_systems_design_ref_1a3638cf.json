@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_1a3638cf",
+  "category": "systems_design",
+  "level": 4,
+  "language": "go",
+  "insight": "# ALFWorld Action Primer\n\n## Core Action Set\nThe agent can perform the following atomic actions. The `{obj}` and `{recep}` placeholders must be replaced with specific object and receptacle names observed in the environment.\n\n1.  `go to {recep}` - Move to a specified receptacle (e.g., `go to desk 1`).\n2.  `take {obj} from {recep}` - Pick up an object from a receptacle.\n3.  `put {obj} in/on {recep}` - Place an object into or onto a receptacle.\n4.  `open {recep}` - Open a closed receptacle (e.g., a",
+  "tags": [
+    "docker",
+    "cli"
+  ]
+}

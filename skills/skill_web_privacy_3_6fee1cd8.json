@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_6fee1cd8",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "This skill uses a thermometer on a substance to measure its temperature. It should be triggered when the agent needs to determine the temperature of a material (e.g., lead) to assess if it has reached a specific melting point or threshold. The skill requires a thermometer in inventory and a target substance, outputting the measured temperature in degrees Celsius, which is key for scientific measurement tasks.",
+  "tags": [
+    "automation",
+    "docker",
+    "cli"
+  ]
+}

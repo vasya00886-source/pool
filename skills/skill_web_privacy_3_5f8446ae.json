@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_3_5f8446ae",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "Executes a 'focus on OBJ' action on a specific object based on the outcome of a prior conditional evaluation. Use when you have a measurement result and task instructions specify focusing on different objects (e.g., colored boxes) depending on whether the result meets a threshold.",
+  "tags": []
+}

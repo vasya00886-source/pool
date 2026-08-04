@@ -1,0 +1,11 @@
+{
+  "id": "systems_design_ref_e57f892b",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primer for ScienceWorld\n\n## Core Validation & Inspection Actions\n*   `focus on OBJ`: The primary action for signaling intent and performing a basic operational check on a tool. Use this for validation.\n*   `examine OBJ`: Provides a detailed description of an object's properties. Use for in-depth inspection *after* validation if needed.\n*   `look at OBJ`: Describes a container's contents. Not typically used for tool validation.\n\n## Common Tool Contexts\nTools often appear in standard loca",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

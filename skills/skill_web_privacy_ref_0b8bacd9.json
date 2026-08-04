@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_0b8bacd9",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Test Circuit Schematic\n\n## Component List (Found on Workshop Table)\n1.  **Battery:** Power source. Has an *anode* (+) and *cathode* (-).\n2.  **Wires:**\n    - **Orange Wire:** Connects battery anode to light bulb cathode.\n    - **Yellow Wire:** Connects battery cathode to the target object.\n    - **Green Wire:** Connects the target object to the light bulb anode.\n3.  **Light Bulbs:** Use the **blue light bulb** as the indicator.\n4.  **Target Object:** Must have two connection points (terminal 1",
+  "tags": [
+    "testing",
+    "cli"
+  ]
+}

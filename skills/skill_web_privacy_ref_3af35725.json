@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_ref_3af35725",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Primitives for Recipe Acquisition\n\n## Core Actions Used\n1. **look around** - Surveys the current room and lists all visible objects\n2. **pick up <object>** - Moves an object from the environment to inventory\n\n## Related Supporting Actions\n- **examine <object>** - Get detailed description of an object (use if uncertain about recipe identity)\n- **read <object>** - Read contents of a document (use after acquisition)\n- **teleport to <location>** - Move to different rooms to search for recip",
+  "tags": [
+    "automation",
+    "docker",
+    "file"
+  ]
+}

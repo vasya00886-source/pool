@@ -1,0 +1,12 @@
+{
+  "id": "web_privacy_3_0b5aca1f",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "general",
+  "insight": "**Thought:** [List the user's requirements, evaluate each candidate product against them, explain why the selected product is the best match.]\n**Action:** click[<product_id>]\n**Instruction:** \"i need a portable double horn bluetooth speaker that is easy to carry, and price lower than 50.00 dollars\"\n**Observation (Search Results):**\n- B093C1THVP: \"Portable Double Horn Bluetooth Speaker — Compact & Easy to Carry\" — $32.99\n- B08XYZ1234: \"Double Horn Wireless Speaker — Premium Sound\" — $55.00\n- B07A",
+  "tags": [
+    "automation",
+    "web",
+    "cli"
+  ]
+}

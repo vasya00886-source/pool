@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_2d9cd35b",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "# Alfworld Action Primer\n\n## Core Navigation Action\nThe primary action used by this skill is:\n- **`go to {recep}`**: Moves the agent to the specified receptacle or object location.\n\n## Action Format Rules\n1.  The action must be output exactly as: `go to <target_name>`\n2.  `<target_name>` must match the environment's object naming exactly (e.g., \"toiletpaperhanger 1\", not \"toilet paper hanger\").\n3.  The agent must be able to see the target in its current observation for the action to succeed.\n\n##",
+  "tags": [
+    "file"
+  ]
+}

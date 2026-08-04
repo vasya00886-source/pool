@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_d92d5652",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Target Location Heuristics for ScienceWorld\n\nThis reference contains common-sense mappings between object types and their most likely locations in the ScienceWorld environment. Use this to inform the `teleport` decision.\n\n## Room List\nkitchen, foundry, workshop, bathroom, outside, living room, bedroom, greenhouse, art studio, hallway\n\n## Object Type -> Probable Room(s)\n\n*   **animal / egg / living creature:** `outside`, `greenhouse`, `bedroom` (if pet)\n*   **tool / device / mechanical part:**",
+  "tags": [
+    "docker"
+  ]
+}

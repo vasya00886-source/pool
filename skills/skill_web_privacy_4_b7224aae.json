@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_4_b7224aae",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Manages the temperature state of an object by placing it into an appropriate appliance (fridge for cooling, microwave for heating). Use when the task requires modifying an object's temperature property, such as \"cool some bread\" or \"heat some food\". Takes the object identifier, temperature-modifying receptacle, and final target receptacle as inputs, and outputs the object at the target location with its temperature state changed.",
+  "tags": [
+    "automation",
+    "file"
+  ]
+}

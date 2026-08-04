@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_dfa02e79",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Action Glossary for Liquid Retrieval\n\nA concise guide to the ScienceWorld actions relevant to this skill.\n\n## Survey & Navigation\n*   `teleport to LOC`: Instantly move to another room. Use this to jump between search locations.\n*   `look around`: Get a description of the current room and all visible objects. **Use this first in every new room.**\n\n## Inspection\n*   `examine OBJ`: Get a detailed description of a specific object, including its current contents. Useful for checking what's inside a",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

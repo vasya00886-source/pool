@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_4_d805a039",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Cleans a specified object using an appropriate cleaning receptacle (e.g., sinkbasin). Use when a task requires an object to be in a clean state (e.g., \"clean potato\", \"wash apple\") before proceeding. Navigates to the cleaning location, performs the clean action, and confirms the object is now clean.",
+  "tags": [
+    "file"
+  ]
+}

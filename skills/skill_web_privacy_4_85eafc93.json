@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_4_85eafc93",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Heats a specified object using an available heating appliance (e.g., microwave, stoveburner). Use when you are holding an object that requires heating and need to navigate to and operate the heating appliance. Takes the object and appliance as inputs and results in the object being in a heated state.",
+  "tags": []
+}

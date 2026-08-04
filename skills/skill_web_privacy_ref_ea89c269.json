@@ -1,0 +1,8 @@
+{
+  "id": "web_privacy_ref_ea89c269",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Trajectory Examples for Ambiguous Action Resolution\n\nThis document contains real examples from the skill's development trajectory. Use it for reference to recognize the precise pattern of system ambiguity prompts.\n\n## Pattern Recognition\nThe ambiguity prompt always follows this structure:",
+  "tags": []
+}

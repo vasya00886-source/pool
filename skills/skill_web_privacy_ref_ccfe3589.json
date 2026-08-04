@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_ref_ccfe3589",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# Execution Trajectory Example\n\nThis document contains the exact interaction trajectory that demonstrates the `webshop-variant-chooser` skill.\n\n**Instruction:** i need some kosher sea salt, and price lower than 40.00 dollars\n\n**Observation 1 (Search Results Page):**",
+  "tags": [
+    "web"
+  ]
+}

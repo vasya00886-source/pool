@@ -1,0 +1,13 @@
+{
+  "id": "systems_design_4_b943c603",
+  "category": "systems_design",
+  "level": 4,
+  "language": "general",
+  "insight": "Analyzes room observations to identify objects matching a given target description (e.g., 'living thing'). Triggered after exploring a room when the agent needs to locate a specific type of item. Processes the observation list, filters objects based on target criteria, and returns candidate objects for further action.",
+  "tags": [
+    "automation",
+    "data",
+    "docker",
+    "file"
+  ]
+}

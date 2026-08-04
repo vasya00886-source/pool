@@ -1,0 +1,10 @@
+{
+  "id": "web_privacy_3_a684f730",
+  "category": "web_privacy",
+  "level": 3,
+  "language": "go",
+  "insight": "Cools a held object using an appropriate cooling appliance such as a fridge or freezer. Use when the task requires reducing the temperature of an object (e.g., \"cool some pot\", \"chill the mug\") and the agent is already holding the object. Performs the ALFWorld cool action and outputs the cooled object ready for subsequent placement or serving steps.",
+  "tags": [
+    "file"
+  ]
+}

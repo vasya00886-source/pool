@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_a0a18b78",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "general",
+  "insight": "# ScienceWorld Environment: Action Reference\n\n## Core Inventory & Object Manipulation Actions\nBased on the provided trajectory, the environment accepts the following action patterns for inventory management:\n\n1.  `pick up OBJ [containing STATE] in LOC`\n    - **Purpose:** Transfers an object from a location into the agent's inventory.\n    - **Examples:**\n        - `pick up metal pot containing nothing in kitchen`\n        - `pick up battery in workshop`\n\n2.  `move OBJ to OBJ`\n    - **Purpose:** Mo",
+  "tags": [
+    "automation",
+    "docker"
+  ]
+}

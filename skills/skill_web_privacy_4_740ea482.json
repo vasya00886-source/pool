@@ -1,0 +1,14 @@
+{
+  "id": "web_privacy_4_740ea482",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "go",
+  "insight": "Use when the agent must collect and track multiple instances of the same object type in ALFWorld (e.g., \"put two cellphone in bed\"). This skill maintains a count of collected versus needed objects, guides systematic searching through receptacles, and ensures each found object is placed at the target before searching for the next.",
+  "tags": [
+    "automation",
+    "security",
+    "data",
+    "docker",
+    "file"
+  ]
+}

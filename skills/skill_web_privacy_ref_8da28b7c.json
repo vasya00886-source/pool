@@ -1,0 +1,11 @@
+{
+  "id": "web_privacy_ref_8da28b7c",
+  "category": "web_privacy",
+  "level": 4,
+  "language": "javascript",
+  "insight": "# Guide: Testing Electrical Conductivity in ScienceWorld\n\nThis reference outlines a method for determining if an object is electrically conductive, as demonstrated in the skill trajectory. Use this logic **before** triggering the `scienceworld-object-classifier` skill.\n\n## Required Components\nA basic series circuit can be constructed to test conductivity. Common components found in the `workshop` include:\n*   **Power Source:** Battery (has `anode` and `cathode` terminals).\n*   **Conductors:** Wi",
+  "tags": [
+    "testing",
+    "cli"
+  ]
+}
