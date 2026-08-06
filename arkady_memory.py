@@ -1,7 +1,9 @@
+from pathlib import Path
 import sqlite3
 
 class ArkadyMemory:
     def __init__(self):
+        Path(".arkady").mkdir(parents=True, exist_ok=True)
         self.db = sqlite3.connect('.arkady/memory.db')
         self.init_db()
 
